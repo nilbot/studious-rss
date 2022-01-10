@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>urn:2022-01-10T22:06:29.997Z</id>
+    <title>osmos::feed</title>
+    <updated>2022-01-10T22:06:29.998Z</updated>
+    <generator>osmosfeed 1.12.0</generator>
+    <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Convert react-dropdown-select&#x27;s Default Value from Array to String]]></title>
+        <id>61d8d033d2d9de084285e93e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-send-the-right-data-type-from-a-form-to-the-backend-server/"/>
+        <updated>2022-01-10T21:30:48.000Z</updated>
+        <summary type="html"><![CDATA[Web forms play an important role on many sites on the internet, and they're something you should know how to build as a web developer.  From good ol' login forms to signup forms and survey forms (or whatever they're called these days), their main purpose is to receive data and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript split() a String – String to Array JS Method]]></title>
+        <id>61d54372d2d9de084285c327</id>
+        <link href="https://www.freecodecamp.org/news/javascript-split-a-string-string-to-array-js-method/"/>
+        <updated>2022-01-10T21:24:30.000Z</updated>
+        <summary type="html"><![CDATA[If you need to split up a string into an array of substrings, then you can use the JavaScript split() method.  In this article, I will go over the JavaScript split() method and provide code examples.  Basic Syntax of the split() methodHere is the syntax for the JavaScript split() method.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The React Beginner&#x27;s Guide for 2022]]></title>
+        <id>61dc51e5b837d507ba09edb6</id>
+        <link href="https://www.freecodecamp.org/news/react-beginners-guide/"/>
+        <updated>2022-01-10T21:15:23.000Z</updated>
+        <summary type="html"><![CDATA[So you're ready to dive into learning React, but you still have some lingering questions, such as: How should I create my React projects?What tools should I add to my React app?Do I need to learn JavaScript first before learning React?Where should I deploy my projects?If]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Push an Empty Commit in Git]]></title>
+        <id>61d18c23a700150888933e31</id>
+        <link href="https://www.freecodecamp.org/news/how-to-push-an-empty-commit-with-git/"/>
+        <updated>2022-01-10T21:04:19.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will discuss how to push a commit in Git without making any changes. Git makes this process of pushing an empty commit super simple. It's like pushing a regular commit, except that you add the --allow-empty flag. git commit --allow-empty -m "Empty-Commit"You will now need]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Serialization?]]></title>
+        <id>61c8e4b1755c16082490b4e4</id>
+        <link href="https://www.freecodecamp.org/news/what-is-serialization/"/>
+        <updated>2022-01-10T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[During a recent project update meeting, my team talked about how we were going to use serialization to send data back and forth from this application.  An engineer who was looking to get more into software projects told me that they were unfamiliar with the term.  It's easy to miss]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Text Box in HTML – The Input Field HTML Tag]]></title>
+        <id>61d98981d2d9de084285ed1d</id>
+        <link href="https://www.freecodecamp.org/news/text-box-in-html-the-input-field-html-tag/"/>
+        <updated>2022-01-10T20:02:45.000Z</updated>
+        <summary type="html"><![CDATA[In this article you'll learn how to create a text input field in HTML. You'll also learn about web forms and get an overview of how they work, since text boxes are a common feature of every form.  Let's get started!  What are Web Forms? Forms are an efficient way]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free React Course for 2022]]></title>
+        <id>61dc8201b837d507ba09f359</id>
+        <link href="https://www.freecodecamp.org/news/free-react-course-2022/"/>
+        <updated>2022-01-10T19:10:48.000Z</updated>
+        <summary type="html"><![CDATA[React is still one of the most popular JavaScript libraries for building user interfaces. If you are a front-end developer, it is super helpful to know React. We just published a brand-new, 12-hour React course on the freeCodeCamp.org YouTube channel. In this course, you will React by building eight]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your First JavaScript GitHub Action]]></title>
+        <id>61d99c82d2d9de084285ee28</id>
+        <link href="https://www.freecodecamp.org/news/build-your-first-javascript-github-action/"/>
+        <updated>2022-01-10T17:36:34.000Z</updated>
+        <summary type="html"><![CDATA[I love working with GitHub Actions. They're easy to use yet so powerful. I'm especially excited when I see how creative people are when using them to automate different tasks.  I want you to have that same power. That's why I'm going to show you how to create your first]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a Custom Mouse Cursor with CSS and JavaScript]]></title>
+        <id>61d81b30d2d9de084285e181</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-a-custom-mouse-cursor-with-css-and-javascript/"/>
+        <updated>2022-01-10T16:13:35.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever visited a website and been totally blown away by its amazing features? One of them might be a cool mouse cursor that is different from the regular arrow or pointer cursors you are used to.   This can really improve user experience, and lately I've been wondering how]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don’t Fight the Cascade, Control It!]]></title>
+        <id>https://css-tricks.com/?p=359886</id>
+        <link href="https://css-tricks.com/dont-fight-the-cascade-control-it/"/>
+        <updated>2022-01-10T15:22:08.000Z</updated>
+        <summary type="html"><![CDATA[If you’re disciplined and make use of the inheritance that the CSS cascade provides, you’ll end up writing less CSS. But because our styles often comes from all kinds of sources — and can be a pain to structure and …
+Don’t Fight the Cascade, Control It! originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Mads Stoumann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Maintain an Open Source Project – Best Practices and Tips]]></title>
+        <id>61d5406cd2d9de084285c2ef</id>
+        <link href="https://www.freecodecamp.org/news/how-to-maintain-an-open-source-project/"/>
+        <updated>2022-01-10T14:52:54.000Z</updated>
+        <summary type="html"><![CDATA[So, now that you've published your first open-source project, what next? If you're new to open source, you might think this is it. But the fun has just begun. In fact, most of the work lies in maintaining your project and making it accessible to more users. This is one]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Deep CSS Dive Into Radial And Conic Gradients]]></title>
+        <id>https://smashingmagazine.com/2022/01/css-radial-conic-gradient/</id>
+        <link href="https://smashingmagazine.com/2022/01/css-radial-conic-gradient/"/>
+        <updated>2022-01-10T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll be taking a closer look at two gradients: `conic-gradient` and `radial-gradient`. You’ll see how each one of them works in detail, what the differences and similarities are between them, how and where to use them, and some use cases for each.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.12.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0"/>
+        <updated>2022-01-10T05:25:18.000Z</updated>
+        <summary type="html"><![CDATA[New: When one of the sources download fails, fall back to cache and continue rest of the build.
+Chore: Dependency updates
+Added docs for Netlify deployment
+Fixed #71 #69 #65
+Thank you: @sokomin, @molakirlee, @philippnagel, @tianheg]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 Interesting Typography Links for January 2022]]></title>
+        <id>https://css-tricks.com/?p=360711</id>
+        <link href="https://css-tricks.com/typography-links-january-2022/"/>
+        <updated>2022-01-07T22:31:52.000Z</updated>
+        <summary type="html"><![CDATA[Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Typography is one of those things! Here’s a list of typography links to other articles that I’ve been saving up and …
+8 Interesting Typography Links for January 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adam Argyle’s Sick Mouse-Out CSS Hover Effect]]></title>
+        <id>https://css-tricks.com/?p=360113</id>
+        <link href="https://css-tricks.com/adam-argyles-sick-mouse-out-css-hover-effect/"/>
+        <updated>2022-01-07T20:15:19.000Z</updated>
+        <summary type="html"><![CDATA[I was killing some time browsing my CodePen feed for some eye candy and didn’t need to go past the first page before spotting a neat CSS hover effect by Adam Argyle.
+I must’ve spent 10 minutes just staring …
+Adam Argyle’s Sick Mouse-Out CSS Hover Effect originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Changing A Tire On A Moving Car (Or How To Improve Product Roadmaps)]]></title>
+        <id>https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/</id>
+        <link href="https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/"/>
+        <updated>2022-01-07T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Product roadmaps are often treated as a series of checkboxes. But they are more than that. In this article, Scott Himmer explains how internal partnerships, research, design systems, and regular touch bases can help make sure that your product roadmap is a successful one.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Scott Himmer)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[useRainbow()]]></title>
+        <id>https://css-tricks.com/?p=359823</id>
+        <link href="https://css-tricks.com/userainbow/"/>
+        <updated>2022-01-07T14:59:04.000Z</updated>
+        <summary type="html"><![CDATA[I took a break from work and started some small, personal projects (toys). One of those small projects is potato.horse where I keep all of my doodles, visual short stories and jokes. Check it out!
+However, this post is not …
+useRainbow() originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Rafał Pastuszak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Container Query Polyfill That Just Works]]></title>
+        <id>https://css-tricks.com/?p=360320</id>
+        <link href="https://css-tricks.com/a-new-container-query-polyfill-that-just-works/"/>
+        <updated>2022-01-06T22:28:46.000Z</updated>
+        <summary type="html"><![CDATA[There is an easy-to-use CSS container query polyfill now. You essentially conditionally load it and forget about it. Then write spec-compliant container queries code.
+A New Container Query Polyfill That Just Works originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Search For a Fixed Background Effect With Inline Images]]></title>
+        <id>https://css-tricks.com/?p=358917</id>
+        <link href="https://css-tricks.com/fixed-background-effect/"/>
+        <updated>2022-01-06T15:58:55.000Z</updated>
+        <summary type="html"><![CDATA[I was working on a client project a few days ago and wanted to create a certain effect on an <img>. See, background images can do the effect I was looking for somewhat easily with background-attachment: fixed;. With …
+The Search For a Fixed Background Effect With Inline Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Alex Lazar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notes on Josh Comeau’s Custom CSS Reset]]></title>
+        <id>https://css-tricks.com/?p=359736</id>
+        <link href="https://css-tricks.com/notes-on-josh-comeaus-custom-css-reset/"/>
+        <updated>2022-01-05T21:22:45.000Z</updated>
+        <summary type="html"><![CDATA[We recently talked with Elad Shechter on his new CSS reset, and shortly after that Josh Comeau blogged his. 
+We’re in something of a new era of CSS resets where… you kind of don’t need one? There isn’t …
+Notes on Josh Comeau’s Custom CSS Reset originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a Component That Supports Multiple Frameworks in a Monorepo]]></title>
+        <id>https://css-tricks.com/?p=360239</id>
+        <link href="https://css-tricks.com/make-a-component-multiple-frameworks-in-a-monorepo/"/>
+        <updated>2022-01-05T15:42:59.000Z</updated>
+        <summary type="html"><![CDATA[Your mission — should you decide to accept it — is to build a Button component in four frameworks, but, only use one button.css file!
+This idea is very important to me. I’ve been working on a component library called …
+How to Make a Component That Supports Multiple Frameworks in a Monorepo originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Rob Levin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ten Tips For Aspiring Designer Beginners (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/</id>
+        <link href="https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/"/>
+        <updated>2022-01-05T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article (the first part in a series of two), Luis Ouriach shares advice that he wishes he has when starting out in his career. These tips come from his experience as a user interface and product designer for close to ten years, and if you’re starting just now, then read on!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Luis Ouriach)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should CSS Override Default Browser Styles?]]></title>
+        <id>https://css-tricks.com/?p=359880</id>
+        <link href="https://css-tricks.com/should-css-override-default-styles/"/>
+        <updated>2022-01-04T19:50:18.000Z</updated>
+        <summary type="html"><![CDATA[CSS overrides can change the default look of almost anything:
+You can use CSS to override what a checkbox or radio button looks like, but if you don’t, the checkbox will look like a default checkbox on your operating system 
+…
+Should CSS Override Default Browser Styles? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Underlines Are Too Thin and Too Low in Chrome]]></title>
+        <id>https://css-tricks.com/?p=359838</id>
+        <link href="https://css-tricks.com/css-underlines-are-too-thin-and-too-low-in-chrome/"/>
+        <updated>2022-01-04T15:30:18.000Z</updated>
+        <summary type="html"><![CDATA[I’ve encountered two bugs in Chrome while testing the new CSS text-decoration-thickness and text-underline-offset properties, and I want to share them with you here in this article.
+Table of Contents
+Default underlines are inconsistent
+Luckily, we can override the browsers’ 
+…
+CSS Underlines Are Too Thin and Too Low in Chrome originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Šime Vidas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jetpack Features We Love and Use at CSS-Tricks]]></title>
+        <id>https://css-tricks.com/?p=360452</id>
+        <link href="https://css-tricks.com/jetpack-features-we-love-and-use-at-css-tricks/"/>
+        <updated>2022-01-04T15:28:03.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+We use and love Jetpack around here. It’s a WordPress plugin that brings a whole suite of functionality to your site ranging from security to marketing with lots of ridiculously useful stuff in between! …
+Jetpack Features We Love and Use at CSS-Tricks originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS-Based Fingerprinting]]></title>
+        <id>https://css-tricks.com/?p=360385</id>
+        <link href="https://css-tricks.com/css-based-fingerprinting/"/>
+        <updated>2022-01-03T21:45:10.000Z</updated>
+        <summary type="html"><![CDATA[Fingerprinting is bad. It’s a term that refers to building up enough metadata about a user that you can essentially figure out who they are. JavaScript has access to all sorts of fingerprinting possibilities, which then combined with the IP …
+CSS-Based Fingerprinting originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Browser Extension]]></title>
+        <id>https://css-tricks.com/?p=359615</id>
+        <link href="https://css-tricks.com/how-to-create-a-browser-extension/"/>
+        <updated>2022-01-03T15:12:31.000Z</updated>
+        <summary type="html"><![CDATA[I’ll bet you are using browser extensions right now. Some of them are extremely popular and useful, like ad blockers, password managers, and PDF viewers. These extensions (or “add-ons”) are not limited to those purposes — you can do a …
+How to Create a Browser Extension originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Lars Kölker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Composition-Based Design System In Figma]]></title>
+        <id>https://smashingmagazine.com/2022/01/composition-based-design-system-figma/</id>
+        <link href="https://smashingmagazine.com/2022/01/composition-based-design-system-figma/"/>
+        <updated>2022-01-03T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Aleksandra Nagornaia)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thank You (2021 Edition)]]></title>
+        <id>https://css-tricks.com/?p=359698</id>
+        <link href="https://css-tricks.com/thank-you-2021-edition/"/>
+        <updated>2022-01-01T17:50:59.000Z</updated>
+        <summary type="html"><![CDATA[The year has come to a close and it’s time again for our end-of-year wrapup. The most important message is this: thank you. (thankyouthankyou)
+Thanks for stopping by and reading this site. If you didn’t, I’d be out …
+Thank You (2021 Edition) originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Defensive CSS]]></title>
+        <id>https://css-tricks.com/?p=360073</id>
+        <link href="https://css-tricks.com/defensive-css/"/>
+        <updated>2021-12-31T18:41:47.000Z</updated>
+        <summary type="html"><![CDATA[Ahmad Shadeed nails it again with “Defensive CSS.” The idea is that you should write CSS to be ready for issues caused by dynamic content. 
+More items than you thought would be there? No problem, the area can expand or …
+Defensive CSS originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Year, Fresh Desktop (January 2022 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/</id>
+        <link href="https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/"/>
+        <updated>2021-12-31T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Price Projects And Manage Scope Creep]]></title>
+        <id>https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/</id>
+        <link href="https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/"/>
+        <updated>2021-12-29T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Scoping, estimating, and running digital projects can often feel like an exercise in futility. In this article, Paul Boag explains why you need to start breaking your projects down into manageable phases and why that’s the best way to achieve significant benefits.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Gatsby Themes For WordPress-Powered Websites]]></title>
+        <id>https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/</id>
+        <link href="https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/"/>
+        <updated>2021-12-27T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you already built and published a Gatsby theme? In this article, Paulina Hetman explains how Gatsby themes work and what problems they can solve by comparing Gatsby themes with their WordPress counterparts.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paulina Hetman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating A Custom Range Input That Looks Consistent Across All Browsers]]></title>
+        <id>https://smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/</id>
+        <link href="https://smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/"/>
+        <updated>2021-12-23T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Range inputs have notoriously been a pain to style. Each browser renders the input differently requiring you to use vendor prefixes in order to create a cohesive look and feel. In this article, we’ll take a look at the quirkiness of the HTML range input and demonstrate how to style the input to look consistent across all major browsers.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alyssa Holland)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful UX Guidelines, Tools And Resources]]></title>
+        <id>https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/</id>
+        <link href="https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/"/>
+        <updated>2021-12-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A meaningful user experience is what can set your site apart from others. But what makes an experience truly meaningful? And how to achieve that? The tools, tips, and resources in this post not only help you to come up with a UX strategy that works for you and your team but also to circumvent potential UX pitfalls.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving Core Web Vitals, A Smashing Magazine Case Study]]></title>
+        <id>https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/</id>
+        <link href="https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/"/>
+        <updated>2021-12-20T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[How to improve Core Web Vitals, a Smashing Magazine case study on how we detected and fixed the bottlenecks, and how we ended up with green scores, all the way.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Barry Pollard)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing Human-Machine Interfaces For Vehicles Of The Future]]></title>
+        <id>https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/</id>
+        <link href="https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/"/>
+        <updated>2021-12-17T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Modern HMIs are transforming the way we interact with our vehicles. A car becomes a gadget that we use in a similar way as we use our phones. Users expect a lot of HMI, they even evaluate car experience based on the experience they have with HMI. In this article, let’s look at some ways to help us satisfy users’ needs with proper design.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nick Babich &amp; Gleb Kuznetsov)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Billing Management For Your Next SaaS Idea Using Stripe And Azure Functions]]></title>
+        <id>https://smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/</id>
+        <link href="https://smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/"/>
+        <updated>2021-12-17T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In every software-as-a-service solution, user billing and payments are key aspects in the sale of services rendered. Let’s learn about Stripe and how the REST API can be programmatically used in serverless functions to manage the billing for an application.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nwani Victory)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Touch Design For Mobile Interfaces: Defining Mobile Devices (Excerpt)]]></title>
+        <id>https://smashingmagazine.com/2021/12/touch-design-mobile-interfaces-devices/</id>
+        <link href="https://smashingmagazine.com/2021/12/touch-design-mobile-interfaces-devices/"/>
+        <updated>2021-12-15T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Before we can talk about how people interact, much less how to take advantage of that knowledge and design, it’s important to understand a bit about the history, the technology, and what today counts as a mobile touchscreen device at all.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Steven Hoober)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modifying Headers In HTTP(s) Requests In UI Automation Testing]]></title>
+        <id>https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/</id>
+        <link href="https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/"/>
+        <updated>2021-12-14T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[To be able to modify headers in a testing environment is a great thing to have. It allows control over your application as one can bypass authentication, set cookies, and so on. In this article, Nafees Nehar explores some methods which allow modification of headers in an automation testing setup.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nafees Nehar)</name>
+        </author>
+    </entry>
+</feed>
