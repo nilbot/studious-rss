@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-10T22:06:29.997Z</id>
+    <id>urn:2022-01-11T00:03:14.030Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-10T22:06:29.998Z</updated>
+    <updated>2022-01-11T00:03:14.030Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is Chromium Without Chrome on Top?]]></title>
+        <id>https://css-tricks.com/?p=360873</id>
+        <link href="https://css-tricks.com/what-is-chromium-without-chrome-on-top/"/>
+        <updated>2022-01-10T22:02:49.000Z</updated>
+        <summary type="html"><![CDATA[Raw Chromium, perhaps?
+So, Chrome is based on Chromium which is open-source. Chrome is Chromium with Google’s extra stuff on top of it. What extra stuff? Kinda lots! A few years ago, The Verge published “Microsoft reveals all the …
+What is Chromium Without Chrome on Top? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Convert react-dropdown-select&#x27;s Default Value from Array to String]]></title>
         <id>61d8d033d2d9de084285e93e</id>
@@ -321,18 +333,6 @@ How to Create a Browser Extension originally published on CSS-Tricks. You should
         <summary type="html"><![CDATA[The year has come to a close and it’s time again for our end-of-year wrapup. The most important message is this: thank you. (thankyouthankyou)
 Thanks for stopping by and reading this site. If you didn’t, I’d be out …
 Thank You (2021 Edition) originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Defensive CSS]]></title>
-        <id>https://css-tricks.com/?p=360073</id>
-        <link href="https://css-tricks.com/defensive-css/"/>
-        <updated>2021-12-31T18:41:47.000Z</updated>
-        <summary type="html"><![CDATA[Ahmad Shadeed nails it again with “Defensive CSS.” The idea is that you should write CSS to be ready for issues caused by dynamic content. 
-More items than you thought would be there? No problem, the area can expand or …
-Defensive CSS originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
