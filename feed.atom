@@ -1,10 +1,116 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-11T00:03:14.030Z</id>
+    <id>urn:2022-01-12T00:03:21.947Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-11T00:03:14.030Z</updated>
+    <updated>2022-01-12T00:03:21.947Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Would it Take to Prevent CSS Tooltips From Overflowing?]]></title>
+        <id>https://css-tricks.com/?p=360490</id>
+        <link href="https://css-tricks.com/can-css-prevent-tooltips-from-overflowing/"/>
+        <updated>2022-01-11T23:18:56.000Z</updated>
+        <summary type="html"><![CDATA[Say you have an elements with CSS tooltips and you’re going to position those tooltips such that it opens up next to the element on hover (or probably better: when clicked/tapped). Next to it where? Above it? What if the …
+What Would it Take to Prevent CSS Tooltips From Overflowing? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Dictionary – How to Perform CRUD Operations on dicts in Python]]></title>
+        <id>61db119ad2d9de084285f51f</id>
+        <link href="https://www.freecodecamp.org/news/everything-you-need-to-know-about-python-dictionaries/"/>
+        <updated>2022-01-11T19:05:01.000Z</updated>
+        <summary type="html"><![CDATA[One of the most important composite data types in Python is the dictionary. It's a collection you use to store data in {key:value} pairs.  Dictionaries are ordered and mutable, and they cannot store duplicate data. Just keep in mind that before Python 3.6, dictionaries were unordered. Alright, let's]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Propositional Logic for Beginners – You Already Know More Than You Think]]></title>
+        <id>61ddb353b837d507ba09fd7b</id>
+        <link href="https://www.freecodecamp.org/news/propositional-logic-for-beginners/"/>
+        <updated>2022-01-11T18:41:47.000Z</updated>
+        <summary type="html"><![CDATA[It may sound surprising, but you already have all it takes to produce high-level logic: right behind your eyes.  In the first term of college, I was introduced to a subject called Logic. In the "I think, therefore I am" fashion, you might think this would be an easy subject.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Margin Collapse in CSS? And How to Avoid It]]></title>
+        <id>61d70293d2d9de084285d502</id>
+        <link href="https://www.freecodecamp.org/news/what-is-margin-collapse-and-how-to-avoid-it/"/>
+        <updated>2022-01-11T18:07:52.000Z</updated>
+        <summary type="html"><![CDATA[What is Margin Collapse?Margin collapse occurs when vertically adjacent margins of block-level elements collide to share a general margin space. The size of this shared space is dictated by the larger number margin.  You can visualize this as an arm wrestling match, where the larger margin will take over]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Search Algorithms – Linear Search and Binary Search Code Implementation and Complexity Analysis]]></title>
+        <id>61daa098d2d9de084285f0e9</id>
+        <link href="https://www.freecodecamp.org/news/search-algorithms-linear-and-binary-search-explained/"/>
+        <updated>2022-01-11T17:21:54.000Z</updated>
+        <summary type="html"><![CDATA[Search algorithms are a fundamental computer science concept that you should understand as a developer. They work by using a step-by-step method to locate specific data among a collection of data. In this article, we'll learn how search algorithms work by looking at their implementations in Java and Python. What]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS DynamoDB – NoSQL Database Guide for Beginners]]></title>
+        <id>61d304e0d2d9de084285afc8</id>
+        <link href="https://www.freecodecamp.org/news/aws-dynamodb-database-guide-for-beginners/"/>
+        <updated>2022-01-11T16:50:00.000Z</updated>
+        <summary type="html"><![CDATA[What is DynamoDB?DynamoDB is a fully managed NoSQL database from AWS. DynamoDB is similar to other NoSQL databases like MongoDB, except for the fact that you don’t have to do any maintenance or scaling on your part. DynamoDB can handle more than 10 trillion requests per day and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is a File System? Types of Computer File Systems and How they Work – Explained with Examples]]></title>
+        <id>601617d60a2838549dcbb553</id>
+        <link href="https://www.freecodecamp.org/news/file-systems-architecture-explained/"/>
+        <updated>2022-01-11T16:49:00.000Z</updated>
+        <summary type="html"><![CDATA[It's a bit tricky to explain what exactly a file system is in just one sentence. That's why I decided to write an article about it. This post is meant to be a high-level overview of file systems. But I'll sneak into the lower-level concepts as well, as long as]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the let, const, and var Keywords Work in JavaScript]]></title>
+        <id>61d6aae9d2d9de084285cfdc</id>
+        <link href="https://www.freecodecamp.org/news/understanding-let-const-and-var-keywords/"/>
+        <updated>2022-01-11T16:47:43.000Z</updated>
+        <summary type="html"><![CDATA[As a JavaScript beginner, you probably learned how to declare variables and assign values.  In the old, pre-ES6 era of JavaScript, developers used to declare variables using the keyword var or without any keywords. But times have changed! With ES6 (EcmaScript 2015), the beginning of the modern era in JavaScript,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding Vite to Your Existing Web App]]></title>
+        <id>https://css-tricks.com/?p=359243</id>
+        <link href="https://css-tricks.com/adding-vite-to-your-existing-web-app/"/>
+        <updated>2022-01-11T15:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Vite (pronounced “veet”) is a newish JavaScript bundler. It comes batteries-included, requires almost no configuration to be useful, and includes plenty of configuration options. Oh—and it’s fast. Incredibly fast.
+This post will walk through the process of converting an existing …
+Adding Vite to Your Existing Web App originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Native Custom Fields in WordPress (and 5 Useful Examples)]]></title>
+        <id>https://css-tricks.com/?p=360061</id>
+        <link href="https://css-tricks.com/use-custom-fields-in-wordpress/"/>
+        <updated>2022-01-11T00:41:48.000Z</updated>
+        <summary type="html"><![CDATA[Custom Fields in WordPress are arbitrary bits of data that you can apply to Posts, Pages, and Custom Post Types in WordPress. Metadata, as it were, in the form of key/value pairs. For example:
+Key: subtitle / Value: They are 
+…
+How to Use Native Custom Fields in WordPress (and 5 Useful Examples) originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Chromium Without Chrome on Top?]]></title>
         <id>https://css-tricks.com/?p=360873</id>
@@ -48,66 +154,6 @@ What is Chromium Without Chrome on Top? originally published on CSS-Tricks. You 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Push an Empty Commit in Git]]></title>
-        <id>61d18c23a700150888933e31</id>
-        <link href="https://www.freecodecamp.org/news/how-to-push-an-empty-commit-with-git/"/>
-        <updated>2022-01-10T21:04:19.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will discuss how to push a commit in Git without making any changes. Git makes this process of pushing an empty commit super simple. It's like pushing a regular commit, except that you add the --allow-empty flag. git commit --allow-empty -m "Empty-Commit"You will now need]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Serialization?]]></title>
-        <id>61c8e4b1755c16082490b4e4</id>
-        <link href="https://www.freecodecamp.org/news/what-is-serialization/"/>
-        <updated>2022-01-10T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[During a recent project update meeting, my team talked about how we were going to use serialization to send data back and forth from this application.  An engineer who was looking to get more into software projects told me that they were unfamiliar with the term.  It's easy to miss]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Text Box in HTML – The Input Field HTML Tag]]></title>
-        <id>61d98981d2d9de084285ed1d</id>
-        <link href="https://www.freecodecamp.org/news/text-box-in-html-the-input-field-html-tag/"/>
-        <updated>2022-01-10T20:02:45.000Z</updated>
-        <summary type="html"><![CDATA[In this article you'll learn how to create a text input field in HTML. You'll also learn about web forms and get an overview of how they work, since text boxes are a common feature of every form.  Let's get started!  What are Web Forms? Forms are an efficient way]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free React Course for 2022]]></title>
-        <id>61dc8201b837d507ba09f359</id>
-        <link href="https://www.freecodecamp.org/news/free-react-course-2022/"/>
-        <updated>2022-01-10T19:10:48.000Z</updated>
-        <summary type="html"><![CDATA[React is still one of the most popular JavaScript libraries for building user interfaces. If you are a front-end developer, it is super helpful to know React. We just published a brand-new, 12-hour React course on the freeCodeCamp.org YouTube channel. In this course, you will React by building eight]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your First JavaScript GitHub Action]]></title>
-        <id>61d99c82d2d9de084285ee28</id>
-        <link href="https://www.freecodecamp.org/news/build-your-first-javascript-github-action/"/>
-        <updated>2022-01-10T17:36:34.000Z</updated>
-        <summary type="html"><![CDATA[I love working with GitHub Actions. They're easy to use yet so powerful. I'm especially excited when I see how creative people are when using them to automate different tasks.  I want you to have that same power. That's why I'm going to show you how to create your first]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a Custom Mouse Cursor with CSS and JavaScript]]></title>
-        <id>61d81b30d2d9de084285e181</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-a-custom-mouse-cursor-with-css-and-javascript/"/>
-        <updated>2022-01-10T16:13:35.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever visited a website and been totally blown away by its amazing features? One of them might be a cool mouse cursor that is different from the regular arrow or pointer cursors you are used to.   This can really improve user experience, and lately I've been wondering how]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Don’t Fight the Cascade, Control It!]]></title>
         <id>https://css-tricks.com/?p=359886</id>
         <link href="https://css-tricks.com/dont-fight-the-cascade-control-it/"/>
@@ -116,16 +162,6 @@ What is Chromium Without Chrome on Top? originally published on CSS-Tricks. You 
 Don’t Fight the Cascade, Control It! originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Mads Stoumann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Maintain an Open Source Project – Best Practices and Tips]]></title>
-        <id>61d5406cd2d9de084285c2ef</id>
-        <link href="https://www.freecodecamp.org/news/how-to-maintain-an-open-source-project/"/>
-        <updated>2022-01-10T14:52:54.000Z</updated>
-        <summary type="html"><![CDATA[So, now that you've published your first open-source project, what next? If you're new to open source, you might think this is it. But the fun has just begun. In fact, most of the work lies in maintaining your project and making it accessible to more users. This is one]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -294,28 +330,6 @@ Jetpack Features We Love and Use at CSS-Tricks originally published on CSS-Trick
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS-Based Fingerprinting]]></title>
-        <id>https://css-tricks.com/?p=360385</id>
-        <link href="https://css-tricks.com/css-based-fingerprinting/"/>
-        <updated>2022-01-03T21:45:10.000Z</updated>
-        <summary type="html"><![CDATA[Fingerprinting is bad. It’s a term that refers to building up enough metadata about a user that you can essentially figure out who they are. JavaScript has access to all sorts of fingerprinting possibilities, which then combined with the IP …
-CSS-Based Fingerprinting originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Browser Extension]]></title>
-        <id>https://css-tricks.com/?p=359615</id>
-        <link href="https://css-tricks.com/how-to-create-a-browser-extension/"/>
-        <updated>2022-01-03T15:12:31.000Z</updated>
-        <summary type="html"><![CDATA[I’ll bet you are using browser extensions right now. Some of them are extremely popular and useful, like ad blockers, password managers, and PDF viewers. These extensions (or “add-ons”) are not limited to those purposes — you can do a …
-How to Create a Browser Extension originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Lars Kölker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Composition-Based Design System In Figma]]></title>
         <id>https://smashingmagazine.com/2022/01/composition-based-design-system-figma/</id>
         <link href="https://smashingmagazine.com/2022/01/composition-based-design-system-figma/"/>
@@ -323,18 +337,6 @@ How to Create a Browser Extension originally published on CSS-Tricks. You should
         <summary type="html"><![CDATA[Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Aleksandra Nagornaia)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thank You (2021 Edition)]]></title>
-        <id>https://css-tricks.com/?p=359698</id>
-        <link href="https://css-tricks.com/thank-you-2021-edition/"/>
-        <updated>2022-01-01T17:50:59.000Z</updated>
-        <summary type="html"><![CDATA[The year has come to a close and it’s time again for our end-of-year wrapup. The most important message is this: thank you. (thankyouthankyou)
-Thanks for stopping by and reading this site. If you didn’t, I’d be out …
-Thank You (2021 Edition) originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>

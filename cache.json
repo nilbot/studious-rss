@@ -11,7 +11,7 @@
           "description": "New: When one of the sources download fails, fall back to cache and continue rest of the build.\nChore: Dependency updates\nAdded docs for Netlify deployment\nFixed #71 #69 #65\nThank you: @sokomin, @molakirlee, @philippnagel, @tianheg",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0",
           "publishedOn": "2022-01-10T05:25:18.000Z",
-          "wordCount": 308,
+          "wordCount": 310,
           "title": "v1.12.0"
         }
       ]
@@ -22,12 +22,39 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=360490",
+          "author": "Chris Coyier",
+          "description": "Say you have an elements with CSS tooltips and you’re going to position those tooltips such that it opens up next to the element on hover (or probably better: when clicked/tapped). Next to it where? Above it? What if the …\nWhat Would it Take to Prevent CSS Tooltips From Overflowing? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/can-css-prevent-tooltips-from-overflowing/",
+          "publishedOn": "2022-01-11T23:18:56.000Z",
+          "wordCount": 884,
+          "title": "What Would it Take to Prevent CSS Tooltips From Overflowing?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359243",
+          "author": "Adam Rackis",
+          "description": "Vite (pronounced “veet”) is a newish JavaScript bundler. It comes batteries-included, requires almost no configuration to be useful, and includes plenty of configuration options. Oh—and it’s fast. Incredibly fast.\nThis post will walk through the process of converting an existing …\nAdding Vite to Your Existing Web App originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/adding-vite-to-your-existing-web-app/",
+          "publishedOn": "2022-01-11T15:38:06.000Z",
+          "wordCount": 2831,
+          "title": "Adding Vite to Your Existing Web App"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360061",
+          "author": "Chris Coyier",
+          "description": "Custom Fields in WordPress are arbitrary bits of data that you can apply to Posts, Pages, and Custom Post Types in WordPress. Metadata, as it were, in the form of key/value pairs. For example:\nKey: subtitle / Value: They are \n…\nHow to Use Native Custom Fields in WordPress (and 5 Useful Examples) originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/use-custom-fields-in-wordpress/",
+          "publishedOn": "2022-01-11T00:41:48.000Z",
+          "wordCount": 2313,
+          "title": "How to Use Native Custom Fields in WordPress (and 5 Useful Examples)"
+        },
+        {
           "id": "https://css-tricks.com/?p=360873",
           "author": "Chris Coyier",
           "description": "Raw Chromium, perhaps?\nSo, Chrome is based on Chromium which is open-source. Chrome is Chromium with Google’s extra stuff on top of it. What extra stuff? Kinda lots! A few years ago, The Verge published “Microsoft reveals all the …\nWhat is Chromium Without Chrome on Top? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/what-is-chromium-without-chrome-on-top/",
           "publishedOn": "2022-01-10T22:02:49.000Z",
-          "wordCount": 821,
+          "wordCount": 931,
           "title": "What is Chromium Without Chrome on Top?"
         },
         {
@@ -36,7 +63,7 @@
           "description": "If you’re disciplined and make use of the inheritance that the CSS cascade provides, you’ll end up writing less CSS. But because our styles often comes from all kinds of sources — and can be a pain to structure and …\nDon’t Fight the Cascade, Control It! originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/dont-fight-the-cascade-control-it/",
           "publishedOn": "2022-01-10T15:22:08.000Z",
-          "wordCount": 2894,
+          "wordCount": 2904,
           "title": "Don’t Fight the Cascade, Control It!"
         },
         {
@@ -54,7 +81,7 @@
           "description": "I was killing some time browsing my CodePen feed for some eye candy and didn’t need to go past the first page before spotting a neat CSS hover effect by Adam Argyle.\nI must’ve spent 10 minutes just staring …\nAdam Argyle’s Sick Mouse-Out CSS Hover Effect originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/adam-argyles-sick-mouse-out-css-hover-effect/",
           "publishedOn": "2022-01-07T20:15:19.000Z",
-          "wordCount": 1500,
+          "wordCount": 1580,
           "title": "Adam Argyle’s Sick Mouse-Out CSS Hover Effect"
         },
         {
@@ -81,7 +108,7 @@
           "description": "I was working on a client project a few days ago and wanted to create a certain effect on an <img>. See, background images can do the effect I was looking for somewhat easily with background-attachment: fixed;. With …\nThe Search For a Fixed Background Effect With Inline Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/fixed-background-effect/",
           "publishedOn": "2022-01-06T15:58:55.000Z",
-          "wordCount": 1981,
+          "wordCount": 2003,
           "title": "The Search For a Fixed Background Effect With Inline Images"
         },
         {
@@ -128,33 +155,6 @@
           "publishedOn": "2022-01-04T15:28:03.000Z",
           "wordCount": 936,
           "title": "Jetpack Features We Love and Use at CSS-Tricks"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360385",
-          "author": "Chris Coyier",
-          "description": "Fingerprinting is bad. It’s a term that refers to building up enough metadata about a user that you can essentially figure out who they are. JavaScript has access to all sorts of fingerprinting possibilities, which then combined with the IP …\nCSS-Based Fingerprinting originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/css-based-fingerprinting/",
-          "publishedOn": "2022-01-03T21:45:10.000Z",
-          "wordCount": 937,
-          "title": "CSS-Based Fingerprinting"
-        },
-        {
-          "id": "https://css-tricks.com/?p=359615",
-          "author": "Lars Kölker",
-          "description": "I’ll bet you are using browser extensions right now. Some of them are extremely popular and useful, like ad blockers, password managers, and PDF viewers. These extensions (or “add-ons”) are not limited to those purposes — you can do a …\nHow to Create a Browser Extension originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/how-to-create-a-browser-extension/",
-          "publishedOn": "2022-01-03T15:12:31.000Z",
-          "wordCount": 4626,
-          "title": "How to Create a Browser Extension"
-        },
-        {
-          "id": "https://css-tricks.com/?p=359698",
-          "author": "Chris Coyier",
-          "description": "The year has come to a close and it’s time again for our end-of-year wrapup. The most important message is this: thank you. (thankyouthankyou)\nThanks for stopping by and reading this site. If you didn’t, I’d be out …\nThank You (2021 Edition) originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/thank-you-2021-edition/",
-          "publishedOn": "2022-01-01T17:50:59.000Z",
-          "wordCount": 3281,
-          "title": "Thank You (2021 Edition)"
         }
       ]
     },
@@ -169,7 +169,7 @@
           "description": "In this article, we’ll be taking a closer look at two gradients: `conic-gradient` and `radial-gradient`. You’ll see how each one of them works in detail, what the differences and similarities are between them, how and where to use them, and some use cases for each.",
           "link": "https://smashingmagazine.com/2022/01/css-radial-conic-gradient/",
           "publishedOn": "2022-01-10T12:30:00.000Z",
-          "wordCount": 2304,
+          "wordCount": 2303,
           "title": "A Deep CSS Dive Into Radial And Conic Gradients",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8b1eea9e-877a-4da7-b531-537a97a44613/css-radial-conic-gradient.jpg",
@@ -183,7 +183,7 @@
           "description": "Product roadmaps are often treated as a series of checkboxes. But they are more than that. In this article, Scott Himmer explains how internal partnerships, research, design systems, and regular touch bases can help make sure that your product roadmap is a successful one.",
           "link": "https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/",
           "publishedOn": "2022-01-07T16:00:00.000Z",
-          "wordCount": 4002,
+          "wordCount": 3998,
           "title": "Changing A Tire On A Moving Car (Or How To Improve Product Roadmaps)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/31db8ed2-e433-46b6-9b8e-ab622b10fce0/changing-tire-on-moving-car.jpg",
@@ -197,7 +197,7 @@
           "description": "In this article (the first part in a series of two), Luis Ouriach shares advice that he wishes he has when starting out in his career. These tips come from his experience as a user interface and product designer for close to ten years, and if you’re starting just now, then read on!",
           "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/",
           "publishedOn": "2022-01-05T13:00:00.000Z",
-          "wordCount": 4082,
+          "wordCount": 4069,
           "title": "Ten Tips For Aspiring Designer Beginners (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/954de2dd-e9df-43de-9b9a-bb24c1f8cf0b/tips-aspiring-designer-beginners-part1.jpg",
@@ -211,7 +211,7 @@
           "description": "Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.",
           "link": "https://smashingmagazine.com/2022/01/composition-based-design-system-figma/",
           "publishedOn": "2022-01-03T13:00:00.000Z",
-          "wordCount": 2638,
+          "wordCount": 2635,
           "title": "Composition-Based Design System In Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/671611c3-eaf7-427e-9e5d-1bb74fbf62f5/composition-based-design-system-figma.jpg",
@@ -225,7 +225,7 @@
           "description": "What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.",
           "link": "https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/",
           "publishedOn": "2021-12-31T09:00:00.000Z",
-          "wordCount": 2529,
+          "wordCount": 2534,
           "title": "New Year, Fresh Desktop (January 2022 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55a76925-9960-4444-a72c-72d8738d5ac8/jan-22-new-years-magic-preview-opt.png",
@@ -239,7 +239,7 @@
           "description": "Scoping, estimating, and running digital projects can often feel like an exercise in futility. In this article, Paul Boag explains why you need to start breaking your projects down into manageable phases and why that’s the best way to achieve significant benefits.",
           "link": "https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/",
           "publishedOn": "2021-12-29T10:30:00.000Z",
-          "wordCount": 2460,
+          "wordCount": 2466,
           "title": "How To Price Projects And Manage Scope Creep",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/79f24890-00d9-4d5a-9ae1-405097b24371/price-projects-manage-scope-creep.jpg",
@@ -253,7 +253,7 @@
           "description": "Have you already built and published a Gatsby theme? In this article, Paulina Hetman explains how Gatsby themes work and what problems they can solve by comparing Gatsby themes with their WordPress counterparts.",
           "link": "https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/",
           "publishedOn": "2021-12-27T10:30:00.000Z",
-          "wordCount": 4238,
+          "wordCount": 4236,
           "title": "Building Gatsby Themes For WordPress-Powered Websites",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5b60a4b-63f6-47e2-a9aa-33faa3e9ca9e/building-gatsby-themes-wordpress-powered-websites.jpg",
@@ -267,7 +267,7 @@
           "description": "Range inputs have notoriously been a pain to style. Each browser renders the input differently requiring you to use vendor prefixes in order to create a cohesive look and feel. In this article, we’ll take a look at the quirkiness of the HTML range input and demonstrate how to style the input to look consistent across all major browsers.",
           "link": "https://smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/",
           "publishedOn": "2021-12-23T11:00:00.000Z",
-          "wordCount": 2616,
+          "wordCount": 2617,
           "title": "Creating A Custom Range Input That Looks Consistent Across All Browsers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0deb2d53-1482-44c1-bf77-4dcc92ce3cd5/create-custom-range-input-consistent-browsers.jpg",
@@ -281,7 +281,7 @@
           "description": "A meaningful user experience is what can set your site apart from others. But what makes an experience truly meaningful? And how to achieve that? The tools, tips, and resources in this post not only help you to come up with a UX strategy that works for you and your team but also to circumvent potential UX pitfalls.",
           "link": "https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/",
           "publishedOn": "2021-12-22T10:00:00.000Z",
-          "wordCount": 4195,
+          "wordCount": 4194,
           "title": "Useful UX Guidelines, Tools And Resources",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fb38ba21-df76-4d15-b7ef-bbda38aeea6b/laws-of-ux-opt.png",
@@ -295,7 +295,7 @@
           "description": "How to improve Core Web Vitals, a Smashing Magazine case study on how we detected and fixed the bottlenecks, and how we ended up with green scores, all the way.",
           "link": "https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/",
           "publishedOn": "2021-12-20T05:30:00.000Z",
-          "wordCount": 6025,
+          "wordCount": 6028,
           "title": "Improving Core Web Vitals, A Smashing Magazine Case Study",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/88f0021e-6f6e-4570-954f-eab757e4485b/core-web-vitals-case-study-smashing-magazine.jpg",
@@ -309,7 +309,7 @@
           "description": "Modern HMIs are transforming the way we interact with our vehicles. A car becomes a gadget that we use in a similar way as we use our phones. Users expect a lot of HMI, they even evaluate car experience based on the experience they have with HMI. In this article, let’s look at some ways to help us satisfy users’ needs with proper design.",
           "link": "https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/",
           "publishedOn": "2021-12-17T14:30:00.000Z",
-          "wordCount": 3417,
+          "wordCount": 3404,
           "title": "Designing Human-Machine Interfaces For Vehicles Of The Future",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d9f919a-44bf-46ef-bfff-ee673c58e83f/designing-human-machine-interfaces-future-vehicles.jpg",
@@ -351,7 +351,7 @@
           "description": "To be able to modify headers in a testing environment is a great thing to have. It allows control over your application as one can bypass authentication, set cookies, and so on. In this article, Nafees Nehar explores some methods which allow modification of headers in an automation testing setup.",
           "link": "https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/",
           "publishedOn": "2021-12-14T10:30:00.000Z",
-          "wordCount": 2071,
+          "wordCount": 2075,
           "title": "Modifying Headers In HTTP(s) Requests In UI Automation Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8590d77e-8181-4d36-9e2e-d4e9c76a893a/headers-https-requests-ui-automation-testing.jpg",
@@ -367,6 +367,69 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "61db119ad2d9de084285f51f",
+          "author": null,
+          "description": "One of the most important composite data types in Python is the dictionary. It's a collection you use to store data in {key:value} pairs.  Dictionaries are ordered and mutable, and they cannot store duplicate data. Just keep in mind that before Python 3.6, dictionaries were unordered. Alright, let's",
+          "link": "https://www.freecodecamp.org/news/everything-you-need-to-know-about-python-dictionaries/",
+          "publishedOn": "2022-01-11T19:05:01.000Z",
+          "wordCount": 1540,
+          "title": "Python Dictionary – How to Perform CRUD Operations on dicts in Python"
+        },
+        {
+          "id": "61ddb353b837d507ba09fd7b",
+          "author": null,
+          "description": "It may sound surprising, but you already have all it takes to produce high-level logic: right behind your eyes.  In the first term of college, I was introduced to a subject called Logic. In the \"I think, therefore I am\" fashion, you might think this would be an easy subject.",
+          "link": "https://www.freecodecamp.org/news/propositional-logic-for-beginners/",
+          "publishedOn": "2022-01-11T18:41:47.000Z",
+          "wordCount": 1584,
+          "title": "Propositional Logic for Beginners – You Already Know More Than You Think"
+        },
+        {
+          "id": "61d70293d2d9de084285d502",
+          "author": null,
+          "description": "What is Margin Collapse?Margin collapse occurs when vertically adjacent margins of block-level elements collide to share a general margin space. The size of this shared space is dictated by the larger number margin.  You can visualize this as an arm wrestling match, where the larger margin will take over",
+          "link": "https://www.freecodecamp.org/news/what-is-margin-collapse-and-how-to-avoid-it/",
+          "publishedOn": "2022-01-11T18:07:52.000Z",
+          "wordCount": 1081,
+          "title": "What is Margin Collapse in CSS? And How to Avoid It"
+        },
+        {
+          "id": "61daa098d2d9de084285f0e9",
+          "author": null,
+          "description": "Search algorithms are a fundamental computer science concept that you should understand as a developer. They work by using a step-by-step method to locate specific data among a collection of data. In this article, we'll learn how search algorithms work by looking at their implementations in Java and Python. What",
+          "link": "https://www.freecodecamp.org/news/search-algorithms-linear-and-binary-search-explained/",
+          "publishedOn": "2022-01-11T17:21:54.000Z",
+          "wordCount": 1750,
+          "title": "Search Algorithms – Linear Search and Binary Search Code Implementation and Complexity Analysis"
+        },
+        {
+          "id": "61d304e0d2d9de084285afc8",
+          "author": null,
+          "description": "What is DynamoDB?DynamoDB is a fully managed NoSQL database from AWS. DynamoDB is similar to other NoSQL databases like MongoDB, except for the fact that you don’t have to do any maintenance or scaling on your part. DynamoDB can handle more than 10 trillion requests per day and",
+          "link": "https://www.freecodecamp.org/news/aws-dynamodb-database-guide-for-beginners/",
+          "publishedOn": "2022-01-11T16:50:00.000Z",
+          "wordCount": 1179,
+          "title": "AWS DynamoDB – NoSQL Database Guide for Beginners"
+        },
+        {
+          "id": "601617d60a2838549dcbb553",
+          "author": null,
+          "description": "It's a bit tricky to explain what exactly a file system is in just one sentence. That's why I decided to write an article about it. This post is meant to be a high-level overview of file systems. But I'll sneak into the lower-level concepts as well, as long as",
+          "link": "https://www.freecodecamp.org/news/file-systems-architecture-explained/",
+          "publishedOn": "2022-01-11T16:49:00.000Z",
+          "wordCount": 6927,
+          "title": "What Is a File System? Types of Computer File Systems and How they Work – Explained with Examples"
+        },
+        {
+          "id": "61d6aae9d2d9de084285cfdc",
+          "author": null,
+          "description": "As a JavaScript beginner, you probably learned how to declare variables and assign values.  In the old, pre-ES6 era of JavaScript, developers used to declare variables using the keyword var or without any keywords. But times have changed! With ES6 (EcmaScript 2015), the beginning of the modern era in JavaScript,",
+          "link": "https://www.freecodecamp.org/news/understanding-let-const-and-var-keywords/",
+          "publishedOn": "2022-01-11T16:47:43.000Z",
+          "wordCount": 1573,
+          "title": "How the let, const, and var Keywords Work in JavaScript"
+        },
+        {
           "id": "61d8d033d2d9de084285e93e",
           "author": null,
           "description": "Web forms play an important role on many sites on the internet, and they're something you should know how to build as a web developer.  From good ol' login forms to signup forms and survey forms (or whatever they're called these days), their main purpose is to receive data and",
@@ -381,7 +444,7 @@
           "description": "If you need to split up a string into an array of substrings, then you can use the JavaScript split() method.  In this article, I will go over the JavaScript split() method and provide code examples.  Basic Syntax of the split() methodHere is the syntax for the JavaScript split() method.",
           "link": "https://www.freecodecamp.org/news/javascript-split-a-string-string-to-array-js-method/",
           "publishedOn": "2022-01-10T21:24:30.000Z",
-          "wordCount": 927,
+          "wordCount": 948,
           "title": "JavaScript split() a String – String to Array JS Method"
         },
         {
@@ -392,69 +455,6 @@
           "publishedOn": "2022-01-10T21:15:23.000Z",
           "wordCount": 2335,
           "title": "The React Beginner&#x27;s Guide for 2022"
-        },
-        {
-          "id": "61d18c23a700150888933e31",
-          "author": null,
-          "description": "In this article, we will discuss how to push a commit in Git without making any changes. Git makes this process of pushing an empty commit super simple. It's like pushing a regular commit, except that you add the --allow-empty flag. git commit --allow-empty -m \"Empty-Commit\"You will now need",
-          "link": "https://www.freecodecamp.org/news/how-to-push-an-empty-commit-with-git/",
-          "publishedOn": "2022-01-10T21:04:19.000Z",
-          "wordCount": 358,
-          "title": "How to Push an Empty Commit in Git"
-        },
-        {
-          "id": "61c8e4b1755c16082490b4e4",
-          "author": null,
-          "description": "During a recent project update meeting, my team talked about how we were going to use serialization to send data back and forth from this application.  An engineer who was looking to get more into software projects told me that they were unfamiliar with the term.  It's easy to miss",
-          "link": "https://www.freecodecamp.org/news/what-is-serialization/",
-          "publishedOn": "2022-01-10T21:00:00.000Z",
-          "wordCount": 1132,
-          "title": "What is Serialization?"
-        },
-        {
-          "id": "61d98981d2d9de084285ed1d",
-          "author": null,
-          "description": "In this article you'll learn how to create a text input field in HTML. You'll also learn about web forms and get an overview of how they work, since text boxes are a common feature of every form.  Let's get started!  What are Web Forms? Forms are an efficient way",
-          "link": "https://www.freecodecamp.org/news/text-box-in-html-the-input-field-html-tag/",
-          "publishedOn": "2022-01-10T20:02:45.000Z",
-          "wordCount": 2436,
-          "title": "Text Box in HTML – The Input Field HTML Tag"
-        },
-        {
-          "id": "61dc8201b837d507ba09f359",
-          "author": null,
-          "description": "React is still one of the most popular JavaScript libraries for building user interfaces. If you are a front-end developer, it is super helpful to know React. We just published a brand-new, 12-hour React course on the freeCodeCamp.org YouTube channel. In this course, you will React by building eight",
-          "link": "https://www.freecodecamp.org/news/free-react-course-2022/",
-          "publishedOn": "2022-01-10T19:10:48.000Z",
-          "wordCount": 495,
-          "title": "Free React Course for 2022"
-        },
-        {
-          "id": "61d99c82d2d9de084285ee28",
-          "author": null,
-          "description": "I love working with GitHub Actions. They're easy to use yet so powerful. I'm especially excited when I see how creative people are when using them to automate different tasks.  I want you to have that same power. That's why I'm going to show you how to create your first",
-          "link": "https://www.freecodecamp.org/news/build-your-first-javascript-github-action/",
-          "publishedOn": "2022-01-10T17:36:34.000Z",
-          "wordCount": 2555,
-          "title": "How to Build Your First JavaScript GitHub Action"
-        },
-        {
-          "id": "61d81b30d2d9de084285e181",
-          "author": null,
-          "description": "Have you ever visited a website and been totally blown away by its amazing features? One of them might be a cool mouse cursor that is different from the regular arrow or pointer cursors you are used to.   This can really improve user experience, and lately I've been wondering how",
-          "link": "https://www.freecodecamp.org/news/how-to-make-a-custom-mouse-cursor-with-css-and-javascript/",
-          "publishedOn": "2022-01-10T16:13:35.000Z",
-          "wordCount": 1211,
-          "title": "How to Make a Custom Mouse Cursor with CSS and JavaScript"
-        },
-        {
-          "id": "61d5406cd2d9de084285c2ef",
-          "author": null,
-          "description": "So, now that you've published your first open-source project, what next? If you're new to open source, you might think this is it. But the fun has just begun. In fact, most of the work lies in maintaining your project and making it accessible to more users. This is one",
-          "link": "https://www.freecodecamp.org/news/how-to-maintain-an-open-source-project/",
-          "publishedOn": "2022-01-10T14:52:54.000Z",
-          "wordCount": 1446,
-          "title": "How to Maintain an Open Source Project – Best Practices and Tips"
         }
       ]
     }
