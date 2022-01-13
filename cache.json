@@ -22,12 +22,48 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=361233",
+          "author": "Chris Coyier",
+          "description": "Hot off the presses from Devon Govett, creator of Parcel, is Parcel CSS:\nA CSS parser, transformer, and minifier written in Rust.\n\nNice. The CSS world could use a little processing shake up like this.\nI just wrote a …\nParcel CSS: A New CSS Parser, Transformer, and Minifier originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/parcel-css/",
+          "publishedOn": "2022-01-12T21:10:53.000Z",
+          "wordCount": 775,
+          "title": "Parcel CSS: A New CSS Parser, Transformer, and Minifier"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360607",
+          "author": "Chris Coyier",
+          "description": "It’s a god-damned miracle to me that open source is as robust as it is in tech. Consider the options. You could have a job (or be entrepreneurial) with your coding skills and likely be paid quite well. Or, you …\nOpen Source & Sustainability originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/open-source-sustainability/",
+          "publishedOn": "2022-01-12T20:51:49.000Z",
+          "wordCount": 980,
+          "title": "Open Source & Sustainability"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360168",
+          "author": "Jhey Tompkins",
+          "description": "You know how you can get cardboard boxes that come totally flat? You fold ‘em up and tape ‘em to make them into a useful box. Then when it’s time to recycle them, you cut them back apart to flatten …\nHow to Make a Pure CSS 3D Package Toggle originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/how-to-make-a-pure-css-3d-package-toggle/",
+          "publishedOn": "2022-01-12T15:29:38.000Z",
+          "wordCount": 3144,
+          "title": "How to Make a Pure CSS 3D Package Toggle"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361191",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nNetlify is amazing at static file hosting, but it’s really so much more than that. You can build any sort of website, even highly dynamic apps, with the Jamstack approach and static file hosting …\nNetlify Identity, a Key Aspect to Jamstack Development originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/netlify-identity/",
+          "publishedOn": "2022-01-12T14:13:00.000Z",
+          "wordCount": 581,
+          "title": "Netlify Identity, a Key Aspect to Jamstack Development"
+        },
+        {
           "id": "https://css-tricks.com/?p=360490",
           "author": "Chris Coyier",
           "description": "Say you have an elements with CSS tooltips and you’re going to position those tooltips such that it opens up next to the element on hover (or probably better: when clicked/tapped). Next to it where? Above it? What if the …\nWhat Would it Take to Prevent CSS Tooltips From Overflowing? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/can-css-prevent-tooltips-from-overflowing/",
           "publishedOn": "2022-01-11T23:18:56.000Z",
-          "wordCount": 884,
+          "wordCount": 905,
           "title": "What Would it Take to Prevent CSS Tooltips From Overflowing?"
         },
         {
@@ -63,7 +99,7 @@
           "description": "If you’re disciplined and make use of the inheritance that the CSS cascade provides, you’ll end up writing less CSS. But because our styles often comes from all kinds of sources — and can be a pain to structure and …\nDon’t Fight the Cascade, Control It! originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/dont-fight-the-cascade-control-it/",
           "publishedOn": "2022-01-10T15:22:08.000Z",
-          "wordCount": 2904,
+          "wordCount": 2925,
           "title": "Don’t Fight the Cascade, Control It!"
         },
         {
@@ -81,7 +117,7 @@
           "description": "I was killing some time browsing my CodePen feed for some eye candy and didn’t need to go past the first page before spotting a neat CSS hover effect by Adam Argyle.\nI must’ve spent 10 minutes just staring …\nAdam Argyle’s Sick Mouse-Out CSS Hover Effect originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/adam-argyles-sick-mouse-out-css-hover-effect/",
           "publishedOn": "2022-01-07T20:15:19.000Z",
-          "wordCount": 1580,
+          "wordCount": 1537,
           "title": "Adam Argyle’s Sick Mouse-Out CSS Hover Effect"
         },
         {
@@ -90,7 +126,7 @@
           "description": "I took a break from work and started some small, personal projects (toys). One of those small projects is potato.horse where I keep all of my doodles, visual short stories and jokes. Check it out!\nHowever, this post is not …\nuseRainbow() originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/userainbow/",
           "publishedOn": "2022-01-07T14:59:04.000Z",
-          "wordCount": 1897,
+          "wordCount": 2035,
           "title": "useRainbow()"
         },
         {
@@ -108,7 +144,7 @@
           "description": "I was working on a client project a few days ago and wanted to create a certain effect on an <img>. See, background images can do the effect I was looking for somewhat easily with background-attachment: fixed;. With …\nThe Search For a Fixed Background Effect With Inline Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/fixed-background-effect/",
           "publishedOn": "2022-01-06T15:58:55.000Z",
-          "wordCount": 2003,
+          "wordCount": 1981,
           "title": "The Search For a Fixed Background Effect With Inline Images"
         },
         {
@@ -117,44 +153,8 @@
           "description": "We recently talked with Elad Shechter on his new CSS reset, and shortly after that Josh Comeau blogged his. \nWe’re in something of a new era of CSS resets where… you kind of don’t need one? There isn’t …\nNotes on Josh Comeau’s Custom CSS Reset originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/notes-on-josh-comeaus-custom-css-reset/",
           "publishedOn": "2022-01-05T21:22:45.000Z",
-          "wordCount": 1806,
+          "wordCount": 1858,
           "title": "Notes on Josh Comeau’s Custom CSS Reset"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360239",
-          "author": "Rob Levin",
-          "description": "Your mission — should you decide to accept it — is to build a Button component in four frameworks, but, only use one button.css file!\nThis idea is very important to me. I’ve been working on a component library called …\nHow to Make a Component That Supports Multiple Frameworks in a Monorepo originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/make-a-component-multiple-frameworks-in-a-monorepo/",
-          "publishedOn": "2022-01-05T15:42:59.000Z",
-          "wordCount": 5753,
-          "title": "How to Make a Component That Supports Multiple Frameworks in a Monorepo"
-        },
-        {
-          "id": "https://css-tricks.com/?p=359880",
-          "author": "Chris Coyier",
-          "description": "CSS overrides can change the default look of almost anything:\nYou can use CSS to override what a checkbox or radio button looks like, but if you don’t, the checkbox will look like a default checkbox on your operating system \n…\nShould CSS Override Default Browser Styles? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/should-css-override-default-styles/",
-          "publishedOn": "2022-01-04T19:50:18.000Z",
-          "wordCount": 1121,
-          "title": "Should CSS Override Default Browser Styles?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=359838",
-          "author": "Šime Vidas",
-          "description": "I’ve encountered two bugs in Chrome while testing the new CSS text-decoration-thickness and text-underline-offset properties, and I want to share them with you here in this article.\nTable of Contents\nDefault underlines are inconsistent\nLuckily, we can override the browsers’ \n…\nCSS Underlines Are Too Thin and Too Low in Chrome originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/css-underlines-are-too-thin-and-too-low-in-chrome/",
-          "publishedOn": "2022-01-04T15:30:18.000Z",
-          "wordCount": 1212,
-          "title": "CSS Underlines Are Too Thin and Too Low in Chrome"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360452",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nWe use and love Jetpack around here. It’s a WordPress plugin that brings a whole suite of functionality to your site ranging from security to marketing with lots of ridiculously useful stuff in between! …\nJetpack Features We Love and Use at CSS-Tricks originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/jetpack-features-we-love-and-use-at-css-tricks/",
-          "publishedOn": "2022-01-04T15:28:03.000Z",
-          "wordCount": 936,
-          "title": "Jetpack Features We Love and Use at CSS-Tricks"
         }
       ]
     },
@@ -164,12 +164,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/",
+          "author": "hello@smashingmagazine.com (Kate Kalcevich)",
+          "description": "Accessibility must be a permanent program within organizations, much like security. In this article, Kate Kalcevich shares tips on which skills and questions to keep in mind when hiring for digital accessibility roles.",
+          "link": "https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/",
+          "publishedOn": "2022-01-12T10:30:00.000Z",
+          "wordCount": 3852,
+          "title": "How To Hire For Digital Accessibility Roles",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/99b1af95-05d8-48ce-9086-171a59ba27f0/how-hire-digital-accessibility-roles.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2022/01/css-radial-conic-gradient/",
           "author": "hello@smashingmagazine.com (Ahmad Shadeed)",
           "description": "In this article, we’ll be taking a closer look at two gradients: `conic-gradient` and `radial-gradient`. You’ll see how each one of them works in detail, what the differences and similarities are between them, how and where to use them, and some use cases for each.",
           "link": "https://smashingmagazine.com/2022/01/css-radial-conic-gradient/",
           "publishedOn": "2022-01-10T12:30:00.000Z",
-          "wordCount": 2303,
+          "wordCount": 2304,
           "title": "A Deep CSS Dive Into Radial And Conic Gradients",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8b1eea9e-877a-4da7-b531-537a97a44613/css-radial-conic-gradient.jpg",
@@ -183,7 +197,7 @@
           "description": "Product roadmaps are often treated as a series of checkboxes. But they are more than that. In this article, Scott Himmer explains how internal partnerships, research, design systems, and regular touch bases can help make sure that your product roadmap is a successful one.",
           "link": "https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/",
           "publishedOn": "2022-01-07T16:00:00.000Z",
-          "wordCount": 3998,
+          "wordCount": 3999,
           "title": "Changing A Tire On A Moving Car (Or How To Improve Product Roadmaps)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/31db8ed2-e433-46b6-9b8e-ab622b10fce0/changing-tire-on-moving-car.jpg",
@@ -197,7 +211,7 @@
           "description": "In this article (the first part in a series of two), Luis Ouriach shares advice that he wishes he has when starting out in his career. These tips come from his experience as a user interface and product designer for close to ten years, and if you’re starting just now, then read on!",
           "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/",
           "publishedOn": "2022-01-05T13:00:00.000Z",
-          "wordCount": 4069,
+          "wordCount": 4070,
           "title": "Ten Tips For Aspiring Designer Beginners (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/954de2dd-e9df-43de-9b9a-bb24c1f8cf0b/tips-aspiring-designer-beginners-part1.jpg",
@@ -211,7 +225,7 @@
           "description": "Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.",
           "link": "https://smashingmagazine.com/2022/01/composition-based-design-system-figma/",
           "publishedOn": "2022-01-03T13:00:00.000Z",
-          "wordCount": 2635,
+          "wordCount": 2637,
           "title": "Composition-Based Design System In Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/671611c3-eaf7-427e-9e5d-1bb74fbf62f5/composition-based-design-system-figma.jpg",
@@ -225,7 +239,7 @@
           "description": "What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.",
           "link": "https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/",
           "publishedOn": "2021-12-31T09:00:00.000Z",
-          "wordCount": 2534,
+          "wordCount": 2531,
           "title": "New Year, Fresh Desktop (January 2022 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55a76925-9960-4444-a72c-72d8738d5ac8/jan-22-new-years-magic-preview-opt.png",
@@ -239,7 +253,7 @@
           "description": "Scoping, estimating, and running digital projects can often feel like an exercise in futility. In this article, Paul Boag explains why you need to start breaking your projects down into manageable phases and why that’s the best way to achieve significant benefits.",
           "link": "https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/",
           "publishedOn": "2021-12-29T10:30:00.000Z",
-          "wordCount": 2466,
+          "wordCount": 2464,
           "title": "How To Price Projects And Manage Scope Creep",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/79f24890-00d9-4d5a-9ae1-405097b24371/price-projects-manage-scope-creep.jpg",
@@ -253,7 +267,7 @@
           "description": "Have you already built and published a Gatsby theme? In this article, Paulina Hetman explains how Gatsby themes work and what problems they can solve by comparing Gatsby themes with their WordPress counterparts.",
           "link": "https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/",
           "publishedOn": "2021-12-27T10:30:00.000Z",
-          "wordCount": 4236,
+          "wordCount": 4234,
           "title": "Building Gatsby Themes For WordPress-Powered Websites",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5b60a4b-63f6-47e2-a9aa-33faa3e9ca9e/building-gatsby-themes-wordpress-powered-websites.jpg",
@@ -281,7 +295,7 @@
           "description": "A meaningful user experience is what can set your site apart from others. But what makes an experience truly meaningful? And how to achieve that? The tools, tips, and resources in this post not only help you to come up with a UX strategy that works for you and your team but also to circumvent potential UX pitfalls.",
           "link": "https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/",
           "publishedOn": "2021-12-22T10:00:00.000Z",
-          "wordCount": 4194,
+          "wordCount": 4195,
           "title": "Useful UX Guidelines, Tools And Resources",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fb38ba21-df76-4d15-b7ef-bbda38aeea6b/laws-of-ux-opt.png",
@@ -295,7 +309,7 @@
           "description": "How to improve Core Web Vitals, a Smashing Magazine case study on how we detected and fixed the bottlenecks, and how we ended up with green scores, all the way.",
           "link": "https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/",
           "publishedOn": "2021-12-20T05:30:00.000Z",
-          "wordCount": 6028,
+          "wordCount": 6031,
           "title": "Improving Core Web Vitals, A Smashing Magazine Case Study",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/88f0021e-6f6e-4570-954f-eab757e4485b/core-web-vitals-case-study-smashing-magazine.jpg",
@@ -309,7 +323,7 @@
           "description": "Modern HMIs are transforming the way we interact with our vehicles. A car becomes a gadget that we use in a similar way as we use our phones. Users expect a lot of HMI, they even evaluate car experience based on the experience they have with HMI. In this article, let’s look at some ways to help us satisfy users’ needs with proper design.",
           "link": "https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/",
           "publishedOn": "2021-12-17T14:30:00.000Z",
-          "wordCount": 3404,
+          "wordCount": 3403,
           "title": "Designing Human-Machine Interfaces For Vehicles Of The Future",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d9f919a-44bf-46ef-bfff-ee673c58e83f/designing-human-machine-interfaces-future-vehicles.jpg",
@@ -323,7 +337,7 @@
           "description": "In every software-as-a-service solution, user billing and payments are key aspects in the sale of services rendered. Let’s learn about Stripe and how the REST API can be programmatically used in serverless functions to manage the billing for an application.",
           "link": "https://smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/",
           "publishedOn": "2021-12-17T13:30:00.000Z",
-          "wordCount": 5454,
+          "wordCount": 5456,
           "title": "Billing Management For Your Next SaaS Idea Using Stripe And Azure Functions",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/346f3641-b7be-486d-8ac9-327ffe00e232/billing-management-saas-stripe-azure-functions.jpg",
@@ -344,20 +358,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/",
-          "author": "hello@smashingmagazine.com (Nafees Nehar)",
-          "description": "To be able to modify headers in a testing environment is a great thing to have. It allows control over your application as one can bypass authentication, set cookies, and so on. In this article, Nafees Nehar explores some methods which allow modification of headers in an automation testing setup.",
-          "link": "https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/",
-          "publishedOn": "2021-12-14T10:30:00.000Z",
-          "wordCount": 2075,
-          "title": "Modifying Headers In HTTP(s) Requests In UI Automation Testing",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8590d77e-8181-4d36-9e2e-d4e9c76a893a/headers-https-requests-ui-automation-testing.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -366,6 +366,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61def1f8b837d507ba0a06cd",
+          "author": null,
+          "description": "In this article, you'll learn how to trim a string in Python using the .strip() method.  You'll also see how to use the .lstrip() and .rstrip() methods, which are the counterparts to .strip().  Let's get started!  How to trim a string in Python Python has three built-in methods for trimming",
+          "link": "https://www.freecodecamp.org/news/python-strip-how-to-trim-a-string-or-line/",
+          "publishedOn": "2022-01-12T20:48:03.000Z",
+          "wordCount": 1060,
+          "title": "Python strip() – How to Trim a String or Line"
+        },
+        {
+          "id": "61df0010b837d507ba0a0840",
+          "author": null,
+          "description": "Flutter and Firebase can work well together to create a full stack app. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build an Instagram clone using Flutter on the front end and Firebase on the back end. After this tutorial, you",
+          "link": "https://www.freecodecamp.org/news/code-a-full-stack-instagram-clone-with-flutter-and-firebase/",
+          "publishedOn": "2022-01-12T16:29:13.000Z",
+          "wordCount": 417,
+          "title": "Code a Full Stack Instagram Clone with Flutter and Firebase"
+        },
         {
           "id": "61db119ad2d9de084285f51f",
           "author": null,
@@ -417,7 +435,7 @@
           "description": "It's a bit tricky to explain what exactly a file system is in just one sentence. That's why I decided to write an article about it. This post is meant to be a high-level overview of file systems. But I'll sneak into the lower-level concepts as well, as long as",
           "link": "https://www.freecodecamp.org/news/file-systems-architecture-explained/",
           "publishedOn": "2022-01-11T16:49:00.000Z",
-          "wordCount": 6927,
+          "wordCount": 6928,
           "title": "What Is a File System? Types of Computer File Systems and How they Work – Explained with Examples"
         },
         {
@@ -430,31 +448,13 @@
           "title": "How the let, const, and var Keywords Work in JavaScript"
         },
         {
-          "id": "61d8d033d2d9de084285e93e",
+          "id": "61defbc6b837d507ba0a07af",
           "author": null,
-          "description": "Web forms play an important role on many sites on the internet, and they're something you should know how to build as a web developer.  From good ol' login forms to signup forms and survey forms (or whatever they're called these days), their main purpose is to receive data and",
-          "link": "https://www.freecodecamp.org/news/how-to-send-the-right-data-type-from-a-form-to-the-backend-server/",
-          "publishedOn": "2022-01-10T21:30:48.000Z",
-          "wordCount": 2408,
-          "title": "How to Convert react-dropdown-select&#x27;s Default Value from Array to String"
-        },
-        {
-          "id": "61d54372d2d9de084285c327",
-          "author": null,
-          "description": "If you need to split up a string into an array of substrings, then you can use the JavaScript split() method.  In this article, I will go over the JavaScript split() method and provide code examples.  Basic Syntax of the split() methodHere is the syntax for the JavaScript split() method.",
-          "link": "https://www.freecodecamp.org/news/javascript-split-a-string-string-to-array-js-method/",
-          "publishedOn": "2022-01-10T21:24:30.000Z",
-          "wordCount": 948,
-          "title": "JavaScript split() a String – String to Array JS Method"
-        },
-        {
-          "id": "61dc51e5b837d507ba09edb6",
-          "author": null,
-          "description": "So you're ready to dive into learning React, but you still have some lingering questions, such as: How should I create my React projects?What tools should I add to my React app?Do I need to learn JavaScript first before learning React?Where should I deploy my projects?If",
-          "link": "https://www.freecodecamp.org/news/react-beginners-guide/",
-          "publishedOn": "2022-01-10T21:15:23.000Z",
-          "wordCount": 2335,
-          "title": "The React Beginner&#x27;s Guide for 2022"
+          "description": "Are you preparing for coding interviews? Or competitive programming? It can take a lot of study and practice to get good at solving coding problems often used in interviews.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to solve 10 common coding",
+          "link": "https://www.freecodecamp.org/news/10-common-coding-interview-problems-solved/",
+          "publishedOn": "2022-01-11T16:08:00.000Z",
+          "wordCount": 347,
+          "title": "10 Common Coding Interview Problems [Solved]"
         }
       ]
     }
