@@ -22,12 +22,30 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=360939",
+          "author": "Chris Coyier",
+          "description": "Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Accessibility is one of those things! Here’s a list of related links to other articles that I’ve been saving up and …\n8 Helpful Accessibility Links for January 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/8-accessibility-links-january-2022/",
+          "publishedOn": "2022-01-13T20:57:41.000Z",
+          "wordCount": 773,
+          "title": "8 Helpful Accessibility Links for January 2022"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360423",
+          "author": "Chris Coyier",
+          "description": "Sass offers functions and mixins that accept parameters. You can use Sass default parameters, that is, parameters that have a value even if you don’t provide them when the function or mixin is called. \nLet’s focus on mixins here. …\nA Practical Tip For Using Sass Default Parameters originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/sass-default-parameters/",
+          "publishedOn": "2022-01-13T15:17:28.000Z",
+          "wordCount": 693,
+          "title": "A Practical Tip For Using Sass Default Parameters"
+        },
+        {
           "id": "https://css-tricks.com/?p=361233",
           "author": "Chris Coyier",
           "description": "Hot off the presses from Devon Govett, creator of Parcel, is Parcel CSS:\nA CSS parser, transformer, and minifier written in Rust.\n\nNice. The CSS world could use a little processing shake up like this.\nI just wrote a …\nParcel CSS: A New CSS Parser, Transformer, and Minifier originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/parcel-css/",
           "publishedOn": "2022-01-12T21:10:53.000Z",
-          "wordCount": 775,
+          "wordCount": 1271,
           "title": "Parcel CSS: A New CSS Parser, Transformer, and Minifier"
         },
         {
@@ -36,7 +54,7 @@
           "description": "It’s a god-damned miracle to me that open source is as robust as it is in tech. Consider the options. You could have a job (or be entrepreneurial) with your coding skills and likely be paid quite well. Or, you …\nOpen Source & Sustainability originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/open-source-sustainability/",
           "publishedOn": "2022-01-12T20:51:49.000Z",
-          "wordCount": 980,
+          "wordCount": 998,
           "title": "Open Source & Sustainability"
         },
         {
@@ -45,7 +63,7 @@
           "description": "You know how you can get cardboard boxes that come totally flat? You fold ‘em up and tape ‘em to make them into a useful box. Then when it’s time to recycle them, you cut them back apart to flatten …\nHow to Make a Pure CSS 3D Package Toggle originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/how-to-make-a-pure-css-3d-package-toggle/",
           "publishedOn": "2022-01-12T15:29:38.000Z",
-          "wordCount": 3144,
+          "wordCount": 3149,
           "title": "How to Make a Pure CSS 3D Package Toggle"
         },
         {
@@ -90,7 +108,7 @@
           "description": "Raw Chromium, perhaps?\nSo, Chrome is based on Chromium which is open-source. Chrome is Chromium with Google’s extra stuff on top of it. What extra stuff? Kinda lots! A few years ago, The Verge published “Microsoft reveals all the …\nWhat is Chromium Without Chrome on Top? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/what-is-chromium-without-chrome-on-top/",
           "publishedOn": "2022-01-10T22:02:49.000Z",
-          "wordCount": 931,
+          "wordCount": 1035,
           "title": "What is Chromium Without Chrome on Top?"
         },
         {
@@ -137,24 +155,6 @@
           "publishedOn": "2022-01-06T22:28:46.000Z",
           "wordCount": 1205,
           "title": "A New Container Query Polyfill That Just Works"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358917",
-          "author": "Alex Lazar",
-          "description": "I was working on a client project a few days ago and wanted to create a certain effect on an <img>. See, background images can do the effect I was looking for somewhat easily with background-attachment: fixed;. With …\nThe Search For a Fixed Background Effect With Inline Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/fixed-background-effect/",
-          "publishedOn": "2022-01-06T15:58:55.000Z",
-          "wordCount": 1981,
-          "title": "The Search For a Fixed Background Effect With Inline Images"
-        },
-        {
-          "id": "https://css-tricks.com/?p=359736",
-          "author": "Chris Coyier",
-          "description": "We recently talked with Elad Shechter on his new CSS reset, and shortly after that Josh Comeau blogged his. \nWe’re in something of a new era of CSS resets where… you kind of don’t need one? There isn’t …\nNotes on Josh Comeau’s Custom CSS Reset originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/notes-on-josh-comeaus-custom-css-reset/",
-          "publishedOn": "2022-01-05T21:22:45.000Z",
-          "wordCount": 1858,
-          "title": "Notes on Josh Comeau’s Custom CSS Reset"
         }
       ]
     },
@@ -164,12 +164,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/01/building-web-code-editor/",
+          "author": "hello@smashingmagazine.com (Daniel Don)",
+          "description": "If you’re a developer who’s thinking about building a platform that requires a code editor in one form or another, then this article is for you. This article explains how to create a web code editor that displays the result in real time with the help of some HTML, CSS and JavaScript.",
+          "link": "https://smashingmagazine.com/2022/01/building-web-code-editor/",
+          "publishedOn": "2022-01-13T11:30:00.000Z",
+          "wordCount": 5052,
+          "title": "Building A Web Code Editor",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7db33e0-a76e-4f4f-959f-be0f8898784f/building-web-code-editor.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/",
           "author": "hello@smashingmagazine.com (Kate Kalcevich)",
           "description": "Accessibility must be a permanent program within organizations, much like security. In this article, Kate Kalcevich shares tips on which skills and questions to keep in mind when hiring for digital accessibility roles.",
           "link": "https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/",
           "publishedOn": "2022-01-12T10:30:00.000Z",
-          "wordCount": 3852,
+          "wordCount": 3855,
           "title": "How To Hire For Digital Accessibility Roles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/99b1af95-05d8-48ce-9086-171a59ba27f0/how-hire-digital-accessibility-roles.jpg",
@@ -183,7 +197,7 @@
           "description": "In this article, we’ll be taking a closer look at two gradients: `conic-gradient` and `radial-gradient`. You’ll see how each one of them works in detail, what the differences and similarities are between them, how and where to use them, and some use cases for each.",
           "link": "https://smashingmagazine.com/2022/01/css-radial-conic-gradient/",
           "publishedOn": "2022-01-10T12:30:00.000Z",
-          "wordCount": 2304,
+          "wordCount": 2303,
           "title": "A Deep CSS Dive Into Radial And Conic Gradients",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8b1eea9e-877a-4da7-b531-537a97a44613/css-radial-conic-gradient.jpg",
@@ -197,7 +211,7 @@
           "description": "Product roadmaps are often treated as a series of checkboxes. But they are more than that. In this article, Scott Himmer explains how internal partnerships, research, design systems, and regular touch bases can help make sure that your product roadmap is a successful one.",
           "link": "https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/",
           "publishedOn": "2022-01-07T16:00:00.000Z",
-          "wordCount": 3999,
+          "wordCount": 4011,
           "title": "Changing A Tire On A Moving Car (Or How To Improve Product Roadmaps)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/31db8ed2-e433-46b6-9b8e-ab622b10fce0/changing-tire-on-moving-car.jpg",
@@ -225,7 +239,7 @@
           "description": "Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.",
           "link": "https://smashingmagazine.com/2022/01/composition-based-design-system-figma/",
           "publishedOn": "2022-01-03T13:00:00.000Z",
-          "wordCount": 2637,
+          "wordCount": 2639,
           "title": "Composition-Based Design System In Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/671611c3-eaf7-427e-9e5d-1bb74fbf62f5/composition-based-design-system-figma.jpg",
@@ -239,7 +253,7 @@
           "description": "What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.",
           "link": "https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/",
           "publishedOn": "2021-12-31T09:00:00.000Z",
-          "wordCount": 2531,
+          "wordCount": 2529,
           "title": "New Year, Fresh Desktop (January 2022 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55a76925-9960-4444-a72c-72d8738d5ac8/jan-22-new-years-magic-preview-opt.png",
@@ -253,7 +267,7 @@
           "description": "Scoping, estimating, and running digital projects can often feel like an exercise in futility. In this article, Paul Boag explains why you need to start breaking your projects down into manageable phases and why that’s the best way to achieve significant benefits.",
           "link": "https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/",
           "publishedOn": "2021-12-29T10:30:00.000Z",
-          "wordCount": 2464,
+          "wordCount": 2475,
           "title": "How To Price Projects And Manage Scope Creep",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/79f24890-00d9-4d5a-9ae1-405097b24371/price-projects-manage-scope-creep.jpg",
@@ -267,7 +281,7 @@
           "description": "Have you already built and published a Gatsby theme? In this article, Paulina Hetman explains how Gatsby themes work and what problems they can solve by comparing Gatsby themes with their WordPress counterparts.",
           "link": "https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/",
           "publishedOn": "2021-12-27T10:30:00.000Z",
-          "wordCount": 4234,
+          "wordCount": 4250,
           "title": "Building Gatsby Themes For WordPress-Powered Websites",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5b60a4b-63f6-47e2-a9aa-33faa3e9ca9e/building-gatsby-themes-wordpress-powered-websites.jpg",
@@ -281,7 +295,7 @@
           "description": "Range inputs have notoriously been a pain to style. Each browser renders the input differently requiring you to use vendor prefixes in order to create a cohesive look and feel. In this article, we’ll take a look at the quirkiness of the HTML range input and demonstrate how to style the input to look consistent across all major browsers.",
           "link": "https://smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/",
           "publishedOn": "2021-12-23T11:00:00.000Z",
-          "wordCount": 2617,
+          "wordCount": 2618,
           "title": "Creating A Custom Range Input That Looks Consistent Across All Browsers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0deb2d53-1482-44c1-bf77-4dcc92ce3cd5/create-custom-range-input-consistent-browsers.jpg",
@@ -295,7 +309,7 @@
           "description": "A meaningful user experience is what can set your site apart from others. But what makes an experience truly meaningful? And how to achieve that? The tools, tips, and resources in this post not only help you to come up with a UX strategy that works for you and your team but also to circumvent potential UX pitfalls.",
           "link": "https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/",
           "publishedOn": "2021-12-22T10:00:00.000Z",
-          "wordCount": 4195,
+          "wordCount": 4193,
           "title": "Useful UX Guidelines, Tools And Resources",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fb38ba21-df76-4d15-b7ef-bbda38aeea6b/laws-of-ux-opt.png",
@@ -309,7 +323,7 @@
           "description": "How to improve Core Web Vitals, a Smashing Magazine case study on how we detected and fixed the bottlenecks, and how we ended up with green scores, all the way.",
           "link": "https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/",
           "publishedOn": "2021-12-20T05:30:00.000Z",
-          "wordCount": 6031,
+          "wordCount": 6028,
           "title": "Improving Core Web Vitals, A Smashing Magazine Case Study",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/88f0021e-6f6e-4570-954f-eab757e4485b/core-web-vitals-case-study-smashing-magazine.jpg",
@@ -323,7 +337,7 @@
           "description": "Modern HMIs are transforming the way we interact with our vehicles. A car becomes a gadget that we use in a similar way as we use our phones. Users expect a lot of HMI, they even evaluate car experience based on the experience they have with HMI. In this article, let’s look at some ways to help us satisfy users’ needs with proper design.",
           "link": "https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/",
           "publishedOn": "2021-12-17T14:30:00.000Z",
-          "wordCount": 3403,
+          "wordCount": 3405,
           "title": "Designing Human-Machine Interfaces For Vehicles Of The Future",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d9f919a-44bf-46ef-bfff-ee673c58e83f/designing-human-machine-interfaces-future-vehicles.jpg",
@@ -337,26 +351,12 @@
           "description": "In every software-as-a-service solution, user billing and payments are key aspects in the sale of services rendered. Let’s learn about Stripe and how the REST API can be programmatically used in serverless functions to manage the billing for an application.",
           "link": "https://smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/",
           "publishedOn": "2021-12-17T13:30:00.000Z",
-          "wordCount": 5456,
+          "wordCount": 5452,
           "title": "Billing Management For Your Next SaaS Idea Using Stripe And Azure Functions",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/346f3641-b7be-486d-8ac9-327ffe00e232/billing-management-saas-stripe-azure-functions.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/12/touch-design-mobile-interfaces-devices/",
-          "author": "hello@smashingmagazine.com (Steven Hoober)",
-          "description": "Before we can talk about how people interact, much less how to take advantage of that knowledge and design, it’s important to understand a bit about the history, the technology, and what today counts as a mobile touchscreen device at all.",
-          "link": "https://smashingmagazine.com/2021/12/touch-design-mobile-interfaces-devices/",
-          "publishedOn": "2021-12-15T11:30:00.000Z",
-          "wordCount": 2495,
-          "title": "Touch Design For Mobile Interfaces: Defining Mobile Devices (Excerpt)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9e9a3814-1de8-4be8-87c4-a14712d76776/1-touch-design-mobile-interfaces-devices.png",
-            "length": "0",
-            "type": "image/png"
           }
         }
       ]
@@ -366,6 +366,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61e081cfb837d507ba0a2179",
+          "author": null,
+          "description": "Have you heard of \"Netflix and Chill\"? Instead, try \"Netflix and Code\". Code your own Netflix clone! We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a Netflix clone using Django and Tailwind CSS. Django is a Python-based free and open-source",
+          "link": "https://www.freecodecamp.org/news/create-a-netflix-clone-with-django-and-tailwind-css/",
+          "publishedOn": "2022-01-13T19:54:39.000Z",
+          "wordCount": 338,
+          "title": "Create a Netflix Clone with Django and Tailwind CSS"
+        },
+        {
+          "id": "61dd142eb837d507ba09f944",
+          "author": null,
+          "description": "While working on your personal projects, you'll often need to store some data. You could use a SQL or NoSQL database with a server, but that would require you to do a bit of setup.  In this article, we'll learn about TinyDB and how to use it to store our",
+          "link": "https://www.freecodecamp.org/news/get-started-with-tinydb-in-python/",
+          "publishedOn": "2022-01-13T18:46:34.000Z",
+          "wordCount": 1289,
+          "title": "How to Get Started with TinyDB in Python"
+        },
+        {
+          "id": "61d863f4d2d9de084285e610",
+          "author": null,
+          "description": "In this article, I’ve compiled a list of the best machine learning courses available online. I built the ranking by following a well-defined methodology that you can find below.  But if you want to jump straight to the results, here are my picks: Machine Learning (Stanford University)Machine Learning",
+          "link": "https://www.freecodecamp.org/news/best-machine-learning-courses/",
+          "publishedOn": "2022-01-13T18:21:53.000Z",
+          "wordCount": 4449,
+          "title": "10 Best Machine Learning Courses to Take in 2022"
+        },
+        {
+          "id": "61dff8fab837d507ba0a12cb",
+          "author": null,
+          "description": "Props are one of the most important building blocks of React.js. When you need to pass data down from a parent component to a child component, props make this possible. In this article we'll learn how to work with props and build reusable components in React. What Are Props",
+          "link": "https://www.freecodecamp.org/news/how-to-build-reusable-components-with-props-in-react/",
+          "publishedOn": "2022-01-13T17:14:49.000Z",
+          "wordCount": 695,
+          "title": "How to Build Reusable Components with Props in React"
+        },
+        {
+          "id": "61dfca99b837d507ba0a0f3a",
+          "author": null,
+          "description": "If you stop working temporarily and you're not ready to shut down your PC, Windows 10 sleep mode is a great option.  It turns off your computer's monitor and hard drive, slowing down power consumption in the process.  But your PC might refuse to go to sleep sometimes. This could",
+          "link": "https://www.freecodecamp.org/news/windows-10-is-not-going-to-sleep-how-to-fix-sleeping-on-pc/",
+          "publishedOn": "2022-01-13T17:03:04.000Z",
+          "wordCount": 767,
+          "title": "Windows 10 is Not Going to Sleep – How to Fix Sleeping on PC"
+        },
+        {
+          "id": "61d80be9d2d9de084285e127",
+          "author": null,
+          "description": "In this article, we will talk about constructors, how to create our own constructors, and what default constructors are in Java. What is a constructor?As a class-based object-oriented programming term, a constructor is a unique method used to initialize a newly created object (class). There are a few rules",
+          "link": "https://www.freecodecamp.org/news/default-constructor-in-java/",
+          "publishedOn": "2022-01-13T16:53:28.000Z",
+          "wordCount": 905,
+          "title": "Default Constructor in Java – Class Constructor Example"
+        },
+        {
+          "id": "61deedb3b837d507ba0a0695",
+          "author": null,
+          "description": "In this article we're going to learn how to make an application using AWS Serverless that lets us identify images of celebrities. We'll use AWS Rekognition for AI-based identification. We are going to attach an event to the S3 Bucket so that whenever a file gets uploaded to the bucket,",
+          "link": "https://www.freecodecamp.org/news/use-aws-rekognition-to-identify-celebrities-in-images/",
+          "publishedOn": "2022-01-13T16:47:45.000Z",
+          "wordCount": 1279,
+          "title": "AWS Serverless – How to Use AWS Rekognition to Identify Celebrities in Images"
+        },
         {
           "id": "61def1f8b837d507ba0a06cd",
           "author": null,
@@ -392,69 +455,6 @@
           "publishedOn": "2022-01-11T19:05:01.000Z",
           "wordCount": 1540,
           "title": "Python Dictionary – How to Perform CRUD Operations on dicts in Python"
-        },
-        {
-          "id": "61ddb353b837d507ba09fd7b",
-          "author": null,
-          "description": "It may sound surprising, but you already have all it takes to produce high-level logic: right behind your eyes.  In the first term of college, I was introduced to a subject called Logic. In the \"I think, therefore I am\" fashion, you might think this would be an easy subject.",
-          "link": "https://www.freecodecamp.org/news/propositional-logic-for-beginners/",
-          "publishedOn": "2022-01-11T18:41:47.000Z",
-          "wordCount": 1584,
-          "title": "Propositional Logic for Beginners – You Already Know More Than You Think"
-        },
-        {
-          "id": "61d70293d2d9de084285d502",
-          "author": null,
-          "description": "What is Margin Collapse?Margin collapse occurs when vertically adjacent margins of block-level elements collide to share a general margin space. The size of this shared space is dictated by the larger number margin.  You can visualize this as an arm wrestling match, where the larger margin will take over",
-          "link": "https://www.freecodecamp.org/news/what-is-margin-collapse-and-how-to-avoid-it/",
-          "publishedOn": "2022-01-11T18:07:52.000Z",
-          "wordCount": 1081,
-          "title": "What is Margin Collapse in CSS? And How to Avoid It"
-        },
-        {
-          "id": "61daa098d2d9de084285f0e9",
-          "author": null,
-          "description": "Search algorithms are a fundamental computer science concept that you should understand as a developer. They work by using a step-by-step method to locate specific data among a collection of data. In this article, we'll learn how search algorithms work by looking at their implementations in Java and Python. What",
-          "link": "https://www.freecodecamp.org/news/search-algorithms-linear-and-binary-search-explained/",
-          "publishedOn": "2022-01-11T17:21:54.000Z",
-          "wordCount": 1750,
-          "title": "Search Algorithms – Linear Search and Binary Search Code Implementation and Complexity Analysis"
-        },
-        {
-          "id": "61d304e0d2d9de084285afc8",
-          "author": null,
-          "description": "What is DynamoDB?DynamoDB is a fully managed NoSQL database from AWS. DynamoDB is similar to other NoSQL databases like MongoDB, except for the fact that you don’t have to do any maintenance or scaling on your part. DynamoDB can handle more than 10 trillion requests per day and",
-          "link": "https://www.freecodecamp.org/news/aws-dynamodb-database-guide-for-beginners/",
-          "publishedOn": "2022-01-11T16:50:00.000Z",
-          "wordCount": 1179,
-          "title": "AWS DynamoDB – NoSQL Database Guide for Beginners"
-        },
-        {
-          "id": "601617d60a2838549dcbb553",
-          "author": null,
-          "description": "It's a bit tricky to explain what exactly a file system is in just one sentence. That's why I decided to write an article about it. This post is meant to be a high-level overview of file systems. But I'll sneak into the lower-level concepts as well, as long as",
-          "link": "https://www.freecodecamp.org/news/file-systems-architecture-explained/",
-          "publishedOn": "2022-01-11T16:49:00.000Z",
-          "wordCount": 6928,
-          "title": "What Is a File System? Types of Computer File Systems and How they Work – Explained with Examples"
-        },
-        {
-          "id": "61d6aae9d2d9de084285cfdc",
-          "author": null,
-          "description": "As a JavaScript beginner, you probably learned how to declare variables and assign values.  In the old, pre-ES6 era of JavaScript, developers used to declare variables using the keyword var or without any keywords. But times have changed! With ES6 (EcmaScript 2015), the beginning of the modern era in JavaScript,",
-          "link": "https://www.freecodecamp.org/news/understanding-let-const-and-var-keywords/",
-          "publishedOn": "2022-01-11T16:47:43.000Z",
-          "wordCount": 1573,
-          "title": "How the let, const, and var Keywords Work in JavaScript"
-        },
-        {
-          "id": "61defbc6b837d507ba0a07af",
-          "author": null,
-          "description": "Are you preparing for coding interviews? Or competitive programming? It can take a lot of study and practice to get good at solving coding problems often used in interviews.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to solve 10 common coding",
-          "link": "https://www.freecodecamp.org/news/10-common-coding-interview-problems-solved/",
-          "publishedOn": "2022-01-11T16:08:00.000Z",
-          "wordCount": 347,
-          "title": "10 Common Coding Interview Problems [Solved]"
         }
       ]
     }

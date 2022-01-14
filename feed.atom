@@ -1,10 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-13T00:03:05.096Z</id>
+    <id>urn:2022-01-14T00:03:21.412Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-13T00:03:05.096Z</updated>
+    <updated>2022-01-14T00:03:21.412Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[8 Helpful Accessibility Links for January 2022]]></title>
+        <id>https://css-tricks.com/?p=360939</id>
+        <link href="https://css-tricks.com/8-accessibility-links-january-2022/"/>
+        <updated>2022-01-13T20:57:41.000Z</updated>
+        <summary type="html"><![CDATA[Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Accessibility is one of those things! Here’s a list of related links to other articles that I’ve been saving up and …
+8 Helpful Accessibility Links for January 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Netflix Clone with Django and Tailwind CSS]]></title>
+        <id>61e081cfb837d507ba0a2179</id>
+        <link href="https://www.freecodecamp.org/news/create-a-netflix-clone-with-django-and-tailwind-css/"/>
+        <updated>2022-01-13T19:54:39.000Z</updated>
+        <summary type="html"><![CDATA[Have you heard of "Netflix and Chill"? Instead, try "Netflix and Code". Code your own Netflix clone! We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a Netflix clone using Django and Tailwind CSS. Django is a Python-based free and open-source]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Started with TinyDB in Python]]></title>
+        <id>61dd142eb837d507ba09f944</id>
+        <link href="https://www.freecodecamp.org/news/get-started-with-tinydb-in-python/"/>
+        <updated>2022-01-13T18:46:34.000Z</updated>
+        <summary type="html"><![CDATA[While working on your personal projects, you'll often need to store some data. You could use a SQL or NoSQL database with a server, but that would require you to do a bit of setup.  In this article, we'll learn about TinyDB and how to use it to store our]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Best Machine Learning Courses to Take in 2022]]></title>
+        <id>61d863f4d2d9de084285e610</id>
+        <link href="https://www.freecodecamp.org/news/best-machine-learning-courses/"/>
+        <updated>2022-01-13T18:21:53.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I’ve compiled a list of the best machine learning courses available online. I built the ranking by following a well-defined methodology that you can find below.  But if you want to jump straight to the results, here are my picks: Machine Learning (Stanford University)Machine Learning]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Reusable Components with Props in React]]></title>
+        <id>61dff8fab837d507ba0a12cb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-reusable-components-with-props-in-react/"/>
+        <updated>2022-01-13T17:14:49.000Z</updated>
+        <summary type="html"><![CDATA[Props are one of the most important building blocks of React.js. When you need to pass data down from a parent component to a child component, props make this possible. In this article we'll learn how to work with props and build reusable components in React. What Are Props]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10 is Not Going to Sleep – How to Fix Sleeping on PC]]></title>
+        <id>61dfca99b837d507ba0a0f3a</id>
+        <link href="https://www.freecodecamp.org/news/windows-10-is-not-going-to-sleep-how-to-fix-sleeping-on-pc/"/>
+        <updated>2022-01-13T17:03:04.000Z</updated>
+        <summary type="html"><![CDATA[If you stop working temporarily and you're not ready to shut down your PC, Windows 10 sleep mode is a great option.  It turns off your computer's monitor and hard drive, slowing down power consumption in the process.  But your PC might refuse to go to sleep sometimes. This could]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Default Constructor in Java – Class Constructor Example]]></title>
+        <id>61d80be9d2d9de084285e127</id>
+        <link href="https://www.freecodecamp.org/news/default-constructor-in-java/"/>
+        <updated>2022-01-13T16:53:28.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will talk about constructors, how to create our own constructors, and what default constructors are in Java. What is a constructor?As a class-based object-oriented programming term, a constructor is a unique method used to initialize a newly created object (class). There are a few rules]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Serverless – How to Use AWS Rekognition to Identify Celebrities in Images]]></title>
+        <id>61deedb3b837d507ba0a0695</id>
+        <link href="https://www.freecodecamp.org/news/use-aws-rekognition-to-identify-celebrities-in-images/"/>
+        <updated>2022-01-13T16:47:45.000Z</updated>
+        <summary type="html"><![CDATA[In this article we're going to learn how to make an application using AWS Serverless that lets us identify images of celebrities. We'll use AWS Rekognition for AI-based identification. We are going to attach an event to the S3 Bucket so that whenever a file gets uploaded to the bucket,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Practical Tip For Using Sass Default Parameters]]></title>
+        <id>https://css-tricks.com/?p=360423</id>
+        <link href="https://css-tricks.com/sass-default-parameters/"/>
+        <updated>2022-01-13T15:17:28.000Z</updated>
+        <summary type="html"><![CDATA[Sass offers functions and mixins that accept parameters. You can use Sass default parameters, that is, parameters that have a value even if you don’t provide them when the function or mixin is called. 
+Let’s focus on mixins here. …
+A Practical Tip For Using Sass Default Parameters originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building A Web Code Editor]]></title>
+        <id>https://smashingmagazine.com/2022/01/building-web-code-editor/</id>
+        <link href="https://smashingmagazine.com/2022/01/building-web-code-editor/"/>
+        <updated>2022-01-13T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’re a developer who’s thinking about building a platform that requires a code editor in one form or another, then this article is for you. This article explains how to create a web code editor that displays the result in real time with the help of some HTML, CSS and JavaScript.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Daniel Don)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Parcel CSS: A New CSS Parser, Transformer, and Minifier]]></title>
         <id>https://css-tricks.com/?p=361233</id>
@@ -101,76 +204,6 @@ What Would it Take to Prevent CSS Tooltips From Overflowing? originally publishe
         <link href="https://www.freecodecamp.org/news/everything-you-need-to-know-about-python-dictionaries/"/>
         <updated>2022-01-11T19:05:01.000Z</updated>
         <summary type="html"><![CDATA[One of the most important composite data types in Python is the dictionary. It's a collection you use to store data in {key:value} pairs.  Dictionaries are ordered and mutable, and they cannot store duplicate data. Just keep in mind that before Python 3.6, dictionaries were unordered. Alright, let's]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Propositional Logic for Beginners – You Already Know More Than You Think]]></title>
-        <id>61ddb353b837d507ba09fd7b</id>
-        <link href="https://www.freecodecamp.org/news/propositional-logic-for-beginners/"/>
-        <updated>2022-01-11T18:41:47.000Z</updated>
-        <summary type="html"><![CDATA[It may sound surprising, but you already have all it takes to produce high-level logic: right behind your eyes.  In the first term of college, I was introduced to a subject called Logic. In the "I think, therefore I am" fashion, you might think this would be an easy subject.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Margin Collapse in CSS? And How to Avoid It]]></title>
-        <id>61d70293d2d9de084285d502</id>
-        <link href="https://www.freecodecamp.org/news/what-is-margin-collapse-and-how-to-avoid-it/"/>
-        <updated>2022-01-11T18:07:52.000Z</updated>
-        <summary type="html"><![CDATA[What is Margin Collapse?Margin collapse occurs when vertically adjacent margins of block-level elements collide to share a general margin space. The size of this shared space is dictated by the larger number margin.  You can visualize this as an arm wrestling match, where the larger margin will take over]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Search Algorithms – Linear Search and Binary Search Code Implementation and Complexity Analysis]]></title>
-        <id>61daa098d2d9de084285f0e9</id>
-        <link href="https://www.freecodecamp.org/news/search-algorithms-linear-and-binary-search-explained/"/>
-        <updated>2022-01-11T17:21:54.000Z</updated>
-        <summary type="html"><![CDATA[Search algorithms are a fundamental computer science concept that you should understand as a developer. They work by using a step-by-step method to locate specific data among a collection of data. In this article, we'll learn how search algorithms work by looking at their implementations in Java and Python. What]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS DynamoDB – NoSQL Database Guide for Beginners]]></title>
-        <id>61d304e0d2d9de084285afc8</id>
-        <link href="https://www.freecodecamp.org/news/aws-dynamodb-database-guide-for-beginners/"/>
-        <updated>2022-01-11T16:50:00.000Z</updated>
-        <summary type="html"><![CDATA[What is DynamoDB?DynamoDB is a fully managed NoSQL database from AWS. DynamoDB is similar to other NoSQL databases like MongoDB, except for the fact that you don’t have to do any maintenance or scaling on your part. DynamoDB can handle more than 10 trillion requests per day and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is a File System? Types of Computer File Systems and How they Work – Explained with Examples]]></title>
-        <id>601617d60a2838549dcbb553</id>
-        <link href="https://www.freecodecamp.org/news/file-systems-architecture-explained/"/>
-        <updated>2022-01-11T16:49:00.000Z</updated>
-        <summary type="html"><![CDATA[It's a bit tricky to explain what exactly a file system is in just one sentence. That's why I decided to write an article about it. This post is meant to be a high-level overview of file systems. But I'll sneak into the lower-level concepts as well, as long as]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the let, const, and var Keywords Work in JavaScript]]></title>
-        <id>61d6aae9d2d9de084285cfdc</id>
-        <link href="https://www.freecodecamp.org/news/understanding-let-const-and-var-keywords/"/>
-        <updated>2022-01-11T16:47:43.000Z</updated>
-        <summary type="html"><![CDATA[As a JavaScript beginner, you probably learned how to declare variables and assign values.  In the old, pre-ES6 era of JavaScript, developers used to declare variables using the keyword var or without any keywords. But times have changed! With ES6 (EcmaScript 2015), the beginning of the modern era in JavaScript,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Common Coding Interview Problems [Solved]]]></title>
-        <id>61defbc6b837d507ba0a07af</id>
-        <link href="https://www.freecodecamp.org/news/10-common-coding-interview-problems-solved/"/>
-        <updated>2022-01-11T16:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Are you preparing for coding interviews? Or competitive programming? It can take a lot of study and practice to get good at solving coding problems often used in interviews.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to solve 10 common coding]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -304,29 +337,6 @@ A New Container Query Polyfill That Just Works originally published on CSS-Trick
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Search For a Fixed Background Effect With Inline Images]]></title>
-        <id>https://css-tricks.com/?p=358917</id>
-        <link href="https://css-tricks.com/fixed-background-effect/"/>
-        <updated>2022-01-06T15:58:55.000Z</updated>
-        <summary type="html"><![CDATA[I was working on a client project a few days ago and wanted to create a certain effect on an <img>. See, background images can do the effect I was looking for somewhat easily with background-attachment: fixed;. With …
-The Search For a Fixed Background Effect With Inline Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Alex Lazar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notes on Josh Comeau’s Custom CSS Reset]]></title>
-        <id>https://css-tricks.com/?p=359736</id>
-        <link href="https://css-tricks.com/notes-on-josh-comeaus-custom-css-reset/"/>
-        <updated>2022-01-05T21:22:45.000Z</updated>
-        <summary type="html"><![CDATA[We recently talked with Elad Shechter on his new CSS reset, and shortly after that Josh Comeau blogged his. 
-We’re in something of a new era of CSS resets where… you kind of don’t need one? There isn’t …
-Notes on Josh Comeau’s Custom CSS Reset originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ten Tips For Aspiring Designer Beginners (Part 1)]]></title>
         <id>https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/</id>
         <link href="https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/"/>
@@ -424,16 +434,6 @@ Notes on Josh Comeau’s Custom CSS Reset originally published on CSS-Tricks. Yo
         <summary type="html"><![CDATA[In every software-as-a-service solution, user billing and payments are key aspects in the sale of services rendered. Let’s learn about Stripe and how the REST API can be programmatically used in serverless functions to manage the billing for an application.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nwani Victory)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Touch Design For Mobile Interfaces: Defining Mobile Devices (Excerpt)]]></title>
-        <id>https://smashingmagazine.com/2021/12/touch-design-mobile-interfaces-devices/</id>
-        <link href="https://smashingmagazine.com/2021/12/touch-design-mobile-interfaces-devices/"/>
-        <updated>2021-12-15T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Before we can talk about how people interact, much less how to take advantage of that knowledge and design, it’s important to understand a bit about the history, the technology, and what today counts as a mobile touchscreen device at all.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Steven Hoober)</name>
         </author>
     </entry>
 </feed>
