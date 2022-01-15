@@ -1,10 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-14T00:03:21.412Z</id>
+    <id>urn:2022-01-15T00:03:14.755Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-14T00:03:21.412Z</updated>
+    <updated>2022-01-15T00:03:14.755Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Get Started with Next.js – The React Library Your Project Needs]]></title>
+        <id>61dd9481b837d507ba09fca9</id>
+        <link href="https://www.freecodecamp.org/news/nextjs-tutorial/"/>
+        <updated>2022-01-14T21:39:10.000Z</updated>
+        <summary type="html"><![CDATA[I've composed this guide to give you a practical overview of perhaps the most important React library you will use to build 90% of your projects: Next.js. The goal of this tutorial is to get you started using Next.js as easily as possible. This is not a complete]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a CSS-Only Loader Using One Element]]></title>
+        <id>61dfe267b837d507ba0a10e9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-css-only-loader/"/>
+        <updated>2022-01-14T21:11:49.000Z</updated>
+        <summary type="html"><![CDATA[If you have a website, it's helpful to have a loader so users can tell something is happening once they've clicked a link or button.  You can use this loader component in a lot of places, and it should be as simple as possible.  In this post, we will see]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Your Own Custom Code Snippets Right in Your Code Editor]]></title>
+        <id>61de055cb837d507ba0a011c</id>
+        <link href="https://www.freecodecamp.org/news/create-your-own-custom-code-snippets/"/>
+        <updated>2022-01-14T18:46:57.000Z</updated>
+        <summary type="html"><![CDATA[A code Snippet is a programming term that refers to a small portion of re-usable source code, machine code, or text.  Snippets help programmers reduce the time it takes to type in repetitive information while coding. Code Snippets are a feature on most text editors, code editors, and IDEs.  In]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mondrian Art in CSS From 5 Code Artists]]></title>
+        <id>https://css-tricks.com/?p=360864</id>
+        <link href="https://css-tricks.com/mondrian-art-in-css-from-5-code-artists/"/>
+        <updated>2022-01-14T18:15:03.000Z</updated>
+        <summary type="html"><![CDATA[Mondrian is famous for paintings with big thick black lines forming a grid, where each cell is white, red, yellow, or blue. This aesthetic pairs well with the notoriously rectangular web, and that hasn’t gone unnoticed over the years with …
+Mondrian Art in CSS From 5 Code Artists originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your First Custom Svelte Transition]]></title>
+        <id>https://css-tricks.com/?p=360781</id>
+        <link href="https://css-tricks.com/making-your-first-custom-svelte-transition/"/>
+        <updated>2022-01-14T15:24:19.000Z</updated>
+        <summary type="html"><![CDATA[The Svelte transition API provides a first-class way to animate your components when they enter or leave the document, including custom Svelte transitions. By default, the transition directive uses CSS animations, which generally offer better performance and allow the browser’s …
+How to Build Your First Custom Svelte Transition originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Austin Crim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ten Tips For Aspiring Designer Beginners (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/</id>
+        <link href="https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/"/>
+        <updated>2022-01-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In [Part 1](https://www.smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/), Luis Ouriach shared advice he wished he had when starting out in his career. In this second and last part of this series, Luis continues sharing tips that helped him grow and become a better designer throughout the years.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Luis Ouriach)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the z-index Property Works Under the Hood]]></title>
+        <id>61dbe879d2d9de084285fb65</id>
+        <link href="https://www.freecodecamp.org/news/how-the-z-index-property-works-under-the-hood/"/>
+        <updated>2022-01-14T11:06:00.000Z</updated>
+        <summary type="html"><![CDATA[The z-index property might seem simple, but it's not just about using a positive or negative integer.  There's a lot more going on under the hood, and some quirks can cause problems when you're working with it.  In this article, we're going to dive deep into the z-index property and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Certified Kubernetes Administrator Study Guide – Prepare for the CKA Exam]]></title>
+        <id>61dc4ac1d2d9de084285fed6</id>
+        <link href="https://www.freecodecamp.org/news/certified-kubernetes-administrator-study-guide-cka/"/>
+        <updated>2022-01-14T01:14:02.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetes is a container orchestration platform that helps you manage containers at scale.  I recently passed my certified Kubernetes administrator exam, and I would like to share my learning experience and resources with you.  Should You Get Kubernetes Certified? There are mixed opinions in the tech industry about the importance]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8 Helpful Accessibility Links for January 2022]]></title>
         <id>https://css-tricks.com/?p=360939</id>
@@ -67,26 +149,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Default Constructor in Java – Class Constructor Example]]></title>
-        <id>61d80be9d2d9de084285e127</id>
-        <link href="https://www.freecodecamp.org/news/default-constructor-in-java/"/>
-        <updated>2022-01-13T16:53:28.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will talk about constructors, how to create our own constructors, and what default constructors are in Java. What is a constructor?As a class-based object-oriented programming term, a constructor is a unique method used to initialize a newly created object (class). There are a few rules]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Serverless – How to Use AWS Rekognition to Identify Celebrities in Images]]></title>
-        <id>61deedb3b837d507ba0a0695</id>
-        <link href="https://www.freecodecamp.org/news/use-aws-rekognition-to-identify-celebrities-in-images/"/>
-        <updated>2022-01-13T16:47:45.000Z</updated>
-        <summary type="html"><![CDATA[In this article we're going to learn how to make an application using AWS Serverless that lets us identify images of celebrities. We'll use AWS Rekognition for AI-based identification. We are going to attach an event to the S3 Bucket so that whenever a file gets uploaded to the bucket,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Practical Tip For Using Sass Default Parameters]]></title>
         <id>https://css-tricks.com/?p=360423</id>
         <link href="https://css-tricks.com/sass-default-parameters/"/>
@@ -135,26 +197,6 @@ Open Source & Sustainability originally published on CSS-Tricks. You should get 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python strip() – How to Trim a String or Line]]></title>
-        <id>61def1f8b837d507ba0a06cd</id>
-        <link href="https://www.freecodecamp.org/news/python-strip-how-to-trim-a-string-or-line/"/>
-        <updated>2022-01-12T20:48:03.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn how to trim a string in Python using the .strip() method.  You'll also see how to use the .lstrip() and .rstrip() methods, which are the counterparts to .strip().  Let's get started!  How to trim a string in Python Python has three built-in methods for trimming]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code a Full Stack Instagram Clone with Flutter and Firebase]]></title>
-        <id>61df0010b837d507ba0a0840</id>
-        <link href="https://www.freecodecamp.org/news/code-a-full-stack-instagram-clone-with-flutter-and-firebase/"/>
-        <updated>2022-01-12T16:29:13.000Z</updated>
-        <summary type="html"><![CDATA[Flutter and Firebase can work well together to create a full stack app. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build an Instagram clone using Flutter on the front end and Firebase on the back end. After this tutorial, you]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Make a Pure CSS 3D Package Toggle]]></title>
         <id>https://css-tricks.com/?p=360168</id>
         <link href="https://css-tricks.com/how-to-make-a-pure-css-3d-package-toggle/"/>
@@ -196,16 +238,6 @@ Netlify Identity, a Key Aspect to Jamstack Development originally published on C
 What Would it Take to Prevent CSS Tooltips From Overflowing? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Dictionary – How to Perform CRUD Operations on dicts in Python]]></title>
-        <id>61db119ad2d9de084285f51f</id>
-        <link href="https://www.freecodecamp.org/news/everything-you-need-to-know-about-python-dictionaries/"/>
-        <updated>2022-01-11T19:05:01.000Z</updated>
-        <summary type="html"><![CDATA[One of the most important composite data types in Python is the dictionary. It's a collection you use to store data in {key:value} pairs.  Dictionaries are ordered and mutable, and they cannot store duplicate data. Just keep in mind that before Python 3.6, dictionaries were unordered. Alright, let's]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -311,29 +343,6 @@ Adam Argyle’s Sick Mouse-Out CSS Hover Effect originally published on CSS-Tric
         <summary type="html"><![CDATA[Product roadmaps are often treated as a series of checkboxes. But they are more than that. In this article, Scott Himmer explains how internal partnerships, research, design systems, and regular touch bases can help make sure that your product roadmap is a successful one.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Scott Himmer)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[useRainbow()]]></title>
-        <id>https://css-tricks.com/?p=359823</id>
-        <link href="https://css-tricks.com/userainbow/"/>
-        <updated>2022-01-07T14:59:04.000Z</updated>
-        <summary type="html"><![CDATA[I took a break from work and started some small, personal projects (toys). One of those small projects is potato.horse where I keep all of my doodles, visual short stories and jokes. Check it out!
-However, this post is not …
-useRainbow() originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Rafał Pastuszak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New Container Query Polyfill That Just Works]]></title>
-        <id>https://css-tricks.com/?p=360320</id>
-        <link href="https://css-tricks.com/a-new-container-query-polyfill-that-just-works/"/>
-        <updated>2022-01-06T22:28:46.000Z</updated>
-        <summary type="html"><![CDATA[There is an easy-to-use CSS container query polyfill now. You essentially conditionally load it and forget about it. Then write spec-compliant container queries code.
-A New Container Query Polyfill That Just Works originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>

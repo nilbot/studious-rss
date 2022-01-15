@@ -22,6 +22,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=360864",
+          "author": "Chris Coyier",
+          "description": "Mondrian is famous for paintings with big thick black lines forming a grid, where each cell is white, red, yellow, or blue. This aesthetic pairs well with the notoriously rectangular web, and that hasn’t gone unnoticed over the years with …\nMondrian Art in CSS From 5 Code Artists originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/mondrian-art-in-css-from-5-code-artists/",
+          "publishedOn": "2022-01-14T18:15:03.000Z",
+          "wordCount": 843,
+          "title": "Mondrian Art in CSS From 5 Code Artists"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360781",
+          "author": "Austin Crim",
+          "description": "The Svelte transition API provides a first-class way to animate your components when they enter or leave the document, including custom Svelte transitions. By default, the transition directive uses CSS animations, which generally offer better performance and allow the browser’s …\nHow to Build Your First Custom Svelte Transition originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/making-your-first-custom-svelte-transition/",
+          "publishedOn": "2022-01-14T15:24:19.000Z",
+          "wordCount": 1571,
+          "title": "How to Build Your First Custom Svelte Transition"
+        },
+        {
           "id": "https://css-tricks.com/?p=360939",
           "author": "Chris Coyier",
           "description": "Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Accessibility is one of those things! Here’s a list of related links to other articles that I’ve been saving up and …\n8 Helpful Accessibility Links for January 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -54,7 +72,7 @@
           "description": "It’s a god-damned miracle to me that open source is as robust as it is in tech. Consider the options. You could have a job (or be entrepreneurial) with your coding skills and likely be paid quite well. Or, you …\nOpen Source & Sustainability originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/open-source-sustainability/",
           "publishedOn": "2022-01-12T20:51:49.000Z",
-          "wordCount": 998,
+          "wordCount": 1017,
           "title": "Open Source & Sustainability"
         },
         {
@@ -90,7 +108,7 @@
           "description": "Vite (pronounced “veet”) is a newish JavaScript bundler. It comes batteries-included, requires almost no configuration to be useful, and includes plenty of configuration options. Oh—and it’s fast. Incredibly fast.\nThis post will walk through the process of converting an existing …\nAdding Vite to Your Existing Web App originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/adding-vite-to-your-existing-web-app/",
           "publishedOn": "2022-01-11T15:38:06.000Z",
-          "wordCount": 2831,
+          "wordCount": 2895,
           "title": "Adding Vite to Your Existing Web App"
         },
         {
@@ -137,24 +155,6 @@
           "publishedOn": "2022-01-07T20:15:19.000Z",
           "wordCount": 1537,
           "title": "Adam Argyle’s Sick Mouse-Out CSS Hover Effect"
-        },
-        {
-          "id": "https://css-tricks.com/?p=359823",
-          "author": "Rafał Pastuszak",
-          "description": "I took a break from work and started some small, personal projects (toys). One of those small projects is potato.horse where I keep all of my doodles, visual short stories and jokes. Check it out!\nHowever, this post is not …\nuseRainbow() originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/userainbow/",
-          "publishedOn": "2022-01-07T14:59:04.000Z",
-          "wordCount": 2035,
-          "title": "useRainbow()"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360320",
-          "author": "Chris Coyier",
-          "description": "There is an easy-to-use CSS container query polyfill now. You essentially conditionally load it and forget about it. Then write spec-compliant container queries code.\nA New Container Query Polyfill That Just Works originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/a-new-container-query-polyfill-that-just-works/",
-          "publishedOn": "2022-01-06T22:28:46.000Z",
-          "wordCount": 1205,
-          "title": "A New Container Query Polyfill That Just Works"
         }
       ]
     },
@@ -164,12 +164,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/",
+          "author": "hello@smashingmagazine.com (Luis Ouriach)",
+          "description": "In [Part 1](https://www.smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/), Luis Ouriach shared advice he wished he had when starting out in his career. In this second and last part of this series, Luis continues sharing tips that helped him grow and become a better designer throughout the years.",
+          "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/",
+          "publishedOn": "2022-01-14T15:00:00.000Z",
+          "wordCount": 3569,
+          "title": "Ten Tips For Aspiring Designer Beginners (Part 2)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b0e9621-b939-439d-a812-69a4eb7d68ff/tips-aspiring-designer-beginners-part2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2022/01/building-web-code-editor/",
           "author": "hello@smashingmagazine.com (Daniel Don)",
           "description": "If you’re a developer who’s thinking about building a platform that requires a code editor in one form or another, then this article is for you. This article explains how to create a web code editor that displays the result in real time with the help of some HTML, CSS and JavaScript.",
           "link": "https://smashingmagazine.com/2022/01/building-web-code-editor/",
           "publishedOn": "2022-01-13T11:30:00.000Z",
-          "wordCount": 5052,
+          "wordCount": 5059,
           "title": "Building A Web Code Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7db33e0-a76e-4f4f-959f-be0f8898784f/building-web-code-editor.jpg",
@@ -183,7 +197,7 @@
           "description": "Accessibility must be a permanent program within organizations, much like security. In this article, Kate Kalcevich shares tips on which skills and questions to keep in mind when hiring for digital accessibility roles.",
           "link": "https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/",
           "publishedOn": "2022-01-12T10:30:00.000Z",
-          "wordCount": 3855,
+          "wordCount": 3850,
           "title": "How To Hire For Digital Accessibility Roles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/99b1af95-05d8-48ce-9086-171a59ba27f0/how-hire-digital-accessibility-roles.jpg",
@@ -211,7 +225,7 @@
           "description": "Product roadmaps are often treated as a series of checkboxes. But they are more than that. In this article, Scott Himmer explains how internal partnerships, research, design systems, and regular touch bases can help make sure that your product roadmap is a successful one.",
           "link": "https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/",
           "publishedOn": "2022-01-07T16:00:00.000Z",
-          "wordCount": 4011,
+          "wordCount": 4000,
           "title": "Changing A Tire On A Moving Car (Or How To Improve Product Roadmaps)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/31db8ed2-e433-46b6-9b8e-ab622b10fce0/changing-tire-on-moving-car.jpg",
@@ -225,7 +239,7 @@
           "description": "In this article (the first part in a series of two), Luis Ouriach shares advice that he wishes he has when starting out in his career. These tips come from his experience as a user interface and product designer for close to ten years, and if you’re starting just now, then read on!",
           "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/",
           "publishedOn": "2022-01-05T13:00:00.000Z",
-          "wordCount": 4070,
+          "wordCount": 4059,
           "title": "Ten Tips For Aspiring Designer Beginners (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/954de2dd-e9df-43de-9b9a-bb24c1f8cf0b/tips-aspiring-designer-beginners-part1.jpg",
@@ -239,7 +253,7 @@
           "description": "Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.",
           "link": "https://smashingmagazine.com/2022/01/composition-based-design-system-figma/",
           "publishedOn": "2022-01-03T13:00:00.000Z",
-          "wordCount": 2639,
+          "wordCount": 2638,
           "title": "Composition-Based Design System In Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/671611c3-eaf7-427e-9e5d-1bb74fbf62f5/composition-based-design-system-figma.jpg",
@@ -253,7 +267,7 @@
           "description": "What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.",
           "link": "https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/",
           "publishedOn": "2021-12-31T09:00:00.000Z",
-          "wordCount": 2529,
+          "wordCount": 2531,
           "title": "New Year, Fresh Desktop (January 2022 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55a76925-9960-4444-a72c-72d8738d5ac8/jan-22-new-years-magic-preview-opt.png",
@@ -281,7 +295,7 @@
           "description": "Have you already built and published a Gatsby theme? In this article, Paulina Hetman explains how Gatsby themes work and what problems they can solve by comparing Gatsby themes with their WordPress counterparts.",
           "link": "https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/",
           "publishedOn": "2021-12-27T10:30:00.000Z",
-          "wordCount": 4250,
+          "wordCount": 4239,
           "title": "Building Gatsby Themes For WordPress-Powered Websites",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5b60a4b-63f6-47e2-a9aa-33faa3e9ca9e/building-gatsby-themes-wordpress-powered-websites.jpg",
@@ -309,7 +323,7 @@
           "description": "A meaningful user experience is what can set your site apart from others. But what makes an experience truly meaningful? And how to achieve that? The tools, tips, and resources in this post not only help you to come up with a UX strategy that works for you and your team but also to circumvent potential UX pitfalls.",
           "link": "https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/",
           "publishedOn": "2021-12-22T10:00:00.000Z",
-          "wordCount": 4193,
+          "wordCount": 4195,
           "title": "Useful UX Guidelines, Tools And Resources",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fb38ba21-df76-4d15-b7ef-bbda38aeea6b/laws-of-ux-opt.png",
@@ -337,7 +351,7 @@
           "description": "Modern HMIs are transforming the way we interact with our vehicles. A car becomes a gadget that we use in a similar way as we use our phones. Users expect a lot of HMI, they even evaluate car experience based on the experience they have with HMI. In this article, let’s look at some ways to help us satisfy users’ needs with proper design.",
           "link": "https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/",
           "publishedOn": "2021-12-17T14:30:00.000Z",
-          "wordCount": 3405,
+          "wordCount": 3407,
           "title": "Designing Human-Machine Interfaces For Vehicles Of The Future",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d9f919a-44bf-46ef-bfff-ee673c58e83f/designing-human-machine-interfaces-future-vehicles.jpg",
@@ -351,7 +365,7 @@
           "description": "In every software-as-a-service solution, user billing and payments are key aspects in the sale of services rendered. Let’s learn about Stripe and how the REST API can be programmatically used in serverless functions to manage the billing for an application.",
           "link": "https://smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/",
           "publishedOn": "2021-12-17T13:30:00.000Z",
-          "wordCount": 5452,
+          "wordCount": 5456,
           "title": "Billing Management For Your Next SaaS Idea Using Stripe And Azure Functions",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/346f3641-b7be-486d-8ac9-327ffe00e232/billing-management-saas-stripe-azure-functions.jpg",
@@ -366,6 +380,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61dd9481b837d507ba09fca9",
+          "author": null,
+          "description": "I've composed this guide to give you a practical overview of perhaps the most important React library you will use to build 90% of your projects: Next.js. The goal of this tutorial is to get you started using Next.js as easily as possible. This is not a complete",
+          "link": "https://www.freecodecamp.org/news/nextjs-tutorial/",
+          "publishedOn": "2022-01-14T21:39:10.000Z",
+          "wordCount": 2638,
+          "title": "Get Started with Next.js – The React Library Your Project Needs"
+        },
+        {
+          "id": "61dfe267b837d507ba0a10e9",
+          "author": null,
+          "description": "If you have a website, it's helpful to have a loader so users can tell something is happening once they've clicked a link or button.  You can use this loader component in a lot of places, and it should be as simple as possible.  In this post, we will see",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-css-only-loader/",
+          "publishedOn": "2022-01-14T21:11:49.000Z",
+          "wordCount": 1930,
+          "title": "How to Create a CSS-Only Loader Using One Element"
+        },
+        {
+          "id": "61de055cb837d507ba0a011c",
+          "author": null,
+          "description": "A code Snippet is a programming term that refers to a small portion of re-usable source code, machine code, or text.  Snippets help programmers reduce the time it takes to type in repetitive information while coding. Code Snippets are a feature on most text editors, code editors, and IDEs.  In",
+          "link": "https://www.freecodecamp.org/news/create-your-own-custom-code-snippets/",
+          "publishedOn": "2022-01-14T18:46:57.000Z",
+          "wordCount": 2162,
+          "title": "How to Create Your Own Custom Code Snippets Right in Your Code Editor"
+        },
+        {
+          "id": "61dbe879d2d9de084285fb65",
+          "author": null,
+          "description": "The z-index property might seem simple, but it's not just about using a positive or negative integer.  There's a lot more going on under the hood, and some quirks can cause problems when you're working with it.  In this article, we're going to dive deep into the z-index property and",
+          "link": "https://www.freecodecamp.org/news/how-the-z-index-property-works-under-the-hood/",
+          "publishedOn": "2022-01-14T11:06:00.000Z",
+          "wordCount": 1357,
+          "title": "How the z-index Property Works Under the Hood"
+        },
+        {
+          "id": "61dc4ac1d2d9de084285fed6",
+          "author": null,
+          "description": "Kubernetes is a container orchestration platform that helps you manage containers at scale.  I recently passed my certified Kubernetes administrator exam, and I would like to share my learning experience and resources with you.  Should You Get Kubernetes Certified? There are mixed opinions in the tech industry about the importance",
+          "link": "https://www.freecodecamp.org/news/certified-kubernetes-administrator-study-guide-cka/",
+          "publishedOn": "2022-01-14T01:14:02.000Z",
+          "wordCount": 3532,
+          "title": "Certified Kubernetes Administrator Study Guide – Prepare for the CKA Exam"
+        },
         {
           "id": "61e081cfb837d507ba0a2179",
           "author": null,
@@ -410,51 +469,6 @@
           "publishedOn": "2022-01-13T17:03:04.000Z",
           "wordCount": 767,
           "title": "Windows 10 is Not Going to Sleep – How to Fix Sleeping on PC"
-        },
-        {
-          "id": "61d80be9d2d9de084285e127",
-          "author": null,
-          "description": "In this article, we will talk about constructors, how to create our own constructors, and what default constructors are in Java. What is a constructor?As a class-based object-oriented programming term, a constructor is a unique method used to initialize a newly created object (class). There are a few rules",
-          "link": "https://www.freecodecamp.org/news/default-constructor-in-java/",
-          "publishedOn": "2022-01-13T16:53:28.000Z",
-          "wordCount": 905,
-          "title": "Default Constructor in Java – Class Constructor Example"
-        },
-        {
-          "id": "61deedb3b837d507ba0a0695",
-          "author": null,
-          "description": "In this article we're going to learn how to make an application using AWS Serverless that lets us identify images of celebrities. We'll use AWS Rekognition for AI-based identification. We are going to attach an event to the S3 Bucket so that whenever a file gets uploaded to the bucket,",
-          "link": "https://www.freecodecamp.org/news/use-aws-rekognition-to-identify-celebrities-in-images/",
-          "publishedOn": "2022-01-13T16:47:45.000Z",
-          "wordCount": 1279,
-          "title": "AWS Serverless – How to Use AWS Rekognition to Identify Celebrities in Images"
-        },
-        {
-          "id": "61def1f8b837d507ba0a06cd",
-          "author": null,
-          "description": "In this article, you'll learn how to trim a string in Python using the .strip() method.  You'll also see how to use the .lstrip() and .rstrip() methods, which are the counterparts to .strip().  Let's get started!  How to trim a string in Python Python has three built-in methods for trimming",
-          "link": "https://www.freecodecamp.org/news/python-strip-how-to-trim-a-string-or-line/",
-          "publishedOn": "2022-01-12T20:48:03.000Z",
-          "wordCount": 1060,
-          "title": "Python strip() – How to Trim a String or Line"
-        },
-        {
-          "id": "61df0010b837d507ba0a0840",
-          "author": null,
-          "description": "Flutter and Firebase can work well together to create a full stack app. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build an Instagram clone using Flutter on the front end and Firebase on the back end. After this tutorial, you",
-          "link": "https://www.freecodecamp.org/news/code-a-full-stack-instagram-clone-with-flutter-and-firebase/",
-          "publishedOn": "2022-01-12T16:29:13.000Z",
-          "wordCount": 417,
-          "title": "Code a Full Stack Instagram Clone with Flutter and Firebase"
-        },
-        {
-          "id": "61db119ad2d9de084285f51f",
-          "author": null,
-          "description": "One of the most important composite data types in Python is the dictionary. It's a collection you use to store data in {key:value} pairs.  Dictionaries are ordered and mutable, and they cannot store duplicate data. Just keep in mind that before Python 3.6, dictionaries were unordered. Alright, let's",
-          "link": "https://www.freecodecamp.org/news/everything-you-need-to-know-about-python-dictionaries/",
-          "publishedOn": "2022-01-11T19:05:01.000Z",
-          "wordCount": 1540,
-          "title": "Python Dictionary – How to Perform CRUD Operations on dicts in Python"
         }
       ]
     }
