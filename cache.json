@@ -22,6 +22,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=360928",
+          "author": "Chris Coyier",
+          "description": "Stoyan is absolutely correct. As much as we all love CSS, it’s still an important player in how websites load and using less of it is a good thing. He has a neat new bookmarklet called CSS Me Not …\nUsing the CSS Me Not Bookmarklet to See (and Disable) CSS Files originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/css-me-not-bookmarklet/",
+          "publishedOn": "2022-01-15T00:06:56.000Z",
+          "wordCount": 987,
+          "title": "Using the CSS Me Not Bookmarklet to See (and Disable) CSS Files"
+        },
+        {
           "id": "https://css-tricks.com/?p=360864",
           "author": "Chris Coyier",
           "description": "Mondrian is famous for paintings with big thick black lines forming a grid, where each cell is white, red, yellow, or blue. This aesthetic pairs well with the notoriously rectangular web, and that hasn’t gone unnoticed over the years with …\nMondrian Art in CSS From 5 Code Artists originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -45,7 +54,7 @@
           "description": "Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Accessibility is one of those things! Here’s a list of related links to other articles that I’ve been saving up and …\n8 Helpful Accessibility Links for January 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/8-accessibility-links-january-2022/",
           "publishedOn": "2022-01-13T20:57:41.000Z",
-          "wordCount": 773,
+          "wordCount": 786,
           "title": "8 Helpful Accessibility Links for January 2022"
         },
         {
@@ -63,7 +72,7 @@
           "description": "Hot off the presses from Devon Govett, creator of Parcel, is Parcel CSS:\nA CSS parser, transformer, and minifier written in Rust.\n\nNice. The CSS world could use a little processing shake up like this.\nI just wrote a …\nParcel CSS: A New CSS Parser, Transformer, and Minifier originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/parcel-css/",
           "publishedOn": "2022-01-12T21:10:53.000Z",
-          "wordCount": 1271,
+          "wordCount": 1294,
           "title": "Parcel CSS: A New CSS Parser, Transformer, and Minifier"
         },
         {
@@ -99,7 +108,7 @@
           "description": "Say you have an elements with CSS tooltips and you’re going to position those tooltips such that it opens up next to the element on hover (or probably better: when clicked/tapped). Next to it where? Above it? What if the …\nWhat Would it Take to Prevent CSS Tooltips From Overflowing? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/can-css-prevent-tooltips-from-overflowing/",
           "publishedOn": "2022-01-11T23:18:56.000Z",
-          "wordCount": 905,
+          "wordCount": 977,
           "title": "What Would it Take to Prevent CSS Tooltips From Overflowing?"
         },
         {
@@ -146,15 +155,6 @@
           "publishedOn": "2022-01-07T22:31:52.000Z",
           "wordCount": 989,
           "title": "8 Interesting Typography Links for January 2022"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360113",
-          "author": "Geoff Graham",
-          "description": "I was killing some time browsing my CodePen feed for some eye candy and didn’t need to go past the first page before spotting a neat CSS hover effect by Adam Argyle.\nI must’ve spent 10 minutes just staring …\nAdam Argyle’s Sick Mouse-Out CSS Hover Effect originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/adam-argyles-sick-mouse-out-css-hover-effect/",
-          "publishedOn": "2022-01-07T20:15:19.000Z",
-          "wordCount": 1537,
-          "title": "Adam Argyle’s Sick Mouse-Out CSS Hover Effect"
         }
       ]
     },
@@ -169,7 +169,7 @@
           "description": "In [Part 1](https://www.smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/), Luis Ouriach shared advice he wished he had when starting out in his career. In this second and last part of this series, Luis continues sharing tips that helped him grow and become a better designer throughout the years.",
           "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/",
           "publishedOn": "2022-01-14T15:00:00.000Z",
-          "wordCount": 3569,
+          "wordCount": 3572,
           "title": "Ten Tips For Aspiring Designer Beginners (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b0e9621-b939-439d-a812-69a4eb7d68ff/tips-aspiring-designer-beginners-part2.jpg",
@@ -183,7 +183,7 @@
           "description": "If you’re a developer who’s thinking about building a platform that requires a code editor in one form or another, then this article is for you. This article explains how to create a web code editor that displays the result in real time with the help of some HTML, CSS and JavaScript.",
           "link": "https://smashingmagazine.com/2022/01/building-web-code-editor/",
           "publishedOn": "2022-01-13T11:30:00.000Z",
-          "wordCount": 5059,
+          "wordCount": 5046,
           "title": "Building A Web Code Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7db33e0-a76e-4f4f-959f-be0f8898784f/building-web-code-editor.jpg",
@@ -197,7 +197,7 @@
           "description": "Accessibility must be a permanent program within organizations, much like security. In this article, Kate Kalcevich shares tips on which skills and questions to keep in mind when hiring for digital accessibility roles.",
           "link": "https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/",
           "publishedOn": "2022-01-12T10:30:00.000Z",
-          "wordCount": 3850,
+          "wordCount": 3851,
           "title": "How To Hire For Digital Accessibility Roles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/99b1af95-05d8-48ce-9086-171a59ba27f0/how-hire-digital-accessibility-roles.jpg",
@@ -225,7 +225,7 @@
           "description": "Product roadmaps are often treated as a series of checkboxes. But they are more than that. In this article, Scott Himmer explains how internal partnerships, research, design systems, and regular touch bases can help make sure that your product roadmap is a successful one.",
           "link": "https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/",
           "publishedOn": "2022-01-07T16:00:00.000Z",
-          "wordCount": 4000,
+          "wordCount": 4002,
           "title": "Changing A Tire On A Moving Car (Or How To Improve Product Roadmaps)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/31db8ed2-e433-46b6-9b8e-ab622b10fce0/changing-tire-on-moving-car.jpg",
@@ -239,7 +239,7 @@
           "description": "In this article (the first part in a series of two), Luis Ouriach shares advice that he wishes he has when starting out in his career. These tips come from his experience as a user interface and product designer for close to ten years, and if you’re starting just now, then read on!",
           "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/",
           "publishedOn": "2022-01-05T13:00:00.000Z",
-          "wordCount": 4059,
+          "wordCount": 4060,
           "title": "Ten Tips For Aspiring Designer Beginners (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/954de2dd-e9df-43de-9b9a-bb24c1f8cf0b/tips-aspiring-designer-beginners-part1.jpg",
@@ -267,7 +267,7 @@
           "description": "What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.",
           "link": "https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/",
           "publishedOn": "2021-12-31T09:00:00.000Z",
-          "wordCount": 2531,
+          "wordCount": 2544,
           "title": "New Year, Fresh Desktop (January 2022 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55a76925-9960-4444-a72c-72d8738d5ac8/jan-22-new-years-magic-preview-opt.png",
@@ -281,7 +281,7 @@
           "description": "Scoping, estimating, and running digital projects can often feel like an exercise in futility. In this article, Paul Boag explains why you need to start breaking your projects down into manageable phases and why that’s the best way to achieve significant benefits.",
           "link": "https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/",
           "publishedOn": "2021-12-29T10:30:00.000Z",
-          "wordCount": 2475,
+          "wordCount": 2460,
           "title": "How To Price Projects And Manage Scope Creep",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/79f24890-00d9-4d5a-9ae1-405097b24371/price-projects-manage-scope-creep.jpg",
@@ -295,7 +295,7 @@
           "description": "Have you already built and published a Gatsby theme? In this article, Paulina Hetman explains how Gatsby themes work and what problems they can solve by comparing Gatsby themes with their WordPress counterparts.",
           "link": "https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/",
           "publishedOn": "2021-12-27T10:30:00.000Z",
-          "wordCount": 4239,
+          "wordCount": 4241,
           "title": "Building Gatsby Themes For WordPress-Powered Websites",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5b60a4b-63f6-47e2-a9aa-33faa3e9ca9e/building-gatsby-themes-wordpress-powered-websites.jpg",
@@ -309,7 +309,7 @@
           "description": "Range inputs have notoriously been a pain to style. Each browser renders the input differently requiring you to use vendor prefixes in order to create a cohesive look and feel. In this article, we’ll take a look at the quirkiness of the HTML range input and demonstrate how to style the input to look consistent across all major browsers.",
           "link": "https://smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/",
           "publishedOn": "2021-12-23T11:00:00.000Z",
-          "wordCount": 2618,
+          "wordCount": 2617,
           "title": "Creating A Custom Range Input That Looks Consistent Across All Browsers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0deb2d53-1482-44c1-bf77-4dcc92ce3cd5/create-custom-range-input-consistent-browsers.jpg",
@@ -337,7 +337,7 @@
           "description": "How to improve Core Web Vitals, a Smashing Magazine case study on how we detected and fixed the bottlenecks, and how we ended up with green scores, all the way.",
           "link": "https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/",
           "publishedOn": "2021-12-20T05:30:00.000Z",
-          "wordCount": 6028,
+          "wordCount": 6027,
           "title": "Improving Core Web Vitals, A Smashing Magazine Case Study",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/88f0021e-6f6e-4570-954f-eab757e4485b/core-web-vitals-case-study-smashing-magazine.jpg",
@@ -351,7 +351,7 @@
           "description": "Modern HMIs are transforming the way we interact with our vehicles. A car becomes a gadget that we use in a similar way as we use our phones. Users expect a lot of HMI, they even evaluate car experience based on the experience they have with HMI. In this article, let’s look at some ways to help us satisfy users’ needs with proper design.",
           "link": "https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/",
           "publishedOn": "2021-12-17T14:30:00.000Z",
-          "wordCount": 3407,
+          "wordCount": 3404,
           "title": "Designing Human-Machine Interfaces For Vehicles Of The Future",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d9f919a-44bf-46ef-bfff-ee673c58e83f/designing-human-machine-interfaces-future-vehicles.jpg",
@@ -365,7 +365,7 @@
           "description": "In every software-as-a-service solution, user billing and payments are key aspects in the sale of services rendered. Let’s learn about Stripe and how the REST API can be programmatically used in serverless functions to manage the billing for an application.",
           "link": "https://smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/",
           "publishedOn": "2021-12-17T13:30:00.000Z",
-          "wordCount": 5456,
+          "wordCount": 5454,
           "title": "Billing Management For Your Next SaaS Idea Using Stripe And Azure Functions",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/346f3641-b7be-486d-8ac9-327ffe00e232/billing-management-saas-stripe-azure-functions.jpg",
@@ -380,6 +380,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61dff97db837d507ba0a12db",
+          "author": null,
+          "description": "File Explorer is an application for managing files. It is also known as Windows Explorer. It is one of the built-in applications in the Microsoft Windows operating system.  File Explorer is extremely important, as it helps you oraganize and manage files in your PC. Sometimes File Explorer stops responding and",
+          "link": "https://www.freecodecamp.org/news/file-explorer-not-responding-fixed-on-windows-10-pc/",
+          "publishedOn": "2022-01-14T22:39:28.000Z",
+          "wordCount": 923,
+          "title": "File Explorer Not Responding – Fixed on Windows 10 PC"
+        },
         {
           "id": "61dd9481b837d507ba09fca9",
           "author": null,
@@ -460,15 +469,6 @@
           "publishedOn": "2022-01-13T17:14:49.000Z",
           "wordCount": 695,
           "title": "How to Build Reusable Components with Props in React"
-        },
-        {
-          "id": "61dfca99b837d507ba0a0f3a",
-          "author": null,
-          "description": "If you stop working temporarily and you're not ready to shut down your PC, Windows 10 sleep mode is a great option.  It turns off your computer's monitor and hard drive, slowing down power consumption in the process.  But your PC might refuse to go to sleep sometimes. This could",
-          "link": "https://www.freecodecamp.org/news/windows-10-is-not-going-to-sleep-how-to-fix-sleeping-on-pc/",
-          "publishedOn": "2022-01-13T17:03:04.000Z",
-          "wordCount": 767,
-          "title": "Windows 10 is Not Going to Sleep – How to Fix Sleeping on PC"
         }
       ]
     }

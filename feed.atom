@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-15T00:03:14.755Z</id>
+    <id>urn:2022-01-16T00:03:30.859Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-15T00:03:14.755Z</updated>
+    <updated>2022-01-16T00:03:30.859Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Using the CSS Me Not Bookmarklet to See (and Disable) CSS Files]]></title>
+        <id>https://css-tricks.com/?p=360928</id>
+        <link href="https://css-tricks.com/css-me-not-bookmarklet/"/>
+        <updated>2022-01-15T00:06:56.000Z</updated>
+        <summary type="html"><![CDATA[Stoyan is absolutely correct. As much as we all love CSS, it’s still an important player in how websites load and using less of it is a good thing. He has a neat new bookmarklet called CSS Me Not …
+Using the CSS Me Not Bookmarklet to See (and Disable) CSS Files originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[File Explorer Not Responding – Fixed on Windows 10 PC]]></title>
+        <id>61dff97db837d507ba0a12db</id>
+        <link href="https://www.freecodecamp.org/news/file-explorer-not-responding-fixed-on-windows-10-pc/"/>
+        <updated>2022-01-14T22:39:28.000Z</updated>
+        <summary type="html"><![CDATA[File Explorer is an application for managing files. It is also known as Windows Explorer. It is one of the built-in applications in the Microsoft Windows operating system.  File Explorer is extremely important, as it helps you oraganize and manage files in your PC. Sometimes File Explorer stops responding and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Get Started with Next.js – The React Library Your Project Needs]]></title>
         <id>61dd9481b837d507ba09fca9</id>
@@ -134,16 +155,6 @@ How to Build Your First Custom Svelte Transition originally published on CSS-Tri
         <link href="https://www.freecodecamp.org/news/how-to-build-reusable-components-with-props-in-react/"/>
         <updated>2022-01-13T17:14:49.000Z</updated>
         <summary type="html"><![CDATA[Props are one of the most important building blocks of React.js. When you need to pass data down from a parent component to a child component, props make this possible. In this article we'll learn how to work with props and build reusable components in React. What Are Props]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 10 is Not Going to Sleep – How to Fix Sleeping on PC]]></title>
-        <id>61dfca99b837d507ba0a0f3a</id>
-        <link href="https://www.freecodecamp.org/news/windows-10-is-not-going-to-sleep-how-to-fix-sleeping-on-pc/"/>
-        <updated>2022-01-13T17:03:04.000Z</updated>
-        <summary type="html"><![CDATA[If you stop working temporarily and you're not ready to shut down your PC, Windows 10 sleep mode is a great option.  It turns off your computer's monitor and hard drive, slowing down power consumption in the process.  But your PC might refuse to go to sleep sometimes. This could]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -321,18 +332,6 @@ Thank you: @sokomin, @molakirlee, @philippnagel, @tianheg]]></summary>
 8 Interesting Typography Links for January 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adam Argyle’s Sick Mouse-Out CSS Hover Effect]]></title>
-        <id>https://css-tricks.com/?p=360113</id>
-        <link href="https://css-tricks.com/adam-argyles-sick-mouse-out-css-hover-effect/"/>
-        <updated>2022-01-07T20:15:19.000Z</updated>
-        <summary type="html"><![CDATA[I was killing some time browsing my CodePen feed for some eye candy and didn’t need to go past the first page before spotting a neat CSS hover effect by Adam Argyle.
-I must’ve spent 10 minutes just staring …
-Adam Argyle’s Sick Mouse-Out CSS Hover Effect originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
