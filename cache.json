@@ -22,12 +22,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=361047",
+          "author": "Louis Lazaris",
+          "description": "Another year has passed and once again I’ve had the privilege of going through the Web Tools Weekly newsletter archives from the past 12 months to hunt down the front-end tools that readers found to be the most interesting during …\nWhat Were the Hottest Front-End Tools in 2021? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/hottest-front-end-tools-in-2021/",
+          "publishedOn": "2022-01-17T15:13:26.000Z",
+          "wordCount": 6239,
+          "title": "What Were the Hottest Front-End Tools in 2021?"
+        },
+        {
           "id": "https://css-tricks.com/?p=360928",
           "author": "Chris Coyier",
           "description": "Stoyan is absolutely correct. As much as we all love CSS, it’s still an important player in how websites load and using less of it is a good thing. He has a neat new bookmarklet called CSS Me Not …\nUsing the CSS Me Not Bookmarklet to See (and Disable) CSS Files originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/css-me-not-bookmarklet/",
           "publishedOn": "2022-01-15T00:06:56.000Z",
-          "wordCount": 987,
+          "wordCount": 1272,
           "title": "Using the CSS Me Not Bookmarklet to See (and Disable) CSS Files"
         },
         {
@@ -117,7 +126,7 @@
           "description": "Vite (pronounced “veet”) is a newish JavaScript bundler. It comes batteries-included, requires almost no configuration to be useful, and includes plenty of configuration options. Oh—and it’s fast. Incredibly fast.\nThis post will walk through the process of converting an existing …\nAdding Vite to Your Existing Web App originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/adding-vite-to-your-existing-web-app/",
           "publishedOn": "2022-01-11T15:38:06.000Z",
-          "wordCount": 2895,
+          "wordCount": 3005,
           "title": "Adding Vite to Your Existing Web App"
         },
         {
@@ -126,7 +135,7 @@
           "description": "Custom Fields in WordPress are arbitrary bits of data that you can apply to Posts, Pages, and Custom Post Types in WordPress. Metadata, as it were, in the form of key/value pairs. For example:\nKey: subtitle / Value: They are \n…\nHow to Use Native Custom Fields in WordPress (and 5 Useful Examples) originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/use-custom-fields-in-wordpress/",
           "publishedOn": "2022-01-11T00:41:48.000Z",
-          "wordCount": 2313,
+          "wordCount": 2374,
           "title": "How to Use Native Custom Fields in WordPress (and 5 Useful Examples)"
         },
         {
@@ -135,7 +144,7 @@
           "description": "Raw Chromium, perhaps?\nSo, Chrome is based on Chromium which is open-source. Chrome is Chromium with Google’s extra stuff on top of it. What extra stuff? Kinda lots! A few years ago, The Verge published “Microsoft reveals all the …\nWhat is Chromium Without Chrome on Top? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/what-is-chromium-without-chrome-on-top/",
           "publishedOn": "2022-01-10T22:02:49.000Z",
-          "wordCount": 1035,
+          "wordCount": 1049,
           "title": "What is Chromium Without Chrome on Top?"
         },
         {
@@ -144,17 +153,8 @@
           "description": "If you’re disciplined and make use of the inheritance that the CSS cascade provides, you’ll end up writing less CSS. But because our styles often comes from all kinds of sources — and can be a pain to structure and …\nDon’t Fight the Cascade, Control It! originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/dont-fight-the-cascade-control-it/",
           "publishedOn": "2022-01-10T15:22:08.000Z",
-          "wordCount": 2925,
+          "wordCount": 2979,
           "title": "Don’t Fight the Cascade, Control It!"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360711",
-          "author": "Chris Coyier",
-          "description": "Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Typography is one of those things! Here’s a list of typography links to other articles that I’ve been saving up and …\n8 Interesting Typography Links for January 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/typography-links-january-2022/",
-          "publishedOn": "2022-01-07T22:31:52.000Z",
-          "wordCount": 989,
-          "title": "8 Interesting Typography Links for January 2022"
         }
       ]
     },
@@ -164,12 +164,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "We’ll explore fluid typography principles, use-cases, implementation with CSS clamp() and an interactive fluid typography calculator.",
+          "link": "https://smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/",
+          "publishedOn": "2022-01-17T13:00:00.000Z",
+          "wordCount": 4018,
+          "title": "Modern Fluid Typography Using CSS Clamp",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f12f5a3d-f679-4b6b-b9c2-cb5a9d9166ae/modern-fluid-typography-css-clamp.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/",
           "author": "hello@smashingmagazine.com (Luis Ouriach)",
           "description": "In [Part 1](https://www.smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/), Luis Ouriach shared advice he wished he had when starting out in his career. In this second and last part of this series, Luis continues sharing tips that helped him grow and become a better designer throughout the years.",
           "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/",
           "publishedOn": "2022-01-14T15:00:00.000Z",
-          "wordCount": 3571,
+          "wordCount": 3570,
           "title": "Ten Tips For Aspiring Designer Beginners (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b0e9621-b939-439d-a812-69a4eb7d68ff/tips-aspiring-designer-beginners-part2.jpg",
@@ -183,7 +197,7 @@
           "description": "If you’re a developer who’s thinking about building a platform that requires a code editor in one form or another, then this article is for you. This article explains how to create a web code editor that displays the result in real time with the help of some HTML, CSS and JavaScript.",
           "link": "https://smashingmagazine.com/2022/01/building-web-code-editor/",
           "publishedOn": "2022-01-13T11:30:00.000Z",
-          "wordCount": 5061,
+          "wordCount": 5046,
           "title": "Building A Web Code Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7db33e0-a76e-4f4f-959f-be0f8898784f/building-web-code-editor.jpg",
@@ -197,7 +211,7 @@
           "description": "Accessibility must be a permanent program within organizations, much like security. In this article, Kate Kalcevich shares tips on which skills and questions to keep in mind when hiring for digital accessibility roles.",
           "link": "https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/",
           "publishedOn": "2022-01-12T10:30:00.000Z",
-          "wordCount": 3852,
+          "wordCount": 3853,
           "title": "How To Hire For Digital Accessibility Roles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/99b1af95-05d8-48ce-9086-171a59ba27f0/how-hire-digital-accessibility-roles.jpg",
@@ -225,7 +239,7 @@
           "description": "Product roadmaps are often treated as a series of checkboxes. But they are more than that. In this article, Scott Himmer explains how internal partnerships, research, design systems, and regular touch bases can help make sure that your product roadmap is a successful one.",
           "link": "https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/",
           "publishedOn": "2022-01-07T16:00:00.000Z",
-          "wordCount": 4002,
+          "wordCount": 3997,
           "title": "Changing A Tire On A Moving Car (Or How To Improve Product Roadmaps)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/31db8ed2-e433-46b6-9b8e-ab622b10fce0/changing-tire-on-moving-car.jpg",
@@ -239,7 +253,7 @@
           "description": "In this article (the first part in a series of two), Luis Ouriach shares advice that he wishes he has when starting out in his career. These tips come from his experience as a user interface and product designer for close to ten years, and if you’re starting just now, then read on!",
           "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/",
           "publishedOn": "2022-01-05T13:00:00.000Z",
-          "wordCount": 4072,
+          "wordCount": 4063,
           "title": "Ten Tips For Aspiring Designer Beginners (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/954de2dd-e9df-43de-9b9a-bb24c1f8cf0b/tips-aspiring-designer-beginners-part1.jpg",
@@ -253,7 +267,7 @@
           "description": "Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.",
           "link": "https://smashingmagazine.com/2022/01/composition-based-design-system-figma/",
           "publishedOn": "2022-01-03T13:00:00.000Z",
-          "wordCount": 2635,
+          "wordCount": 2640,
           "title": "Composition-Based Design System In Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/671611c3-eaf7-427e-9e5d-1bb74fbf62f5/composition-based-design-system-figma.jpg",
@@ -267,7 +281,7 @@
           "description": "What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.",
           "link": "https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/",
           "publishedOn": "2021-12-31T09:00:00.000Z",
-          "wordCount": 2533,
+          "wordCount": 2535,
           "title": "New Year, Fresh Desktop (January 2022 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55a76925-9960-4444-a72c-72d8738d5ac8/jan-22-new-years-magic-preview-opt.png",
@@ -281,7 +295,7 @@
           "description": "Scoping, estimating, and running digital projects can often feel like an exercise in futility. In this article, Paul Boag explains why you need to start breaking your projects down into manageable phases and why that’s the best way to achieve significant benefits.",
           "link": "https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/",
           "publishedOn": "2021-12-29T10:30:00.000Z",
-          "wordCount": 2462,
+          "wordCount": 2466,
           "title": "How To Price Projects And Manage Scope Creep",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/79f24890-00d9-4d5a-9ae1-405097b24371/price-projects-manage-scope-creep.jpg",
@@ -295,7 +309,7 @@
           "description": "Have you already built and published a Gatsby theme? In this article, Paulina Hetman explains how Gatsby themes work and what problems they can solve by comparing Gatsby themes with their WordPress counterparts.",
           "link": "https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/",
           "publishedOn": "2021-12-27T10:30:00.000Z",
-          "wordCount": 4240,
+          "wordCount": 4249,
           "title": "Building Gatsby Themes For WordPress-Powered Websites",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5b60a4b-63f6-47e2-a9aa-33faa3e9ca9e/building-gatsby-themes-wordpress-powered-websites.jpg",
@@ -323,7 +337,7 @@
           "description": "A meaningful user experience is what can set your site apart from others. But what makes an experience truly meaningful? And how to achieve that? The tools, tips, and resources in this post not only help you to come up with a UX strategy that works for you and your team but also to circumvent potential UX pitfalls.",
           "link": "https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/",
           "publishedOn": "2021-12-22T10:00:00.000Z",
-          "wordCount": 4193,
+          "wordCount": 4194,
           "title": "Useful UX Guidelines, Tools And Resources",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fb38ba21-df76-4d15-b7ef-bbda38aeea6b/laws-of-ux-opt.png",
@@ -337,7 +351,7 @@
           "description": "How to improve Core Web Vitals, a Smashing Magazine case study on how we detected and fixed the bottlenecks, and how we ended up with green scores, all the way.",
           "link": "https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/",
           "publishedOn": "2021-12-20T05:30:00.000Z",
-          "wordCount": 6040,
+          "wordCount": 6031,
           "title": "Improving Core Web Vitals, A Smashing Magazine Case Study",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/88f0021e-6f6e-4570-954f-eab757e4485b/core-web-vitals-case-study-smashing-magazine.jpg",
@@ -352,6 +366,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61dcd402b837d507ba09f7d7",
+          "author": null,
+          "description": "When you’re programming in JavaScript, you might need to get the last item in an array. In this tutorial, we’ll go over two different ways to do this. How to Get the Last Item in a JavaScript ArrayMethod 1: Use index positioningUse index positioning if you know the",
+          "link": "https://www.freecodecamp.org/news/how-to-get-the-last-item-in-an-array-in-javascript/",
+          "publishedOn": "2022-01-17T21:21:48.000Z",
+          "wordCount": 782,
+          "title": "How to Get the Last Item in an Array in JavaScript"
+        },
+        {
+          "id": "61e07e8ab837d507ba0a214c",
+          "author": null,
+          "description": "What plans would you make if you knew it was going to rain tomorrow? This can be a crucial question to ask yourself when it comes to planning your personal and day-to-day business activities. For example, I have a friend who runs an app-based laundry business in Lagos, Nigeria. He",
+          "link": "https://www.freecodecamp.org/news/visualize-weather-data-with-d3js/",
+          "publishedOn": "2022-01-17T16:59:10.000Z",
+          "wordCount": 1343,
+          "title": "How to Visualize Weather Data with D3.js"
+        },
+        {
+          "id": "61e011e0b837d507ba0a15d2",
+          "author": null,
+          "description": "Having a good landing page for your website is important. It can help drive customers to your site where they'll find your products and services and hopefully take action.  In this text-based tutorial, I’m going to take you through how to make a landing page for a boxing TV",
+          "link": "https://www.freecodecamp.org/news/how-to-make-a-landing-page-with-html-css-and-javascript/",
+          "publishedOn": "2022-01-17T16:56:05.000Z",
+          "wordCount": 5815,
+          "title": "Web Development Project – How to Make a Landing Page with HTML, CSS, and JavaScript"
+        },
         {
           "id": "61dff97db837d507ba0a12db",
           "author": null,
@@ -414,33 +455,6 @@
           "publishedOn": "2022-01-13T19:54:39.000Z",
           "wordCount": 338,
           "title": "Create a Netflix Clone with Django and Tailwind CSS"
-        },
-        {
-          "id": "61dd142eb837d507ba09f944",
-          "author": null,
-          "description": "While working on your personal projects, you'll often need to store some data. You could use a SQL or NoSQL database with a server, but that would require you to do a bit of setup.  In this article, we'll learn about TinyDB and how to use it to store our",
-          "link": "https://www.freecodecamp.org/news/get-started-with-tinydb-in-python/",
-          "publishedOn": "2022-01-13T18:46:34.000Z",
-          "wordCount": 1289,
-          "title": "How to Get Started with TinyDB in Python"
-        },
-        {
-          "id": "61d863f4d2d9de084285e610",
-          "author": null,
-          "description": "In this article, I’ve compiled a list of the best machine learning courses available online. I built the ranking by following a well-defined methodology that you can find below.  But if you want to jump straight to the results, here are my picks: Machine Learning (Stanford University)Machine Learning",
-          "link": "https://www.freecodecamp.org/news/best-machine-learning-courses/",
-          "publishedOn": "2022-01-13T18:21:53.000Z",
-          "wordCount": 4449,
-          "title": "10 Best Machine Learning Courses to Take in 2022"
-        },
-        {
-          "id": "61dff8fab837d507ba0a12cb",
-          "author": null,
-          "description": "Props are one of the most important building blocks of React.js. When you need to pass data down from a parent component to a child component, props make this possible. In this article we'll learn how to work with props and build reusable components in React. What Are Props",
-          "link": "https://www.freecodecamp.org/news/how-to-build-reusable-components-with-props-in-react/",
-          "publishedOn": "2022-01-13T17:14:49.000Z",
-          "wordCount": 695,
-          "title": "How to Build Reusable Components with Props in React"
         }
       ]
     }
