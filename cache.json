@@ -22,12 +22,30 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=360899",
+          "author": "Preethi",
+          "description": "There’s a serene warmth to the early evening sunlight peaking through rustling leaves. Artists use dappled light to create a soft, hypnotic effect.\nBedford Dwellings by Ron Donoughe (2013)\nWe can create the same sort of dappled light effect in …\nA Serene CSS Dappled Light Effect originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/css-dappled-light-effect/",
+          "publishedOn": "2022-01-19T22:46:39.000Z",
+          "wordCount": 1612,
+          "title": "A Serene CSS Dappled Light Effect"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359857",
+          "author": "Chris Coyier",
+          "description": "What's new in CSS? If someone asked you that, who knows CSS but hasn't stayed up to date the last, say, half a decade or more, what advice would you give?\nWhat should someone learn about CSS if they last boned up during CSS3? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/whats-new-since-css3/",
+          "publishedOn": "2022-01-19T14:25:31.000Z",
+          "wordCount": 2128,
+          "title": "What should someone learn about CSS if they last boned up during CSS3?"
+        },
+        {
           "id": "https://css-tricks.com/?p=360362",
           "author": "Chris Coyier",
           "description": "There are a number of options for including a Table of Contents lock in WordPress. You can use a plugin, or try to do it yourself. \n4 Quality Options for a Table of Contents Block in WordPress originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/table-of-contents-block-in-wordpress/",
           "publishedOn": "2022-01-18T23:22:01.000Z",
-          "wordCount": 2503,
+          "wordCount": 2536,
           "title": "4 Quality Options for a Table of Contents Block in WordPress"
         },
         {
@@ -45,7 +63,7 @@
           "description": "Another year has passed and once again I’ve had the privilege of going through the Web Tools Weekly newsletter archives from the past 12 months to hunt down the front-end tools that readers found to be the most interesting during …\nWhat Were the Hottest Front-End Tools in 2021? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/hottest-front-end-tools-in-2021/",
           "publishedOn": "2022-01-17T15:13:26.000Z",
-          "wordCount": 6335,
+          "wordCount": 6359,
           "title": "What Were the Hottest Front-End Tools in 2021?"
         },
         {
@@ -72,7 +90,7 @@
           "description": "The Svelte transition API provides a first-class way to animate your components when they enter or leave the document, including custom Svelte transitions. By default, the transition directive uses CSS animations, which generally offer better performance and allow the browser’s …\nHow to Build Your First Custom Svelte Transition originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/making-your-first-custom-svelte-transition/",
           "publishedOn": "2022-01-14T15:24:19.000Z",
-          "wordCount": 1585,
+          "wordCount": 1571,
           "title": "How to Build Your First Custom Svelte Transition"
         },
         {
@@ -137,24 +155,6 @@
           "publishedOn": "2022-01-11T23:18:56.000Z",
           "wordCount": 977,
           "title": "What Would it Take to Prevent CSS Tooltips From Overflowing?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=359243",
-          "author": "Adam Rackis",
-          "description": "Vite (pronounced “veet”) is a newish JavaScript bundler. It comes batteries-included, requires almost no configuration to be useful, and includes plenty of configuration options. Oh—and it’s fast. Incredibly fast.\nThis post will walk through the process of converting an existing …\nAdding Vite to Your Existing Web App originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/adding-vite-to-your-existing-web-app/",
-          "publishedOn": "2022-01-11T15:38:06.000Z",
-          "wordCount": 3005,
-          "title": "Adding Vite to Your Existing Web App"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360061",
-          "author": "Chris Coyier",
-          "description": "Custom Fields in WordPress are arbitrary bits of data that you can apply to Posts, Pages, and Custom Post Types in WordPress. Metadata, as it were, in the form of key/value pairs. For example:\nKey: subtitle / Value: They are \n…\nHow to Use Native Custom Fields in WordPress (and 5 Useful Examples) originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/use-custom-fields-in-wordpress/",
-          "publishedOn": "2022-01-11T00:41:48.000Z",
-          "wordCount": 2388,
-          "title": "How to Use Native Custom Fields in WordPress (and 5 Useful Examples)"
         }
       ]
     },
@@ -164,12 +164,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/01/smashingconf-workshops-january-may-2022/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "What goes into creating a successful design system? How can you take your testing workflow to the next level? And what smart interface design patterns could help you enhance your UIs? Let’s figure it out. With our [online workshops on front-end and UX](https://smashingconf.com/online-workshops).",
+          "link": "https://smashingmagazine.com/2022/01/smashingconf-workshops-january-may-2022/",
+          "publishedOn": "2022-01-19T11:00:00.000Z",
+          "wordCount": 814,
+          "title": "Upcoming Online Workshops: January &ndash; May 2022",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a64a7afb-ef32-458d-9dc1-d8b286fc0327/smashing-online-workshops-winter-2022.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2022/01/freebie-wayfinding-icon-sets-exhibition-concert-museum/",
           "author": "hello@smashingmagazine.com (Anton Tyschenko)",
           "description": "Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies) related to different occasions and themes. We hope that with this icon set, everyone will be able to find their own use case for these icons in particular. Today, we present to you three icon sets designed by the creative folks at GraphicSurf — all free for personal and commercial use.",
           "link": "https://smashingmagazine.com/2022/01/freebie-wayfinding-icon-sets-exhibition-concert-museum/",
           "publishedOn": "2022-01-18T12:00:00.000Z",
-          "wordCount": 816,
+          "wordCount": 820,
           "title": "Freebie: Wayfinding Icon Sets (164 Icons, PNG, SVG, AI, EPS)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/27d4ee4d-0893-4ef6-b48a-435007089494/wayfinding-icon-preview.jpg",
@@ -183,7 +197,7 @@
           "description": "We’ll explore fluid typography principles, use-cases, implementation with CSS clamp() and an interactive fluid typography calculator.",
           "link": "https://smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/",
           "publishedOn": "2022-01-17T13:00:00.000Z",
-          "wordCount": 4017,
+          "wordCount": 4016,
           "title": "Modern Fluid Typography Using CSS Clamp",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f12f5a3d-f679-4b6b-b9c2-cb5a9d9166ae/modern-fluid-typography-css-clamp.jpg",
@@ -197,7 +211,7 @@
           "description": "In [Part 1](https://www.smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/), Luis Ouriach shared advice he wished he had when starting out in his career. In this second and last part of this series, Luis continues sharing tips that helped him grow and become a better designer throughout the years.",
           "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/",
           "publishedOn": "2022-01-14T15:00:00.000Z",
-          "wordCount": 3566,
+          "wordCount": 3580,
           "title": "Ten Tips For Aspiring Designer Beginners (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b0e9621-b939-439d-a812-69a4eb7d68ff/tips-aspiring-designer-beginners-part2.jpg",
@@ -211,7 +225,7 @@
           "description": "If you’re a developer who’s thinking about building a platform that requires a code editor in one form or another, then this article is for you. This article explains how to create a web code editor that displays the result in real time with the help of some HTML, CSS and JavaScript.",
           "link": "https://smashingmagazine.com/2022/01/building-web-code-editor/",
           "publishedOn": "2022-01-13T11:30:00.000Z",
-          "wordCount": 5051,
+          "wordCount": 5052,
           "title": "Building A Web Code Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7db33e0-a76e-4f4f-959f-be0f8898784f/building-web-code-editor.jpg",
@@ -225,7 +239,7 @@
           "description": "Accessibility must be a permanent program within organizations, much like security. In this article, Kate Kalcevich shares tips on which skills and questions to keep in mind when hiring for digital accessibility roles.",
           "link": "https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/",
           "publishedOn": "2022-01-12T10:30:00.000Z",
-          "wordCount": 3855,
+          "wordCount": 3852,
           "title": "How To Hire For Digital Accessibility Roles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/99b1af95-05d8-48ce-9086-171a59ba27f0/how-hire-digital-accessibility-roles.jpg",
@@ -239,7 +253,7 @@
           "description": "In this article, we’ll be taking a closer look at two gradients: `conic-gradient` and `radial-gradient`. You’ll see how each one of them works in detail, what the differences and similarities are between them, how and where to use them, and some use cases for each.",
           "link": "https://smashingmagazine.com/2022/01/css-radial-conic-gradient/",
           "publishedOn": "2022-01-10T12:30:00.000Z",
-          "wordCount": 2304,
+          "wordCount": 2303,
           "title": "A Deep CSS Dive Into Radial And Conic Gradients",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8b1eea9e-877a-4da7-b531-537a97a44613/css-radial-conic-gradient.jpg",
@@ -253,7 +267,7 @@
           "description": "Product roadmaps are often treated as a series of checkboxes. But they are more than that. In this article, Scott Himmer explains how internal partnerships, research, design systems, and regular touch bases can help make sure that your product roadmap is a successful one.",
           "link": "https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/",
           "publishedOn": "2022-01-07T16:00:00.000Z",
-          "wordCount": 4012,
+          "wordCount": 4003,
           "title": "Changing A Tire On A Moving Car (Or How To Improve Product Roadmaps)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/31db8ed2-e433-46b6-9b8e-ab622b10fce0/changing-tire-on-moving-car.jpg",
@@ -267,7 +281,7 @@
           "description": "In this article (the first part in a series of two), Luis Ouriach shares advice that he wishes he has when starting out in his career. These tips come from his experience as a user interface and product designer for close to ten years, and if you’re starting just now, then read on!",
           "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/",
           "publishedOn": "2022-01-05T13:00:00.000Z",
-          "wordCount": 4062,
+          "wordCount": 4064,
           "title": "Ten Tips For Aspiring Designer Beginners (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/954de2dd-e9df-43de-9b9a-bb24c1f8cf0b/tips-aspiring-designer-beginners-part1.jpg",
@@ -281,7 +295,7 @@
           "description": "Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.",
           "link": "https://smashingmagazine.com/2022/01/composition-based-design-system-figma/",
           "publishedOn": "2022-01-03T13:00:00.000Z",
-          "wordCount": 2648,
+          "wordCount": 2649,
           "title": "Composition-Based Design System In Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/671611c3-eaf7-427e-9e5d-1bb74fbf62f5/composition-based-design-system-figma.jpg",
@@ -295,7 +309,7 @@
           "description": "What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.",
           "link": "https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/",
           "publishedOn": "2021-12-31T09:00:00.000Z",
-          "wordCount": 2532,
+          "wordCount": 2536,
           "title": "New Year, Fresh Desktop (January 2022 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55a76925-9960-4444-a72c-72d8738d5ac8/jan-22-new-years-magic-preview-opt.png",
@@ -323,7 +337,7 @@
           "description": "Have you already built and published a Gatsby theme? In this article, Paulina Hetman explains how Gatsby themes work and what problems they can solve by comparing Gatsby themes with their WordPress counterparts.",
           "link": "https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/",
           "publishedOn": "2021-12-27T10:30:00.000Z",
-          "wordCount": 4239,
+          "wordCount": 4234,
           "title": "Building Gatsby Themes For WordPress-Powered Websites",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5b60a4b-63f6-47e2-a9aa-33faa3e9ca9e/building-gatsby-themes-wordpress-powered-websites.jpg",
@@ -337,7 +351,7 @@
           "description": "Range inputs have notoriously been a pain to style. Each browser renders the input differently requiring you to use vendor prefixes in order to create a cohesive look and feel. In this article, we’ll take a look at the quirkiness of the HTML range input and demonstrate how to style the input to look consistent across all major browsers.",
           "link": "https://smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/",
           "publishedOn": "2021-12-23T11:00:00.000Z",
-          "wordCount": 2617,
+          "wordCount": 2618,
           "title": "Creating A Custom Range Input That Looks Consistent Across All Browsers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0deb2d53-1482-44c1-bf77-4dcc92ce3cd5/create-custom-range-input-consistent-browsers.jpg",
@@ -351,7 +365,7 @@
           "description": "A meaningful user experience is what can set your site apart from others. But what makes an experience truly meaningful? And how to achieve that? The tools, tips, and resources in this post not only help you to come up with a UX strategy that works for you and your team but also to circumvent potential UX pitfalls.",
           "link": "https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/",
           "publishedOn": "2021-12-22T10:00:00.000Z",
-          "wordCount": 4195,
+          "wordCount": 4194,
           "title": "Useful UX Guidelines, Tools And Resources",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fb38ba21-df76-4d15-b7ef-bbda38aeea6b/laws-of-ux-opt.png",
@@ -366,6 +380,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61e79b46183181284a191680",
+          "author": null,
+          "description": "A freeCodeCamp alum who founded his own successful Web3 company has donated $1M to freeCodeCampHe asked that we use some of these funds to develop a carbon-neutral Web3 curriculumWe are building an interactive Web3 curriculum where you can learn by building more than a dozen projects. This free curriculum will",
+          "link": "https://www.freecodecamp.org/news/carbon-neutral-web3-curriculum-plans/",
+          "publishedOn": "2022-01-19T21:23:18.000Z",
+          "wordCount": 859,
+          "title": "freeCodeCamp Just Got a Million Dollar Donation from an Alum to Build a Carbon-Neutral Web3 Curriculum"
+        },
+        {
+          "id": "61e78aca183181284a1914a0",
+          "author": null,
+          "description": "I am a freeCodeCamp alumnus. I learned to code on freeCodeCamp. I used these skills to build a profitable company. Today, this company – KaijuKingz – is donating $1 million to freeCodeCamp to help them create even more free learning resources. The freeCodeCamp community has helped me and thousands of other people",
+          "link": "https://www.freecodecamp.org/news/donating-a-million-dollars-to-freecodecamp-a-web3-curriculum/",
+          "publishedOn": "2022-01-19T21:23:10.000Z",
+          "wordCount": 1021,
+          "title": "Donating a Million Dollars to freeCodeCamp to Develop a Free, Carbon-Neutral Web3 Curriculum"
+        },
+        {
+          "id": "61e547e7b837d507ba0a4611",
+          "author": null,
+          "description": "Serverless Development has been around since the release of AWS Lambda in 2014, but in the last few years things have exploded.  Startups and smart tech companies have started taking advantage of the scalability, reliability, and power of serverless to rapidly grow – and now they need more serverless developers than",
+          "link": "https://www.freecodecamp.org/news/become-a-serverless-developer/",
+          "publishedOn": "2022-01-19T20:57:22.000Z",
+          "wordCount": 1968,
+          "title": "How to Become a Serverless Developer in 2022"
+        },
+        {
+          "id": "61e84fda183181284a191b17",
+          "author": null,
+          "description": "Kubernetes is an open-source container orchestration platform that automates the deployment, management, scaling, and networking of containers. It makes it simpler to deploy apps to production. We just published a Kubernetes course on the freeCodeCamp.org YouTube channel.  Bogdan Stashchuk developed this course. He is a popular DevOps instructor who",
+          "link": "https://www.freecodecamp.org/news/learn-kubernetes-and-start-containerizing-your-applications/",
+          "publishedOn": "2022-01-19T17:58:49.000Z",
+          "wordCount": 22713,
+          "title": "Learn Kubernetes and Start Containerizing Your Applications"
+        },
+        {
+          "id": "61e6d91ab6c2e011aa4ff1c1",
+          "author": null,
+          "description": "msvcp140.dll is a Microsoft C Dynamic Linked Library file responsible for running certain Windows apps and games – especially those built on C++.  Sometimes, when you're trying to open an app or game, you might get the error “the code execution cannot proceed because msvcp140.dll was not found”.  This",
+          "link": "https://www.freecodecamp.org/news/how-to-fix-the-code-execution-cannot-proceed-because-msvcp140-dll-was-not-found/",
+          "publishedOn": "2022-01-19T17:47:26.000Z",
+          "wordCount": 729,
+          "title": "The Code Execution Cannot Proceed Because msvcp140.dll Was Not Found – How to Fix on a Windows 10 PC"
+        },
+        {
+          "id": "61d1f0e7a7001508889342bf",
+          "author": null,
+          "description": "Filter components are useful on websites because they help users find the results they need quickly and easily.  This is especially true if your data comes from an API, since users cannot look through everything your app has to offer. In this article, we will be using dummy data that",
+          "link": "https://www.freecodecamp.org/news/how-to-make-a-filter-component-in-react/",
+          "publishedOn": "2022-01-19T16:48:00.000Z",
+          "wordCount": 1900,
+          "title": "How to Make a Filter Component in React"
+        },
+        {
+          "id": "61e158e5b837d507ba0a263e",
+          "author": null,
+          "description": "HTML Tables are simple to use for rendering small amounts of data. But they can be hard for users to work with when they display a lot of data.  Features like sorting, filtering, and pagination make it easier to work with many rows of data. We can easily implement those",
+          "link": "https://www.freecodecamp.org/news/convert-html-table-to-dynamic-javascript-data-grid/",
+          "publishedOn": "2022-01-18T22:40:00.000Z",
+          "wordCount": 2842,
+          "title": "How to Convert a Static HTML Table to a Dynamic JavaScript Data Grid"
+        },
         {
           "id": "61e5c135b837d507ba0a4ad0",
           "author": null,
@@ -392,69 +469,6 @@
           "publishedOn": "2022-01-18T20:56:02.000Z",
           "wordCount": 356,
           "title": "Create User Interfaces for Machine Learning Models Using Gradio"
-        },
-        {
-          "id": "61cfee0ea700150888933a10",
-          "author": null,
-          "description": "As a developer, how often have you seen a repository with packages that are out of date? New package updates generally include new features, performance improvements, and security fixes. But keeping track of all outdated dependencies in your project can be really boring and a time consuming task, especially if",
-          "link": "https://www.freecodecamp.org/news/keep-package-dependencies-up-to-date-on-azure-devops/",
-          "publishedOn": "2022-01-18T20:15:51.000Z",
-          "wordCount": 1051,
-          "title": "How to Keep Your Package Dependencies Up to Date on Azure DevOps"
-        },
-        {
-          "id": "61d6289ed2d9de084285cab7",
-          "author": null,
-          "description": "Network applications are computer applications that participate in a computer network. These applications talk to each other by plugging into the network.  For example, when you visit google.com, your browser acts as a network application that leverages the Internet to talk to the network application running on Google's computer.",
-          "link": "https://www.freecodecamp.org/news/computer-networking-how-applications-talk-over-the-internet/",
-          "publishedOn": "2022-01-18T19:54:27.000Z",
-          "wordCount": 3691,
-          "title": "Computer Networking Tutorial – How Network Applications Talk Over the Internet"
-        },
-        {
-          "id": "61db22fcd2d9de084285f551",
-          "author": null,
-          "description": "Data types can be a bit of a mind boggling concept. But as programmers, we use data types everyday – so they're something we should understand.  Question is, how does the computer store these data types? It can't possibly treat every data type the same. In JavaScript, data types are split",
-          "link": "https://www.freecodecamp.org/news/primitive-vs-reference-data-types-in-javascript/",
-          "publishedOn": "2022-01-18T19:24:33.000Z",
-          "wordCount": 1018,
-          "title": "Primitive vs Reference Data Types in JavaScript"
-        },
-        {
-          "id": "61d5c80fd2d9de084285c5f3",
-          "author": null,
-          "description": "This article is about how working as an independent contractor for a web design agency helped me to start my own freelance business.",
-          "link": "https://www.freecodecamp.org/news/working-as-independent-contractor-can-help-start-freelance-business/",
-          "publishedOn": "2022-01-18T19:06:12.000Z",
-          "wordCount": 2913,
-          "title": "How Working as an Independent Contractor Can Help You Start Your Own Freelance Dev Business"
-        },
-        {
-          "id": "61e2a600b837d507ba0a37ee",
-          "author": null,
-          "description": "Patreon is a subscription management system for creators. Although it offers a default button snippet, you can add a custom button that includes your preferred design and call to action to increase your click through rate. In this article you will learn how to create a simple custom Patreon link",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-custom-patreon-button/",
-          "publishedOn": "2022-01-18T15:53:41.000Z",
-          "wordCount": 763,
-          "title": "How to Create a Custom Patreon Button"
-        },
-        {
-          "id": "61cadc1f755c16082490bd7a",
-          "author": null,
-          "description": "If you ask a group of developers what Linux is, most of them will probably say it's an open-source operating system. Those with more technical knowledge will probably call it a kernel. For me, though, Linux is not just an operating system or a kernel. For me, it's freedom. The",
-          "link": "https://www.freecodecamp.org/news/how-to-install-arch-linux/",
-          "publishedOn": "2022-01-18T15:15:23.000Z",
-          "wordCount": 8244,
-          "title": "The Arch Linux Handbook"
-        },
-        {
-          "id": "61dcd402b837d507ba09f7d7",
-          "author": null,
-          "description": "When you’re programming in JavaScript, you might need to get the last item in an array. In this tutorial, we’ll go over two different ways to do this. How to Get the Last Item in a JavaScript ArrayMethod 1: Use index positioningUse index positioning if you know the",
-          "link": "https://www.freecodecamp.org/news/how-to-get-the-last-item-in-an-array-in-javascript/",
-          "publishedOn": "2022-01-17T21:21:48.000Z",
-          "wordCount": 782,
-          "title": "How to Get the Last Item in an Array in JavaScript"
         }
       ]
     }
