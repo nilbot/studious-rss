@@ -22,6 +22,87 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=361210",
+          "author": "Josh Collinsworth",
+          "description": "(This is a sponsored post.)\nI remember vividly a period early in my coding career when I began to feel that things were changing away from what I knew, and headed towards a more complex set of tools and …\nA Complete Beginner’s Guide to npm originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/a-complete-beginners-guide-to-npm/",
+          "publishedOn": "2022-01-20T15:07:32.000Z",
+          "wordCount": 1453,
+          "title": "A Complete Beginner’s Guide to npm"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361214",
+          "author": "Josh Collinsworth",
+          "description": "One of the things that makes this new, tooling-heavy era of front-end development so seemingly hard to understand at first is that, while we often call things by a singular name, they tend to be actually comprised of several different …\nWhat the Heck Does “npm” Mean? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/a-clear-definition-of-npm-and-what-it-does/",
+          "publishedOn": "2022-01-20T15:04:15.000Z",
+          "wordCount": 1162,
+          "title": "What the Heck Does “npm” Mean?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361226",
+          "author": "Josh Collinsworth",
+          "description": "Now that we know what npm stands for and have a super general idea of what it does and how it fits into web development, we ought to spend a little bit of time looking at the command line, because …\nWhat the Heck is the Command Line? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/a-deep-look-at-the-command-line/",
+          "publishedOn": "2022-01-20T15:04:09.000Z",
+          "wordCount": 2692,
+          "title": "What the Heck is the Command Line?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361241",
+          "author": "Josh Collinsworth",
+          "description": "(This is a sponsored post.)\nHere’s what you need to know about Node.js (or simply Node) and how it relates to npm right off the bat:\nNode is JavaScript, but as a server-side language.\nThis is possible because of \n…\nWhat the Heck is Node? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/node-and-how-it-works-with-npm/",
+          "publishedOn": "2022-01-20T15:04:03.000Z",
+          "wordCount": 2374,
+          "title": "What the Heck is Node?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361257",
+          "author": "Josh Collinsworth",
+          "description": "If you’re keeping score, so far in this npm guide we’ve developed a general understanding of what npm is—notably, that it stands for Node Package Manager. In the process, we’ve discussed the importance of the command line and how it’s …\nWhat the Heck is a Package Manager? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/what-the-heck-is-a-package-manager/",
+          "publishedOn": "2022-01-20T15:03:59.000Z",
+          "wordCount": 2600,
+          "title": "What the Heck is a Package Manager?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361270",
+          "author": "Josh Collinsworth",
+          "description": "Feel like you have a pretty good idea of what a package manager is? We’ve certainly covered a lot of ground getting familiar with all the terms and concepts of package managers, but I’d say it’s high time we actually …\nHow the Heck Do You Install npm? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/how-to-install-npm-node-nvm/",
+          "publishedOn": "2022-01-20T15:03:53.000Z",
+          "wordCount": 1541,
+          "title": "How the Heck Do You Install npm?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361300",
+          "author": "Josh Collinsworth",
+          "description": "By now, you’re becoming quite knowledgeable with npm! So far, we’ve broken down the three letters in “npm” to gain a better understand of Node and package managers. In the previous chapter, we even installed Node and npm while …\nHow the Heck Do You Install npm Packages? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/how-to-install-npm-packages/",
+          "publishedOn": "2022-01-20T15:03:49.000Z",
+          "wordCount": 2455,
+          "title": "How the Heck Do You Install npm Packages?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361320",
+          "author": "Josh Collinsworth",
+          "description": "npm is, as you now know, a package manager. But like similar, earlier tools that run tasks in the command line, such as Grunt and Gulp, npm can also run tasks—which is perfect for us because now that …\nWhat the Heck Are npm Commands? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/what-the-heck-are-npm-commands/",
+          "publishedOn": "2022-01-20T15:03:44.000Z",
+          "wordCount": 1871,
+          "title": "What the Heck Are npm Commands?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361337",
+          "author": "Josh Collinsworth",
+          "description": "(This is a sponsored post.)\nWe’ve gotten a good overview of how npm works and how to use it to install packages and run commands at this point. Now let’s go a little further and see what it looks …\nHow the Heck Do You Install an Existing npm Project? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/how-to-install-an-npm-project/",
+          "publishedOn": "2022-01-20T15:03:35.000Z",
+          "wordCount": 2894,
+          "title": "How the Heck Do You Install an Existing npm Project?"
+        },
+        {
           "id": "https://css-tricks.com/?p=360899",
           "author": "Preethi",
           "description": "There’s a serene warmth to the early evening sunlight peaking through rustling leaves. Artists use dappled light to create a soft, hypnotic effect.\nBedford Dwellings by Ron Donoughe (2013)\nWe can create the same sort of dappled light effect in …\nA Serene CSS Dappled Light Effect originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -36,7 +117,7 @@
           "description": "What's new in CSS? If someone asked you that, who knows CSS but hasn't stayed up to date the last, say, half a decade or more, what advice would you give?\nWhat should someone learn about CSS if they last boned up during CSS3? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/whats-new-since-css3/",
           "publishedOn": "2022-01-19T14:25:31.000Z",
-          "wordCount": 2128,
+          "wordCount": 2220,
           "title": "What should someone learn about CSS if they last boned up during CSS3?"
         },
         {
@@ -74,87 +155,6 @@
           "publishedOn": "2022-01-15T00:06:56.000Z",
           "wordCount": 1272,
           "title": "Using the CSS Me Not Bookmarklet to See (and Disable) CSS Files"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360864",
-          "author": "Chris Coyier",
-          "description": "Mondrian is famous for paintings with big thick black lines forming a grid, where each cell is white, red, yellow, or blue. This aesthetic pairs well with the notoriously rectangular web, and that hasn’t gone unnoticed over the years with …\nMondrian Art in CSS From 5 Code Artists originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/mondrian-art-in-css-from-5-code-artists/",
-          "publishedOn": "2022-01-14T18:15:03.000Z",
-          "wordCount": 867,
-          "title": "Mondrian Art in CSS From 5 Code Artists"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360781",
-          "author": "Austin Crim",
-          "description": "The Svelte transition API provides a first-class way to animate your components when they enter or leave the document, including custom Svelte transitions. By default, the transition directive uses CSS animations, which generally offer better performance and allow the browser’s …\nHow to Build Your First Custom Svelte Transition originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/making-your-first-custom-svelte-transition/",
-          "publishedOn": "2022-01-14T15:24:19.000Z",
-          "wordCount": 1571,
-          "title": "How to Build Your First Custom Svelte Transition"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360939",
-          "author": "Chris Coyier",
-          "description": "Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Accessibility is one of those things! Here’s a list of related links to other articles that I’ve been saving up and …\n8 Helpful Accessibility Links for January 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/8-accessibility-links-january-2022/",
-          "publishedOn": "2022-01-13T20:57:41.000Z",
-          "wordCount": 786,
-          "title": "8 Helpful Accessibility Links for January 2022"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360423",
-          "author": "Chris Coyier",
-          "description": "Sass offers functions and mixins that accept parameters. You can use Sass default parameters, that is, parameters that have a value even if you don’t provide them when the function or mixin is called. \nLet’s focus on mixins here. …\nA Practical Tip For Using Sass Default Parameters originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/sass-default-parameters/",
-          "publishedOn": "2022-01-13T15:17:28.000Z",
-          "wordCount": 693,
-          "title": "A Practical Tip For Using Sass Default Parameters"
-        },
-        {
-          "id": "https://css-tricks.com/?p=361233",
-          "author": "Chris Coyier",
-          "description": "Hot off the presses from Devon Govett, creator of Parcel, is Parcel CSS:\nA CSS parser, transformer, and minifier written in Rust.\n\nNice. The CSS world could use a little processing shake up like this.\nI just wrote a …\nParcel CSS: A New CSS Parser, Transformer, and Minifier originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/parcel-css/",
-          "publishedOn": "2022-01-12T21:10:53.000Z",
-          "wordCount": 1294,
-          "title": "Parcel CSS: A New CSS Parser, Transformer, and Minifier"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360607",
-          "author": "Chris Coyier",
-          "description": "It’s a god-damned miracle to me that open source is as robust as it is in tech. Consider the options. You could have a job (or be entrepreneurial) with your coding skills and likely be paid quite well. Or, you …\nOpen Source & Sustainability originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/open-source-sustainability/",
-          "publishedOn": "2022-01-12T20:51:49.000Z",
-          "wordCount": 1017,
-          "title": "Open Source & Sustainability"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360168",
-          "author": "Jhey Tompkins",
-          "description": "You know how you can get cardboard boxes that come totally flat? You fold ‘em up and tape ‘em to make them into a useful box. Then when it’s time to recycle them, you cut them back apart to flatten …\nHow to Make a Pure CSS 3D Package Toggle originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/how-to-make-a-pure-css-3d-package-toggle/",
-          "publishedOn": "2022-01-12T15:29:38.000Z",
-          "wordCount": 3149,
-          "title": "How to Make a Pure CSS 3D Package Toggle"
-        },
-        {
-          "id": "https://css-tricks.com/?p=361191",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nNetlify is amazing at static file hosting, but it’s really so much more than that. You can build any sort of website, even highly dynamic apps, with the Jamstack approach and static file hosting …\nNetlify Identity, a Key Aspect to Jamstack Development originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/netlify-identity/",
-          "publishedOn": "2022-01-12T14:13:00.000Z",
-          "wordCount": 581,
-          "title": "Netlify Identity, a Key Aspect to Jamstack Development"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360490",
-          "author": "Chris Coyier",
-          "description": "Say you have an elements with CSS tooltips and you’re going to position those tooltips such that it opens up next to the element on hover (or probably better: when clicked/tapped). Next to it where? Above it? What if the …\nWhat Would it Take to Prevent CSS Tooltips From Overflowing? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/can-css-prevent-tooltips-from-overflowing/",
-          "publishedOn": "2022-01-11T23:18:56.000Z",
-          "wordCount": 977,
-          "title": "What Would it Take to Prevent CSS Tooltips From Overflowing?"
         }
       ]
     },
@@ -163,6 +163,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/01/building-real-app-react-query/",
+          "author": "hello@smashingmagazine.com (Georgii Perepecho)",
+          "description": "In this article, Georgii Perepecho explains the most common React Query features that you need to be familiar with when creating a real-life application that is stable when testing.",
+          "link": "https://smashingmagazine.com/2022/01/building-real-app-react-query/",
+          "publishedOn": "2022-01-20T14:30:00.000Z",
+          "wordCount": 5247,
+          "title": "Building The Real App With React Query",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb299a88-9204-4579-bfb0-f9d8dac84014/building-real-app-react-query.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2022/01/smashingconf-workshops-january-may-2022/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -211,7 +225,7 @@
           "description": "In [Part 1](https://www.smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/), Luis Ouriach shared advice he wished he had when starting out in his career. In this second and last part of this series, Luis continues sharing tips that helped him grow and become a better designer throughout the years.",
           "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/",
           "publishedOn": "2022-01-14T15:00:00.000Z",
-          "wordCount": 3580,
+          "wordCount": 3581,
           "title": "Ten Tips For Aspiring Designer Beginners (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b0e9621-b939-439d-a812-69a4eb7d68ff/tips-aspiring-designer-beginners-part2.jpg",
@@ -225,7 +239,7 @@
           "description": "If you’re a developer who’s thinking about building a platform that requires a code editor in one form or another, then this article is for you. This article explains how to create a web code editor that displays the result in real time with the help of some HTML, CSS and JavaScript.",
           "link": "https://smashingmagazine.com/2022/01/building-web-code-editor/",
           "publishedOn": "2022-01-13T11:30:00.000Z",
-          "wordCount": 5052,
+          "wordCount": 5049,
           "title": "Building A Web Code Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7db33e0-a76e-4f4f-959f-be0f8898784f/building-web-code-editor.jpg",
@@ -239,7 +253,7 @@
           "description": "Accessibility must be a permanent program within organizations, much like security. In this article, Kate Kalcevich shares tips on which skills and questions to keep in mind when hiring for digital accessibility roles.",
           "link": "https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/",
           "publishedOn": "2022-01-12T10:30:00.000Z",
-          "wordCount": 3852,
+          "wordCount": 3864,
           "title": "How To Hire For Digital Accessibility Roles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/99b1af95-05d8-48ce-9086-171a59ba27f0/how-hire-digital-accessibility-roles.jpg",
@@ -267,7 +281,7 @@
           "description": "Product roadmaps are often treated as a series of checkboxes. But they are more than that. In this article, Scott Himmer explains how internal partnerships, research, design systems, and regular touch bases can help make sure that your product roadmap is a successful one.",
           "link": "https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/",
           "publishedOn": "2022-01-07T16:00:00.000Z",
-          "wordCount": 4003,
+          "wordCount": 4002,
           "title": "Changing A Tire On A Moving Car (Or How To Improve Product Roadmaps)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/31db8ed2-e433-46b6-9b8e-ab622b10fce0/changing-tire-on-moving-car.jpg",
@@ -281,7 +295,7 @@
           "description": "In this article (the first part in a series of two), Luis Ouriach shares advice that he wishes he has when starting out in his career. These tips come from his experience as a user interface and product designer for close to ten years, and if you’re starting just now, then read on!",
           "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/",
           "publishedOn": "2022-01-05T13:00:00.000Z",
-          "wordCount": 4064,
+          "wordCount": 4065,
           "title": "Ten Tips For Aspiring Designer Beginners (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/954de2dd-e9df-43de-9b9a-bb24c1f8cf0b/tips-aspiring-designer-beginners-part1.jpg",
@@ -295,7 +309,7 @@
           "description": "Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.",
           "link": "https://smashingmagazine.com/2022/01/composition-based-design-system-figma/",
           "publishedOn": "2022-01-03T13:00:00.000Z",
-          "wordCount": 2649,
+          "wordCount": 2634,
           "title": "Composition-Based Design System In Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/671611c3-eaf7-427e-9e5d-1bb74fbf62f5/composition-based-design-system-figma.jpg",
@@ -309,7 +323,7 @@
           "description": "What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.",
           "link": "https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/",
           "publishedOn": "2021-12-31T09:00:00.000Z",
-          "wordCount": 2536,
+          "wordCount": 2534,
           "title": "New Year, Fresh Desktop (January 2022 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55a76925-9960-4444-a72c-72d8738d5ac8/jan-22-new-years-magic-preview-opt.png",
@@ -323,7 +337,7 @@
           "description": "Scoping, estimating, and running digital projects can often feel like an exercise in futility. In this article, Paul Boag explains why you need to start breaking your projects down into manageable phases and why that’s the best way to achieve significant benefits.",
           "link": "https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/",
           "publishedOn": "2021-12-29T10:30:00.000Z",
-          "wordCount": 2465,
+          "wordCount": 2474,
           "title": "How To Price Projects And Manage Scope Creep",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/79f24890-00d9-4d5a-9ae1-405097b24371/price-projects-manage-scope-creep.jpg",
@@ -337,7 +351,7 @@
           "description": "Have you already built and published a Gatsby theme? In this article, Paulina Hetman explains how Gatsby themes work and what problems they can solve by comparing Gatsby themes with their WordPress counterparts.",
           "link": "https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/",
           "publishedOn": "2021-12-27T10:30:00.000Z",
-          "wordCount": 4234,
+          "wordCount": 4241,
           "title": "Building Gatsby Themes For WordPress-Powered Websites",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5b60a4b-63f6-47e2-a9aa-33faa3e9ca9e/building-gatsby-themes-wordpress-powered-websites.jpg",
@@ -358,20 +372,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "A meaningful user experience is what can set your site apart from others. But what makes an experience truly meaningful? And how to achieve that? The tools, tips, and resources in this post not only help you to come up with a UX strategy that works for you and your team but also to circumvent potential UX pitfalls.",
-          "link": "https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/",
-          "publishedOn": "2021-12-22T10:00:00.000Z",
-          "wordCount": 4194,
-          "title": "Useful UX Guidelines, Tools And Resources",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fb38ba21-df76-4d15-b7ef-bbda38aeea6b/laws-of-ux-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -380,6 +380,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61e95a08183181284a1922e8",
+          "author": null,
+          "description": "Deleting or formatting a disk or storage device is a common task for most computer users.  If you use the Windows operating system, you would normally do that using the GUI Disk Management application which comes built-in with any Windows operating system. Disk Management (GUI)Sometimes, you might have difficulties",
+          "link": "https://www.freecodecamp.org/news/how-to-format-storage-disk-in-windows-gui-cli/",
+          "publishedOn": "2022-01-20T20:20:58.000Z",
+          "wordCount": 1793,
+          "title": "How to Delete a Disk or Storage Device in Windows Using the GUI and the CLI"
+        },
+        {
+          "id": "61e940e8183181284a19209d",
+          "author": null,
+          "description": "Working with JavaScript arrays and objects can be more fun if you destructure them. This helps when you're fetching stored data. In this article, you will learn how you can take destructuring to the next level in JavaScript arrays and objects. Table of contents:What is an array?What is",
+          "link": "https://www.freecodecamp.org/news/destructuring-patterns-javascript-arrays-and-objects/",
+          "publishedOn": "2022-01-20T18:27:28.000Z",
+          "wordCount": 1036,
+          "title": "Destructuring in JavaScript – How to Destructure Arrays and Objects"
+        },
+        {
+          "id": "61e30fbfb837d507ba0a3b8f",
+          "author": null,
+          "description": "In this article you'll see a few of the reasons that cause the list index out of range Python error.  Besides knowing why this error occurs in the first place, you'll also learn some ways to avoid it.  Let's get started!  How to Create a List in Python To create",
+          "link": "https://www.freecodecamp.org/news/list-index-out-of-range-python-error-message-solved/",
+          "publishedOn": "2022-01-20T16:03:30.000Z",
+          "wordCount": 1437,
+          "title": "List Index Out of Range – Python Error Message Solved"
+        },
+        {
+          "id": "61e981bd183181284a1925ba",
+          "author": null,
+          "description": "Instead of setting up your cloud infrastructure manually, it can be easier and safer to use code. The AWS Cloud Development Kit (CDK) is an open-source software development framework to define your cloud application resources using familiar programming languages. We just published a crash course on the freeCodeCamp.org YouTube",
+          "link": "https://www.freecodecamp.org/news/aws-cloud-development-kit-crash-course/",
+          "publishedOn": "2022-01-20T15:48:29.000Z",
+          "wordCount": 7431,
+          "title": "How to Define Cloud Infrastructure with the AWS Cloud Development Kit"
+        },
         {
           "id": "61e79b46183181284a191680",
           "author": null,
@@ -404,7 +440,7 @@
           "description": "Serverless Development has been around since the release of AWS Lambda in 2014, but in the last few years things have exploded.  Startups and smart tech companies have started taking advantage of the scalability, reliability, and power of serverless to rapidly grow – and now they need more serverless developers than",
           "link": "https://www.freecodecamp.org/news/become-a-serverless-developer/",
           "publishedOn": "2022-01-19T20:57:22.000Z",
-          "wordCount": 1968,
+          "wordCount": 1969,
           "title": "How to Become a Serverless Developer in 2022"
         },
         {
@@ -433,42 +469,6 @@
           "publishedOn": "2022-01-19T16:48:00.000Z",
           "wordCount": 1900,
           "title": "How to Make a Filter Component in React"
-        },
-        {
-          "id": "61e158e5b837d507ba0a263e",
-          "author": null,
-          "description": "HTML Tables are simple to use for rendering small amounts of data. But they can be hard for users to work with when they display a lot of data.  Features like sorting, filtering, and pagination make it easier to work with many rows of data. We can easily implement those",
-          "link": "https://www.freecodecamp.org/news/convert-html-table-to-dynamic-javascript-data-grid/",
-          "publishedOn": "2022-01-18T22:40:00.000Z",
-          "wordCount": 2842,
-          "title": "How to Convert a Static HTML Table to a Dynamic JavaScript Data Grid"
-        },
-        {
-          "id": "61e5c135b837d507ba0a4ad0",
-          "author": null,
-          "description": "The Result-Error Pattern helps you hide try-catch blocks, simplify error handling, and encapsulate cleanup operations.",
-          "link": "https://www.freecodecamp.org/news/simplify-asynchronous-javascript-using-the-result-error-pattern/",
-          "publishedOn": "2022-01-18T22:08:11.000Z",
-          "wordCount": 1036,
-          "title": "How to Simplify Asynchronous JavaScript using the Result-Error Pattern"
-        },
-        {
-          "id": "61c1f85b755c160824908ac7",
-          "author": null,
-          "description": "In this article, we'll learn how to set up a CI/CD pipeline with GitHub Actions and AWS. I've divided the guide into three parts to help you work through it: First, we'll cover some important terminology so you're not lost in a bunch of big buzzwords. Second, we'll set",
-          "link": "https://www.freecodecamp.org/news/how-to-setup-a-ci-cd-pipeline-with-github-actions-and-aws/",
-          "publishedOn": "2022-01-18T21:26:24.000Z",
-          "wordCount": 4273,
-          "title": "How to Setup a CI/CD Pipeline with GitHub Actions and AWS"
-        },
-        {
-          "id": "61e726bf183181284a1912db",
-          "author": null,
-          "description": "Adjusting, visualizing, and sharing machine learning models can be much easier with a sleek user interface. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Gradio to create intuitive user interfaces for machine learning models. Abdul from 1littlecoder developed this course.",
-          "link": "https://www.freecodecamp.org/news/create-user-interfaces-for-machine-learning-models-using-gradio/",
-          "publishedOn": "2022-01-18T20:56:02.000Z",
-          "wordCount": 356,
-          "title": "Create User Interfaces for Machine Learning Models Using Gradio"
         }
       ]
     }

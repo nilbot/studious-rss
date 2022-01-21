@@ -1,10 +1,165 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-20T00:02:43.677Z</id>
+    <id>urn:2022-01-21T00:03:00.283Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-20T00:02:43.677Z</updated>
+    <updated>2022-01-21T00:03:00.283Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Delete a Disk or Storage Device in Windows Using the GUI and the CLI]]></title>
+        <id>61e95a08183181284a1922e8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-format-storage-disk-in-windows-gui-cli/"/>
+        <updated>2022-01-20T20:20:58.000Z</updated>
+        <summary type="html"><![CDATA[Deleting or formatting a disk or storage device is a common task for most computer users.  If you use the Windows operating system, you would normally do that using the GUI Disk Management application which comes built-in with any Windows operating system. Disk Management (GUI)Sometimes, you might have difficulties]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Destructuring in JavaScript – How to Destructure Arrays and Objects]]></title>
+        <id>61e940e8183181284a19209d</id>
+        <link href="https://www.freecodecamp.org/news/destructuring-patterns-javascript-arrays-and-objects/"/>
+        <updated>2022-01-20T18:27:28.000Z</updated>
+        <summary type="html"><![CDATA[Working with JavaScript arrays and objects can be more fun if you destructure them. This helps when you're fetching stored data. In this article, you will learn how you can take destructuring to the next level in JavaScript arrays and objects. Table of contents:What is an array?What is]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[List Index Out of Range – Python Error Message Solved]]></title>
+        <id>61e30fbfb837d507ba0a3b8f</id>
+        <link href="https://www.freecodecamp.org/news/list-index-out-of-range-python-error-message-solved/"/>
+        <updated>2022-01-20T16:03:30.000Z</updated>
+        <summary type="html"><![CDATA[In this article you'll see a few of the reasons that cause the list index out of range Python error.  Besides knowing why this error occurs in the first place, you'll also learn some ways to avoid it.  Let's get started!  How to Create a List in Python To create]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Define Cloud Infrastructure with the AWS Cloud Development Kit]]></title>
+        <id>61e981bd183181284a1925ba</id>
+        <link href="https://www.freecodecamp.org/news/aws-cloud-development-kit-crash-course/"/>
+        <updated>2022-01-20T15:48:29.000Z</updated>
+        <summary type="html"><![CDATA[Instead of setting up your cloud infrastructure manually, it can be easier and safer to use code. The AWS Cloud Development Kit (CDK) is an open-source software development framework to define your cloud application resources using familiar programming languages. We just published a crash course on the freeCodeCamp.org YouTube]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Complete Beginner’s Guide to npm]]></title>
+        <id>https://css-tricks.com/?p=361210</id>
+        <link href="https://css-tricks.com/a-complete-beginners-guide-to-npm/"/>
+        <updated>2022-01-20T15:07:32.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+I remember vividly a period early in my coding career when I began to feel that things were changing away from what I knew, and headed towards a more complex set of tools and …
+A Complete Beginner’s Guide to npm originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Josh Collinsworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the Heck Does “npm” Mean?]]></title>
+        <id>https://css-tricks.com/?p=361214</id>
+        <link href="https://css-tricks.com/a-clear-definition-of-npm-and-what-it-does/"/>
+        <updated>2022-01-20T15:04:15.000Z</updated>
+        <summary type="html"><![CDATA[One of the things that makes this new, tooling-heavy era of front-end development so seemingly hard to understand at first is that, while we often call things by a singular name, they tend to be actually comprised of several different …
+What the Heck Does “npm” Mean? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Josh Collinsworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the Heck is the Command Line?]]></title>
+        <id>https://css-tricks.com/?p=361226</id>
+        <link href="https://css-tricks.com/a-deep-look-at-the-command-line/"/>
+        <updated>2022-01-20T15:04:09.000Z</updated>
+        <summary type="html"><![CDATA[Now that we know what npm stands for and have a super general idea of what it does and how it fits into web development, we ought to spend a little bit of time looking at the command line, because …
+What the Heck is the Command Line? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Josh Collinsworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the Heck is Node?]]></title>
+        <id>https://css-tricks.com/?p=361241</id>
+        <link href="https://css-tricks.com/node-and-how-it-works-with-npm/"/>
+        <updated>2022-01-20T15:04:03.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Here’s what you need to know about Node.js (or simply Node) and how it relates to npm right off the bat:
+Node is JavaScript, but as a server-side language.
+This is possible because of 
+…
+What the Heck is Node? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Josh Collinsworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the Heck is a Package Manager?]]></title>
+        <id>https://css-tricks.com/?p=361257</id>
+        <link href="https://css-tricks.com/what-the-heck-is-a-package-manager/"/>
+        <updated>2022-01-20T15:03:59.000Z</updated>
+        <summary type="html"><![CDATA[If you’re keeping score, so far in this npm guide we’ve developed a general understanding of what npm is—notably, that it stands for Node Package Manager. In the process, we’ve discussed the importance of the command line and how it’s …
+What the Heck is a Package Manager? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Josh Collinsworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Heck Do You Install npm?]]></title>
+        <id>https://css-tricks.com/?p=361270</id>
+        <link href="https://css-tricks.com/how-to-install-npm-node-nvm/"/>
+        <updated>2022-01-20T15:03:53.000Z</updated>
+        <summary type="html"><![CDATA[Feel like you have a pretty good idea of what a package manager is? We’ve certainly covered a lot of ground getting familiar with all the terms and concepts of package managers, but I’d say it’s high time we actually …
+How the Heck Do You Install npm? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Josh Collinsworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Heck Do You Install npm Packages?]]></title>
+        <id>https://css-tricks.com/?p=361300</id>
+        <link href="https://css-tricks.com/how-to-install-npm-packages/"/>
+        <updated>2022-01-20T15:03:49.000Z</updated>
+        <summary type="html"><![CDATA[By now, you’re becoming quite knowledgeable with npm! So far, we’ve broken down the three letters in “npm” to gain a better understand of Node and package managers. In the previous chapter, we even installed Node and npm while …
+How the Heck Do You Install npm Packages? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Josh Collinsworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the Heck Are npm Commands?]]></title>
+        <id>https://css-tricks.com/?p=361320</id>
+        <link href="https://css-tricks.com/what-the-heck-are-npm-commands/"/>
+        <updated>2022-01-20T15:03:44.000Z</updated>
+        <summary type="html"><![CDATA[npm is, as you now know, a package manager. But like similar, earlier tools that run tasks in the command line, such as Grunt and Gulp, npm can also run tasks—which is perfect for us because now that …
+What the Heck Are npm Commands? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Josh Collinsworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Heck Do You Install an Existing npm Project?]]></title>
+        <id>https://css-tricks.com/?p=361337</id>
+        <link href="https://css-tricks.com/how-to-install-an-npm-project/"/>
+        <updated>2022-01-20T15:03:35.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+We’ve gotten a good overview of how npm works and how to use it to install packages and run commands at this point. Now let’s go a little further and see what it looks …
+How the Heck Do You Install an Existing npm Project? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Josh Collinsworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building The Real App With React Query]]></title>
+        <id>https://smashingmagazine.com/2022/01/building-real-app-react-query/</id>
+        <link href="https://smashingmagazine.com/2022/01/building-real-app-react-query/"/>
+        <updated>2022-01-20T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Georgii Perepecho explains the most common React Query features that you need to be familiar with when creating a real-life application that is stable when testing.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Georgii Perepecho)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Serene CSS Dappled Light Effect]]></title>
         <id>https://css-tricks.com/?p=360899</id>
@@ -111,46 +266,6 @@ What should someone learn about CSS if they last boned up during CSS3? originall
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Convert a Static HTML Table to a Dynamic JavaScript Data Grid]]></title>
-        <id>61e158e5b837d507ba0a263e</id>
-        <link href="https://www.freecodecamp.org/news/convert-html-table-to-dynamic-javascript-data-grid/"/>
-        <updated>2022-01-18T22:40:00.000Z</updated>
-        <summary type="html"><![CDATA[HTML Tables are simple to use for rendering small amounts of data. But they can be hard for users to work with when they display a lot of data.  Features like sorting, filtering, and pagination make it easier to work with many rows of data. We can easily implement those]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Simplify Asynchronous JavaScript using the Result-Error Pattern]]></title>
-        <id>61e5c135b837d507ba0a4ad0</id>
-        <link href="https://www.freecodecamp.org/news/simplify-asynchronous-javascript-using-the-result-error-pattern/"/>
-        <updated>2022-01-18T22:08:11.000Z</updated>
-        <summary type="html"><![CDATA[The Result-Error Pattern helps you hide try-catch blocks, simplify error handling, and encapsulate cleanup operations.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Setup a CI/CD Pipeline with GitHub Actions and AWS]]></title>
-        <id>61c1f85b755c160824908ac7</id>
-        <link href="https://www.freecodecamp.org/news/how-to-setup-a-ci-cd-pipeline-with-github-actions-and-aws/"/>
-        <updated>2022-01-18T21:26:24.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll learn how to set up a CI/CD pipeline with GitHub Actions and AWS. I've divided the guide into three parts to help you work through it: First, we'll cover some important terminology so you're not lost in a bunch of big buzzwords. Second, we'll set]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create User Interfaces for Machine Learning Models Using Gradio]]></title>
-        <id>61e726bf183181284a1912db</id>
-        <link href="https://www.freecodecamp.org/news/create-user-interfaces-for-machine-learning-models-using-gradio/"/>
-        <updated>2022-01-18T20:56:02.000Z</updated>
-        <summary type="html"><![CDATA[Adjusting, visualizing, and sharing machine learning models can be much easier with a sleek user interface. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Gradio to create intuitive user interfaces for machine learning models. Abdul from 1littlecoder developed this course.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Making a Site Work Offline Using the VitePWA Plugin]]></title>
         <id>https://css-tricks.com/?p=361001</id>
         <link href="https://css-tricks.com/vitepwa-plugin-offline-service-worker/"/>
@@ -209,28 +324,6 @@ Using the CSS Me Not Bookmarklet to See (and Disable) CSS Files originally publi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mondrian Art in CSS From 5 Code Artists]]></title>
-        <id>https://css-tricks.com/?p=360864</id>
-        <link href="https://css-tricks.com/mondrian-art-in-css-from-5-code-artists/"/>
-        <updated>2022-01-14T18:15:03.000Z</updated>
-        <summary type="html"><![CDATA[Mondrian is famous for paintings with big thick black lines forming a grid, where each cell is white, red, yellow, or blue. This aesthetic pairs well with the notoriously rectangular web, and that hasn’t gone unnoticed over the years with …
-Mondrian Art in CSS From 5 Code Artists originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your First Custom Svelte Transition]]></title>
-        <id>https://css-tricks.com/?p=360781</id>
-        <link href="https://css-tricks.com/making-your-first-custom-svelte-transition/"/>
-        <updated>2022-01-14T15:24:19.000Z</updated>
-        <summary type="html"><![CDATA[The Svelte transition API provides a first-class way to animate your components when they enter or leave the document, including custom Svelte transitions. By default, the transition directive uses CSS animations, which generally offer better performance and allow the browser’s …
-How to Build Your First Custom Svelte Transition originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Austin Crim</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ten Tips For Aspiring Designer Beginners (Part 2)]]></title>
         <id>https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/</id>
         <link href="https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/"/>
@@ -238,29 +331,6 @@ How to Build Your First Custom Svelte Transition originally published on CSS-Tri
         <summary type="html"><![CDATA[In [Part 1](https://www.smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/), Luis Ouriach shared advice he wished he had when starting out in his career. In this second and last part of this series, Luis continues sharing tips that helped him grow and become a better designer throughout the years.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Luis Ouriach)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 Helpful Accessibility Links for January 2022]]></title>
-        <id>https://css-tricks.com/?p=360939</id>
-        <link href="https://css-tricks.com/8-accessibility-links-january-2022/"/>
-        <updated>2022-01-13T20:57:41.000Z</updated>
-        <summary type="html"><![CDATA[Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Accessibility is one of those things! Here’s a list of related links to other articles that I’ve been saving up and …
-8 Helpful Accessibility Links for January 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Practical Tip For Using Sass Default Parameters]]></title>
-        <id>https://css-tricks.com/?p=360423</id>
-        <link href="https://css-tricks.com/sass-default-parameters/"/>
-        <updated>2022-01-13T15:17:28.000Z</updated>
-        <summary type="html"><![CDATA[Sass offers functions and mixins that accept parameters. You can use Sass default parameters, that is, parameters that have a value even if you don’t provide them when the function or mixin is called. 
-Let’s focus on mixins here. …
-A Practical Tip For Using Sass Default Parameters originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -274,55 +344,6 @@ A Practical Tip For Using Sass Default Parameters originally published on CSS-Tr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Parcel CSS: A New CSS Parser, Transformer, and Minifier]]></title>
-        <id>https://css-tricks.com/?p=361233</id>
-        <link href="https://css-tricks.com/parcel-css/"/>
-        <updated>2022-01-12T21:10:53.000Z</updated>
-        <summary type="html"><![CDATA[Hot off the presses from Devon Govett, creator of Parcel, is Parcel CSS:
-A CSS parser, transformer, and minifier written in Rust.
-
-Nice. The CSS world could use a little processing shake up like this.
-I just wrote a …
-Parcel CSS: A New CSS Parser, Transformer, and Minifier originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Source & Sustainability]]></title>
-        <id>https://css-tricks.com/?p=360607</id>
-        <link href="https://css-tricks.com/open-source-sustainability/"/>
-        <updated>2022-01-12T20:51:49.000Z</updated>
-        <summary type="html"><![CDATA[It’s a god-damned miracle to me that open source is as robust as it is in tech. Consider the options. You could have a job (or be entrepreneurial) with your coding skills and likely be paid quite well. Or, you …
-Open Source & Sustainability originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a Pure CSS 3D Package Toggle]]></title>
-        <id>https://css-tricks.com/?p=360168</id>
-        <link href="https://css-tricks.com/how-to-make-a-pure-css-3d-package-toggle/"/>
-        <updated>2022-01-12T15:29:38.000Z</updated>
-        <summary type="html"><![CDATA[You know how you can get cardboard boxes that come totally flat? You fold ‘em up and tape ‘em to make them into a useful box. Then when it’s time to recycle them, you cut them back apart to flatten …
-How to Make a Pure CSS 3D Package Toggle originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Jhey Tompkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netlify Identity, a Key Aspect to Jamstack Development]]></title>
-        <id>https://css-tricks.com/?p=361191</id>
-        <link href="https://css-tricks.com/netlify-identity/"/>
-        <updated>2022-01-12T14:13:00.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-Netlify is amazing at static file hosting, but it’s really so much more than that. You can build any sort of website, even highly dynamic apps, with the Jamstack approach and static file hosting …
-Netlify Identity, a Key Aspect to Jamstack Development originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Hire For Digital Accessibility Roles]]></title>
         <id>https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/</id>
         <link href="https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/"/>
@@ -330,17 +351,6 @@ Netlify Identity, a Key Aspect to Jamstack Development originally published on C
         <summary type="html"><![CDATA[Accessibility must be a permanent program within organizations, much like security. In this article, Kate Kalcevich shares tips on which skills and questions to keep in mind when hiring for digital accessibility roles.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Kate Kalcevich)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Would it Take to Prevent CSS Tooltips From Overflowing?]]></title>
-        <id>https://css-tricks.com/?p=360490</id>
-        <link href="https://css-tricks.com/can-css-prevent-tooltips-from-overflowing/"/>
-        <updated>2022-01-11T23:18:56.000Z</updated>
-        <summary type="html"><![CDATA[Say you have an elements with CSS tooltips and you’re going to position those tooltips such that it opens up next to the element on hover (or probably better: when clicked/tapped). Next to it where? Above it? What if the …
-What Would it Take to Prevent CSS Tooltips From Overflowing? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -435,16 +445,6 @@ Thank you: @sokomin, @molakirlee, @philippnagel, @tianheg]]></summary>
         <summary type="html"><![CDATA[Range inputs have notoriously been a pain to style. Each browser renders the input differently requiring you to use vendor prefixes in order to create a cohesive look and feel. In this article, we’ll take a look at the quirkiness of the HTML range input and demonstrate how to style the input to look consistent across all major browsers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alyssa Holland)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful UX Guidelines, Tools And Resources]]></title>
-        <id>https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/</id>
-        <link href="https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/"/>
-        <updated>2021-12-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A meaningful user experience is what can set your site apart from others. But what makes an experience truly meaningful? And how to achieve that? The tools, tips, and resources in this post not only help you to come up with a UX strategy that works for you and your team but also to circumvent potential UX pitfalls.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
