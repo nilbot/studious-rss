@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-21T00:03:00.283Z</id>
+    <id>urn:2022-01-22T00:02:42.656Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-21T00:03:00.283Z</updated>
+    <updated>2022-01-22T00:02:42.656Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Using SVG in WordPress (2 Helpful Plugin Recommendations)]]></title>
+        <id>https://css-tricks.com/?p=360346</id>
+        <link href="https://css-tricks.com/using-svg-in-wordpress/"/>
+        <updated>2022-01-21T19:35:31.000Z</updated>
+        <summary type="html"><![CDATA[SVG is a great image format, so it's nice to able to use it in WordPress. If you're looking to be using SVG in WordPress. , we've got you covered here with all the best options.
+Using SVG in WordPress (2 Helpful Plugin Recommendations) originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make Event Sourcing in Java Easier]]></title>
+        <id>61e3bb40b837d507ba0a3f30</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-event-sourcing-in-java-easier/"/>
+        <updated>2022-01-21T16:23:36.000Z</updated>
+        <summary type="html"><![CDATA[Event sourcing is about persisting events instead of just the current state. Event sourcing can be helpful for auditing purposes, and to analyze or rebuild previous system states for business analysis. Let's look at it in a bit more detail: every time you make a change to the application state,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Administrator Has Blocked You From Running This App –  How to Fix on a Windows 10 PC]]></title>
+        <id>61ea53d4fa0e660c3ce47514</id>
+        <link href="https://www.freecodecamp.org/news/an-administrator-has-blocked-you-from-running-this-app-how-to-fix-on-a-windows-10-pc/"/>
+        <updated>2022-01-21T15:51:17.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes when you decide to open an app or file or install or open a program on your Windows 10 PC, you might get the error "An administrator has blocked you from running this app".  You get this error because Windows 10 is optimized for protection against malware]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Chaos To System In Design Teams]]></title>
+        <id>https://smashingmagazine.com/2022/01/from-chaos-to-system-design-teams/</id>
+        <link href="https://smashingmagazine.com/2022/01/from-chaos-to-system-design-teams/"/>
+        <updated>2022-01-21T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Joining a team where there are no established design practices may feel disheartening. Does this situation resonate with you? If yes, then read on — as this article is sharing the author’s advice based on his personal experience and it will show you a way (although not easy) of facing the problem in a manner that will bring other benefits, beside order and consistency.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Javier Cuello)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Context-Aware Web Components Are Easier Than You Think]]></title>
+        <id>https://css-tricks.com/?p=360665</id>
+        <link href="https://css-tricks.com/context-aware-web-components/"/>
+        <updated>2022-01-21T14:08:05.000Z</updated>
+        <summary type="html"><![CDATA[Another aspect of web components that we haven’t talked about yet is that a JavaScript function is called whenever a web component is added or removed from a page. These lifecycle callbacks can be used for many things, including making …
+Context-Aware Web Components Are Easier Than You Think originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>John Rhea</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Delete a Disk or Storage Device in Windows Using the GUI and the CLI]]></title>
         <id>61e95a08183181284a1922e8</id>
@@ -214,26 +266,6 @@ A Serene CSS Dappled Light Effect originally published on CSS-Tricks. You should
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Code Execution Cannot Proceed Because msvcp140.dll Was Not Found – How to Fix on a Windows 10 PC]]></title>
-        <id>61e6d91ab6c2e011aa4ff1c1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-fix-the-code-execution-cannot-proceed-because-msvcp140-dll-was-not-found/"/>
-        <updated>2022-01-19T17:47:26.000Z</updated>
-        <summary type="html"><![CDATA[msvcp140.dll is a Microsoft C Dynamic Linked Library file responsible for running certain Windows apps and games – especially those built on C++.  Sometimes, when you're trying to open an app or game, you might get the error “the code execution cannot proceed because msvcp140.dll was not found”.  This]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a Filter Component in React]]></title>
-        <id>61d1f0e7a7001508889342bf</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-a-filter-component-in-react/"/>
-        <updated>2022-01-19T16:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Filter components are useful on websites because they help users find the results they need quickly and easily.  This is especially true if your data comes from an API, since users cannot look through everything your app has to offer. In this article, we will be using dummy data that]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What should someone learn about CSS if they last boned up during CSS3?]]></title>
         <id>https://css-tricks.com/?p=359857</id>
         <link href="https://css-tricks.com/whats-new-since-css3/"/>
@@ -292,17 +324,6 @@ Making a Site Work Offline Using the VitePWA Plugin originally published on CSS-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Were the Hottest Front-End Tools in 2021?]]></title>
-        <id>https://css-tricks.com/?p=361047</id>
-        <link href="https://css-tricks.com/hottest-front-end-tools-in-2021/"/>
-        <updated>2022-01-17T15:13:26.000Z</updated>
-        <summary type="html"><![CDATA[Another year has passed and once again I’ve had the privilege of going through the Web Tools Weekly newsletter archives from the past 12 months to hunt down the front-end tools that readers found to be the most interesting during …
-What Were the Hottest Front-End Tools in 2021? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Louis Lazaris</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Modern Fluid Typography Using CSS Clamp]]></title>
         <id>https://smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/</id>
         <link href="https://smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/"/>
@@ -310,17 +331,6 @@ What Were the Hottest Front-End Tools in 2021? originally published on CSS-Trick
         <summary type="html"><![CDATA[We’ll explore fluid typography principles, use-cases, implementation with CSS clamp() and an interactive fluid typography calculator.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using the CSS Me Not Bookmarklet to See (and Disable) CSS Files]]></title>
-        <id>https://css-tricks.com/?p=360928</id>
-        <link href="https://css-tricks.com/css-me-not-bookmarklet/"/>
-        <updated>2022-01-15T00:06:56.000Z</updated>
-        <summary type="html"><![CDATA[Stoyan is absolutely correct. As much as we all love CSS, it’s still an important player in how websites load and using less of it is a good thing. He has a neat new bookmarklet called CSS Me Not …
-Using the CSS Me Not Bookmarklet to See (and Disable) CSS Files originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -435,16 +445,6 @@ Thank you: @sokomin, @molakirlee, @philippnagel, @tianheg]]></summary>
         <summary type="html"><![CDATA[Have you already built and published a Gatsby theme? In this article, Paulina Hetman explains how Gatsby themes work and what problems they can solve by comparing Gatsby themes with their WordPress counterparts.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paulina Hetman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating A Custom Range Input That Looks Consistent Across All Browsers]]></title>
-        <id>https://smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/</id>
-        <link href="https://smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/"/>
-        <updated>2021-12-23T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Range inputs have notoriously been a pain to style. Each browser renders the input differently requiring you to use vendor prefixes in order to create a cohesive look and feel. In this article, we’ll take a look at the quirkiness of the HTML range input and demonstrate how to style the input to look consistent across all major browsers.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alyssa Holland)</name>
         </author>
     </entry>
 </feed>
