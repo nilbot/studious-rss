@@ -45,7 +45,7 @@
           "description": "(This is a sponsored post.)\nI remember vividly a period early in my coding career when I began to feel that things were changing away from what I knew, and headed towards a more complex set of tools and …\nA Complete Beginner’s Guide to npm originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/a-complete-beginners-guide-to-npm/",
           "publishedOn": "2022-01-20T15:07:32.000Z",
-          "wordCount": 1496,
+          "wordCount": 1545,
           "title": "A Complete Beginner’s Guide to npm"
         },
         {
@@ -99,7 +99,7 @@
           "description": "By now, you’re becoming quite knowledgeable with npm! So far, we’ve broken down the three letters in “npm” to gain a better understand of Node and package managers. In the previous chapter, we even installed Node and npm while …\nHow the Heck Do You Install npm Packages? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/how-to-install-npm-packages/",
           "publishedOn": "2022-01-20T15:03:49.000Z",
-          "wordCount": 2684,
+          "wordCount": 2714,
           "title": "How the Heck Do You Install npm Packages?"
         },
         {
@@ -169,7 +169,7 @@
           "description": "Joining a team where there are no established design practices may feel disheartening. Does this situation resonate with you? If yes, then read on — as this article is sharing the author’s advice based on his personal experience and it will show you a way (although not easy) of facing the problem in a manner that will bring other benefits, beside order and consistency.",
           "link": "https://smashingmagazine.com/2022/01/from-chaos-to-system-design-teams/",
           "publishedOn": "2022-01-21T14:30:00.000Z",
-          "wordCount": 5315,
+          "wordCount": 5320,
           "title": "From Chaos To System In Design Teams",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a7ab411a-2903-440e-bbfa-4f7914345165/chaos-to-system-design-teams.jpg",
@@ -183,7 +183,7 @@
           "description": "In this article, Georgii Perepecho explains the most common React Query features that you need to be familiar with when creating a real-life application that is stable when testing.",
           "link": "https://smashingmagazine.com/2022/01/building-real-app-react-query/",
           "publishedOn": "2022-01-20T14:30:00.000Z",
-          "wordCount": 5251,
+          "wordCount": 5246,
           "title": "Building The Real App With React Query",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb299a88-9204-4579-bfb0-f9d8dac84014/building-real-app-react-query.jpg",
@@ -211,7 +211,7 @@
           "description": "Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies) related to different occasions and themes. We hope that with this icon set, everyone will be able to find their own use case for these icons in particular. Today, we present to you three icon sets designed by the creative folks at GraphicSurf — all free for personal and commercial use.",
           "link": "https://smashingmagazine.com/2022/01/freebie-wayfinding-icon-sets-exhibition-concert-museum/",
           "publishedOn": "2022-01-18T12:00:00.000Z",
-          "wordCount": 822,
+          "wordCount": 819,
           "title": "Freebie: Wayfinding Icon Sets (164 Icons, PNG, SVG, AI, EPS)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/27d4ee4d-0893-4ef6-b48a-435007089494/wayfinding-icon-preview.jpg",
@@ -225,7 +225,7 @@
           "description": "We’ll explore fluid typography principles, use-cases, implementation with CSS clamp() and an interactive fluid typography calculator.",
           "link": "https://smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/",
           "publishedOn": "2022-01-17T13:00:00.000Z",
-          "wordCount": 4017,
+          "wordCount": 4019,
           "title": "Modern Fluid Typography Using CSS Clamp",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f12f5a3d-f679-4b6b-b9c2-cb5a9d9166ae/modern-fluid-typography-css-clamp.jpg",
@@ -239,7 +239,7 @@
           "description": "In [Part 1](https://www.smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/), Luis Ouriach shared advice he wished he had when starting out in his career. In this second and last part of this series, Luis continues sharing tips that helped him grow and become a better designer throughout the years.",
           "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/",
           "publishedOn": "2022-01-14T15:00:00.000Z",
-          "wordCount": 3566,
+          "wordCount": 3570,
           "title": "Ten Tips For Aspiring Designer Beginners (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b0e9621-b939-439d-a812-69a4eb7d68ff/tips-aspiring-designer-beginners-part2.jpg",
@@ -253,7 +253,7 @@
           "description": "If you’re a developer who’s thinking about building a platform that requires a code editor in one form or another, then this article is for you. This article explains how to create a web code editor that displays the result in real time with the help of some HTML, CSS and JavaScript.",
           "link": "https://smashingmagazine.com/2022/01/building-web-code-editor/",
           "publishedOn": "2022-01-13T11:30:00.000Z",
-          "wordCount": 5061,
+          "wordCount": 5060,
           "title": "Building A Web Code Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7db33e0-a76e-4f4f-959f-be0f8898784f/building-web-code-editor.jpg",
@@ -267,7 +267,7 @@
           "description": "Accessibility must be a permanent program within organizations, much like security. In this article, Kate Kalcevich shares tips on which skills and questions to keep in mind when hiring for digital accessibility roles.",
           "link": "https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/",
           "publishedOn": "2022-01-12T10:30:00.000Z",
-          "wordCount": 3852,
+          "wordCount": 3856,
           "title": "How To Hire For Digital Accessibility Roles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/99b1af95-05d8-48ce-9086-171a59ba27f0/how-hire-digital-accessibility-roles.jpg",
@@ -281,7 +281,7 @@
           "description": "In this article, we’ll be taking a closer look at two gradients: `conic-gradient` and `radial-gradient`. You’ll see how each one of them works in detail, what the differences and similarities are between them, how and where to use them, and some use cases for each.",
           "link": "https://smashingmagazine.com/2022/01/css-radial-conic-gradient/",
           "publishedOn": "2022-01-10T12:30:00.000Z",
-          "wordCount": 2305,
+          "wordCount": 2304,
           "title": "A Deep CSS Dive Into Radial And Conic Gradients",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8b1eea9e-877a-4da7-b531-537a97a44613/css-radial-conic-gradient.jpg",
@@ -295,7 +295,7 @@
           "description": "Product roadmaps are often treated as a series of checkboxes. But they are more than that. In this article, Scott Himmer explains how internal partnerships, research, design systems, and regular touch bases can help make sure that your product roadmap is a successful one.",
           "link": "https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/",
           "publishedOn": "2022-01-07T16:00:00.000Z",
-          "wordCount": 4001,
+          "wordCount": 3999,
           "title": "Changing A Tire On A Moving Car (Or How To Improve Product Roadmaps)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/31db8ed2-e433-46b6-9b8e-ab622b10fce0/changing-tire-on-moving-car.jpg",
@@ -309,7 +309,7 @@
           "description": "In this article (the first part in a series of two), Luis Ouriach shares advice that he wishes he has when starting out in his career. These tips come from his experience as a user interface and product designer for close to ten years, and if you’re starting just now, then read on!",
           "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/",
           "publishedOn": "2022-01-05T13:00:00.000Z",
-          "wordCount": 4072,
+          "wordCount": 4059,
           "title": "Ten Tips For Aspiring Designer Beginners (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/954de2dd-e9df-43de-9b9a-bb24c1f8cf0b/tips-aspiring-designer-beginners-part1.jpg",
@@ -323,7 +323,7 @@
           "description": "Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.",
           "link": "https://smashingmagazine.com/2022/01/composition-based-design-system-figma/",
           "publishedOn": "2022-01-03T13:00:00.000Z",
-          "wordCount": 2648,
+          "wordCount": 2635,
           "title": "Composition-Based Design System In Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/671611c3-eaf7-427e-9e5d-1bb74fbf62f5/composition-based-design-system-figma.jpg",
@@ -337,7 +337,7 @@
           "description": "What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.",
           "link": "https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/",
           "publishedOn": "2021-12-31T09:00:00.000Z",
-          "wordCount": 2532,
+          "wordCount": 2530,
           "title": "New Year, Fresh Desktop (January 2022 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55a76925-9960-4444-a72c-72d8738d5ac8/jan-22-new-years-magic-preview-opt.png",
@@ -351,7 +351,7 @@
           "description": "Scoping, estimating, and running digital projects can often feel like an exercise in futility. In this article, Paul Boag explains why you need to start breaking your projects down into manageable phases and why that’s the best way to achieve significant benefits.",
           "link": "https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/",
           "publishedOn": "2021-12-29T10:30:00.000Z",
-          "wordCount": 2462,
+          "wordCount": 2465,
           "title": "How To Price Projects And Manage Scope Creep",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/79f24890-00d9-4d5a-9ae1-405097b24371/price-projects-manage-scope-creep.jpg",
@@ -365,7 +365,7 @@
           "description": "Have you already built and published a Gatsby theme? In this article, Paulina Hetman explains how Gatsby themes work and what problems they can solve by comparing Gatsby themes with their WordPress counterparts.",
           "link": "https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/",
           "publishedOn": "2021-12-27T10:30:00.000Z",
-          "wordCount": 4249,
+          "wordCount": 4236,
           "title": "Building Gatsby Themes For WordPress-Powered Websites",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5b60a4b-63f6-47e2-a9aa-33faa3e9ca9e/building-gatsby-themes-wordpress-powered-websites.jpg",
