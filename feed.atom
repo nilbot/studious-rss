@@ -1,10 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-25T00:03:22.275Z</id>
+    <id>urn:2022-01-26T00:02:43.206Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-25T00:03:22.275Z</updated>
+    <updated>2022-01-26T00:02:43.206Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Do You Handle Component Spacing in a Design System?]]></title>
+        <id>https://css-tricks.com/?p=362044</id>
+        <link href="https://css-tricks.com/component-spacing-design-system/"/>
+        <updated>2022-01-25T23:10:20.000Z</updated>
+        <summary type="html"><![CDATA[Say you’ve got a <Card /> component. It’s highly likely it shouldn’t be butted right up against any other components with no spacing around it. That’s true for… pretty much every component. So, how do you handle component spacing in …
+How Do You Handle Component Spacing in a Design System? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PC Randomly Turns Off – How to Fix Windows Computer Shutting Down]]></title>
+        <id>61eebd80f2ed6b06db5a37e5</id>
+        <link href="https://www.freecodecamp.org/news/pc-randomly-turns-off-how-to-fix-windows-computer-shutting-down/"/>
+        <updated>2022-01-25T21:30:59.000Z</updated>
+        <summary type="html"><![CDATA[If you're a Windows user, you've probably had your PC randomly shut down. This can be frustrating and negatively impact your productivity as it interrupts important tasks and activities. This random shutdown might be caused by software or hardware issues, or both on some occasions. I have researched 4 ways]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Code Your React App with TypeScript]]></title>
+        <id>61f050d6f2ed6b06db5a5228</id>
+        <link href="https://www.freecodecamp.org/news/how-to-code-your-react-app-with-typescript/"/>
+        <updated>2022-01-25T19:46:29.000Z</updated>
+        <summary type="html"><![CDATA[React is one of the most popular front-end JavaScript libraries for building user interfaces. Using TypeScript for your React projects can lead to a more robust codebase with less errors. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use React with]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Portfolio Website Using HTML, CSS, JavaScript, and Bootstrap 5]]></title>
+        <id>61e776e0183181284a19149b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/"/>
+        <updated>2022-01-25T17:10:50.000Z</updated>
+        <summary type="html"><![CDATA[If you are a web developer or a web designer, it is essential for you to have a portfolio website. It lets you provide information about yourself and showcase your best work with your relevant skills and experience. In this blog post, I will discuss some of the benefits of]]></summary>
+        <author>
+            <name>Sampurna Chapagain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a Scroll-Triggered Animation With Basic JavaScript]]></title>
+        <id>https://css-tricks.com/?p=360550</id>
+        <link href="https://css-tricks.com/scroll-triggered-animation-vanilla-javascript/"/>
+        <updated>2022-01-25T14:14:11.000Z</updated>
+        <summary type="html"><![CDATA[A little bit of animation on a site can add some flair, impress users, and get their attention. You could have them run, no matter where they are on the page, immediately when the page loads. But what if your …
+How to Make a Scroll-Triggered Animation With Basic JavaScript originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Md Shuvo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New In DevTools?]]></title>
+        <id>https://smashingmagazine.com/2022/01/devtools-updates-2022/</id>
+        <link href="https://smashingmagazine.com/2022/01/devtools-updates-2022/"/>
+        <updated>2022-01-25T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What’s new in Chrome, Edge, Safari and Firefox? Patrick Brosset breaks it down with the latest features in DevTools across browsers.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Patrick Brosset)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Temporal Dead Zone (TDZ) and Hoisting in JavaScript – Explained with Examples]]></title>
         <id>61e92726183181284a191e75</id>
@@ -12,7 +74,7 @@
         <updated>2022-01-24T23:10:03.000Z</updated>
         <summary type="html"><![CDATA[Temporal Dead Zone and Hoisting are two essential terms in JavaScript. But understanding how they work can easily confuse you if you don't approach them properly. But don't fret! This article is here to help you get a good grasp of the two terms. So relax, grab your favorite cup]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Oluwatobi Sofela</name>
         </author>
     </entry>
     <entry>
@@ -20,9 +82,19 @@
         <id>61ebdebf011f8933034705af</id>
         <link href="https://www.freecodecamp.org/news/python-string-replace-function-in-python-for-substring-substitution/"/>
         <updated>2022-01-24T16:59:25.000Z</updated>
-        <summary type="html"><![CDATA[In this article you'll see how to use Python's .replace() method to perform substring substiution.  You'll also see how to perform case-insensitive substring substitution.  Let's get started!  What does the .replace() Python method do? When using the .replace() Python method, you are able to replace every instance of one specific]]></summary>
+        <summary type="html"><![CDATA[In this article you'll see how to use Python's .replace() method to perform substring substiution. You'll also see how to perform case-insensitive substring substitution. Let's get started! What does the .replace() Python method do? When using the .replace() Python method, you are able to replace every instance of one specific]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn AutoCAD with This Free Course]]></title>
+        <id>61f01b62f2ed6b06db5a4e57</id>
+        <link href="https://www.freecodecamp.org/news/learn-autocad-with-this-free-course/"/>
+        <updated>2022-01-24T16:58:00.000Z</updated>
+        <summary type="html"><![CDATA[AutoCAD is a popular computer aided design software used to design and model in 2D and 3D. It is used by used by architects, engineers, designers, real estate developers, artists, and more. We just published a complete university AutoCAD course on the freeCodeCamp.org YouTube channel. Gediminas Kirdeikis developed this course.]]></summary>
+        <author>
+            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -32,7 +104,7 @@
         <updated>2022-01-24T16:05:46.000Z</updated>
         <summary type="html"><![CDATA[In this article, I'm going to show you 140 beginner friendly courses where you can learn computer science and programming for free. The freeCodeCamp courses are completely free and some of them include a free certification that you can add to your LinkedIn or résumé. Note that some of the]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Jessica Wilkins</name>
         </author>
     </entry>
     <entry>
@@ -75,7 +147,7 @@ Using SVG in WordPress (2 Helpful Plugin Recommendations) originally published o
         <updated>2022-01-21T16:23:36.000Z</updated>
         <summary type="html"><![CDATA[Event sourcing is about persisting events instead of just the current state. Event sourcing can be helpful for auditing purposes, and to analyze or rebuild previous system states for business analysis. Let's look at it in a bit more detail: every time you make a change to the application state,]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Bertil Muth</name>
         </author>
     </entry>
     <entry>
@@ -83,9 +155,9 @@ Using SVG in WordPress (2 Helpful Plugin Recommendations) originally published o
         <id>61ea53d4fa0e660c3ce47514</id>
         <link href="https://www.freecodecamp.org/news/an-administrator-has-blocked-you-from-running-this-app-how-to-fix-on-a-windows-10-pc/"/>
         <updated>2022-01-21T15:51:17.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes when you decide to open an app or file or install or open a program on your Windows 10 PC, you might get the error "An administrator has blocked you from running this app".  You get this error because Windows 10 is optimized for protection against malware]]></summary>
+        <summary type="html"><![CDATA[Sometimes when you decide to open an app or file or install or open a program on your Windows 10 PC, you might get the error "An administrator has blocked you from running this app". You get this error because Windows 10 is optimized for protection against malware through Windows]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Kolade Chris</name>
         </author>
     </entry>
     <entry>
@@ -116,37 +188,7 @@ Context-Aware Web Components Are Easier Than You Think originally published on C
         <updated>2022-01-20T20:20:58.000Z</updated>
         <summary type="html"><![CDATA[Deleting or formatting a disk or storage device is a common task for most computer users.  If you use the Windows operating system, you would normally do that using the GUI Disk Management application which comes built-in with any Windows operating system. Disk Management (GUI)Sometimes, you might have difficulties]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Destructuring in JavaScript – How to Destructure Arrays and Objects]]></title>
-        <id>61e940e8183181284a19209d</id>
-        <link href="https://www.freecodecamp.org/news/destructuring-patterns-javascript-arrays-and-objects/"/>
-        <updated>2022-01-20T18:27:28.000Z</updated>
-        <summary type="html"><![CDATA[Working with JavaScript arrays and objects can be more fun if you destructure them. This helps when you're fetching stored data. In this article, you will learn how you can take destructuring to the next level in JavaScript arrays and objects. Table of contents:What is an array?What is]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[List Index Out of Range – Python Error Message Solved]]></title>
-        <id>61e30fbfb837d507ba0a3b8f</id>
-        <link href="https://www.freecodecamp.org/news/list-index-out-of-range-python-error-message-solved/"/>
-        <updated>2022-01-20T16:03:30.000Z</updated>
-        <summary type="html"><![CDATA[In this article you'll see a few of the reasons that cause the list index out of range Python error.  Besides knowing why this error occurs in the first place, you'll also learn some ways to avoid it.  Let's get started!  How to Create a List in Python To create]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Define Cloud Infrastructure with the AWS Cloud Development Kit]]></title>
-        <id>61e981bd183181284a1925ba</id>
-        <link href="https://www.freecodecamp.org/news/aws-cloud-development-kit-crash-course/"/>
-        <updated>2022-01-20T15:48:29.000Z</updated>
-        <summary type="html"><![CDATA[Instead of setting up your cloud infrastructure manually, it can be easier and safer to use code. The AWS Cloud Development Kit (CDK) is an open-source software development framework to define your cloud application resources using familiar programming languages. We just published a crash course on the freeCodeCamp.org YouTube]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
+            <name>Md. Fahim Bin Amin</name>
         </author>
     </entry>
     <entry>
@@ -278,27 +320,6 @@ A Serene CSS Dappled Light Effect originally published on CSS-Tricks. You should
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[freeCodeCamp Just Got a Million Dollar Donation from an Alum to Build a Carbon-Neutral Web3 Curriculum]]></title>
-        <id>61e79b46183181284a191680</id>
-        <link href="https://www.freecodecamp.org/news/carbon-neutral-web3-curriculum-plans/"/>
-        <updated>2022-01-19T21:23:18.000Z</updated>
-        <summary type="html"><![CDATA[A freeCodeCamp alum who founded his own successful Web3 company has donated $1M to freeCodeCampHe asked that we use some of these funds to develop a carbon-neutral Web3 curriculumWe are building an interactive Web3 curriculum where you can learn by building more than a dozen projects. This free curriculum will]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What should someone learn about CSS if they last boned up during CSS3?]]></title>
-        <id>https://css-tricks.com/?p=359857</id>
-        <link href="https://css-tricks.com/whats-new-since-css3/"/>
-        <updated>2022-01-19T14:25:31.000Z</updated>
-        <summary type="html"><![CDATA[What's new in CSS? If someone asked you that, who knows CSS but hasn't stayed up to date the last, say, half a decade or more, what advice would you give?
-What should someone learn about CSS if they last boned up during CSS3? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Upcoming Online Workshops: January &ndash; May 2022]]></title>
         <id>https://smashingmagazine.com/2022/01/smashingconf-workshops-january-may-2022/</id>
         <link href="https://smashingmagazine.com/2022/01/smashingconf-workshops-january-may-2022/"/>
@@ -306,17 +327,6 @@ What should someone learn about CSS if they last boned up during CSS3? originall
         <summary type="html"><![CDATA[What goes into creating a successful design system? How can you take your testing workflow to the next level? And what smart interface design patterns could help you enhance your UIs? Let’s figure it out. With our [online workshops on front-end and UX](https://smashingconf.com/online-workshops).]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Quality Options for a Table of Contents Block in WordPress]]></title>
-        <id>https://css-tricks.com/?p=360362</id>
-        <link href="https://css-tricks.com/table-of-contents-block-in-wordpress/"/>
-        <updated>2022-01-18T23:22:01.000Z</updated>
-        <summary type="html"><![CDATA[There are a number of options for including a Table of Contents lock in WordPress. You can use a plugin, or try to do it yourself. 
-4 Quality Options for a Table of Contents Block in WordPress originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -441,16 +451,6 @@ Thank you: @sokomin, @molakirlee, @philippnagel, @tianheg]]></summary>
         <summary type="html"><![CDATA[Scoping, estimating, and running digital projects can often feel like an exercise in futility. In this article, Paul Boag explains why you need to start breaking your projects down into manageable phases and why that’s the best way to achieve significant benefits.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Gatsby Themes For WordPress-Powered Websites]]></title>
-        <id>https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/</id>
-        <link href="https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/"/>
-        <updated>2021-12-27T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you already built and published a Gatsby theme? In this article, Paulina Hetman explains how Gatsby themes work and what problems they can solve by comparing Gatsby themes with their WordPress counterparts.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paulina Hetman)</name>
         </author>
     </entry>
 </feed>

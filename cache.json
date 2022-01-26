@@ -22,12 +22,30 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=362044",
+          "author": "Chris Coyier",
+          "description": "Say you’ve got a <Card /> component. It’s highly likely it shouldn’t be butted right up against any other components with no spacing around it. That’s true for… pretty much every component. So, how do you handle component spacing in …\nHow Do You Handle Component Spacing in a Design System? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/component-spacing-design-system/",
+          "publishedOn": "2022-01-25T23:10:20.000Z",
+          "wordCount": 803,
+          "title": "How Do You Handle Component Spacing in a Design System?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360550",
+          "author": "Md Shuvo",
+          "description": "A little bit of animation on a site can add some flair, impress users, and get their attention. You could have them run, no matter where they are on the page, immediately when the page loads. But what if your …\nHow to Make a Scroll-Triggered Animation With Basic JavaScript originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/scroll-triggered-animation-vanilla-javascript/",
+          "publishedOn": "2022-01-25T14:14:11.000Z",
+          "wordCount": 1567,
+          "title": "How to Make a Scroll-Triggered Animation With Basic JavaScript"
+        },
+        {
           "id": "https://css-tricks.com/?p=360811",
           "author": "Melanie Sumner",
           "description": "You know that joke, “Two front-end developers walk into a bar and find they have nothing in common”? It’s funny, yet frustrating, because it’s true.\nThis article will present three different perspectives on accessibility in web design and development. Three …\nWhy Don’t Developers Take Accessibility Seriously? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/why-dont-developers-take-accessibility-seriously/",
           "publishedOn": "2022-01-24T14:49:18.000Z",
-          "wordCount": 2759,
+          "wordCount": 4006,
           "title": "Why Don’t Developers Take Accessibility Seriously?"
         },
         {
@@ -36,7 +54,7 @@
           "description": "SVG is a great image format, so it's nice to able to use it in WordPress. If you're looking to be using SVG in WordPress. , we've got you covered here with all the best options.\nUsing SVG in WordPress (2 Helpful Plugin Recommendations) originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/using-svg-in-wordpress/",
           "publishedOn": "2022-01-21T19:35:31.000Z",
-          "wordCount": 1209,
+          "wordCount": 1368,
           "title": "Using SVG in WordPress (2 Helpful Plugin Recommendations)"
         },
         {
@@ -99,7 +117,7 @@
           "description": "Feel like you have a pretty good idea of what a package manager is? We’ve certainly covered a lot of ground getting familiar with all the terms and concepts of package managers, but I’d say it’s high time we actually …\nHow the Heck Do You Install npm? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/how-to-install-npm-node-nvm/",
           "publishedOn": "2022-01-20T15:03:53.000Z",
-          "wordCount": 1577,
+          "wordCount": 1626,
           "title": "How the Heck Do You Install npm?"
         },
         {
@@ -137,24 +155,6 @@
           "publishedOn": "2022-01-19T22:46:39.000Z",
           "wordCount": 1672,
           "title": "A Serene CSS Dappled Light Effect"
-        },
-        {
-          "id": "https://css-tricks.com/?p=359857",
-          "author": "Chris Coyier",
-          "description": "What's new in CSS? If someone asked you that, who knows CSS but hasn't stayed up to date the last, say, half a decade or more, what advice would you give?\nWhat should someone learn about CSS if they last boned up during CSS3? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/whats-new-since-css3/",
-          "publishedOn": "2022-01-19T14:25:31.000Z",
-          "wordCount": 2220,
-          "title": "What should someone learn about CSS if they last boned up during CSS3?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360362",
-          "author": "Chris Coyier",
-          "description": "There are a number of options for including a Table of Contents lock in WordPress. You can use a plugin, or try to do it yourself. \n4 Quality Options for a Table of Contents Block in WordPress originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/table-of-contents-block-in-wordpress/",
-          "publishedOn": "2022-01-18T23:22:01.000Z",
-          "wordCount": 2536,
-          "title": "4 Quality Options for a Table of Contents Block in WordPress"
         }
       ]
     },
@@ -164,12 +164,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/01/devtools-updates-2022/",
+          "author": "hello@smashingmagazine.com (Patrick Brosset)",
+          "description": "What’s new in Chrome, Edge, Safari and Firefox? Patrick Brosset breaks it down with the latest features in DevTools across browsers.",
+          "link": "https://smashingmagazine.com/2022/01/devtools-updates-2022/",
+          "publishedOn": "2022-01-25T13:00:00.000Z",
+          "wordCount": 2518,
+          "title": "What’s New In DevTools?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e516aa85-3b77-418a-9b43-cec06943b129/devtools-updates-2022.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/",
           "author": "hello@smashingmagazine.com (Stephanie Eckles)",
           "description": "Cascade layers introduce the new at-rule of @layer. The intent is to help CSS authors be more intentional about ordering the “layers” of CSS rules as a new method of cascade management.",
           "link": "https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/",
           "publishedOn": "2022-01-24T11:00:00.000Z",
-          "wordCount": 4750,
+          "wordCount": 4758,
           "title": "Getting Started With CSS Cascade Layers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/13b8900c-aa53-49ae-84f7-9fbf598635e2/introduction-css-cascade-layers.jpg",
@@ -183,7 +197,7 @@
           "description": "Joining a team where there are no established design practices may feel disheartening. Does this situation resonate with you? If yes, then read on — as this article is sharing the author’s advice based on his personal experience and it will show you a way (although not easy) of facing the problem in a manner that will bring other benefits, beside order and consistency.",
           "link": "https://smashingmagazine.com/2022/01/from-chaos-to-system-design-teams/",
           "publishedOn": "2022-01-21T14:30:00.000Z",
-          "wordCount": 5315,
+          "wordCount": 5323,
           "title": "From Chaos To System In Design Teams",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a7ab411a-2903-440e-bbfa-4f7914345165/chaos-to-system-design-teams.jpg",
@@ -197,7 +211,7 @@
           "description": "In this article, Georgii Perepecho explains the most common React Query features that you need to be familiar with when creating a real-life application that is stable when testing.",
           "link": "https://smashingmagazine.com/2022/01/building-real-app-react-query/",
           "publishedOn": "2022-01-20T14:30:00.000Z",
-          "wordCount": 5245,
+          "wordCount": 5249,
           "title": "Building The Real App With React Query",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb299a88-9204-4579-bfb0-f9d8dac84014/building-real-app-react-query.jpg",
@@ -225,7 +239,7 @@
           "description": "Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies) related to different occasions and themes. We hope that with this icon set, everyone will be able to find their own use case for these icons in particular. Today, we present to you three icon sets designed by the creative folks at GraphicSurf — all free for personal and commercial use.",
           "link": "https://smashingmagazine.com/2022/01/freebie-wayfinding-icon-sets-exhibition-concert-museum/",
           "publishedOn": "2022-01-18T12:00:00.000Z",
-          "wordCount": 831,
+          "wordCount": 834,
           "title": "Freebie: Wayfinding Icon Sets (164 Icons, PNG, SVG, AI, EPS)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/27d4ee4d-0893-4ef6-b48a-435007089494/wayfinding-icon-preview.jpg",
@@ -239,7 +253,7 @@
           "description": "We’ll explore fluid typography principles, use-cases, implementation with CSS clamp() and an interactive fluid typography calculator.",
           "link": "https://smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/",
           "publishedOn": "2022-01-17T13:00:00.000Z",
-          "wordCount": 4018,
+          "wordCount": 4021,
           "title": "Modern Fluid Typography Using CSS Clamp",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f12f5a3d-f679-4b6b-b9c2-cb5a9d9166ae/modern-fluid-typography-css-clamp.jpg",
@@ -253,7 +267,7 @@
           "description": "In [Part 1](https://www.smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/), Luis Ouriach shared advice he wished he had when starting out in his career. In this second and last part of this series, Luis continues sharing tips that helped him grow and become a better designer throughout the years.",
           "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/",
           "publishedOn": "2022-01-14T15:00:00.000Z",
-          "wordCount": 3571,
+          "wordCount": 3570,
           "title": "Ten Tips For Aspiring Designer Beginners (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b0e9621-b939-439d-a812-69a4eb7d68ff/tips-aspiring-designer-beginners-part2.jpg",
@@ -267,7 +281,7 @@
           "description": "If you’re a developer who’s thinking about building a platform that requires a code editor in one form or another, then this article is for you. This article explains how to create a web code editor that displays the result in real time with the help of some HTML, CSS and JavaScript.",
           "link": "https://smashingmagazine.com/2022/01/building-web-code-editor/",
           "publishedOn": "2022-01-13T11:30:00.000Z",
-          "wordCount": 5052,
+          "wordCount": 5054,
           "title": "Building A Web Code Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7db33e0-a76e-4f4f-959f-be0f8898784f/building-web-code-editor.jpg",
@@ -281,7 +295,7 @@
           "description": "Accessibility must be a permanent program within organizations, much like security. In this article, Kate Kalcevich shares tips on which skills and questions to keep in mind when hiring for digital accessibility roles.",
           "link": "https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/",
           "publishedOn": "2022-01-12T10:30:00.000Z",
-          "wordCount": 3855,
+          "wordCount": 3859,
           "title": "How To Hire For Digital Accessibility Roles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/99b1af95-05d8-48ce-9086-171a59ba27f0/how-hire-digital-accessibility-roles.jpg",
@@ -295,7 +309,7 @@
           "description": "In this article, we’ll be taking a closer look at two gradients: `conic-gradient` and `radial-gradient`. You’ll see how each one of them works in detail, what the differences and similarities are between them, how and where to use them, and some use cases for each.",
           "link": "https://smashingmagazine.com/2022/01/css-radial-conic-gradient/",
           "publishedOn": "2022-01-10T12:30:00.000Z",
-          "wordCount": 2303,
+          "wordCount": 2307,
           "title": "A Deep CSS Dive Into Radial And Conic Gradients",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8b1eea9e-877a-4da7-b531-537a97a44613/css-radial-conic-gradient.jpg",
@@ -309,7 +323,7 @@
           "description": "Product roadmaps are often treated as a series of checkboxes. But they are more than that. In this article, Scott Himmer explains how internal partnerships, research, design systems, and regular touch bases can help make sure that your product roadmap is a successful one.",
           "link": "https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/",
           "publishedOn": "2022-01-07T16:00:00.000Z",
-          "wordCount": 3998,
+          "wordCount": 4002,
           "title": "Changing A Tire On A Moving Car (Or How To Improve Product Roadmaps)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/31db8ed2-e433-46b6-9b8e-ab622b10fce0/changing-tire-on-moving-car.jpg",
@@ -323,7 +337,7 @@
           "description": "In this article (the first part in a series of two), Luis Ouriach shares advice that he wishes he has when starting out in his career. These tips come from his experience as a user interface and product designer for close to ten years, and if you’re starting just now, then read on!",
           "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/",
           "publishedOn": "2022-01-05T13:00:00.000Z",
-          "wordCount": 4062,
+          "wordCount": 4068,
           "title": "Ten Tips For Aspiring Designer Beginners (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/954de2dd-e9df-43de-9b9a-bb24c1f8cf0b/tips-aspiring-designer-beginners-part1.jpg",
@@ -337,7 +351,7 @@
           "description": "Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.",
           "link": "https://smashingmagazine.com/2022/01/composition-based-design-system-figma/",
           "publishedOn": "2022-01-03T13:00:00.000Z",
-          "wordCount": 2640,
+          "wordCount": 2642,
           "title": "Composition-Based Design System In Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/671611c3-eaf7-427e-9e5d-1bb74fbf62f5/composition-based-design-system-figma.jpg",
@@ -351,7 +365,7 @@
           "description": "What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.",
           "link": "https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/",
           "publishedOn": "2021-12-31T09:00:00.000Z",
-          "wordCount": 2530,
+          "wordCount": 2539,
           "title": "New Year, Fresh Desktop (January 2022 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55a76925-9960-4444-a72c-72d8738d5ac8/jan-22-new-years-magic-preview-opt.png",
@@ -365,24 +379,10 @@
           "description": "Scoping, estimating, and running digital projects can often feel like an exercise in futility. In this article, Paul Boag explains why you need to start breaking your projects down into manageable phases and why that’s the best way to achieve significant benefits.",
           "link": "https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/",
           "publishedOn": "2021-12-29T10:30:00.000Z",
-          "wordCount": 2473,
+          "wordCount": 2465,
           "title": "How To Price Projects And Manage Scope Creep",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/79f24890-00d9-4d5a-9ae1-405097b24371/price-projects-manage-scope-creep.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/",
-          "author": "hello@smashingmagazine.com (Paulina Hetman)",
-          "description": "Have you already built and published a Gatsby theme? In this article, Paulina Hetman explains how Gatsby themes work and what problems they can solve by comparing Gatsby themes with their WordPress counterparts.",
-          "link": "https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/",
-          "publishedOn": "2021-12-27T10:30:00.000Z",
-          "wordCount": 4240,
-          "title": "Building Gatsby Themes For WordPress-Powered Websites",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5b60a4b-63f6-47e2-a9aa-33faa3e9ca9e/building-gatsby-themes-wordpress-powered-websites.jpg",
             "length": "0",
             "type": "image/jpg"
           }
@@ -395,94 +395,94 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "61eebd80f2ed6b06db5a37e5",
+          "author": "Kolade Chris",
+          "description": "If you're a Windows user, you've probably had your PC randomly shut down. This can be frustrating and negatively impact your productivity as it interrupts important tasks and activities. This random shutdown might be caused by software or hardware issues, or both on some occasions. I have researched 4 ways",
+          "link": "https://www.freecodecamp.org/news/pc-randomly-turns-off-how-to-fix-windows-computer-shutting-down/",
+          "publishedOn": "2022-01-25T21:30:59.000Z",
+          "wordCount": 1145,
+          "title": "PC Randomly Turns Off – How to Fix Windows Computer Shutting Down"
+        },
+        {
+          "id": "61f050d6f2ed6b06db5a5228",
+          "author": "Beau Carnes",
+          "description": "React is one of the most popular front-end JavaScript libraries for building user interfaces. Using TypeScript for your React projects can lead to a more robust codebase with less errors. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use React with",
+          "link": "https://www.freecodecamp.org/news/how-to-code-your-react-app-with-typescript/",
+          "publishedOn": "2022-01-25T19:46:29.000Z",
+          "wordCount": 565,
+          "title": "How to Code Your React App with TypeScript"
+        },
+        {
+          "id": "61e776e0183181284a19149b",
+          "author": "Sampurna Chapagain",
+          "description": "If you are a web developer or a web designer, it is essential for you to have a portfolio website. It lets you provide information about yourself and showcase your best work with your relevant skills and experience. In this blog post, I will discuss some of the benefits of",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/",
+          "publishedOn": "2022-01-25T17:10:50.000Z",
+          "wordCount": 3262,
+          "title": "How to Create a Portfolio Website Using HTML, CSS, JavaScript, and Bootstrap 5"
+        },
+        {
           "id": "61e92726183181284a191e75",
-          "author": null,
+          "author": "Oluwatobi Sofela",
           "description": "Temporal Dead Zone and Hoisting are two essential terms in JavaScript. But understanding how they work can easily confuse you if you don't approach them properly. But don't fret! This article is here to help you get a good grasp of the two terms. So relax, grab your favorite cup",
           "link": "https://www.freecodecamp.org/news/javascript-temporal-dead-zone-and-hoisting-explained/",
           "publishedOn": "2022-01-24T23:10:03.000Z",
-          "wordCount": 1768,
+          "wordCount": 1874,
           "title": "Temporal Dead Zone (TDZ) and Hoisting in JavaScript – Explained with Examples"
         },
         {
           "id": "61ebdebf011f8933034705af",
-          "author": null,
-          "description": "In this article you'll see how to use Python's .replace() method to perform substring substiution.  You'll also see how to perform case-insensitive substring substitution.  Let's get started!  What does the .replace() Python method do? When using the .replace() Python method, you are able to replace every instance of one specific",
+          "author": "Dionysia Lemonaki",
+          "description": "In this article you'll see how to use Python's .replace() method to perform substring substiution. You'll also see how to perform case-insensitive substring substitution. Let's get started! What does the .replace() Python method do? When using the .replace() Python method, you are able to replace every instance of one specific",
           "link": "https://www.freecodecamp.org/news/python-string-replace-function-in-python-for-substring-substitution/",
           "publishedOn": "2022-01-24T16:59:25.000Z",
-          "wordCount": 1243,
+          "wordCount": 1349,
           "title": "Python String.Replace() – Function in Python for Substring Substitution"
         },
         {
+          "id": "61f01b62f2ed6b06db5a4e57",
+          "author": "Beau Carnes",
+          "description": "AutoCAD is a popular computer aided design software used to design and model in 2D and 3D. It is used by used by architects, engineers, designers, real estate developers, artists, and more. We just published a complete university AutoCAD course on the freeCodeCamp.org YouTube channel. Gediminas Kirdeikis developed this course.",
+          "link": "https://www.freecodecamp.org/news/learn-autocad-with-this-free-course/",
+          "publishedOn": "2022-01-24T16:58:00.000Z",
+          "wordCount": 447,
+          "title": "Learn AutoCAD with This Free Course"
+        },
+        {
           "id": "61d543e4d2d9de084285c33d",
-          "author": null,
+          "author": "Jessica Wilkins",
           "description": "In this article, I'm going to show you 140 beginner friendly courses where you can learn computer science and programming for free. The freeCodeCamp courses are completely free and some of them include a free certification that you can add to your LinkedIn or résumé. Note that some of the",
           "link": "https://www.freecodecamp.org/news/learn-programming-free-software-development-courses-for-beginners/",
           "publishedOn": "2022-01-24T16:05:46.000Z",
-          "wordCount": 5128,
+          "wordCount": 5234,
           "title": "Learn Programming – Free Software Development Courses for Beginners"
         },
         {
           "id": "61e3bb40b837d507ba0a3f30",
-          "author": null,
+          "author": "Bertil Muth",
           "description": "Event sourcing is about persisting events instead of just the current state. Event sourcing can be helpful for auditing purposes, and to analyze or rebuild previous system states for business analysis. Let's look at it in a bit more detail: every time you make a change to the application state,",
           "link": "https://www.freecodecamp.org/news/how-to-make-event-sourcing-in-java-easier/",
           "publishedOn": "2022-01-21T16:23:36.000Z",
-          "wordCount": 1333,
+          "wordCount": 1439,
           "title": "How to Make Event Sourcing in Java Easier"
         },
         {
           "id": "61ea53d4fa0e660c3ce47514",
-          "author": null,
-          "description": "Sometimes when you decide to open an app or file or install or open a program on your Windows 10 PC, you might get the error \"An administrator has blocked you from running this app\".  You get this error because Windows 10 is optimized for protection against malware",
+          "author": "Kolade Chris",
+          "description": "Sometimes when you decide to open an app or file or install or open a program on your Windows 10 PC, you might get the error \"An administrator has blocked you from running this app\". You get this error because Windows 10 is optimized for protection against malware through Windows",
           "link": "https://www.freecodecamp.org/news/an-administrator-has-blocked-you-from-running-this-app-how-to-fix-on-a-windows-10-pc/",
           "publishedOn": "2022-01-21T15:51:17.000Z",
-          "wordCount": 1123,
+          "wordCount": 1229,
           "title": "An Administrator Has Blocked You From Running This App –  How to Fix on a Windows 10 PC"
         },
         {
           "id": "61e95a08183181284a1922e8",
-          "author": null,
+          "author": "Md. Fahim Bin Amin",
           "description": "Deleting or formatting a disk or storage device is a common task for most computer users.  If you use the Windows operating system, you would normally do that using the GUI Disk Management application which comes built-in with any Windows operating system. Disk Management (GUI)Sometimes, you might have difficulties",
           "link": "https://www.freecodecamp.org/news/how-to-format-storage-disk-in-windows-gui-cli/",
           "publishedOn": "2022-01-20T20:20:58.000Z",
-          "wordCount": 1793,
+          "wordCount": 1899,
           "title": "How to Delete a Disk or Storage Device in Windows Using the GUI and the CLI"
-        },
-        {
-          "id": "61e940e8183181284a19209d",
-          "author": null,
-          "description": "Working with JavaScript arrays and objects can be more fun if you destructure them. This helps when you're fetching stored data. In this article, you will learn how you can take destructuring to the next level in JavaScript arrays and objects. Table of contents:What is an array?What is",
-          "link": "https://www.freecodecamp.org/news/destructuring-patterns-javascript-arrays-and-objects/",
-          "publishedOn": "2022-01-20T18:27:28.000Z",
-          "wordCount": 1036,
-          "title": "Destructuring in JavaScript – How to Destructure Arrays and Objects"
-        },
-        {
-          "id": "61e30fbfb837d507ba0a3b8f",
-          "author": null,
-          "description": "In this article you'll see a few of the reasons that cause the list index out of range Python error.  Besides knowing why this error occurs in the first place, you'll also learn some ways to avoid it.  Let's get started!  How to Create a List in Python To create",
-          "link": "https://www.freecodecamp.org/news/list-index-out-of-range-python-error-message-solved/",
-          "publishedOn": "2022-01-20T16:03:30.000Z",
-          "wordCount": 1437,
-          "title": "List Index Out of Range – Python Error Message Solved"
-        },
-        {
-          "id": "61e981bd183181284a1925ba",
-          "author": null,
-          "description": "Instead of setting up your cloud infrastructure manually, it can be easier and safer to use code. The AWS Cloud Development Kit (CDK) is an open-source software development framework to define your cloud application resources using familiar programming languages. We just published a crash course on the freeCodeCamp.org YouTube",
-          "link": "https://www.freecodecamp.org/news/aws-cloud-development-kit-crash-course/",
-          "publishedOn": "2022-01-20T15:48:29.000Z",
-          "wordCount": 7431,
-          "title": "How to Define Cloud Infrastructure with the AWS Cloud Development Kit"
-        },
-        {
-          "id": "61e79b46183181284a191680",
-          "author": null,
-          "description": "A freeCodeCamp alum who founded his own successful Web3 company has donated $1M to freeCodeCampHe asked that we use some of these funds to develop a carbon-neutral Web3 curriculumWe are building an interactive Web3 curriculum where you can learn by building more than a dozen projects. This free curriculum will",
-          "link": "https://www.freecodecamp.org/news/carbon-neutral-web3-curriculum-plans/",
-          "publishedOn": "2022-01-19T21:23:18.000Z",
-          "wordCount": 859,
-          "title": "freeCodeCamp Just Got a Million Dollar Donation from an Alum to Build a Carbon-Neutral Web3 Curriculum"
         }
       ]
     }
