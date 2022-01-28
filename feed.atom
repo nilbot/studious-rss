@@ -1,10 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-27T00:02:45.334Z</id>
+    <id>urn:2022-01-28T00:03:02.221Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-27T00:02:45.334Z</updated>
+    <updated>2022-01-28T00:03:02.221Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Add Custom Icons to Your Flutter Application]]></title>
+        <id>61f1a334f2ed6b06db5a5cbe</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-custom-icons-to-your-flutter-application/"/>
+        <updated>2022-01-27T20:54:03.000Z</updated>
+        <summary type="html"><![CDATA[When you want to add some style to your application, you likely look for ways to make your User Interface stand out.  Whether it is using a specific font or a different color palate, you want to make the user feel attracted to your UI.  One way to]]></summary>
+        <author>
+            <name>Tomer Ben Rachel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top JavaScript Concepts to Know Before Learning React]]></title>
+        <id>61eda498011f893303471695</id>
+        <link href="https://www.freecodecamp.org/news/top-javascript-concepts-to-know-before-learning-react/"/>
+        <updated>2022-01-27T20:34:48.000Z</updated>
+        <summary type="html"><![CDATA[If you want to learn React –or any JavaScript framework – you'll first need to understand the fundamental JavaScript methods and concepts. Otherwise it's like a youngster learning to run before learning to walk.  Many developers choose a "learn as you go" approach when learning React. But this often]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Platformer Game with GDevelop]]></title>
+        <id>61f2dedef2ed6b06db5a651f</id>
+        <link href="https://www.freecodecamp.org/news/create-a-platformer-game-with-gdevelop/"/>
+        <updated>2022-01-27T18:20:37.000Z</updated>
+        <summary type="html"><![CDATA[Creating your own game is easier than ever! GDevelop is a beginner-friendly game engine that helps you create 2D games with little to no code. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use GDevelop to create 2D games. Wesley and Max]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn TypeScript – The Ultimate Beginners Guide]]></title>
+        <id>61e1733db837d507ba0a2813</id>
+        <link href="https://www.freecodecamp.org/news/learn-typescript-beginners-guide/"/>
+        <updated>2022-01-27T17:47:36.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript has become increasingly popular over the last few years, and many jobs are now requiring developers to know TypeScript.  But don't be alarmed – if you already know JavaScript, you will be able to pick up TypeScript quickly.  Even if you don't plan on using TypeScript, learning]]></summary>
+        <author>
+            <name>Danny Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demystifying TypeScript Discriminated Unions]]></title>
+        <id>https://css-tricks.com/?p=362091</id>
+        <link href="https://css-tricks.com/typescript-discriminated-unions/"/>
+        <updated>2022-01-27T15:20:57.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript is a wonderful tool for writing JavaScript that scales. It’s more or less the de facto standard for the web when it comes to large JavaScript projects. As outstanding as it is, there are some tricky pieces for the …
+Demystifying TypeScript Discriminated Unions originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build, Ship, & Maintain Design Systems with Backlight]]></title>
+        <id>https://css-tricks.com/?p=361971</id>
+        <link href="https://css-tricks.com/design-systems-with-backlight/"/>
+        <updated>2022-01-27T15:18:25.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Design systems are an entire job these days. Agencies are hired to create them. In-house teams are formed to handle them, shipping them so that other teams can use them and helping ensure they …
+Build, Ship, & Maintain Design Systems with Backlight originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Full Stack Application With Supabase, React, and Tailwind CSS in Nextjs]]></title>
+        <id>61f03606f2ed6b06db5a5067</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-full-stack-application-with-tailwind-css-and-supabase-in-nextjs/"/>
+        <updated>2022-01-26T23:03:34.000Z</updated>
+        <summary type="html"><![CDATA[Serverless databases are all the rage these days. They allow you to develop a fully functional app without building a server or writing server code. A serverless database is a cloud computing solution that lets you distribute and flexibly manage your resources. In this tutorial, we'll build a full-stack application]]></summary>
+        <author>
+            <name>Idris Olubisi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTP Request Methods – Get vs Put vs Post Explained with Code Examples]]></title>
+        <id>61ee3dc2011f8933034719ea</id>
+        <link href="https://www.freecodecamp.org/news/http-request-methods-explained/"/>
+        <updated>2022-01-26T21:36:54.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll be discussing the get, put, and post HTTP methods. You'll learn what each HTTP method is used for as well as why we use them.  In order to get a deep understanding of how HTTP methods work, I'll also go over key context and background]]></summary>
+        <author>
+            <name>Camila Ramos Garzon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML and CSS Project – How to Build A YouTube Clone Step by Step]]></title>
+        <id>61ebe09f011f8933034705df</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-website-with-html-and-css-step-by-step/"/>
+        <updated>2022-01-26T21:32:57.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial we will build a YouTube clone step by step. You'll learn how to create layouts and add content to those layouts. If you have been struggling to build a real website with HTML & CSS, this is the article for you. Because I am about to teach]]></summary>
+        <author>
+            <name>Ogundiran Ayobami</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binary Search Tree Traversal – Inorder, Preorder, Post Order for BST]]></title>
+        <id>61d55c59d2d9de084285c367</id>
+        <link href="https://www.freecodecamp.org/news/binary-search-tree-traversal-inorder-preorder-post-order-for-bst/"/>
+        <updated>2022-01-26T20:01:40.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you will learn what a binary search tree is, what parts make up a tree, and some of the common terms we use when describing parts of a tree.  We will also see how to traverse a tree using some of the common algorithms – all]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Think Less About Data Visualization]]></title>
+        <id>61eb23e4011f893303470169</id>
+        <link href="https://www.freecodecamp.org/news/data-viz-from-thought-to-chart/"/>
+        <updated>2022-01-26T19:57:11.000Z</updated>
+        <summary type="html"><![CDATA[In your native tongue, you are not aware of the translation between thought and speech. You think about what you want to say and say it. The pathway from thought to speech feels direct. It's an instantaneous, 1:1 mapping. When it comes to data visualization, however, there are often many]]></summary>
+        <author>
+            <name>Allan Campopiano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Cycle Through Classes on an HTML Element]]></title>
         <id>https://css-tricks.com/?p=361200</id>
@@ -19,13 +132,13 @@ How to Cycle Through Classes on an HTML Element originally published on CSS-Tric
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How We Got 4.5K+ GitHub Stars on Our Open Source Project in 6 Months]]></title>
-        <id>61e9575c183181284a1922c4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-more-engagement-with-your-open-source-project/"/>
-        <updated>2022-01-26T14:54:43.000Z</updated>
-        <summary type="html"><![CDATA[We launched our open source project [https://github.com/ToolJet/ToolJet] in June 2021, and since then we've gotten more than 4500 stars for our repository.  Here are the strategies that worked for us. This is not an article about how to just get more stars for your repository. The article instead explains]]></summary>
+        <title type="html"><![CDATA[Perception for Self-Driving Cars — Free Deep Learning Course]]></title>
+        <id>61f194d5f2ed6b06db5a5c3f</id>
+        <link href="https://www.freecodecamp.org/news/perception-for-self-driving-cars-deep-learning-course/"/>
+        <updated>2022-01-26T18:45:34.000Z</updated>
+        <summary type="html"><![CDATA[An important use for computer vision and deep learning is self driving cars. Perception and Computer Vision forms about 80% of the work that Self Driving Cars do to drive around. If you want to improve your deep learning skills, this is a great topic to learn about. We just]]></summary>
         <author>
-            <name>navaneeth pk</name>
+            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -50,16 +163,6 @@ Fancy CSS Borders Using Masks originally published on CSS-Tricks. You should get
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Transparent Taskbar – How to Make a Task Bar Transparent in Windows 10 PC]]></title>
-        <id>61e88961183181284a191dac</id>
-        <link href="https://www.freecodecamp.org/news/transparent-taskbar-how-to-make-a-task-bar-transparent-in-windows-10-pc-2/"/>
-        <updated>2022-01-26T00:11:44.000Z</updated>
-        <summary type="html"><![CDATA[Making your Windows taskbar transparent is a pretty cool thing to do. It looks great, and it's one of the few ways you can personalize your taskbar. Some resources about this topic require you to install different software to accomplish it. But in this tutorial we'll see how to make]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Do You Handle Component Spacing in a Design System?]]></title>
         <id>https://css-tricks.com/?p=362044</id>
         <link href="https://css-tricks.com/component-spacing-design-system/"/>
@@ -68,36 +171,6 @@ Fancy CSS Borders Using Masks originally published on CSS-Tricks. You should get
 How Do You Handle Component Spacing in a Design System? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PC Randomly Turns Off – How to Fix Windows Computer Shutting Down]]></title>
-        <id>61eebd80f2ed6b06db5a37e5</id>
-        <link href="https://www.freecodecamp.org/news/pc-randomly-turns-off-how-to-fix-windows-computer-shutting-down/"/>
-        <updated>2022-01-25T21:30:59.000Z</updated>
-        <summary type="html"><![CDATA[If you're a Windows user, you've probably had your PC randomly shut down. This can be frustrating and negatively impact your productivity as it interrupts important tasks and activities. This random shutdown might be caused by software or hardware issues, or both on some occasions. I have researched 4 ways]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Code Your React App with TypeScript]]></title>
-        <id>61f050d6f2ed6b06db5a5228</id>
-        <link href="https://www.freecodecamp.org/news/how-to-code-your-react-app-with-typescript/"/>
-        <updated>2022-01-25T19:46:29.000Z</updated>
-        <summary type="html"><![CDATA[React is one of the most popular front-end JavaScript libraries for building user interfaces. Using TypeScript for your React projects can lead to a more robust codebase with less errors. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use React with]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Portfolio Website Using HTML, CSS, JavaScript, and Bootstrap 5]]></title>
-        <id>61e776e0183181284a19149b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/"/>
-        <updated>2022-01-25T17:10:50.000Z</updated>
-        <summary type="html"><![CDATA[If you are a web developer or a web designer, it is essential for you to have a portfolio website. It lets you provide information about yourself and showcase your best work with your relevant skills and experience. In this blog post, I will discuss some of the benefits of]]></summary>
-        <author>
-            <name>Sampurna Chapagain</name>
         </author>
     </entry>
     <entry>
@@ -119,46 +192,6 @@ How to Make a Scroll-Triggered Animation With Basic JavaScript originally publis
         <summary type="html"><![CDATA[What’s new in Chrome, Edge, Safari and Firefox? Patrick Brosset breaks it down with the latest features in DevTools across browsers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Patrick Brosset)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Temporal Dead Zone (TDZ) and Hoisting in JavaScript – Explained with Examples]]></title>
-        <id>61e92726183181284a191e75</id>
-        <link href="https://www.freecodecamp.org/news/javascript-temporal-dead-zone-and-hoisting-explained/"/>
-        <updated>2022-01-24T23:10:03.000Z</updated>
-        <summary type="html"><![CDATA[Temporal Dead Zone and Hoisting are two essential terms in JavaScript. But understanding how they work can easily confuse you if you don't approach them properly. But don't fret! This article is here to help you get a good grasp of the two terms. So relax, grab your favorite cup]]></summary>
-        <author>
-            <name>Oluwatobi Sofela</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python String.Replace() – Function in Python for Substring Substitution]]></title>
-        <id>61ebdebf011f8933034705af</id>
-        <link href="https://www.freecodecamp.org/news/python-string-replace-function-in-python-for-substring-substitution/"/>
-        <updated>2022-01-24T16:59:25.000Z</updated>
-        <summary type="html"><![CDATA[In this article you'll see how to use Python's .replace() method to perform substring substiution. You'll also see how to perform case-insensitive substring substitution. Let's get started! What does the .replace() Python method do? When using the .replace() Python method, you are able to replace every instance of one specific]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn AutoCAD with This Free Course]]></title>
-        <id>61f01b62f2ed6b06db5a4e57</id>
-        <link href="https://www.freecodecamp.org/news/learn-autocad-with-this-free-course/"/>
-        <updated>2022-01-24T16:58:00.000Z</updated>
-        <summary type="html"><![CDATA[AutoCAD is a popular computer aided design software used to design and model in 2D and 3D. It is used by used by architects, engineers, designers, real estate developers, artists, and more. We just published a complete university AutoCAD course on the freeCodeCamp.org YouTube channel. Gediminas Kirdeikis developed this course.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Programming – Free Software Development Courses for Beginners]]></title>
-        <id>61d543e4d2d9de084285c33d</id>
-        <link href="https://www.freecodecamp.org/news/learn-programming-free-software-development-courses-for-beginners/"/>
-        <updated>2022-01-24T16:05:46.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'm going to show you 140 beginner friendly courses where you can learn computer science and programming for free. The freeCodeCamp courses are completely free and some of them include a free certification that you can add to your LinkedIn or résumé. Note that some of the]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
         </author>
     </entry>
     <entry>
@@ -192,16 +225,6 @@ Why Don’t Developers Take Accessibility Seriously? originally published on CSS
 Using SVG in WordPress (2 Helpful Plugin Recommendations) originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make Event Sourcing in Java Easier]]></title>
-        <id>61e3bb40b837d507ba0a3f30</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-event-sourcing-in-java-easier/"/>
-        <updated>2022-01-21T16:23:36.000Z</updated>
-        <summary type="html"><![CDATA[Event sourcing is about persisting events instead of just the current state. Event sourcing can be helpful for auditing purposes, and to analyze or rebuild previous system states for business analysis. Let's look at it in a bit more detail: every time you make a change to the application state,]]></summary>
-        <author>
-            <name>Bertil Muth</name>
         </author>
     </entry>
     <entry>
@@ -292,28 +315,6 @@ What the Heck is a Package Manager? originally published on CSS-Tricks. You shou
         <updated>2022-01-20T15:03:53.000Z</updated>
         <summary type="html"><![CDATA[Feel like you have a pretty good idea of what a package manager is? We’ve certainly covered a lot of ground getting familiar with all the terms and concepts of package managers, but I’d say it’s high time we actually …
 How the Heck Do You Install npm? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Josh Collinsworth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Heck Do You Install npm Packages?]]></title>
-        <id>https://css-tricks.com/?p=361300</id>
-        <link href="https://css-tricks.com/how-to-install-npm-packages/"/>
-        <updated>2022-01-20T15:03:49.000Z</updated>
-        <summary type="html"><![CDATA[By now, you’re becoming quite knowledgeable with npm! So far, we’ve broken down the three letters in “npm” to gain a better understand of Node and package managers. In the previous chapter, we even installed Node and npm while …
-How the Heck Do You Install npm Packages? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Josh Collinsworth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What the Heck Are npm Commands?]]></title>
-        <id>https://css-tricks.com/?p=361320</id>
-        <link href="https://css-tricks.com/what-the-heck-are-npm-commands/"/>
-        <updated>2022-01-20T15:03:44.000Z</updated>
-        <summary type="html"><![CDATA[npm is, as you now know, a package manager. But like similar, earlier tools that run tasks in the command line, such as Grunt and Gulp, npm can also run tasks—which is perfect for us because now that …
-What the Heck Are npm Commands? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Josh Collinsworth</name>
         </author>
@@ -450,16 +451,6 @@ Thank you: @sokomin, @molakirlee, @philippnagel, @tianheg]]></summary>
         <summary type="html"><![CDATA[What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Price Projects And Manage Scope Creep]]></title>
-        <id>https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/</id>
-        <link href="https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/"/>
-        <updated>2021-12-29T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Scoping, estimating, and running digital projects can often feel like an exercise in futility. In this article, Paul Boag explains why you need to start breaking your projects down into manageable phases and why that’s the best way to achieve significant benefits.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
         </author>
     </entry>
 </feed>

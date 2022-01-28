@@ -22,12 +22,30 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=362091",
+          "author": "Adam Rackis",
+          "description": "TypeScript is a wonderful tool for writing JavaScript that scales. It’s more or less the de facto standard for the web when it comes to large JavaScript projects. As outstanding as it is, there are some tricky pieces for the …\nDemystifying TypeScript Discriminated Unions originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/typescript-discriminated-unions/",
+          "publishedOn": "2022-01-27T15:20:57.000Z",
+          "wordCount": 1740,
+          "title": "Demystifying TypeScript Discriminated Unions"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361971",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nDesign systems are an entire job these days. Agencies are hired to create them. In-house teams are formed to handle them, shipping them so that other teams can use them and helping ensure they …\nBuild, Ship, & Maintain Design Systems with Backlight originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/design-systems-with-backlight/",
+          "publishedOn": "2022-01-27T15:18:25.000Z",
+          "wordCount": 1287,
+          "title": "Build, Ship, & Maintain Design Systems with Backlight"
+        },
+        {
           "id": "https://css-tricks.com/?p=361200",
           "author": "Chris Coyier",
           "description": "Say you have three HTML classes, and a DOM element should only have one of them at a time:\n<div class=\"state-1\"</div<div class=\"state-2\"</div<div class=\"state-3\"</div\nNow your job is to rotate them. That is, cycle through classes …\nHow to Cycle Through Classes on an HTML Element originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/cycle-through-classes-html-element/",
           "publishedOn": "2022-01-26T19:48:49.000Z",
-          "wordCount": 1548,
+          "wordCount": 1751,
           "title": "How to Cycle Through Classes on an HTML Element"
         },
         {
@@ -137,24 +155,6 @@
           "publishedOn": "2022-01-20T15:03:53.000Z",
           "wordCount": 1626,
           "title": "How the Heck Do You Install npm?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=361300",
-          "author": "Josh Collinsworth",
-          "description": "By now, you’re becoming quite knowledgeable with npm! So far, we’ve broken down the three letters in “npm” to gain a better understand of Node and package managers. In the previous chapter, we even installed Node and npm while …\nHow the Heck Do You Install npm Packages? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/how-to-install-npm-packages/",
-          "publishedOn": "2022-01-20T15:03:49.000Z",
-          "wordCount": 2876,
-          "title": "How the Heck Do You Install npm Packages?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=361320",
-          "author": "Josh Collinsworth",
-          "description": "npm is, as you now know, a package manager. But like similar, earlier tools that run tasks in the command line, such as Grunt and Gulp, npm can also run tasks—which is perfect for us because now that …\nWhat the Heck Are npm Commands? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/what-the-heck-are-npm-commands/",
-          "publishedOn": "2022-01-20T15:03:44.000Z",
-          "wordCount": 1871,
-          "title": "What the Heck Are npm Commands?"
         }
       ]
     },
@@ -169,7 +169,7 @@
           "description": "This article reveals how something as trivial as administration in both software and As-a-service can be either a booster or bottleneck to a company’s productivity and innovation. It also provides several design aspects that UX practitioners should evaluate when designing the administration experience.",
           "link": "https://smashingmagazine.com/2022/01/software-administration-ux/",
           "publishedOn": "2022-01-26T12:00:00.000Z",
-          "wordCount": 2588,
+          "wordCount": 2586,
           "title": "Don’t Underestimate The Software Administration UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a25c6bb8-7778-48e1-b2e8-04cfd46d0765/software-administration-ux.jpg",
@@ -183,7 +183,7 @@
           "description": "What’s new in Chrome, Edge, Safari and Firefox? Patrick Brosset breaks it down with the latest features in DevTools across browsers.",
           "link": "https://smashingmagazine.com/2022/01/devtools-updates-2022/",
           "publishedOn": "2022-01-25T13:00:00.000Z",
-          "wordCount": 2521,
+          "wordCount": 2519,
           "title": "What’s New In DevTools?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e516aa85-3b77-418a-9b43-cec06943b129/devtools-updates-2022.jpg",
@@ -197,7 +197,7 @@
           "description": "Cascade layers introduce the new at-rule of @layer. The intent is to help CSS authors be more intentional about ordering the “layers” of CSS rules as a new method of cascade management.",
           "link": "https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/",
           "publishedOn": "2022-01-24T11:00:00.000Z",
-          "wordCount": 4755,
+          "wordCount": 4757,
           "title": "Getting Started With CSS Cascade Layers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/13b8900c-aa53-49ae-84f7-9fbf598635e2/introduction-css-cascade-layers.jpg",
@@ -211,7 +211,7 @@
           "description": "Joining a team where there are no established design practices may feel disheartening. Does this situation resonate with you? If yes, then read on — as this article is sharing the author’s advice based on his personal experience and it will show you a way (although not easy) of facing the problem in a manner that will bring other benefits, beside order and consistency.",
           "link": "https://smashingmagazine.com/2022/01/from-chaos-to-system-design-teams/",
           "publishedOn": "2022-01-21T14:30:00.000Z",
-          "wordCount": 5334,
+          "wordCount": 5322,
           "title": "From Chaos To System In Design Teams",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a7ab411a-2903-440e-bbfa-4f7914345165/chaos-to-system-design-teams.jpg",
@@ -225,7 +225,7 @@
           "description": "In this article, Georgii Perepecho explains the most common React Query features that you need to be familiar with when creating a real-life application that is stable when testing.",
           "link": "https://smashingmagazine.com/2022/01/building-real-app-react-query/",
           "publishedOn": "2022-01-20T14:30:00.000Z",
-          "wordCount": 5251,
+          "wordCount": 5255,
           "title": "Building The Real App With React Query",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb299a88-9204-4579-bfb0-f9d8dac84014/building-real-app-react-query.jpg",
@@ -253,7 +253,7 @@
           "description": "Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies) related to different occasions and themes. We hope that with this icon set, everyone will be able to find their own use case for these icons in particular. Today, we present to you three icon sets designed by the creative folks at GraphicSurf — all free for personal and commercial use.",
           "link": "https://smashingmagazine.com/2022/01/freebie-wayfinding-icon-sets-exhibition-concert-museum/",
           "publishedOn": "2022-01-18T12:00:00.000Z",
-          "wordCount": 825,
+          "wordCount": 824,
           "title": "Freebie: Wayfinding Icon Sets (164 Icons, PNG, SVG, AI, EPS)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/27d4ee4d-0893-4ef6-b48a-435007089494/wayfinding-icon-preview.jpg",
@@ -281,7 +281,7 @@
           "description": "In [Part 1](https://www.smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/), Luis Ouriach shared advice he wished he had when starting out in his career. In this second and last part of this series, Luis continues sharing tips that helped him grow and become a better designer throughout the years.",
           "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/",
           "publishedOn": "2022-01-14T15:00:00.000Z",
-          "wordCount": 3574,
+          "wordCount": 3573,
           "title": "Ten Tips For Aspiring Designer Beginners (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b0e9621-b939-439d-a812-69a4eb7d68ff/tips-aspiring-designer-beginners-part2.jpg",
@@ -295,7 +295,7 @@
           "description": "If you’re a developer who’s thinking about building a platform that requires a code editor in one form or another, then this article is for you. This article explains how to create a web code editor that displays the result in real time with the help of some HTML, CSS and JavaScript.",
           "link": "https://smashingmagazine.com/2022/01/building-web-code-editor/",
           "publishedOn": "2022-01-13T11:30:00.000Z",
-          "wordCount": 5055,
+          "wordCount": 5056,
           "title": "Building A Web Code Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7db33e0-a76e-4f4f-959f-be0f8898784f/building-web-code-editor.jpg",
@@ -309,7 +309,7 @@
           "description": "Accessibility must be a permanent program within organizations, much like security. In this article, Kate Kalcevich shares tips on which skills and questions to keep in mind when hiring for digital accessibility roles.",
           "link": "https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/",
           "publishedOn": "2022-01-12T10:30:00.000Z",
-          "wordCount": 3854,
+          "wordCount": 3856,
           "title": "How To Hire For Digital Accessibility Roles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/99b1af95-05d8-48ce-9086-171a59ba27f0/how-hire-digital-accessibility-roles.jpg",
@@ -337,7 +337,7 @@
           "description": "Product roadmaps are often treated as a series of checkboxes. But they are more than that. In this article, Scott Himmer explains how internal partnerships, research, design systems, and regular touch bases can help make sure that your product roadmap is a successful one.",
           "link": "https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/",
           "publishedOn": "2022-01-07T16:00:00.000Z",
-          "wordCount": 4015,
+          "wordCount": 4002,
           "title": "Changing A Tire On A Moving Car (Or How To Improve Product Roadmaps)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/31db8ed2-e433-46b6-9b8e-ab622b10fce0/changing-tire-on-moving-car.jpg",
@@ -351,7 +351,7 @@
           "description": "In this article (the first part in a series of two), Luis Ouriach shares advice that he wishes he has when starting out in his career. These tips come from his experience as a user interface and product designer for close to ten years, and if you’re starting just now, then read on!",
           "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/",
           "publishedOn": "2022-01-05T13:00:00.000Z",
-          "wordCount": 4069,
+          "wordCount": 4063,
           "title": "Ten Tips For Aspiring Designer Beginners (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/954de2dd-e9df-43de-9b9a-bb24c1f8cf0b/tips-aspiring-designer-beginners-part1.jpg",
@@ -365,7 +365,7 @@
           "description": "Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.",
           "link": "https://smashingmagazine.com/2022/01/composition-based-design-system-figma/",
           "publishedOn": "2022-01-03T13:00:00.000Z",
-          "wordCount": 2644,
+          "wordCount": 2640,
           "title": "Composition-Based Design System In Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/671611c3-eaf7-427e-9e5d-1bb74fbf62f5/composition-based-design-system-figma.jpg",
@@ -379,26 +379,12 @@
           "description": "What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.",
           "link": "https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/",
           "publishedOn": "2021-12-31T09:00:00.000Z",
-          "wordCount": 2541,
+          "wordCount": 2537,
           "title": "New Year, Fresh Desktop (January 2022 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55a76925-9960-4444-a72c-72d8738d5ac8/jan-22-new-years-magic-preview-opt.png",
             "length": "0",
             "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "description": "Scoping, estimating, and running digital projects can often feel like an exercise in futility. In this article, Paul Boag explains why you need to start breaking your projects down into manageable phases and why that’s the best way to achieve significant benefits.",
-          "link": "https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/",
-          "publishedOn": "2021-12-29T10:30:00.000Z",
-          "wordCount": 2466,
-          "title": "How To Price Projects And Manage Scope Creep",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/79f24890-00d9-4d5a-9ae1-405097b24371/price-projects-manage-scope-creep.jpg",
-            "length": "0",
-            "type": "image/jpg"
           }
         }
       ]
@@ -409,94 +395,94 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
-          "id": "61e9575c183181284a1922c4",
-          "author": "navaneeth pk",
-          "description": "We launched our open source project [https://github.com/ToolJet/ToolJet] in June 2021, and since then we've gotten more than 4500 stars for our repository.  Here are the strategies that worked for us. This is not an article about how to just get more stars for your repository. The article instead explains",
-          "link": "https://www.freecodecamp.org/news/how-to-get-more-engagement-with-your-open-source-project/",
-          "publishedOn": "2022-01-26T14:54:43.000Z",
-          "wordCount": 1752,
-          "title": "How We Got 4.5K+ GitHub Stars on Our Open Source Project in 6 Months"
+          "id": "61f1a334f2ed6b06db5a5cbe",
+          "author": "Tomer Ben Rachel",
+          "description": "When you want to add some style to your application, you likely look for ways to make your User Interface stand out.  Whether it is using a specific font or a different color palate, you want to make the user feel attracted to your UI.  One way to",
+          "link": "https://www.freecodecamp.org/news/how-to-add-custom-icons-to-your-flutter-application/",
+          "publishedOn": "2022-01-27T20:54:03.000Z",
+          "wordCount": 1247,
+          "title": "How to Add Custom Icons to Your Flutter Application"
         },
         {
-          "id": "61e88961183181284a191dac",
+          "id": "61eda498011f893303471695",
+          "author": "Joel Olawanle",
+          "description": "If you want to learn React –or any JavaScript framework – you'll first need to understand the fundamental JavaScript methods and concepts. Otherwise it's like a youngster learning to run before learning to walk.  Many developers choose a \"learn as you go\" approach when learning React. But this often",
+          "link": "https://www.freecodecamp.org/news/top-javascript-concepts-to-know-before-learning-react/",
+          "publishedOn": "2022-01-27T20:34:48.000Z",
+          "wordCount": 3921,
+          "title": "Top JavaScript Concepts to Know Before Learning React"
+        },
+        {
+          "id": "61f2dedef2ed6b06db5a651f",
+          "author": "Beau Carnes",
+          "description": "Creating your own game is easier than ever! GDevelop is a beginner-friendly game engine that helps you create 2D games with little to no code. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use GDevelop to create 2D games. Wesley and Max",
+          "link": "https://www.freecodecamp.org/news/create-a-platformer-game-with-gdevelop/",
+          "publishedOn": "2022-01-27T18:20:37.000Z",
+          "wordCount": 421,
+          "title": "Create a Platformer Game with GDevelop"
+        },
+        {
+          "id": "61e1733db837d507ba0a2813",
+          "author": "Danny Adams",
+          "description": "TypeScript has become increasingly popular over the last few years, and many jobs are now requiring developers to know TypeScript.  But don't be alarmed – if you already know JavaScript, you will be able to pick up TypeScript quickly.  Even if you don't plan on using TypeScript, learning",
+          "link": "https://www.freecodecamp.org/news/learn-typescript-beginners-guide/",
+          "publishedOn": "2022-01-27T17:47:36.000Z",
+          "wordCount": 6783,
+          "title": "Learn TypeScript – The Ultimate Beginners Guide"
+        },
+        {
+          "id": "61f03606f2ed6b06db5a5067",
+          "author": "Idris Olubisi",
+          "description": "Serverless databases are all the rage these days. They allow you to develop a fully functional app without building a server or writing server code. A serverless database is a cloud computing solution that lets you distribute and flexibly manage your resources. In this tutorial, we'll build a full-stack application",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-full-stack-application-with-tailwind-css-and-supabase-in-nextjs/",
+          "publishedOn": "2022-01-26T23:03:34.000Z",
+          "wordCount": 2564,
+          "title": "How to Build a Full Stack Application With Supabase, React, and Tailwind CSS in Nextjs"
+        },
+        {
+          "id": "61ee3dc2011f8933034719ea",
+          "author": "Camila Ramos Garzon",
+          "description": "In this article, we'll be discussing the get, put, and post HTTP methods. You'll learn what each HTTP method is used for as well as why we use them.  In order to get a deep understanding of how HTTP methods work, I'll also go over key context and background",
+          "link": "https://www.freecodecamp.org/news/http-request-methods-explained/",
+          "publishedOn": "2022-01-26T21:36:54.000Z",
+          "wordCount": 2959,
+          "title": "HTTP Request Methods – Get vs Put vs Post Explained with Code Examples"
+        },
+        {
+          "id": "61ebe09f011f8933034705df",
+          "author": "Ogundiran Ayobami",
+          "description": "In this tutorial we will build a YouTube clone step by step. You'll learn how to create layouts and add content to those layouts. If you have been struggling to build a real website with HTML & CSS, this is the article for you. Because I am about to teach",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-website-with-html-and-css-step-by-step/",
+          "publishedOn": "2022-01-26T21:32:57.000Z",
+          "wordCount": 3293,
+          "title": "HTML and CSS Project – How to Build A YouTube Clone Step by Step"
+        },
+        {
+          "id": "61d55c59d2d9de084285c367",
           "author": "Ihechikara Vincent Abba",
-          "description": "Making your Windows taskbar transparent is a pretty cool thing to do. It looks great, and it's one of the few ways you can personalize your taskbar. Some resources about this topic require you to install different software to accomplish it. But in this tutorial we'll see how to make",
-          "link": "https://www.freecodecamp.org/news/transparent-taskbar-how-to-make-a-task-bar-transparent-in-windows-10-pc-2/",
-          "publishedOn": "2022-01-26T00:11:44.000Z",
-          "wordCount": 776,
-          "title": "Transparent Taskbar – How to Make a Task Bar Transparent in Windows 10 PC"
+          "description": "In this tutorial, you will learn what a binary search tree is, what parts make up a tree, and some of the common terms we use when describing parts of a tree.  We will also see how to traverse a tree using some of the common algorithms – all",
+          "link": "https://www.freecodecamp.org/news/binary-search-tree-traversal-inorder-preorder-post-order-for-bst/",
+          "publishedOn": "2022-01-26T20:01:40.000Z",
+          "wordCount": 1074,
+          "title": "Binary Search Tree Traversal – Inorder, Preorder, Post Order for BST"
         },
         {
-          "id": "61eebd80f2ed6b06db5a37e5",
-          "author": "Kolade Chris",
-          "description": "If you're a Windows user, you've probably had your PC randomly shut down. This can be frustrating and negatively impact your productivity as it interrupts important tasks and activities. This random shutdown might be caused by software or hardware issues, or both on some occasions. I have researched 4 ways",
-          "link": "https://www.freecodecamp.org/news/pc-randomly-turns-off-how-to-fix-windows-computer-shutting-down/",
-          "publishedOn": "2022-01-25T21:30:59.000Z",
-          "wordCount": 1145,
-          "title": "PC Randomly Turns Off – How to Fix Windows Computer Shutting Down"
+          "id": "61eb23e4011f893303470169",
+          "author": "Allan Campopiano",
+          "description": "In your native tongue, you are not aware of the translation between thought and speech. You think about what you want to say and say it. The pathway from thought to speech feels direct. It's an instantaneous, 1:1 mapping. When it comes to data visualization, however, there are often many",
+          "link": "https://www.freecodecamp.org/news/data-viz-from-thought-to-chart/",
+          "publishedOn": "2022-01-26T19:57:11.000Z",
+          "wordCount": 1763,
+          "title": "How to Think Less About Data Visualization"
         },
         {
-          "id": "61f050d6f2ed6b06db5a5228",
+          "id": "61f194d5f2ed6b06db5a5c3f",
           "author": "Beau Carnes",
-          "description": "React is one of the most popular front-end JavaScript libraries for building user interfaces. Using TypeScript for your React projects can lead to a more robust codebase with less errors. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use React with",
-          "link": "https://www.freecodecamp.org/news/how-to-code-your-react-app-with-typescript/",
-          "publishedOn": "2022-01-25T19:46:29.000Z",
-          "wordCount": 565,
-          "title": "How to Code Your React App with TypeScript"
-        },
-        {
-          "id": "61e776e0183181284a19149b",
-          "author": "Sampurna Chapagain",
-          "description": "If you are a web developer or a web designer, it is essential for you to have a portfolio website. It lets you provide information about yourself and showcase your best work with your relevant skills and experience. In this blog post, I will discuss some of the benefits of",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/",
-          "publishedOn": "2022-01-25T17:10:50.000Z",
-          "wordCount": 3262,
-          "title": "How to Create a Portfolio Website Using HTML, CSS, JavaScript, and Bootstrap 5"
-        },
-        {
-          "id": "61e92726183181284a191e75",
-          "author": "Oluwatobi Sofela",
-          "description": "Temporal Dead Zone and Hoisting are two essential terms in JavaScript. But understanding how they work can easily confuse you if you don't approach them properly. But don't fret! This article is here to help you get a good grasp of the two terms. So relax, grab your favorite cup",
-          "link": "https://www.freecodecamp.org/news/javascript-temporal-dead-zone-and-hoisting-explained/",
-          "publishedOn": "2022-01-24T23:10:03.000Z",
-          "wordCount": 1874,
-          "title": "Temporal Dead Zone (TDZ) and Hoisting in JavaScript – Explained with Examples"
-        },
-        {
-          "id": "61ebdebf011f8933034705af",
-          "author": "Dionysia Lemonaki",
-          "description": "In this article you'll see how to use Python's .replace() method to perform substring substiution. You'll also see how to perform case-insensitive substring substitution. Let's get started! What does the .replace() Python method do? When using the .replace() Python method, you are able to replace every instance of one specific",
-          "link": "https://www.freecodecamp.org/news/python-string-replace-function-in-python-for-substring-substitution/",
-          "publishedOn": "2022-01-24T16:59:25.000Z",
-          "wordCount": 1349,
-          "title": "Python String.Replace() – Function in Python for Substring Substitution"
-        },
-        {
-          "id": "61f01b62f2ed6b06db5a4e57",
-          "author": "Beau Carnes",
-          "description": "AutoCAD is a popular computer aided design software used to design and model in 2D and 3D. It is used by used by architects, engineers, designers, real estate developers, artists, and more. We just published a complete university AutoCAD course on the freeCodeCamp.org YouTube channel. Gediminas Kirdeikis developed this course.",
-          "link": "https://www.freecodecamp.org/news/learn-autocad-with-this-free-course/",
-          "publishedOn": "2022-01-24T16:58:00.000Z",
-          "wordCount": 447,
-          "title": "Learn AutoCAD with This Free Course"
-        },
-        {
-          "id": "61d543e4d2d9de084285c33d",
-          "author": "Jessica Wilkins",
-          "description": "In this article, I'm going to show you 140 beginner friendly courses where you can learn computer science and programming for free. The freeCodeCamp courses are completely free and some of them include a free certification that you can add to your LinkedIn or résumé. Note that some of the",
-          "link": "https://www.freecodecamp.org/news/learn-programming-free-software-development-courses-for-beginners/",
-          "publishedOn": "2022-01-24T16:05:46.000Z",
-          "wordCount": 5234,
-          "title": "Learn Programming – Free Software Development Courses for Beginners"
-        },
-        {
-          "id": "61e3bb40b837d507ba0a3f30",
-          "author": "Bertil Muth",
-          "description": "Event sourcing is about persisting events instead of just the current state. Event sourcing can be helpful for auditing purposes, and to analyze or rebuild previous system states for business analysis. Let's look at it in a bit more detail: every time you make a change to the application state,",
-          "link": "https://www.freecodecamp.org/news/how-to-make-event-sourcing-in-java-easier/",
-          "publishedOn": "2022-01-21T16:23:36.000Z",
-          "wordCount": 1439,
-          "title": "How to Make Event Sourcing in Java Easier"
+          "description": "An important use for computer vision and deep learning is self driving cars. Perception and Computer Vision forms about 80% of the work that Self Driving Cars do to drive around. If you want to improve your deep learning skills, this is a great topic to learn about. We just",
+          "link": "https://www.freecodecamp.org/news/perception-for-self-driving-cars-deep-learning-course/",
+          "publishedOn": "2022-01-26T18:45:34.000Z",
+          "wordCount": 498,
+          "title": "Perception for Self-Driving Cars — Free Deep Learning Course"
         }
       ]
     }
