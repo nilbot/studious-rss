@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-28T00:03:02.221Z</id>
+    <id>urn:2022-01-29T00:02:33.371Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-28T00:03:02.221Z</updated>
+    <updated>2022-01-29T00:02:33.371Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn ReactJS – Complete Roadmap]]></title>
+        <id>61f23b31f2ed6b06db5a6166</id>
+        <link href="https://www.freecodecamp.org/news/react-fundamentals-for-beginners/"/>
+        <updated>2022-01-28T20:25:24.000Z</updated>
+        <summary type="html"><![CDATA[Web Development is a fascinating area to explore, learn about, and understand.  As a learner, you have many libraries and frameworks that can help you develop projects for the web. It may even become tricky to pick one and get started at times.  But when it comes to]]></summary>
+        <author>
+            <name>TAPAS ADHIKARY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The CSS from-font Value Explained in 4 Demos]]></title>
+        <id>https://css-tricks.com/?p=362382</id>
+        <link href="https://css-tricks.com/from-font-value-text-decoration-thickness/"/>
+        <updated>2022-01-28T18:37:52.000Z</updated>
+        <summary type="html"><![CDATA[I was doing my Advent of UI Components, and I stumbled upon the from-font value for the text-decoration-thickness CSS property. I was curious about it, so I did a little research and I think what I found (and learned) …
+The CSS from-font Value Explained in 4 Demos originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Silvestar Bistrović</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Text Align – Centered, Justified, Right Aligned Text Style Example]]></title>
+        <id>61f3bff1f2ed6b06db5a6c92</id>
+        <link href="https://www.freecodecamp.org/news/css-text-align-centered-justified-right-aligned-text-style-example/"/>
+        <updated>2022-01-28T17:30:39.000Z</updated>
+        <summary type="html"><![CDATA[We use the CSS text-align property to align content inside a block-level element. Examples of block-level elements are paragraphs (<p>...</p>), divs ( <div>...</div>), sections (<section>...</section>), articles ( <article>...</article>), and so on. This alignment affects the horizontal axis only. So the text-align property is different from the vertical-align property which we]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is REST? Rest API Definition for Beginners]]></title>
+        <id>61d6d907d2d9de084285d104</id>
+        <link href="https://www.freecodecamp.org/news/what-is-rest-rest-api-definition-for-beginners/"/>
+        <updated>2022-01-28T17:21:43.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn what the term REST means and how it lets us communicate with the server efficiently. Before we get into REST, let's learn what an API is. I believe this will help you understand REST better.  What is an API? Since we're talking about]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Web Frameworks Solve And How To Do Without Them (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2022/01/web-frameworks-guide-part1/</id>
+        <link href="https://smashingmagazine.com/2022/01/web-frameworks-guide-part1/"/>
+        <updated>2022-01-28T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Noam Rosenthal dives deep into a few technical features that are common across frameworks, and explains how some of the different frameworks implement them and what they cost.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Noam Rosenthal)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git: Switching Unstaged Changes to a New Branch]]></title>
+        <id>https://css-tricks.com/?p=360998</id>
+        <link href="https://css-tricks.com/git-switching-unstaged-changes-to-a-new-branch/"/>
+        <updated>2022-01-27T23:49:45.000Z</updated>
+        <summary type="html"><![CDATA[I’m always on the wrong branch. I’m either on master or main working on something that should be on a fix or feature branch. Or I’m on the last branch I was working on and should have cut a new …
+Git: Switching Unstaged Changes to a New Branch originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a GUI Using Gradio for Machine Learning Models]]></title>
+        <id>61f1d7d0f2ed6b06db5a60a9</id>
+        <link href="https://www.freecodecamp.org/news/build-gui-using-gradio-for-machine-learning-models/"/>
+        <updated>2022-01-27T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you have ever built a Machine Learning model, you've probably thought "well this was cool, but how will other people be able to see how cool it is?"  Model deployment is a part of Machine Learning which isn't talked about as much as it should be. So in]]></summary>
+        <author>
+            <name>Edem Gold</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Add Custom Icons to Your Flutter Application]]></title>
         <id>61f1a334f2ed6b06db5a5cbe</id>
@@ -89,36 +161,6 @@ Build, Ship, & Maintain Design Systems with Backlight originally published on CS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTML and CSS Project – How to Build A YouTube Clone Step by Step]]></title>
-        <id>61ebe09f011f8933034705df</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-website-with-html-and-css-step-by-step/"/>
-        <updated>2022-01-26T21:32:57.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial we will build a YouTube clone step by step. You'll learn how to create layouts and add content to those layouts. If you have been struggling to build a real website with HTML & CSS, this is the article for you. Because I am about to teach]]></summary>
-        <author>
-            <name>Ogundiran Ayobami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binary Search Tree Traversal – Inorder, Preorder, Post Order for BST]]></title>
-        <id>61d55c59d2d9de084285c367</id>
-        <link href="https://www.freecodecamp.org/news/binary-search-tree-traversal-inorder-preorder-post-order-for-bst/"/>
-        <updated>2022-01-26T20:01:40.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you will learn what a binary search tree is, what parts make up a tree, and some of the common terms we use when describing parts of a tree.  We will also see how to traverse a tree using some of the common algorithms – all]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Think Less About Data Visualization]]></title>
-        <id>61eb23e4011f893303470169</id>
-        <link href="https://www.freecodecamp.org/news/data-viz-from-thought-to-chart/"/>
-        <updated>2022-01-26T19:57:11.000Z</updated>
-        <summary type="html"><![CDATA[In your native tongue, you are not aware of the translation between thought and speech. You think about what you want to say and say it. The pathway from thought to speech feels direct. It's an instantaneous, 1:1 mapping. When it comes to data visualization, however, there are often many]]></summary>
-        <author>
-            <name>Allan Campopiano</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Cycle Through Classes on an HTML Element]]></title>
         <id>https://css-tricks.com/?p=361200</id>
         <link href="https://css-tricks.com/cycle-through-classes-html-element/"/>
@@ -129,16 +171,6 @@ Now your job is to rotate them. That is, cycle through classes …
 How to Cycle Through Classes on an HTML Element originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perception for Self-Driving Cars — Free Deep Learning Course]]></title>
-        <id>61f194d5f2ed6b06db5a5c3f</id>
-        <link href="https://www.freecodecamp.org/news/perception-for-self-driving-cars-deep-learning-course/"/>
-        <updated>2022-01-26T18:45:34.000Z</updated>
-        <summary type="html"><![CDATA[An important use for computer vision and deep learning is self driving cars. Perception and Computer Vision forms about 80% of the work that Self Driving Cars do to drive around. If you want to improve your deep learning skills, this is a great topic to learn about. We just]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -293,28 +325,6 @@ Node is JavaScript, but as a server-side language.
 This is possible because of 
 …
 What the Heck is Node? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Josh Collinsworth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What the Heck is a Package Manager?]]></title>
-        <id>https://css-tricks.com/?p=361257</id>
-        <link href="https://css-tricks.com/what-the-heck-is-a-package-manager/"/>
-        <updated>2022-01-20T15:03:59.000Z</updated>
-        <summary type="html"><![CDATA[If you’re keeping score, so far in this npm guide we’ve developed a general understanding of what npm is—notably, that it stands for Node Package Manager. In the process, we’ve discussed the importance of the command line and how it’s …
-What the Heck is a Package Manager? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Josh Collinsworth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Heck Do You Install npm?]]></title>
-        <id>https://css-tricks.com/?p=361270</id>
-        <link href="https://css-tricks.com/how-to-install-npm-node-nvm/"/>
-        <updated>2022-01-20T15:03:53.000Z</updated>
-        <summary type="html"><![CDATA[Feel like you have a pretty good idea of what a package manager is? We’ve certainly covered a lot of ground getting familiar with all the terms and concepts of package managers, but I’d say it’s high time we actually …
-How the Heck Do You Install npm? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Josh Collinsworth</name>
         </author>
