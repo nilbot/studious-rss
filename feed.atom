@@ -1,10 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-02T00:02:50.348Z</id>
+    <id>urn:2022-02-03T00:02:43.101Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-02T00:02:50.348Z</updated>
+    <updated>2022-02-03T00:02:43.101Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building a Scrollable and Draggable Timeline with GSAP]]></title>
+        <id>https://css-tricks.com/?p=362893</id>
+        <link href="https://css-tricks.com/building-a-scrollable-and-draggable-timeline-with-gsap/"/>
+        <updated>2022-02-02T21:11:55.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a super classy demo from Michelle Barker over on Codrops that shows how to build a scrollable and draggable timeline with GSAP. It’s an interesting challenge to have two different interactions (vertical scrolling and horizontal dragging) be tied together …
+Building a Scrollable and Draggable Timeline with GSAP originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use User Research to Create the Perfect UI Design]]></title>
+        <id>61fad67af2ed6b06db5ab66f</id>
+        <link href="https://www.freecodecamp.org/news/use-user-reseach-to-create-the-perfect-ui-design/"/>
+        <updated>2022-02-02T19:17:05.000Z</updated>
+        <summary type="html"><![CDATA[If you want to design your app in the best way possible, it is important to really understand the needs of your users. This can be done through user research. We just published a UI / UX design course on the freeCodeCamp.org YouTube channel that will teach you how to]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Choose a CMS – WordPress vs Ghost vs Shopify]]></title>
+        <id>61f8480bf2ed6b06db5a9d2b</id>
+        <link href="https://www.freecodecamp.org/news/chose-a-cms-wordpress-vs-shopify-vs-ghost/"/>
+        <updated>2022-02-02T17:05:13.000Z</updated>
+        <summary type="html"><![CDATA[WordPress, Shopify, and Ghost are some of the most powerful and popular CMS platforms out there. And you might wonder why so many people use them. Well, it's because they're easy to use, cost-effective, and highly efficient. With WordPress, Shopify, and Ghost, you can create a website from scratch in]]></summary>
+        <author>
+            <name>Edan Ben-Atar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[User Registration and Auth Using Firebase and React]]></title>
+        <id>https://css-tricks.com/?p=362521</id>
+        <link href="https://css-tricks.com/user-registration-authentication-firebase-react/"/>
+        <updated>2022-02-02T15:42:43.000Z</updated>
+        <summary type="html"><![CDATA[The ability to identify users is vital for maintaining the security of any applications. Equally important is the code that’s written to manage user identities, particularly when it comes to avoiding loopholes for unauthorized access to data held by an …
+User Registration and Auth Using Firebase and React originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Taminoturoko Briggs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Object-Oriented Programming in Python]]></title>
+        <id>61f62beff2ed6b06db5a854b</id>
+        <link href="https://www.freecodecamp.org/news/object-oriented-programming-in-python/"/>
+        <updated>2022-02-02T15:24:30.000Z</updated>
+        <summary type="html"><![CDATA[Python is a fantastic programming language that allows you to use both functional and object-oriented programming paradigms.  Python programmers should be able to use fundamental object-oriented programming concepts, whether they are software developers, machine learning engineers, or something else.  All four core aspects of a generic OOP framework]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving JavaScript Bundle Performance With Code-Splitting]]></title>
+        <id>https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/</id>
+        <link href="https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/"/>
+        <updated>2022-02-02T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Adrian Bece shares more about the benefits and caveats of code-splitting and how page performance and load times can be improved by dynamically loading expensive, non-critical JavaScript bundles.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Optional Chaining Operator, “Modern” Browsers, and My Mom]]></title>
+        <id>https://css-tricks.com/?p=362890</id>
+        <link href="https://css-tricks.com/the-optional-chaining-operator-modern-browsers-and-my-mom/"/>
+        <updated>2022-02-02T01:14:18.000Z</updated>
+        <summary type="html"><![CDATA[Jim Nielsen’s mom couldn’t open a website. Jim worked on confirming the issue and documented how he got to the bottom of it:
+“[…] well it can’t be a browser issue. It’s not like my Mom is using Internet Explorer! 
+…
+The Optional Chaining Operator, “Modern” Browsers, and My Mom originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scope and Closures in JavaScript – Explained with Examples]]></title>
+        <id>61f8b7e5f2ed6b06db5a9eed</id>
+        <link href="https://www.freecodecamp.org/news/scope-and-closures-in-javascript/"/>
+        <updated>2022-02-01T23:52:27.000Z</updated>
+        <summary type="html"><![CDATA[You may have come across or written code similar to this when writing JavaScript: function sayWord(word) { 	return () => console.log(word); } const sayHello = sayWord("hello"); sayHello(); // "hello" This code is interesting for a couple of reasons. First, we can access word in the function returned from sayWord. Second,]]></summary>
+        <author>
+            <name>Zach Snoek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code and Deploy a Serverless API Using Go and AWS]]></title>
+        <id>61f9b031f2ed6b06db5aaa4e</id>
+        <link href="https://www.freecodecamp.org/news/code-and-deploy-a-serverless-api-using-go-and-aws/"/>
+        <updated>2022-02-01T22:24:50.000Z</updated>
+        <summary type="html"><![CDATA[Creating a serverless API can often be a better choice than coding a backend in Node.js, Laravel, Spring Boot, or some other backend framework. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code and deploy a serverless API using Go and AWS.]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build Your First Web App in Julia with Genie.jl 🧞‍♂️]]></title>
         <id>61f556d0f2ed6b06db5a7f43</id>
@@ -92,46 +187,6 @@ Metaphors We Web By originally published on CSS-Tricks. You should get the newsl
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[C++ String – std::string Example in C++]]></title>
-        <id>61ec2da1011f893303470c78</id>
-        <link href="https://www.freecodecamp.org/news/c-string-std-string-example-in-cpp/"/>
-        <updated>2022-01-31T23:37:41.000Z</updated>
-        <summary type="html"><![CDATA[Strings are essential components in any programming language, and C++ is no exception.  Whether you want to store text, manipulate it, or accept keyboard inputs and outputs, understanding what strings are and how to effectively use them is extremely important. This article will teach everything you need to know]]></summary>
-        <author>
-            <name>Jason Dsouza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Second Monitor Not Detected – Fixed for Windows 10 PC Laptop Dual Monitor Display]]></title>
-        <id>61e11e85b837d507ba0a253b</id>
-        <link href="https://www.freecodecamp.org/news/second-monitor-not-detected-fixed-windows10/"/>
-        <updated>2022-01-31T23:25:23.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes your PC may not detect your second monitor. In this tutorial, you'll learn some steps you can take to solve this problem. Check for improper connection Before we do anything technical, make sure you crosscheck your connections first. Make sure that all the cables fit in firmly and are]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a 100 Days of Code Discord Bot with TypeScript, MongoDB, and Discord.js 13]]></title>
-        <id>61e85078183181284a191b21</id>
-        <link href="https://www.freecodecamp.org/news/build-a-100-days-of-code-discord-bot-with-typescript-mongodb-and-discord-js-13/"/>
-        <updated>2022-01-31T21:41:05.000Z</updated>
-        <summary type="html"><![CDATA[The 100 Days of Code challenge [/news/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d/]  is very popular among new coders and developers looking to level up their skills. It's so popular that our Discord server [/news/freecodecamp-discord-chat-room-server/] has an entire channel dedicated to it. By popular demand, we built a Discord bot that helps people track their]]></summary>
-        <author>
-            <name>Naomi Carrigan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LearnToCodeRPG Player Guide – How to Unlock All Achievements and Endings]]></title>
-        <id>61f7c2aef2ed6b06db5a92c6</id>
-        <link href="https://www.freecodecamp.org/news/learntocoderpg-player-guide-how-to-unlock-all-achievements-and-endings/"/>
-        <updated>2022-01-31T21:32:45.000Z</updated>
-        <summary type="html"><![CDATA[In this guide, you'll learn to how to collect all 54 achievements and reach all six endings of the LearnToCodeRPG.  According to the game's creator, Lynn Zheng [/news/author/lynn/], > Learn to Code RPG is an interactive visual novel game where you will teach yourself to code, make friends in]]></summary>
-        <author>
-            <name>Ilenia Magoni</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Notes on Reverse-Scrolling Columns With CSS Scroll-Timeline]]></title>
         <id>https://css-tricks.com/?p=362730</id>
         <link href="https://css-tricks.com/css-scroll-timeline-reverse-motion-preference/"/>
@@ -144,16 +199,6 @@ Bramus has been exploring native CSS scrolling effects
 Notes on Reverse-Scrolling Columns With CSS Scroll-Timeline originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Array Tutorial – Define, Index, Methods]]></title>
-        <id>61f4ec99f2ed6b06db5a7708</id>
-        <link href="https://www.freecodecamp.org/news/python-array-tutorial-define-index-methods/"/>
-        <updated>2022-01-31T18:35:31.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn how to use Python arrays. You'll see how to define them and the different methods commonly used for performing operations on them. The artcile covers arrays that you create by importing the array module. We won't cover NumPy arrays here. Table of Contents  1.]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
         </author>
     </entry>
     <entry>
@@ -175,19 +220,6 @@ The Relevance of TypeScript in 2022 originally published on CSS-Tricks. You shou
         <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for February 2022.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Optional Chaining Operator, “Modern” Browsers, and My Mom]]></title>
-        <id>https://css-tricks.com/?p=362890</id>
-        <link href="https://css-tricks.com/the-optional-chaining-operator-modern-browsers-and-my-mom/"/>
-        <updated>2022-01-30T21:49:15.000Z</updated>
-        <summary type="html"><![CDATA[Jim Nielsen’s mom couldn’t open a website. Jim worked on confirming the issue and documented how he got to the bottom of it:
-“[…] well it can’t be a browser issue. It’s not like my Mom is using Internet Explorer! 
-…
-The Optional Chaining Operator, “Modern” Browsers, and My Mom originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -312,18 +344,6 @@ How to Make a Scroll-Triggered Animation With Basic JavaScript originally publis
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Don’t Developers Take Accessibility Seriously?]]></title>
-        <id>https://css-tricks.com/?p=360811</id>
-        <link href="https://css-tricks.com/why-dont-developers-take-accessibility-seriously/"/>
-        <updated>2022-01-24T14:49:18.000Z</updated>
-        <summary type="html"><![CDATA[You know that joke, “Two front-end developers walk into a bar and find they have nothing in common”? It’s funny, yet frustrating, because it’s true.
-This article will present three different perspectives on accessibility in web design and development. Three …
-Why Don’t Developers Take Accessibility Seriously? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Melanie Sumner</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Getting Started With CSS Cascade Layers]]></title>
         <id>https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/</id>
         <link href="https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/"/>
@@ -331,17 +351,6 @@ Why Don’t Developers Take Accessibility Seriously? originally published on CSS
         <summary type="html"><![CDATA[Cascade layers introduce the new at-rule of @layer. The intent is to help CSS authors be more intentional about ordering the “layers” of CSS rules as a new method of cascade management.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using SVG in WordPress (2 Helpful Plugin Recommendations)]]></title>
-        <id>https://css-tricks.com/?p=360346</id>
-        <link href="https://css-tricks.com/using-svg-in-wordpress/"/>
-        <updated>2022-01-21T19:35:31.000Z</updated>
-        <summary type="html"><![CDATA[SVG is a great image format, so it's nice to able to use it in WordPress. If you're looking to be using SVG in WordPress. , we've got you covered here with all the best options.
-Using SVG in WordPress (2 Helpful Plugin Recommendations) originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -466,16 +475,6 @@ Thank you: @sokomin, @molakirlee, @philippnagel, @tianheg]]></summary>
         <summary type="html"><![CDATA[In this article (the first part in a series of two), Luis Ouriach shares advice that he wishes he has when starting out in his career. These tips come from his experience as a user interface and product designer for close to ten years, and if you’re starting just now, then read on!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Luis Ouriach)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Composition-Based Design System In Figma]]></title>
-        <id>https://smashingmagazine.com/2022/01/composition-based-design-system-figma/</id>
-        <link href="https://smashingmagazine.com/2022/01/composition-based-design-system-figma/"/>
-        <updated>2022-01-03T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Aleksandra Nagornaia)</name>
         </author>
     </entry>
 </feed>

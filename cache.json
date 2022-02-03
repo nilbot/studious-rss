@@ -22,12 +22,39 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=362893",
+          "author": "Chris Coyier",
+          "description": "Here’s a super classy demo from Michelle Barker over on Codrops that shows how to build a scrollable and draggable timeline with GSAP. It’s an interesting challenge to have two different interactions (vertical scrolling and horizontal dragging) be tied together …\nBuilding a Scrollable and Draggable Timeline with GSAP originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/building-a-scrollable-and-draggable-timeline-with-gsap/",
+          "publishedOn": "2022-02-02T21:11:55.000Z",
+          "wordCount": 381,
+          "title": "Building a Scrollable and Draggable Timeline with GSAP"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362521",
+          "author": "Taminoturoko Briggs",
+          "description": "The ability to identify users is vital for maintaining the security of any applications. Equally important is the code that’s written to manage user identities, particularly when it comes to avoiding loopholes for unauthorized access to data held by an …\nUser Registration and Auth Using Firebase and React originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/user-registration-authentication-firebase-react/",
+          "publishedOn": "2022-02-02T15:42:43.000Z",
+          "wordCount": 4765,
+          "title": "User Registration and Auth Using Firebase and React"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362890",
+          "author": "Chris Coyier",
+          "description": "Jim Nielsen’s mom couldn’t open a website. Jim worked on confirming the issue and documented how he got to the bottom of it:\n“[…] well it can’t be a browser issue. It’s not like my Mom is using Internet Explorer! \n…\nThe Optional Chaining Operator, “Modern” Browsers, and My Mom originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/the-optional-chaining-operator-modern-browsers-and-my-mom/",
+          "publishedOn": "2022-02-02T01:14:18.000Z",
+          "wordCount": 759,
+          "title": "The Optional Chaining Operator, “Modern” Browsers, and My Mom"
+        },
+        {
           "id": "https://css-tricks.com/?p=362169",
           "author": "Eric Bailey",
           "description": "I have a coworker who is smart, capable, and technologically-literate. Like me, they work on the web full-time.\nWhen they are sharing their screen in a meeting, I find myself disassociating fixating on the red update button in their copy …\n“Evergreen” Does Not Mean Immediately Available originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/evergreen-does-not-mean-immediately-available/",
           "publishedOn": "2022-02-01T15:38:41.000Z",
-          "wordCount": 2050,
+          "wordCount": 2346,
           "title": "“Evergreen” Does Not Mean Immediately Available"
         },
         {
@@ -45,7 +72,7 @@
           "description": "Lemme do this one quick-hits style:\nMary Lou published a quintessentially-Codrops-y demo called Alternate Column Scroll.\nThe scrolling effect is powered by Locomotive Scroll, which we’ve coincidentally covered before.\nBramus has been exploring native CSS scrolling effects \n…\nNotes on Reverse-Scrolling Columns With CSS Scroll-Timeline originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/css-scroll-timeline-reverse-motion-preference/",
           "publishedOn": "2022-01-31T21:02:06.000Z",
-          "wordCount": 841,
+          "wordCount": 848,
           "title": "Notes on Reverse-Scrolling Columns With CSS Scroll-Timeline"
         },
         {
@@ -56,15 +83,6 @@
           "publishedOn": "2022-01-31T15:16:01.000Z",
           "wordCount": 2787,
           "title": "The Relevance of TypeScript in 2022"
-        },
-        {
-          "id": "https://css-tricks.com/?p=362890",
-          "author": "Chris Coyier",
-          "description": "Jim Nielsen’s mom couldn’t open a website. Jim worked on confirming the issue and documented how he got to the bottom of it:\n“[…] well it can’t be a browser issue. It’s not like my Mom is using Internet Explorer! \n…\nThe Optional Chaining Operator, “Modern” Browsers, and My Mom originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/the-optional-chaining-operator-modern-browsers-and-my-mom/",
-          "publishedOn": "2022-01-30T21:49:15.000Z",
-          "wordCount": 633,
-          "title": "The Optional Chaining Operator, “Modern” Browsers, and My Mom"
         },
         {
           "id": "https://css-tricks.com/?p=362382",
@@ -81,7 +99,7 @@
           "description": "I’m always on the wrong branch. I’m either on master or main working on something that should be on a fix or feature branch. Or I’m on the last branch I was working on and should have cut a new …\nGit: Switching Unstaged Changes to a New Branch originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/git-switching-unstaged-changes-to-a-new-branch/",
           "publishedOn": "2022-01-27T23:49:45.000Z",
-          "wordCount": 1074,
+          "wordCount": 1067,
           "title": "Git: Switching Unstaged Changes to a New Branch",
           "enclosure": {
             "url": "https://videos.files.wordpress.com/14x0n7Mo/cli-1.mp4",
@@ -95,7 +113,7 @@
           "description": "TypeScript is a wonderful tool for writing JavaScript that scales. It’s more or less the de facto standard for the web when it comes to large JavaScript projects. As outstanding as it is, there are some tricky pieces for the …\nDemystifying TypeScript Discriminated Unions originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/typescript-discriminated-unions/",
           "publishedOn": "2022-01-27T15:20:57.000Z",
-          "wordCount": 2154,
+          "wordCount": 2161,
           "title": "Demystifying TypeScript Discriminated Unions"
         },
         {
@@ -127,7 +145,7 @@
           "description": "Have you ever tried to make CSS borders in a repeating zig-zag pattern? Like where a colored section of a website ends and another differently colored section begins — not with a straight line, but angled zig zags, rounded humps, …\nFancy CSS Borders Using Masks originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/css-borders-using-masks/",
           "publishedOn": "2022-01-26T14:26:49.000Z",
-          "wordCount": 2544,
+          "wordCount": 2537,
           "title": "Fancy CSS Borders Using Masks",
           "enclosure": {
             "url": "https://videos.files.wordpress.com/KzpD7MM6/usage-of-the-generator.mp4",
@@ -152,24 +170,6 @@
           "publishedOn": "2022-01-25T14:14:11.000Z",
           "wordCount": 1637,
           "title": "How to Make a Scroll-Triggered Animation With Basic JavaScript"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360811",
-          "author": "Melanie Sumner",
-          "description": "You know that joke, “Two front-end developers walk into a bar and find they have nothing in common”? It’s funny, yet frustrating, because it’s true.\nThis article will present three different perspectives on accessibility in web design and development. Three …\nWhy Don’t Developers Take Accessibility Seriously? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/why-dont-developers-take-accessibility-seriously/",
-          "publishedOn": "2022-01-24T14:49:18.000Z",
-          "wordCount": 5190,
-          "title": "Why Don’t Developers Take Accessibility Seriously?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360346",
-          "author": "Chris Coyier",
-          "description": "SVG is a great image format, so it's nice to able to use it in WordPress. If you're looking to be using SVG in WordPress. , we've got you covered here with all the best options.\nUsing SVG in WordPress (2 Helpful Plugin Recommendations) originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/using-svg-in-wordpress/",
-          "publishedOn": "2022-01-21T19:35:31.000Z",
-          "wordCount": 1471,
-          "title": "Using SVG in WordPress (2 Helpful Plugin Recommendations)"
         }
       ]
     },
@@ -178,6 +178,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "In this article, Adrian Bece shares more about the benefits and caveats of code-splitting and how page performance and load times can be improved by dynamically loading expensive, non-critical JavaScript bundles.",
+          "link": "https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/",
+          "publishedOn": "2022-02-02T10:30:00.000Z",
+          "wordCount": 4512,
+          "title": "Improving JavaScript Bundle Performance With Code-Splitting",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f721011b-37a8-4c1d-a8b9-b249bf938678/javascript-bundle-performance-code-splitting.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2022/02/touch-design-release/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -198,7 +212,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for February 2022.",
           "link": "https://smashingmagazine.com/2022/01/desktop-wallpaper-calendars-february-2022/",
           "publishedOn": "2022-01-31T09:00:00.000Z",
-          "wordCount": 2278,
+          "wordCount": 2266,
           "title": "28 Days Of Inspiration (February 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/04d12428-d98f-4633-ad77-fed864da6842/feb-22-magic-of-music-preview-opt.png",
@@ -212,7 +226,7 @@
           "description": "In this article, Noam Rosenthal dives deep into a few technical features that are common across frameworks, and explains how some of the different frameworks implement them and what they cost.",
           "link": "https://smashingmagazine.com/2022/01/web-frameworks-guide-part1/",
           "publishedOn": "2022-01-28T14:00:00.000Z",
-          "wordCount": 2163,
+          "wordCount": 2165,
           "title": "What Web Frameworks Solve And How To Do Without Them (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7ca7294e-9325-4bab-8617-0bc3d42e3053/web-frameworks-guide.jpg",
@@ -226,7 +240,7 @@
           "description": "This article reveals how something as trivial as administration in both software and As-a-service can be either a booster or bottleneck to a company’s productivity and innovation. It also provides several design aspects that UX practitioners should evaluate when designing the administration experience.",
           "link": "https://smashingmagazine.com/2022/01/software-administration-ux/",
           "publishedOn": "2022-01-26T12:00:00.000Z",
-          "wordCount": 2588,
+          "wordCount": 2586,
           "title": "Don’t Underestimate The Software Administration UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a25c6bb8-7778-48e1-b2e8-04cfd46d0765/software-administration-ux.jpg",
@@ -240,7 +254,7 @@
           "description": "What’s new in Chrome, Edge, Safari and Firefox? Patrick Brosset breaks it down with the latest features in DevTools across browsers.",
           "link": "https://smashingmagazine.com/2022/01/devtools-updates-2022/",
           "publishedOn": "2022-01-25T13:00:00.000Z",
-          "wordCount": 2518,
+          "wordCount": 2533,
           "title": "What’s New In DevTools?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e516aa85-3b77-418a-9b43-cec06943b129/devtools-updates-2022.jpg",
@@ -254,7 +268,7 @@
           "description": "Cascade layers introduce the new at-rule of @layer. The intent is to help CSS authors be more intentional about ordering the “layers” of CSS rules as a new method of cascade management.",
           "link": "https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/",
           "publishedOn": "2022-01-24T11:00:00.000Z",
-          "wordCount": 4756,
+          "wordCount": 4758,
           "title": "Getting Started With CSS Cascade Layers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/13b8900c-aa53-49ae-84f7-9fbf598635e2/introduction-css-cascade-layers.jpg",
@@ -268,7 +282,7 @@
           "description": "Joining a team where there are no established design practices may feel disheartening. Does this situation resonate with you? If yes, then read on — as this article is sharing the author’s advice based on his personal experience and it will show you a way (although not easy) of facing the problem in a manner that will bring other benefits, beside order and consistency.",
           "link": "https://smashingmagazine.com/2022/01/from-chaos-to-system-design-teams/",
           "publishedOn": "2022-01-21T14:30:00.000Z",
-          "wordCount": 5318,
+          "wordCount": 5323,
           "title": "From Chaos To System In Design Teams",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a7ab411a-2903-440e-bbfa-4f7914345165/chaos-to-system-design-teams.jpg",
@@ -282,7 +296,7 @@
           "description": "In this article, Georgii Perepecho explains the most common React Query features that you need to be familiar with when creating a real-life application that is stable when testing.",
           "link": "https://smashingmagazine.com/2022/01/building-real-app-react-query/",
           "publishedOn": "2022-01-20T14:30:00.000Z",
-          "wordCount": 5252,
+          "wordCount": 5251,
           "title": "Building The Real App With React Query",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb299a88-9204-4579-bfb0-f9d8dac84014/building-real-app-react-query.jpg",
@@ -310,7 +324,7 @@
           "description": "Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies) related to different occasions and themes. We hope that with this icon set, everyone will be able to find their own use case for these icons in particular. Today, we present to you three icon sets designed by the creative folks at GraphicSurf — all free for personal and commercial use.",
           "link": "https://smashingmagazine.com/2022/01/freebie-wayfinding-icon-sets-exhibition-concert-museum/",
           "publishedOn": "2022-01-18T12:00:00.000Z",
-          "wordCount": 823,
+          "wordCount": 817,
           "title": "Freebie: Wayfinding Icon Sets (164 Icons, PNG, SVG, AI, EPS)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/27d4ee4d-0893-4ef6-b48a-435007089494/wayfinding-icon-preview.jpg",
@@ -338,7 +352,7 @@
           "description": "In [Part 1](https://www.smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/), Luis Ouriach shared advice he wished he had when starting out in his career. In this second and last part of this series, Luis continues sharing tips that helped him grow and become a better designer throughout the years.",
           "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/",
           "publishedOn": "2022-01-14T15:00:00.000Z",
-          "wordCount": 3573,
+          "wordCount": 3575,
           "title": "Ten Tips For Aspiring Designer Beginners (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b0e9621-b939-439d-a812-69a4eb7d68ff/tips-aspiring-designer-beginners-part2.jpg",
@@ -366,7 +380,7 @@
           "description": "Accessibility must be a permanent program within organizations, much like security. In this article, Kate Kalcevich shares tips on which skills and questions to keep in mind when hiring for digital accessibility roles.",
           "link": "https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/",
           "publishedOn": "2022-01-12T10:30:00.000Z",
-          "wordCount": 3857,
+          "wordCount": 3856,
           "title": "How To Hire For Digital Accessibility Roles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/99b1af95-05d8-48ce-9086-171a59ba27f0/how-hire-digital-accessibility-roles.jpg",
@@ -380,7 +394,7 @@
           "description": "In this article, we’ll be taking a closer look at two gradients: `conic-gradient` and `radial-gradient`. You’ll see how each one of them works in detail, what the differences and similarities are between them, how and where to use them, and some use cases for each.",
           "link": "https://smashingmagazine.com/2022/01/css-radial-conic-gradient/",
           "publishedOn": "2022-01-10T12:30:00.000Z",
-          "wordCount": 2308,
+          "wordCount": 2309,
           "title": "A Deep CSS Dive Into Radial And Conic Gradients",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8b1eea9e-877a-4da7-b531-537a97a44613/css-radial-conic-gradient.jpg",
@@ -394,7 +408,7 @@
           "description": "Product roadmaps are often treated as a series of checkboxes. But they are more than that. In this article, Scott Himmer explains how internal partnerships, research, design systems, and regular touch bases can help make sure that your product roadmap is a successful one.",
           "link": "https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/",
           "publishedOn": "2022-01-07T16:00:00.000Z",
-          "wordCount": 3998,
+          "wordCount": 4004,
           "title": "Changing A Tire On A Moving Car (Or How To Improve Product Roadmaps)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/31db8ed2-e433-46b6-9b8e-ab622b10fce0/changing-tire-on-moving-car.jpg",
@@ -408,24 +422,10 @@
           "description": "In this article (the first part in a series of two), Luis Ouriach shares advice that he wishes he has when starting out in his career. These tips come from his experience as a user interface and product designer for close to ten years, and if you’re starting just now, then read on!",
           "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/",
           "publishedOn": "2022-01-05T13:00:00.000Z",
-          "wordCount": 4065,
+          "wordCount": 4067,
           "title": "Ten Tips For Aspiring Designer Beginners (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/954de2dd-e9df-43de-9b9a-bb24c1f8cf0b/tips-aspiring-designer-beginners-part1.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/01/composition-based-design-system-figma/",
-          "author": "hello@smashingmagazine.com (Aleksandra Nagornaia)",
-          "description": "Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.",
-          "link": "https://smashingmagazine.com/2022/01/composition-based-design-system-figma/",
-          "publishedOn": "2022-01-03T13:00:00.000Z",
-          "wordCount": 2636,
-          "title": "Composition-Based Design System In Figma",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/671611c3-eaf7-427e-9e5d-1bb74fbf62f5/composition-based-design-system-figma.jpg",
             "length": "0",
             "type": "image/jpg"
           }
@@ -437,6 +437,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61fad67af2ed6b06db5ab66f",
+          "author": "Beau Carnes",
+          "description": "If you want to design your app in the best way possible, it is important to really understand the needs of your users. This can be done through user research. We just published a UI / UX design course on the freeCodeCamp.org YouTube channel that will teach you how to",
+          "link": "https://www.freecodecamp.org/news/use-user-reseach-to-create-the-perfect-ui-design/",
+          "publishedOn": "2022-02-02T19:17:05.000Z",
+          "wordCount": 34802,
+          "title": "Use User Research to Create the Perfect UI Design"
+        },
+        {
+          "id": "61f8480bf2ed6b06db5a9d2b",
+          "author": "Edan Ben-Atar",
+          "description": "WordPress, Shopify, and Ghost are some of the most powerful and popular CMS platforms out there. And you might wonder why so many people use them. Well, it's because they're easy to use, cost-effective, and highly efficient. With WordPress, Shopify, and Ghost, you can create a website from scratch in",
+          "link": "https://www.freecodecamp.org/news/chose-a-cms-wordpress-vs-shopify-vs-ghost/",
+          "publishedOn": "2022-02-02T17:05:13.000Z",
+          "wordCount": 2308,
+          "title": "How to Choose a CMS – WordPress vs Ghost vs Shopify"
+        },
+        {
+          "id": "61f62beff2ed6b06db5a854b",
+          "author": "Ashutosh Krishna",
+          "description": "Python is a fantastic programming language that allows you to use both functional and object-oriented programming paradigms.  Python programmers should be able to use fundamental object-oriented programming concepts, whether they are software developers, machine learning engineers, or something else.  All four core aspects of a generic OOP framework",
+          "link": "https://www.freecodecamp.org/news/object-oriented-programming-in-python/",
+          "publishedOn": "2022-02-02T15:24:30.000Z",
+          "wordCount": 2289,
+          "title": "Object-Oriented Programming in Python"
+        },
+        {
+          "id": "61f8b7e5f2ed6b06db5a9eed",
+          "author": "Zach Snoek",
+          "description": "You may have come across or written code similar to this when writing JavaScript: function sayWord(word) { \treturn () => console.log(word); } const sayHello = sayWord(\"hello\"); sayHello(); // \"hello\" This code is interesting for a couple of reasons. First, we can access word in the function returned from sayWord. Second,",
+          "link": "https://www.freecodecamp.org/news/scope-and-closures-in-javascript/",
+          "publishedOn": "2022-02-01T23:52:27.000Z",
+          "wordCount": 1695,
+          "title": "Scope and Closures in JavaScript – Explained with Examples"
+        },
+        {
+          "id": "61f9b031f2ed6b06db5aaa4e",
+          "author": "Beau Carnes",
+          "description": "Creating a serverless API can often be a better choice than coding a backend in Node.js, Laravel, Spring Boot, or some other backend framework. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code and deploy a serverless API using Go and AWS.",
+          "link": "https://www.freecodecamp.org/news/code-and-deploy-a-serverless-api-using-go-and-aws/",
+          "publishedOn": "2022-02-01T22:24:50.000Z",
+          "wordCount": 12911,
+          "title": "Code and Deploy a Serverless API Using Go and AWS"
+        },
         {
           "id": "61f556d0f2ed6b06db5a7f43",
           "author": "Logan Kilpatrick",
@@ -481,51 +526,6 @@
           "publishedOn": "2022-02-01T15:49:24.000Z",
           "wordCount": 1916,
           "title": "Python Game Development – How to Make a Turtle Racing Game with PyCharm"
-        },
-        {
-          "id": "61ec2da1011f893303470c78",
-          "author": "Jason Dsouza",
-          "description": "Strings are essential components in any programming language, and C++ is no exception.  Whether you want to store text, manipulate it, or accept keyboard inputs and outputs, understanding what strings are and how to effectively use them is extremely important. This article will teach everything you need to know",
-          "link": "https://www.freecodecamp.org/news/c-string-std-string-example-in-cpp/",
-          "publishedOn": "2022-01-31T23:37:41.000Z",
-          "wordCount": 1257,
-          "title": "C++ String – std::string Example in C++"
-        },
-        {
-          "id": "61e11e85b837d507ba0a253b",
-          "author": "Ihechikara Vincent Abba",
-          "description": "Sometimes your PC may not detect your second monitor. In this tutorial, you'll learn some steps you can take to solve this problem. Check for improper connection Before we do anything technical, make sure you crosscheck your connections first. Make sure that all the cables fit in firmly and are",
-          "link": "https://www.freecodecamp.org/news/second-monitor-not-detected-fixed-windows10/",
-          "publishedOn": "2022-01-31T23:25:23.000Z",
-          "wordCount": 616,
-          "title": "Second Monitor Not Detected – Fixed for Windows 10 PC Laptop Dual Monitor Display"
-        },
-        {
-          "id": "61e85078183181284a191b21",
-          "author": "Naomi Carrigan",
-          "description": "The 100 Days of Code challenge [/news/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d/]  is very popular among new coders and developers looking to level up their skills. It's so popular that our Discord server [/news/freecodecamp-discord-chat-room-server/] has an entire channel dedicated to it. By popular demand, we built a Discord bot that helps people track their",
-          "link": "https://www.freecodecamp.org/news/build-a-100-days-of-code-discord-bot-with-typescript-mongodb-and-discord-js-13/",
-          "publishedOn": "2022-01-31T21:41:05.000Z",
-          "wordCount": 8722,
-          "title": "Build a 100 Days of Code Discord Bot with TypeScript, MongoDB, and Discord.js 13"
-        },
-        {
-          "id": "61f7c2aef2ed6b06db5a92c6",
-          "author": "Ilenia Magoni",
-          "description": "In this guide, you'll learn to how to collect all 54 achievements and reach all six endings of the LearnToCodeRPG.  According to the game's creator, Lynn Zheng [/news/author/lynn/], > Learn to Code RPG is an interactive visual novel game where you will teach yourself to code, make friends in",
-          "link": "https://www.freecodecamp.org/news/learntocoderpg-player-guide-how-to-unlock-all-achievements-and-endings/",
-          "publishedOn": "2022-01-31T21:32:45.000Z",
-          "wordCount": 1472,
-          "title": "LearnToCodeRPG Player Guide – How to Unlock All Achievements and Endings"
-        },
-        {
-          "id": "61f4ec99f2ed6b06db5a7708",
-          "author": "Dionysia Lemonaki",
-          "description": "In this article, you'll learn how to use Python arrays. You'll see how to define them and the different methods commonly used for performing operations on them. The artcile covers arrays that you create by importing the array module. We won't cover NumPy arrays here. Table of Contents  1.",
-          "link": "https://www.freecodecamp.org/news/python-array-tutorial-define-index-methods/",
-          "publishedOn": "2022-01-31T18:35:31.000Z",
-          "wordCount": 2844,
-          "title": "Python Array Tutorial – Define, Index, Methods"
         }
       ]
     }
