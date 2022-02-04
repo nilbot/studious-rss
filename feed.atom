@@ -1,10 +1,126 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-03T00:02:43.101Z</id>
+    <id>urn:2022-02-04T00:02:39.159Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-03T00:02:43.101Z</updated>
+    <updated>2022-02-04T00:02:39.159Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building a newbie-friendly codebase]]></title>
+        <id>https://css-tricks.com/?p=362884</id>
+        <link href="https://css-tricks.com/building-a-newbie-friendly-codebase/"/>
+        <updated>2022-02-03T22:32:58.000Z</updated>
+        <summary type="html"><![CDATA[Pedro Santos suggests:
+Using naming conventions such that you can learn them once and apply them everywhere
+Unidirectional data flows. Make it easy to follow the app flow.
+No magic numbers. I’d add they are even worse in CSS
+…
+Building a newbie-friendly codebase originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Your Own Google Chrome Extension]]></title>
+        <id>61f66e8bf2ed6b06db5a880a</id>
+        <link href="https://www.freecodecamp.org/news/building-chrome-extension/"/>
+        <updated>2022-02-03T19:42:43.000Z</updated>
+        <summary type="html"><![CDATA[If you are a Google Chrome user, you've probably used some extensions in the browser.  Have you ever wondered how to build one yourself? In this article, I will show you how you can create a Chrome extension from scratch. Table Of Contents  * What is a Chrome]]></summary>
+        <author>
+            <name>Sampurna Chapagain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20 Award-Winning JavaScript Games – js13kGames 2021 Winners]]></title>
+        <id>61fc2478f2ed6b06db5ac159</id>
+        <link href="https://www.freecodecamp.org/news/20-award-winning-javascript-games-js13kgames-2021-winners/"/>
+        <updated>2022-02-03T19:01:19.000Z</updated>
+        <summary type="html"><![CDATA[You are just about to learn about 20 great examples of code from 20 insanely talented developers. Js13kGames is a JavaScript coding competition open to everyone and anyone wanting to try out Game Development. The 2021 winners have been announced, and you can play the games for free. As the]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unreal Engine 5 Crash Course with Blueprint]]></title>
+        <id>61fc1f32f2ed6b06db5ac129</id>
+        <link href="https://www.freecodecamp.org/news/unreal-engine-5-crash-course-with-blueprint/"/>
+        <updated>2022-02-03T18:38:19.000Z</updated>
+        <summary type="html"><![CDATA[Unreal Engine is one of the most popular game engines in use today. It can be helpful to learn if you are interested in 3D or 2D game development. We just published an Unreal Engine 5 crash course on the freeCodeCamp.org YouTube channel. Varnos Games created this course. You will]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Cheat Sheet – HTML Elements List Reference]]></title>
+        <id>61f19aaff2ed6b06db5a5c9f</id>
+        <link href="https://www.freecodecamp.org/news/html-cheat-sheet-html-elements-list-reference/"/>
+        <updated>2022-02-03T17:00:24.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will go over commonly used HTML tags, elements, and attributes. We'll also see examples of how these tags, elements, and attributes work. You can use this article as a reference guide whether you're a beginner or experienced developer. What Makes Up an HTML Document? The following]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Div Background Color – How to Change Background Color in CSS]]></title>
+        <id>61fbafd8f2ed6b06db5abd39</id>
+        <link href="https://www.freecodecamp.org/news/div-background-color-how-to-change-background-color-in-css/"/>
+        <updated>2022-02-03T16:50:46.000Z</updated>
+        <summary type="html"><![CDATA[If you're working on a web development project, setting a nice background color can give the website a more enticing look. To set a background color for a div or related element in CSS, you use the  background-color property. While setting this background color, your creativity is your limit]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Best Practices – Tips for Writing Better React Code in 2022]]></title>
+        <id>61ebc3d6011f893303470420</id>
+        <link href="https://www.freecodecamp.org/news/best-practices-for-react/"/>
+        <updated>2022-02-03T16:41:47.000Z</updated>
+        <summary type="html"><![CDATA[Two years ago, I started to learn and use React. And today I'm still using it at my day job as a Software Developer and in my own side projects. During that time I've come across a lot of "typical" issues. So I searched around and found some best practices]]></summary>
+        <author>
+            <name>Jean-Marc Möckel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Label – Label Tag Example]]></title>
+        <id>61fa3eb0f2ed6b06db5aac87</id>
+        <link href="https://www.freecodecamp.org/news/html-label-label-tag-example/"/>
+        <updated>2022-02-03T16:37:47.000Z</updated>
+        <summary type="html"><![CDATA[You use the HTML <label> tag to caption form controls. <label> is an inline element – meaning it doesn't take up an entire line unless you put a break tag before it. By definition, form controls refer to the elements inside a form element. Examples of form controls include <input]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Started in Tech]]></title>
+        <id>61fa254ff2ed6b06db5aab3f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-started-in-tech/"/>
+        <updated>2022-02-03T16:31:30.000Z</updated>
+        <summary type="html"><![CDATA[If you are just starting out in tech but do not know which path to take, then this article is for you. If you've started learning, but you're still confused on which programming language or tools to choose, don't worry – we'll discuss that here. And if you've ever wondered]]></summary>
+        <author>
+            <name>Njoku Samson Ebere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Making of Atomic CSS: An Interview With Thierry Koblentz]]></title>
+        <id>https://css-tricks.com/?p=362578</id>
+        <link href="https://css-tricks.com/thierry-koblentz-atomic-css/"/>
+        <updated>2022-02-03T15:24:01.000Z</updated>
+        <summary type="html"><![CDATA[I interviewed Thierry Koblentz, creator of Atomic CSS, to understand the history and background that led to making of the popular CSS framework. Thierry, now retired, has vast experience writing CSS at large scale and has previously worked …
+The Making of Atomic CSS: An Interview With Thierry Koblentz originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Pankaj Parashar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reducing The Web’s Carbon Footprint: Optimizing Social Media Embeds]]></title>
+        <id>https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/</id>
+        <link href="https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/"/>
+        <updated>2022-02-03T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll look specifically at what we can do to reduce the impact of social media embeds and social sharing widgets — or even some strategies to avoid them altogether. While the spotlight is on reducing the environmental impact, many of these tips will be great for performance too.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building a Scrollable and Draggable Timeline with GSAP]]></title>
         <id>https://css-tricks.com/?p=362893</id>
@@ -48,16 +164,6 @@ User Registration and Auth Using Firebase and React originally published on CSS-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Object-Oriented Programming in Python]]></title>
-        <id>61f62beff2ed6b06db5a854b</id>
-        <link href="https://www.freecodecamp.org/news/object-oriented-programming-in-python/"/>
-        <updated>2022-02-02T15:24:30.000Z</updated>
-        <summary type="html"><![CDATA[Python is a fantastic programming language that allows you to use both functional and object-oriented programming paradigms.  Python programmers should be able to use fundamental object-oriented programming concepts, whether they are software developers, machine learning engineers, or something else.  All four core aspects of a generic OOP framework]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Improving JavaScript Bundle Performance With Code-Splitting]]></title>
         <id>https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/</id>
         <link href="https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/"/>
@@ -78,76 +184,6 @@ User Registration and Auth Using Firebase and React originally published on CSS-
 The Optional Chaining Operator, “Modern” Browsers, and My Mom originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scope and Closures in JavaScript – Explained with Examples]]></title>
-        <id>61f8b7e5f2ed6b06db5a9eed</id>
-        <link href="https://www.freecodecamp.org/news/scope-and-closures-in-javascript/"/>
-        <updated>2022-02-01T23:52:27.000Z</updated>
-        <summary type="html"><![CDATA[You may have come across or written code similar to this when writing JavaScript: function sayWord(word) { 	return () => console.log(word); } const sayHello = sayWord("hello"); sayHello(); // "hello" This code is interesting for a couple of reasons. First, we can access word in the function returned from sayWord. Second,]]></summary>
-        <author>
-            <name>Zach Snoek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code and Deploy a Serverless API Using Go and AWS]]></title>
-        <id>61f9b031f2ed6b06db5aaa4e</id>
-        <link href="https://www.freecodecamp.org/news/code-and-deploy-a-serverless-api-using-go-and-aws/"/>
-        <updated>2022-02-01T22:24:50.000Z</updated>
-        <summary type="html"><![CDATA[Creating a serverless API can often be a better choice than coding a backend in Node.js, Laravel, Spring Boot, or some other backend framework. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code and deploy a serverless API using Go and AWS.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your First Web App in Julia with Genie.jl 🧞‍♂️]]></title>
-        <id>61f556d0f2ed6b06db5a7f43</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-web-apps-in-julia/"/>
-        <updated>2022-02-01T21:33:45.000Z</updated>
-        <summary type="html"><![CDATA[Julia is a high-level, dynamic, and open-source programming language. It's designed to be as easy to use as Python while remaining as performant as C or C++.  Many early use cases for Julia were in the scientific domains where massive computational processing was and still is required. But as]]></summary>
-        <author>
-            <name>Logan Kilpatrick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Center Image – CSS Align Img Center Example]]></title>
-        <id>61f920a8f2ed6b06db5aa13a</id>
-        <link href="https://www.freecodecamp.org/news/html-center-image-css-align-img-center-example/"/>
-        <updated>2022-02-01T21:16:57.000Z</updated>
-        <summary type="html"><![CDATA[If you're making websites with HTML and CSS, you will be working with images a lot. Developers often struggle with image alignment in CSS, especially when trying to figure out how to center an image. Centering anything in CSS is not really a straightforward thing - especially for beginners. This]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next.js and Firebase Tutorial – How to Build an Evernote Clone]]></title>
-        <id>61f68d36f2ed6b06db5a8963</id>
-        <link href="https://www.freecodecamp.org/news/nextjs-firebase-tutorial-build-an-evernote-clone/"/>
-        <updated>2022-02-01T18:30:40.000Z</updated>
-        <summary type="html"><![CDATA[Next.js is a server-side rendering framework based on React, which is search engine optimized. So, let's build an Evernote clone using Next.js to learn how it works. We will use the following tech stack:  1. Next.js for the UI  2. Firebase for the database and for hosting our]]></summary>
-        <author>
-            <name>Nishant Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are Graph Neural Networks? How GNNs Work, Explained with Examples]]></title>
-        <id>61ef7522f2ed6b06db5a420b</id>
-        <link href="https://www.freecodecamp.org/news/graph-neural-networks-explained-with-examples/"/>
-        <updated>2022-02-01T16:50:35.000Z</updated>
-        <summary type="html"><![CDATA[Graph Neural Networks are getting more and more popular and are being used extensively in a wide variety of projects.  In this article, I help you get started and understand how graph neural networks work while also trying to address the question "why" at each stage.  Finally we]]></summary>
-        <author>
-            <name>Rishit Dagli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Game Development – How to Make a Turtle Racing Game with PyCharm]]></title>
-        <id>61990e8b11d3cb08287a9bf9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-racing-game-using-python/"/>
-        <updated>2022-02-01T15:49:24.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn how to build a racing game in Python using the Turtle library in just 39 lines of code.  Here's what we're going to create: Turtle Racing Game Project Overview🧵 Prerequisites Very basic knowledge of Python programming will be enough to go through this tutorial.]]></summary>
-        <author>
-            <name>Shahan Chowdhury</name>
         </author>
     </entry>
     <entry>
@@ -309,28 +345,6 @@ Fancy CSS Borders Using Masks originally published on CSS-Tricks. You should get
         <summary type="html"><![CDATA[This article reveals how something as trivial as administration in both software and As-a-service can be either a booster or bottleneck to a company’s productivity and innovation. It also provides several design aspects that UX practitioners should evaluate when designing the administration experience.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Shell Zhu &amp; Adrian Jones)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Do You Handle Component Spacing in a Design System?]]></title>
-        <id>https://css-tricks.com/?p=362044</id>
-        <link href="https://css-tricks.com/component-spacing-design-system/"/>
-        <updated>2022-01-25T23:10:20.000Z</updated>
-        <summary type="html"><![CDATA[Say you’ve got a <Card /> component. It’s highly likely it shouldn’t be butted right up against any other components with no spacing around it. That’s true for… pretty much every component. So, how do you handle component spacing in …
-How Do You Handle Component Spacing in a Design System? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a Scroll-Triggered Animation With Basic JavaScript]]></title>
-        <id>https://css-tricks.com/?p=360550</id>
-        <link href="https://css-tricks.com/scroll-triggered-animation-vanilla-javascript/"/>
-        <updated>2022-01-25T14:14:11.000Z</updated>
-        <summary type="html"><![CDATA[A little bit of animation on a site can add some flair, impress users, and get their attention. You could have them run, no matter where they are on the page, immediately when the page loads. But what if your …
-How to Make a Scroll-Triggered Animation With Basic JavaScript originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Md Shuvo</name>
         </author>
     </entry>
     <entry>

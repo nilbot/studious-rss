@@ -22,6 +22,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=362884",
+          "author": "Chris Coyier",
+          "description": "Pedro Santos suggests:\nUsing naming conventions such that you can learn them once and apply them everywhere\nUnidirectional data flows. Make it easy to follow the app flow.\nNo magic numbers. I’d add they are even worse in CSS\n…\nBuilding a newbie-friendly codebase originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/building-a-newbie-friendly-codebase/",
+          "publishedOn": "2022-02-03T22:32:58.000Z",
+          "wordCount": 396,
+          "title": "Building a newbie-friendly codebase"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362578",
+          "author": "Pankaj Parashar",
+          "description": "I interviewed Thierry Koblentz, creator of Atomic CSS, to understand the history and background that led to making of the popular CSS framework. Thierry, now retired, has vast experience writing CSS at large scale and has previously worked …\nThe Making of Atomic CSS: An Interview With Thierry Koblentz originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/thierry-koblentz-atomic-css/",
+          "publishedOn": "2022-02-03T15:24:01.000Z",
+          "wordCount": 3458,
+          "title": "The Making of Atomic CSS: An Interview With Thierry Koblentz"
+        },
+        {
           "id": "https://css-tricks.com/?p=362893",
           "author": "Chris Coyier",
           "description": "Here’s a super classy demo from Michelle Barker over on Codrops that shows how to build a scrollable and draggable timeline with GSAP. It’s an interesting challenge to have two different interactions (vertical scrolling and horizontal dragging) be tied together …\nBuilding a Scrollable and Draggable Timeline with GSAP originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -45,7 +63,7 @@
           "description": "Jim Nielsen’s mom couldn’t open a website. Jim worked on confirming the issue and documented how he got to the bottom of it:\n“[…] well it can’t be a browser issue. It’s not like my Mom is using Internet Explorer! \n…\nThe Optional Chaining Operator, “Modern” Browsers, and My Mom originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/the-optional-chaining-operator-modern-browsers-and-my-mom/",
           "publishedOn": "2022-02-02T01:14:18.000Z",
-          "wordCount": 759,
+          "wordCount": 919,
           "title": "The Optional Chaining Operator, “Modern” Browsers, and My Mom"
         },
         {
@@ -81,7 +99,7 @@
           "description": "It’s 2022. And the current relevance of TypeScript is undisputed. TypeScript has dominated the front-end developer experience by many, many accounts. By now you likely already know that TypeScript is a superset of JavaScript, building on JavaScript by adding …\nThe Relevance of TypeScript in 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/the-relevance-of-typescript-in-2022/",
           "publishedOn": "2022-01-31T15:16:01.000Z",
-          "wordCount": 2787,
+          "wordCount": 2844,
           "title": "The Relevance of TypeScript in 2022"
         },
         {
@@ -99,7 +117,7 @@
           "description": "I’m always on the wrong branch. I’m either on master or main working on something that should be on a fix or feature branch. Or I’m on the last branch I was working on and should have cut a new …\nGit: Switching Unstaged Changes to a New Branch originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/git-switching-unstaged-changes-to-a-new-branch/",
           "publishedOn": "2022-01-27T23:49:45.000Z",
-          "wordCount": 1067,
+          "wordCount": 1074,
           "title": "Git: Switching Unstaged Changes to a New Branch",
           "enclosure": {
             "url": "https://videos.files.wordpress.com/14x0n7Mo/cli-1.mp4",
@@ -145,31 +163,13 @@
           "description": "Have you ever tried to make CSS borders in a repeating zig-zag pattern? Like where a colored section of a website ends and another differently colored section begins — not with a straight line, but angled zig zags, rounded humps, …\nFancy CSS Borders Using Masks originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/css-borders-using-masks/",
           "publishedOn": "2022-01-26T14:26:49.000Z",
-          "wordCount": 2537,
+          "wordCount": 2544,
           "title": "Fancy CSS Borders Using Masks",
           "enclosure": {
             "url": "https://videos.files.wordpress.com/KzpD7MM6/usage-of-the-generator.mp4",
             "length": "4702959",
             "type": "video/mp4"
           }
-        },
-        {
-          "id": "https://css-tricks.com/?p=362044",
-          "author": "Chris Coyier",
-          "description": "Say you’ve got a <Card /> component. It’s highly likely it shouldn’t be butted right up against any other components with no spacing around it. That’s true for… pretty much every component. So, how do you handle component spacing in …\nHow Do You Handle Component Spacing in a Design System? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/component-spacing-design-system/",
-          "publishedOn": "2022-01-25T23:10:20.000Z",
-          "wordCount": 1364,
-          "title": "How Do You Handle Component Spacing in a Design System?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360550",
-          "author": "Md Shuvo",
-          "description": "A little bit of animation on a site can add some flair, impress users, and get their attention. You could have them run, no matter where they are on the page, immediately when the page loads. But what if your …\nHow to Make a Scroll-Triggered Animation With Basic JavaScript originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/scroll-triggered-animation-vanilla-javascript/",
-          "publishedOn": "2022-01-25T14:14:11.000Z",
-          "wordCount": 1637,
-          "title": "How to Make a Scroll-Triggered Animation With Basic JavaScript"
         }
       ]
     },
@@ -179,12 +179,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/",
+          "author": "hello@smashingmagazine.com (Michelle Barker)",
+          "description": "In this article, we’ll look specifically at what we can do to reduce the impact of social media embeds and social sharing widgets — or even some strategies to avoid them altogether. While the spotlight is on reducing the environmental impact, many of these tips will be great for performance too.",
+          "link": "https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/",
+          "publishedOn": "2022-02-03T12:00:00.000Z",
+          "wordCount": 2563,
+          "title": "Reducing The Web’s Carbon Footprint: Optimizing Social Media Embeds",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/686a0218-bea0-4a0e-a2b9-aca40c29d412/reducing-web-carbon-footprint-optimizing-social-media-embeds.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/",
           "author": "hello@smashingmagazine.com (Adrian Bece)",
           "description": "In this article, Adrian Bece shares more about the benefits and caveats of code-splitting and how page performance and load times can be improved by dynamically loading expensive, non-critical JavaScript bundles.",
           "link": "https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/",
           "publishedOn": "2022-02-02T10:30:00.000Z",
-          "wordCount": 4512,
+          "wordCount": 4505,
           "title": "Improving JavaScript Bundle Performance With Code-Splitting",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f721011b-37a8-4c1d-a8b9-b249bf938678/javascript-bundle-performance-code-splitting.jpg",
@@ -212,7 +226,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for February 2022.",
           "link": "https://smashingmagazine.com/2022/01/desktop-wallpaper-calendars-february-2022/",
           "publishedOn": "2022-01-31T09:00:00.000Z",
-          "wordCount": 2266,
+          "wordCount": 2270,
           "title": "28 Days Of Inspiration (February 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/04d12428-d98f-4633-ad77-fed864da6842/feb-22-magic-of-music-preview-opt.png",
@@ -226,7 +240,7 @@
           "description": "In this article, Noam Rosenthal dives deep into a few technical features that are common across frameworks, and explains how some of the different frameworks implement them and what they cost.",
           "link": "https://smashingmagazine.com/2022/01/web-frameworks-guide-part1/",
           "publishedOn": "2022-01-28T14:00:00.000Z",
-          "wordCount": 2165,
+          "wordCount": 2167,
           "title": "What Web Frameworks Solve And How To Do Without Them (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7ca7294e-9325-4bab-8617-0bc3d42e3053/web-frameworks-guide.jpg",
@@ -240,7 +254,7 @@
           "description": "This article reveals how something as trivial as administration in both software and As-a-service can be either a booster or bottleneck to a company’s productivity and innovation. It also provides several design aspects that UX practitioners should evaluate when designing the administration experience.",
           "link": "https://smashingmagazine.com/2022/01/software-administration-ux/",
           "publishedOn": "2022-01-26T12:00:00.000Z",
-          "wordCount": 2586,
+          "wordCount": 2587,
           "title": "Don’t Underestimate The Software Administration UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a25c6bb8-7778-48e1-b2e8-04cfd46d0765/software-administration-ux.jpg",
@@ -254,7 +268,7 @@
           "description": "What’s new in Chrome, Edge, Safari and Firefox? Patrick Brosset breaks it down with the latest features in DevTools across browsers.",
           "link": "https://smashingmagazine.com/2022/01/devtools-updates-2022/",
           "publishedOn": "2022-01-25T13:00:00.000Z",
-          "wordCount": 2533,
+          "wordCount": 2523,
           "title": "What’s New In DevTools?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e516aa85-3b77-418a-9b43-cec06943b129/devtools-updates-2022.jpg",
@@ -268,7 +282,7 @@
           "description": "Cascade layers introduce the new at-rule of @layer. The intent is to help CSS authors be more intentional about ordering the “layers” of CSS rules as a new method of cascade management.",
           "link": "https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/",
           "publishedOn": "2022-01-24T11:00:00.000Z",
-          "wordCount": 4758,
+          "wordCount": 4756,
           "title": "Getting Started With CSS Cascade Layers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/13b8900c-aa53-49ae-84f7-9fbf598635e2/introduction-css-cascade-layers.jpg",
@@ -282,7 +296,7 @@
           "description": "Joining a team where there are no established design practices may feel disheartening. Does this situation resonate with you? If yes, then read on — as this article is sharing the author’s advice based on his personal experience and it will show you a way (although not easy) of facing the problem in a manner that will bring other benefits, beside order and consistency.",
           "link": "https://smashingmagazine.com/2022/01/from-chaos-to-system-design-teams/",
           "publishedOn": "2022-01-21T14:30:00.000Z",
-          "wordCount": 5323,
+          "wordCount": 5315,
           "title": "From Chaos To System In Design Teams",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a7ab411a-2903-440e-bbfa-4f7914345165/chaos-to-system-design-teams.jpg",
@@ -324,7 +338,7 @@
           "description": "Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies) related to different occasions and themes. We hope that with this icon set, everyone will be able to find their own use case for these icons in particular. Today, we present to you three icon sets designed by the creative folks at GraphicSurf — all free for personal and commercial use.",
           "link": "https://smashingmagazine.com/2022/01/freebie-wayfinding-icon-sets-exhibition-concert-museum/",
           "publishedOn": "2022-01-18T12:00:00.000Z",
-          "wordCount": 817,
+          "wordCount": 822,
           "title": "Freebie: Wayfinding Icon Sets (164 Icons, PNG, SVG, AI, EPS)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/27d4ee4d-0893-4ef6-b48a-435007089494/wayfinding-icon-preview.jpg",
@@ -338,7 +352,7 @@
           "description": "We’ll explore fluid typography principles, use-cases, implementation with CSS clamp() and an interactive fluid typography calculator.",
           "link": "https://smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/",
           "publishedOn": "2022-01-17T13:00:00.000Z",
-          "wordCount": 4021,
+          "wordCount": 4022,
           "title": "Modern Fluid Typography Using CSS Clamp",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f12f5a3d-f679-4b6b-b9c2-cb5a9d9166ae/modern-fluid-typography-css-clamp.jpg",
@@ -352,7 +366,7 @@
           "description": "In [Part 1](https://www.smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/), Luis Ouriach shared advice he wished he had when starting out in his career. In this second and last part of this series, Luis continues sharing tips that helped him grow and become a better designer throughout the years.",
           "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/",
           "publishedOn": "2022-01-14T15:00:00.000Z",
-          "wordCount": 3575,
+          "wordCount": 3584,
           "title": "Ten Tips For Aspiring Designer Beginners (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b0e9621-b939-439d-a812-69a4eb7d68ff/tips-aspiring-designer-beginners-part2.jpg",
@@ -366,7 +380,7 @@
           "description": "If you’re a developer who’s thinking about building a platform that requires a code editor in one form or another, then this article is for you. This article explains how to create a web code editor that displays the result in real time with the help of some HTML, CSS and JavaScript.",
           "link": "https://smashingmagazine.com/2022/01/building-web-code-editor/",
           "publishedOn": "2022-01-13T11:30:00.000Z",
-          "wordCount": 5055,
+          "wordCount": 5053,
           "title": "Building A Web Code Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7db33e0-a76e-4f4f-959f-be0f8898784f/building-web-code-editor.jpg",
@@ -380,7 +394,7 @@
           "description": "Accessibility must be a permanent program within organizations, much like security. In this article, Kate Kalcevich shares tips on which skills and questions to keep in mind when hiring for digital accessibility roles.",
           "link": "https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/",
           "publishedOn": "2022-01-12T10:30:00.000Z",
-          "wordCount": 3856,
+          "wordCount": 3860,
           "title": "How To Hire For Digital Accessibility Roles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/99b1af95-05d8-48ce-9086-171a59ba27f0/how-hire-digital-accessibility-roles.jpg",
@@ -394,7 +408,7 @@
           "description": "In this article, we’ll be taking a closer look at two gradients: `conic-gradient` and `radial-gradient`. You’ll see how each one of them works in detail, what the differences and similarities are between them, how and where to use them, and some use cases for each.",
           "link": "https://smashingmagazine.com/2022/01/css-radial-conic-gradient/",
           "publishedOn": "2022-01-10T12:30:00.000Z",
-          "wordCount": 2309,
+          "wordCount": 2307,
           "title": "A Deep CSS Dive Into Radial And Conic Gradients",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8b1eea9e-877a-4da7-b531-537a97a44613/css-radial-conic-gradient.jpg",
@@ -408,7 +422,7 @@
           "description": "Product roadmaps are often treated as a series of checkboxes. But they are more than that. In this article, Scott Himmer explains how internal partnerships, research, design systems, and regular touch bases can help make sure that your product roadmap is a successful one.",
           "link": "https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/",
           "publishedOn": "2022-01-07T16:00:00.000Z",
-          "wordCount": 4004,
+          "wordCount": 4002,
           "title": "Changing A Tire On A Moving Car (Or How To Improve Product Roadmaps)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/31db8ed2-e433-46b6-9b8e-ab622b10fce0/changing-tire-on-moving-car.jpg",
@@ -422,7 +436,7 @@
           "description": "In this article (the first part in a series of two), Luis Ouriach shares advice that he wishes he has when starting out in his career. These tips come from his experience as a user interface and product designer for close to ten years, and if you’re starting just now, then read on!",
           "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/",
           "publishedOn": "2022-01-05T13:00:00.000Z",
-          "wordCount": 4067,
+          "wordCount": 4068,
           "title": "Ten Tips For Aspiring Designer Beginners (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/954de2dd-e9df-43de-9b9a-bb24c1f8cf0b/tips-aspiring-designer-beginners-part1.jpg",
@@ -437,6 +451,78 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61f66e8bf2ed6b06db5a880a",
+          "author": "Sampurna Chapagain",
+          "description": "If you are a Google Chrome user, you've probably used some extensions in the browser.  Have you ever wondered how to build one yourself? In this article, I will show you how you can create a Chrome extension from scratch. Table Of Contents  * What is a Chrome",
+          "link": "https://www.freecodecamp.org/news/building-chrome-extension/",
+          "publishedOn": "2022-02-03T19:42:43.000Z",
+          "wordCount": 1225,
+          "title": "How to Create Your Own Google Chrome Extension"
+        },
+        {
+          "id": "61fc2478f2ed6b06db5ac159",
+          "author": "Beau Carnes",
+          "description": "You are just about to learn about 20 great examples of code from 20 insanely talented developers. Js13kGames is a JavaScript coding competition open to everyone and anyone wanting to try out Game Development. The 2021 winners have been announced, and you can play the games for free. As the",
+          "link": "https://www.freecodecamp.org/news/20-award-winning-javascript-games-js13kgames-2021-winners/",
+          "publishedOn": "2022-02-03T19:01:19.000Z",
+          "wordCount": 550,
+          "title": "20 Award-Winning JavaScript Games – js13kGames 2021 Winners"
+        },
+        {
+          "id": "61fc1f32f2ed6b06db5ac129",
+          "author": "Beau Carnes",
+          "description": "Unreal Engine is one of the most popular game engines in use today. It can be helpful to learn if you are interested in 3D or 2D game development. We just published an Unreal Engine 5 crash course on the freeCodeCamp.org YouTube channel. Varnos Games created this course. You will",
+          "link": "https://www.freecodecamp.org/news/unreal-engine-5-crash-course-with-blueprint/",
+          "publishedOn": "2022-02-03T18:38:19.000Z",
+          "wordCount": 18347,
+          "title": "Unreal Engine 5 Crash Course with Blueprint"
+        },
+        {
+          "id": "61f19aaff2ed6b06db5a5c9f",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In this tutorial, we will go over commonly used HTML tags, elements, and attributes. We'll also see examples of how these tags, elements, and attributes work. You can use this article as a reference guide whether you're a beginner or experienced developer. What Makes Up an HTML Document? The following",
+          "link": "https://www.freecodecamp.org/news/html-cheat-sheet-html-elements-list-reference/",
+          "publishedOn": "2022-02-03T17:00:24.000Z",
+          "wordCount": 1675,
+          "title": "HTML Cheat Sheet – HTML Elements List Reference"
+        },
+        {
+          "id": "61fbafd8f2ed6b06db5abd39",
+          "author": "Kolade Chris",
+          "description": "If you're working on a web development project, setting a nice background color can give the website a more enticing look. To set a background color for a div or related element in CSS, you use the  background-color property. While setting this background color, your creativity is your limit",
+          "link": "https://www.freecodecamp.org/news/div-background-color-how-to-change-background-color-in-css/",
+          "publishedOn": "2022-02-03T16:50:46.000Z",
+          "wordCount": 1028,
+          "title": "Div Background Color – How to Change Background Color in CSS"
+        },
+        {
+          "id": "61ebc3d6011f893303470420",
+          "author": "Jean-Marc Möckel",
+          "description": "Two years ago, I started to learn and use React. And today I'm still using it at my day job as a Software Developer and in my own side projects. During that time I've come across a lot of \"typical\" issues. So I searched around and found some best practices",
+          "link": "https://www.freecodecamp.org/news/best-practices-for-react/",
+          "publishedOn": "2022-02-03T16:41:47.000Z",
+          "wordCount": 8187,
+          "title": "React Best Practices – Tips for Writing Better React Code in 2022"
+        },
+        {
+          "id": "61fa3eb0f2ed6b06db5aac87",
+          "author": "Kolade Chris",
+          "description": "You use the HTML <label> tag to caption form controls. <label> is an inline element – meaning it doesn't take up an entire line unless you put a break tag before it. By definition, form controls refer to the elements inside a form element. Examples of form controls include <input",
+          "link": "https://www.freecodecamp.org/news/html-label-label-tag-example/",
+          "publishedOn": "2022-02-03T16:37:47.000Z",
+          "wordCount": 709,
+          "title": "HTML Label – Label Tag Example"
+        },
+        {
+          "id": "61fa254ff2ed6b06db5aab3f",
+          "author": "Njoku Samson Ebere",
+          "description": "If you are just starting out in tech but do not know which path to take, then this article is for you. If you've started learning, but you're still confused on which programming language or tools to choose, don't worry – we'll discuss that here. And if you've ever wondered",
+          "link": "https://www.freecodecamp.org/news/how-to-get-started-in-tech/",
+          "publishedOn": "2022-02-03T16:31:30.000Z",
+          "wordCount": 2104,
+          "title": "How to Get Started in Tech"
+        },
         {
           "id": "61fad67af2ed6b06db5ab66f",
           "author": "Beau Carnes",
@@ -454,78 +540,6 @@
           "publishedOn": "2022-02-02T17:05:13.000Z",
           "wordCount": 2308,
           "title": "How to Choose a CMS – WordPress vs Ghost vs Shopify"
-        },
-        {
-          "id": "61f62beff2ed6b06db5a854b",
-          "author": "Ashutosh Krishna",
-          "description": "Python is a fantastic programming language that allows you to use both functional and object-oriented programming paradigms.  Python programmers should be able to use fundamental object-oriented programming concepts, whether they are software developers, machine learning engineers, or something else.  All four core aspects of a generic OOP framework",
-          "link": "https://www.freecodecamp.org/news/object-oriented-programming-in-python/",
-          "publishedOn": "2022-02-02T15:24:30.000Z",
-          "wordCount": 2289,
-          "title": "Object-Oriented Programming in Python"
-        },
-        {
-          "id": "61f8b7e5f2ed6b06db5a9eed",
-          "author": "Zach Snoek",
-          "description": "You may have come across or written code similar to this when writing JavaScript: function sayWord(word) { \treturn () => console.log(word); } const sayHello = sayWord(\"hello\"); sayHello(); // \"hello\" This code is interesting for a couple of reasons. First, we can access word in the function returned from sayWord. Second,",
-          "link": "https://www.freecodecamp.org/news/scope-and-closures-in-javascript/",
-          "publishedOn": "2022-02-01T23:52:27.000Z",
-          "wordCount": 1695,
-          "title": "Scope and Closures in JavaScript – Explained with Examples"
-        },
-        {
-          "id": "61f9b031f2ed6b06db5aaa4e",
-          "author": "Beau Carnes",
-          "description": "Creating a serverless API can often be a better choice than coding a backend in Node.js, Laravel, Spring Boot, or some other backend framework. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code and deploy a serverless API using Go and AWS.",
-          "link": "https://www.freecodecamp.org/news/code-and-deploy-a-serverless-api-using-go-and-aws/",
-          "publishedOn": "2022-02-01T22:24:50.000Z",
-          "wordCount": 12911,
-          "title": "Code and Deploy a Serverless API Using Go and AWS"
-        },
-        {
-          "id": "61f556d0f2ed6b06db5a7f43",
-          "author": "Logan Kilpatrick",
-          "description": "Julia is a high-level, dynamic, and open-source programming language. It's designed to be as easy to use as Python while remaining as performant as C or C++.  Many early use cases for Julia were in the scientific domains where massive computational processing was and still is required. But as",
-          "link": "https://www.freecodecamp.org/news/how-to-build-web-apps-in-julia/",
-          "publishedOn": "2022-02-01T21:33:45.000Z",
-          "wordCount": 3280,
-          "title": "How to Build Your First Web App in Julia with Genie.jl 🧞‍♂️"
-        },
-        {
-          "id": "61f920a8f2ed6b06db5aa13a",
-          "author": "Kolade Chris",
-          "description": "If you're making websites with HTML and CSS, you will be working with images a lot. Developers often struggle with image alignment in CSS, especially when trying to figure out how to center an image. Centering anything in CSS is not really a straightforward thing - especially for beginners. This",
-          "link": "https://www.freecodecamp.org/news/html-center-image-css-align-img-center-example/",
-          "publishedOn": "2022-02-01T21:16:57.000Z",
-          "wordCount": 862,
-          "title": "HTML Center Image – CSS Align Img Center Example"
-        },
-        {
-          "id": "61f68d36f2ed6b06db5a8963",
-          "author": "Nishant Kumar",
-          "description": "Next.js is a server-side rendering framework based on React, which is search engine optimized. So, let's build an Evernote clone using Next.js to learn how it works. We will use the following tech stack:  1. Next.js for the UI  2. Firebase for the database and for hosting our",
-          "link": "https://www.freecodecamp.org/news/nextjs-firebase-tutorial-build-an-evernote-clone/",
-          "publishedOn": "2022-02-01T18:30:40.000Z",
-          "wordCount": 4527,
-          "title": "Next.js and Firebase Tutorial – How to Build an Evernote Clone"
-        },
-        {
-          "id": "61ef7522f2ed6b06db5a420b",
-          "author": "Rishit Dagli",
-          "description": "Graph Neural Networks are getting more and more popular and are being used extensively in a wide variety of projects.  In this article, I help you get started and understand how graph neural networks work while also trying to address the question \"why\" at each stage.  Finally we",
-          "link": "https://www.freecodecamp.org/news/graph-neural-networks-explained-with-examples/",
-          "publishedOn": "2022-02-01T16:50:35.000Z",
-          "wordCount": 3885,
-          "title": "What Are Graph Neural Networks? How GNNs Work, Explained with Examples"
-        },
-        {
-          "id": "61990e8b11d3cb08287a9bf9",
-          "author": "Shahan Chowdhury",
-          "description": "In this article, you'll learn how to build a racing game in Python using the Turtle library in just 39 lines of code.  Here's what we're going to create: Turtle Racing Game Project Overview🧵 Prerequisites Very basic knowledge of Python programming will be enough to go through this tutorial.",
-          "link": "https://www.freecodecamp.org/news/how-to-make-racing-game-using-python/",
-          "publishedOn": "2022-02-01T15:49:24.000Z",
-          "wordCount": 1916,
-          "title": "Python Game Development – How to Make a Turtle Racing Game with PyCharm"
         }
       ]
     }
