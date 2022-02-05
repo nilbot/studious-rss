@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-04T00:02:39.159Z</id>
+    <id>urn:2022-02-05T00:02:52.649Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-04T00:02:39.159Z</updated>
+    <updated>2022-02-05T00:02:52.649Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Own Heroku with Dokku]]></title>
+        <id>61f8eea6f2ed6b06db5a9fd6</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-your-on-heroku-with-dokku/"/>
+        <updated>2022-02-04T19:01:06.000Z</updated>
+        <summary type="html"><![CDATA[Heroku is a well-known PaaS widely used by developers. And as a fun and useful project, you can easily make your own Heroku-like PaaS with Dokku. What is Heroku? Heroku is a platform as a service (PaaS) company founded in 2007. The platform runs on AWS, and its ephemeral storage]]></summary>
+        <author>
+            <name>Nuno Bispo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java Array – How to Declare and Initialize an Array in Java Example]]></title>
+        <id>61fc2f52f2ed6b06db5ac1b7</id>
+        <link href="https://www.freecodecamp.org/news/java-array-how-to-declare-and-initialize-an-array-in-java-example/"/>
+        <updated>2022-02-04T16:42:44.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will talk about arrays in Java. We will go over some examples to help you understand what an array is, how to declare them, and how to use them in your Java code. What is an array? In Java, you use an array to store multiple]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Deep Introduction to WordPress Block Themes]]></title>
+        <id>https://css-tricks.com/?p=362799</id>
+        <link href="https://css-tricks.com/a-deep-introduction-to-wordpress-block-themes/"/>
+        <updated>2022-02-04T15:07:04.000Z</updated>
+        <summary type="html"><![CDATA[The relatively new WordPress editor, also known as the WordPress Block Editor, always under development via the Gutenberg plugin, has been with us since 2018. You can use the block editor on any WordPress theme, provided the theme …
+A Deep Introduction to WordPress Block Themes originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Ganesh Dahal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Web Frameworks Solve: The Vanilla Alternative (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/</id>
+        <link href="https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/"/>
+        <updated>2022-02-04T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this second part, Noam suggests a few patterns of how to use the web platform directly as an alternative to some of the solutions that are offered by frameworks.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Noam Rosenthal)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building a newbie-friendly codebase]]></title>
         <id>https://css-tricks.com/?p=362884</id>
@@ -130,26 +171,6 @@ The Making of Atomic CSS: An Interview With Thierry Koblentz originally publishe
 Building a Scrollable and Draggable Timeline with GSAP originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use User Research to Create the Perfect UI Design]]></title>
-        <id>61fad67af2ed6b06db5ab66f</id>
-        <link href="https://www.freecodecamp.org/news/use-user-reseach-to-create-the-perfect-ui-design/"/>
-        <updated>2022-02-02T19:17:05.000Z</updated>
-        <summary type="html"><![CDATA[If you want to design your app in the best way possible, it is important to really understand the needs of your users. This can be done through user research. We just published a UI / UX design course on the freeCodeCamp.org YouTube channel that will teach you how to]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Choose a CMS – WordPress vs Ghost vs Shopify]]></title>
-        <id>61f8480bf2ed6b06db5a9d2b</id>
-        <link href="https://www.freecodecamp.org/news/chose-a-cms-wordpress-vs-shopify-vs-ghost/"/>
-        <updated>2022-02-02T17:05:13.000Z</updated>
-        <summary type="html"><![CDATA[WordPress, Shopify, and Ghost are some of the most powerful and popular CMS platforms out there. And you might wonder why so many people use them. Well, it's because they're easy to use, cost-effective, and highly efficient. With WordPress, Shopify, and Ghost, you can create a website from scratch in]]></summary>
-        <author>
-            <name>Edan Ben-Atar</name>
         </author>
     </entry>
     <entry>
@@ -327,17 +348,6 @@ How to Cycle Through Classes on an HTML Element originally published on CSS-Tric
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fancy CSS Borders Using Masks]]></title>
-        <id>https://css-tricks.com/?p=362018</id>
-        <link href="https://css-tricks.com/css-borders-using-masks/"/>
-        <updated>2022-01-26T14:26:49.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever tried to make CSS borders in a repeating zig-zag pattern? Like where a colored section of a website ends and another differently colored section begins — not with a straight line, but angled zig zags, rounded humps, …
-Fancy CSS Borders Using Masks originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Don’t Underestimate The Software Administration UX]]></title>
         <id>https://smashingmagazine.com/2022/01/software-administration-ux/</id>
         <link href="https://smashingmagazine.com/2022/01/software-administration-ux/"/>
@@ -479,16 +489,6 @@ Thank you: @sokomin, @molakirlee, @philippnagel, @tianheg]]></summary>
         <summary type="html"><![CDATA[Product roadmaps are often treated as a series of checkboxes. But they are more than that. In this article, Scott Himmer explains how internal partnerships, research, design systems, and regular touch bases can help make sure that your product roadmap is a successful one.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Scott Himmer)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ten Tips For Aspiring Designer Beginners (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/</id>
-        <link href="https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/"/>
-        <updated>2022-01-05T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article (the first part in a series of two), Luis Ouriach shares advice that he wishes he has when starting out in his career. These tips come from his experience as a user interface and product designer for close to ten years, and if you’re starting just now, then read on!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Luis Ouriach)</name>
         </author>
     </entry>
 </feed>
