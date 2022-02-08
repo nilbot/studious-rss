@@ -1,10 +1,115 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-07T00:02:53.374Z</id>
+    <id>urn:2022-02-08T00:02:41.972Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-07T00:02:53.374Z</updated>
+    <updated>2022-02-08T00:02:41.972Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Using Different Color Spaces for Non-Boring Gradients]]></title>
+        <id>https://css-tricks.com/?p=363102</id>
+        <link href="https://css-tricks.com/color-spaces-for-more-interesting-css-gradients/"/>
+        <updated>2022-02-07T21:46:18.000Z</updated>
+        <summary type="html"><![CDATA[A little gradient generator tool from Tom Quinonero. You’d think fading one color to another would be an obvious, simple, solved problem — it’s actually anything but!
+Tom’s generator does two things that help make a gradient better:
+You 
+…
+Using Different Color Spaces for Non-Boring Gradients originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Level Up Your Developer Portfolio]]></title>
+        <id>61fefcc0f2ed6b06db5ad6a9</id>
+        <link href="https://www.freecodecamp.org/news/level-up-developer-portfolio/"/>
+        <updated>2022-02-07T18:38:59.000Z</updated>
+        <summary type="html"><![CDATA[It's not a big secret that building a developer portfolio can greatly increase your chances of getting hired. Everyone tells you that. But, they don't always tell you what makes a good one. You see, many portfolios are generic and rather uninspiring. If your portfolio looks just like everyone else's,]]></summary>
+        <author>
+            <name>Peter Lynch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Optional Chaining in JavaScript]]></title>
+        <id>61e5b6f7b837d507ba0a4acb</id>
+        <link href="https://www.freecodecamp.org/news/javascript-optional-chaining/"/>
+        <updated>2022-02-07T17:13:35.000Z</updated>
+        <summary type="html"><![CDATA[Optional chaining is a safe and concise way to perform access checks for nested object properties. The optional chaining operator ?. takes the reference to its left and checks if it is undefined or null. If the reference is either of these nullish values, the checks will stop and return]]></summary>
+        <author>
+            <name>Natalie Pina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Parse JSON – How to Read a JSON File]]></title>
+        <id>61d5437fd2d9de084285c32d</id>
+        <link href="https://www.freecodecamp.org/news/python-parse-json-how-to-read-a-json-file/"/>
+        <updated>2022-02-07T17:03:18.000Z</updated>
+        <summary type="html"><![CDATA[JSON (JavaScript Object Notation) is a popular way to structure data. It's used to exchange information between a web application and the server. But how do you read a JSON file in Python? In this article, I will show you how to use the json.loads() and json.load()  methods to]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Button Style – Hover, Color, and Background]]></title>
+        <id>61fd30e8f2ed6b06db5ac7af</id>
+        <link href="https://www.freecodecamp.org/news/css-button-style-hover-color-and-background/"/>
+        <updated>2022-02-07T15:56:18.000Z</updated>
+        <summary type="html"><![CDATA[In this article you'll see how to style a button using CSS. My goal here is mostly to showcase how different CSS rules and styles are applied and used. We won't see much design inspiration nor will we discuss ideas for styling. Instead, this will be more of an overview]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Scroll Snap Slide Deck That Supports Live Coding]]></title>
+        <id>https://css-tricks.com/?p=362616</id>
+        <link href="https://css-tricks.com/css-scroll-snap-slide-deck/"/>
+        <updated>2022-02-07T15:24:44.000Z</updated>
+        <summary type="html"><![CDATA[Virtual conferences have changed the game in terms of how a presenter is able to deliver content to an audience. At a live event it’s likely you just have your laptop, but at home, you may have multiple monitors so …
+CSS Scroll Snap Slide Deck That Supports Live Coding originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Stephanie Eckles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For Loop in Java + forEach Loop Syntax Example]]></title>
+        <id>61fd07ebf2ed6b06db5ac708</id>
+        <link href="https://www.freecodecamp.org/news/for-loop-in-java-foreach-loop-syntax-example/"/>
+        <updated>2022-02-07T15:08:46.000Z</updated>
+        <summary type="html"><![CDATA[A loop in programming is a sequence of instructions that run continuously until a certain condition is met. In this article, we will learn about the for and forEach loops in Java. Syntax for a for loop in Java Here is the syntax for creating a for loop: for (initialization;]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use CSS Overview in Chrome Dev Tools]]></title>
+        <id>61e498cab837d507ba0a458a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-css-overview-in-chrome-developer-tools/"/>
+        <updated>2022-02-07T14:52:34.000Z</updated>
+        <summary type="html"><![CDATA[If you're a web developer, you probably appreciate a well-designed and attractive website.  And you might see a color scheme or font on a specific website that you want to incorporate into your blog or web app. But you'll need a browser extension to see the website's color scheme]]></summary>
+        <author>
+            <name>CESS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Can Money Heist Teach Us About Cybersecurity?]]></title>
+        <id>61e07a60b837d507ba0a2136</id>
+        <link href="https://www.freecodecamp.org/news/cybersecurity-lessons-from-money-heist-show/"/>
+        <updated>2022-02-07T14:49:47.000Z</updated>
+        <summary type="html"><![CDATA[I was watching the TV series, La Casa De Papel (Money Heist), on Netflix a few weeks ago. I realized that the story of the gang can reveal some best practices we should use while dealing with the security of the products we build. Beware – this text contains spoilers.]]></summary>
+        <author>
+            <name>Periklis Gkolias</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using QR Codes In Your Business: Best Practices And Pitfalls]]></title>
+        <id>https://smashingmagazine.com/2022/02/qr-codes-business-best-practices-pitfalls/</id>
+        <link href="https://smashingmagazine.com/2022/02/qr-codes-business-best-practices-pitfalls/"/>
+        <updated>2022-02-07T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While QR codes have many uses and can be leveraged at many touch points, they are just one of dozens of technologies that can improve the customer’s journey. Stanislav Khrustalev shares his advice with a list of things to keep in mind when using QR codes for your business.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stanislav Khrustalev)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build Your Own Heroku with Dokku]]></title>
         <id>61f8eea6f2ed6b06db5a9fd6</id>
@@ -69,76 +174,6 @@ Building a newbie-friendly codebase originally published on CSS-Tricks. You shou
         <summary type="html"><![CDATA[If you are a Google Chrome user, you've probably used some extensions in the browser.  Have you ever wondered how to build one yourself? In this article, I will show you how you can create a Chrome extension from scratch. Table Of Contents  * What is a Chrome]]></summary>
         <author>
             <name>Sampurna Chapagain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20 Award-Winning JavaScript Games – js13kGames 2021 Winners]]></title>
-        <id>61fc2478f2ed6b06db5ac159</id>
-        <link href="https://www.freecodecamp.org/news/20-award-winning-javascript-games-js13kgames-2021-winners/"/>
-        <updated>2022-02-03T19:01:19.000Z</updated>
-        <summary type="html"><![CDATA[You are just about to learn about 20 great examples of code from 20 insanely talented developers. Js13kGames is a JavaScript coding competition open to everyone and anyone wanting to try out Game Development. The 2021 winners have been announced, and you can play the games for free. As the]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unreal Engine 5 Crash Course with Blueprint]]></title>
-        <id>61fc1f32f2ed6b06db5ac129</id>
-        <link href="https://www.freecodecamp.org/news/unreal-engine-5-crash-course-with-blueprint/"/>
-        <updated>2022-02-03T18:38:19.000Z</updated>
-        <summary type="html"><![CDATA[Unreal Engine is one of the most popular game engines in use today. It can be helpful to learn if you are interested in 3D or 2D game development. We just published an Unreal Engine 5 crash course on the freeCodeCamp.org YouTube channel. Varnos Games created this course. You will]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Cheat Sheet – HTML Elements List Reference]]></title>
-        <id>61f19aaff2ed6b06db5a5c9f</id>
-        <link href="https://www.freecodecamp.org/news/html-cheat-sheet-html-elements-list-reference/"/>
-        <updated>2022-02-03T17:00:24.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we will go over commonly used HTML tags, elements, and attributes. We'll also see examples of how these tags, elements, and attributes work. You can use this article as a reference guide whether you're a beginner or experienced developer. What Makes Up an HTML Document? The following]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Div Background Color – How to Change Background Color in CSS]]></title>
-        <id>61fbafd8f2ed6b06db5abd39</id>
-        <link href="https://www.freecodecamp.org/news/div-background-color-how-to-change-background-color-in-css/"/>
-        <updated>2022-02-03T16:50:46.000Z</updated>
-        <summary type="html"><![CDATA[If you're working on a web development project, setting a nice background color can give the website a more enticing look. To set a background color for a div or related element in CSS, you use the  background-color property. While setting this background color, your creativity is your limit]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Best Practices – Tips for Writing Better React Code in 2022]]></title>
-        <id>61ebc3d6011f893303470420</id>
-        <link href="https://www.freecodecamp.org/news/best-practices-for-react/"/>
-        <updated>2022-02-03T16:41:47.000Z</updated>
-        <summary type="html"><![CDATA[Two years ago, I started to learn and use React. And today I'm still using it at my day job as a Software Developer and in my own side projects. During that time I've come across a lot of "typical" issues. So I searched around and found some best practices]]></summary>
-        <author>
-            <name>Jean-Marc Möckel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Label – Label Tag Example]]></title>
-        <id>61fa3eb0f2ed6b06db5aac87</id>
-        <link href="https://www.freecodecamp.org/news/html-label-label-tag-example/"/>
-        <updated>2022-02-03T16:37:47.000Z</updated>
-        <summary type="html"><![CDATA[You use the HTML <label> tag to caption form controls. <label> is an inline element – meaning it doesn't take up an entire line unless you put a break tag before it. By definition, form controls refer to the elements inside a form element. Examples of form controls include <input]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Started in Tech]]></title>
-        <id>61fa254ff2ed6b06db5aab3f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-started-in-tech/"/>
-        <updated>2022-02-03T16:31:30.000Z</updated>
-        <summary type="html"><![CDATA[If you are just starting out in tech but do not know which path to take, then this article is for you. If you've started learning, but you're still confused on which programming language or tools to choose, don't worry – we'll discuss that here. And if you've ever wondered]]></summary>
-        <author>
-            <name>Njoku Samson Ebere</name>
         </author>
     </entry>
     <entry>
@@ -320,31 +355,6 @@ Git: Switching Unstaged Changes to a New Branch originally published on CSS-Tric
 Demystifying TypeScript Discriminated Unions originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Adam Rackis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build, Ship, & Maintain Design Systems with Backlight]]></title>
-        <id>https://css-tricks.com/?p=361971</id>
-        <link href="https://css-tricks.com/design-systems-with-backlight/"/>
-        <updated>2022-01-27T15:18:25.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-Design systems are an entire job these days. Agencies are hired to create them. In-house teams are formed to handle them, shipping them so that other teams can use them and helping ensure they …
-Build, Ship, & Maintain Design Systems with Backlight originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Cycle Through Classes on an HTML Element]]></title>
-        <id>https://css-tricks.com/?p=361200</id>
-        <link href="https://css-tricks.com/cycle-through-classes-html-element/"/>
-        <updated>2022-01-26T19:48:49.000Z</updated>
-        <summary type="html"><![CDATA[Say you have three HTML classes, and a DOM element should only have one of them at a time:
-<div class="state-1"</div<div class="state-2"</div<div class="state-3"</div
-Now your job is to rotate them. That is, cycle through classes …
-How to Cycle Through Classes on an HTML Element originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
