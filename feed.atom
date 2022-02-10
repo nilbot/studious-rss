@@ -1,10 +1,112 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-09T00:03:01.694Z</id>
+    <id>urn:2022-02-10T00:02:42.828Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-09T00:03:01.694Z</updated>
+    <updated>2022-02-10T00:02:42.828Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SVGcode for “Live Tracing” Raster Images]]></title>
+        <id>https://css-tricks.com/?p=362777</id>
+        <link href="https://css-tricks.com/svgcode-raster-to-vector/"/>
+        <updated>2022-02-09T21:39:41.000Z</updated>
+        <summary type="html"><![CDATA[Say you have a bitmap graphic — like a JPG, PNG, or GIF — and you wish it was vector, like SVG. What do you do? You could trace it yourself in some kind of design software. Or tools within …
+SVGcode for “Live Tracing” Raster Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artificial Intelligence From Its Early Development to the Present Day]]></title>
+        <id>6202d8fe56125b0677c62f23</id>
+        <link href="https://www.freecodecamp.org/news/artificial-intelligence-from-its-early-development-to-the-present-day/"/>
+        <updated>2022-02-09T20:29:11.000Z</updated>
+        <summary type="html"><![CDATA[Before we get started, I'll just say this: don't leave this article without at least reading the final two paragraphs. I won't spoil it for you. But trust me, you won't want to miss it! The history of artificial intelligence can be traced back to early philosophical and scientific thinking]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Dynamic Forms in React]]></title>
+        <id>61ffb402f2ed6b06db5ae0f7</id>
+        <link href="https://www.freecodecamp.org/news/build-dynamic-forms-in-react/"/>
+        <updated>2022-02-09T18:08:52.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, let's learn how to build dynamic forms in React. Using dynamic forms, we can add fields or remove them depending on our needs.  So, let's get started. How to Create a Form in React Let's create a simple form first. The syntax is straightforward: import './App.css';]]></summary>
+        <author>
+            <name>Nishant Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Logging Web App with Server-Sent Events, RxJS, and Express]]></title>
+        <id>62012010f2ed6b06db5aeee0</id>
+        <link href="https://www.freecodecamp.org/news/build-a-logging-web-app-with-server-sent-events-rxjs-and-express/"/>
+        <updated>2022-02-09T18:06:54.000Z</updated>
+        <summary type="html"><![CDATA[Say you're working on your new great idea – a web or mobile app, and a back end server. Nothing too complicated so far. Until you realize that you need to stream data from your server to these clients.  Usually, when working on this, the first thing that comes]]></summary>
+        <author>
+            <name>Shayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Snake Game with React, Redux, and Redux Saga]]></title>
+        <id>61ff69c0f2ed6b06db5adbae</id>
+        <link href="https://www.freecodecamp.org/news/build-a-snake-game-with-react-redux-and-redux-sagas/"/>
+        <updated>2022-02-09T18:03:35.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I am going to walk you through creating a snake game using a React application. It is a simple 2d game built using TypeScript, and we won't need to use any third-party graphics libraries to build it.  This is what we'll make in this tutorial: Snake]]></summary>
+        <author>
+            <name>Keyur Paralkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Developer Career Questions Answered]]></title>
+        <id>61bb6e3e07222107a6c7ae69</id>
+        <link href="https://www.freecodecamp.org/news/your-developer-career-questions-answered/"/>
+        <updated>2022-02-09T16:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Will AI ever replace developers? Which programming language should you learn first? What's the best way to learn programming? Learn the answers to these questions and more from a group of experienced developers and technical course creators. We just published a video on the freeCodeCamp.org YouTube channel where experienced developers]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make CSS Slanted Containers]]></title>
+        <id>https://css-tricks.com/?p=362940</id>
+        <link href="https://css-tricks.com/css-slanted-containers/"/>
+        <updated>2022-02-09T15:19:47.000Z</updated>
+        <summary type="html"><![CDATA[I was updating my portfolio and wanted to use the forward slash (/) as a visual element for the site’s main layout. I hadn’t attempted to create a slanted container in CSS before, but it seemed like it …
+How to Make CSS Slanted Containers originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Dave Seidman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fitts’ Law In The Touch Era]]></title>
+        <id>https://smashingmagazine.com/2022/02/fitts-law-touch-era/</id>
+        <link href="https://smashingmagazine.com/2022/02/fitts-law-touch-era/"/>
+        <updated>2022-02-09T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Steven Hoober shines the spotlight on Fitts’ Law and explains why we should always ask questions and consider what particular guidelines and lessons mean to our users and our products.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Steven Hoober)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Import JavaScript and CSS from a Public CDN]]></title>
+        <id>61f804bbf2ed6b06db5a95a9</id>
+        <link href="https://www.freecodecamp.org/news/import-javascript-and-css-from-a-public-cdn/"/>
+        <updated>2022-02-09T00:38:48.000Z</updated>
+        <summary type="html"><![CDATA[When you're writing a Vanilla JavaScript application, you don't have to host all the code you use on your own site. Most popular JavaScript libraries are available from a public Content Delivery Network (CDN). This can simplify deploying the application and keeping dependencies up to date. In fact, if you've]]></summary>
+        <author>
+            <name>Alan Richardson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Replace – How to Use the String.prototype.replace() Method JS Example]]></title>
+        <id>62026d96f2ed6b06db5af947</id>
+        <link href="https://www.freecodecamp.org/news/javascript-replace-how-to-use-the-string-prototype-replace-method-js-example/"/>
+        <updated>2022-02-08T21:26:21.000Z</updated>
+        <summary type="html"><![CDATA[The String.prototype.replace() method searches for the first occurrence of a string and replaces it with the specified string. It does this without mutating the original string. This method works for regular expressions, too, so the item you're searching for may be expressed as a regular expression. The value to return]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[No Motion Isn’t Always prefers-reduced-motion]]></title>
         <id>https://css-tricks.com/?p=363057</id>
@@ -55,46 +157,6 @@ No Motion Isn’t Always prefers-reduced-motion originally published on CSS-Tric
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ROW_NUMBER in SQL – Select Top Example in SQL and SQL Server]]></title>
-        <id>620002cff2ed6b06db5ae51b</id>
-        <link href="https://www.freecodecamp.org/news/row_number-in-sql-select-top-example-in-sql-and-sql-server2/"/>
-        <updated>2022-02-08T19:14:49.000Z</updated>
-        <summary type="html"><![CDATA[SQL, or structured query language, lets us gather data from a database through queries. It also enables us to insert, update, and delete that data.  In this blog post, we will focus on how to fetch data and limit the results using SQL.  Why should you limit SQL]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java Operator – &amp;, &amp;&amp; (AND) || (OR) Logical Operators]]></title>
-        <id>6200d9eff2ed6b06db5ae8b2</id>
-        <link href="https://www.freecodecamp.org/news/java-operator-and-or-logical-operators/"/>
-        <updated>2022-02-08T18:38:13.000Z</updated>
-        <summary type="html"><![CDATA[We use operators in most programming languages to perform operations on variables.  They are divided into various categories like arithmetic operators, assignment operators, comparison operators, logical operators, and so on.  In this article, we will be talking about the bitwise AND operator, and the AND  (&&) and]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Video – How to Embed a Video Player with the HTML 5 Video Tag]]></title>
-        <id>6200fe06f2ed6b06db5aeafe</id>
-        <link href="https://www.freecodecamp.org/news/html-video-how-to-embed-a-video-player-with-the-html-5-video-tag/"/>
-        <updated>2022-02-08T16:59:19.000Z</updated>
-        <summary type="html"><![CDATA[Before the advent of HTML 5, web developers had to embed video on a web page with a plugin like Adobe flash player. Today, you can easily embed videos in an HTML document with the <video> tag. In this article, we'll see how the <video> tag works in HTML. Table]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the Rich Library with Python]]></title>
-        <id>61ff5115f2ed6b06db5adab7</id>
-        <link href="https://www.freecodecamp.org/news/use-the-rich-library-in-python/"/>
-        <updated>2022-02-08T16:15:49.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll learn about a powerful library for Python called Rich [https://rich.readthedocs.io/en/stable/introduction.html]. Rich is a Python library for writing rich text (with color and style) to the terminal. It lets you display advanced content such as tables, markdown, and syntax-highlighted code. So, why is this useful? Well, if]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Replace JavaScript Dialogs With the New HTML Dialog Element]]></title>
         <id>https://css-tricks.com/?p=362672</id>
         <link href="https://css-tricks.com/replace-javascript-dialogs-html-dialog-element/"/>
@@ -130,16 +192,6 @@ Netlify Has Scheduled Functions originally published on CSS-Tricks. You should g
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create and Implement a Design System with CSS]]></title>
-        <id>620192b1f2ed6b06db5af582</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-and-implement-a-design-system-with-css/"/>
-        <updated>2022-02-08T01:45:18.000Z</updated>
-        <summary type="html"><![CDATA[If you are going to build a multi-page website, it is good to create a design system to help tie everything together. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create and implement a design system with CSS. Kevin Powell created this]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using Different Color Spaces for Non-Boring Gradients]]></title>
         <id>https://css-tricks.com/?p=363102</id>
         <link href="https://css-tricks.com/color-spaces-for-more-interesting-css-gradients/"/>
@@ -151,26 +203,6 @@ You
 Using Different Color Spaces for Non-Boring Gradients originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Level Up Your Developer Portfolio]]></title>
-        <id>61fefcc0f2ed6b06db5ad6a9</id>
-        <link href="https://www.freecodecamp.org/news/level-up-developer-portfolio/"/>
-        <updated>2022-02-07T18:38:59.000Z</updated>
-        <summary type="html"><![CDATA[It's not a big secret that building a developer portfolio can greatly increase your chances of getting hired. Everyone tells you that. But, they don't always tell you what makes a good one. You see, many portfolios are generic and rather uninspiring. If your portfolio looks just like everyone else's,]]></summary>
-        <author>
-            <name>Peter Lynch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Optional Chaining in JavaScript]]></title>
-        <id>61e5b6f7b837d507ba0a4acb</id>
-        <link href="https://www.freecodecamp.org/news/javascript-optional-chaining/"/>
-        <updated>2022-02-07T17:13:35.000Z</updated>
-        <summary type="html"><![CDATA[Optional chaining is a safe and concise way to perform access checks for nested object properties. The optional chaining operator ?. takes the reference to its left and checks if it is undefined or null. If the reference is either of these nullish values, the checks will stop and return]]></summary>
-        <author>
-            <name>Natalie Pina</name>
         </author>
     </entry>
     <entry>
@@ -333,32 +365,6 @@ Metaphors We Web By originally published on CSS-Tricks. You should get the newsl
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Notes on Reverse-Scrolling Columns With CSS Scroll-Timeline]]></title>
-        <id>https://css-tricks.com/?p=362730</id>
-        <link href="https://css-tricks.com/css-scroll-timeline-reverse-motion-preference/"/>
-        <updated>2022-01-31T21:02:06.000Z</updated>
-        <summary type="html"><![CDATA[Lemme do this one quick-hits style:
-Mary Lou published a quintessentially-Codrops-y demo called Alternate Column Scroll.
-The scrolling effect is powered by Locomotive Scroll, which we’ve coincidentally covered before.
-Bramus has been exploring native CSS scrolling effects 
-…
-Notes on Reverse-Scrolling Columns With CSS Scroll-Timeline originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Relevance of TypeScript in 2022]]></title>
-        <id>https://css-tricks.com/?p=362478</id>
-        <link href="https://css-tricks.com/the-relevance-of-typescript-in-2022/"/>
-        <updated>2022-01-31T15:16:01.000Z</updated>
-        <summary type="html"><![CDATA[It’s 2022. And the current relevance of TypeScript is undisputed. TypeScript has dominated the front-end developer experience by many, many accounts. By now you likely already know that TypeScript is a superset of JavaScript, building on JavaScript by adding …
-The Relevance of TypeScript in 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Mamta Dalal</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[28 Days Of Inspiration (February 2022 Desktop Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2022/01/desktop-wallpaper-calendars-february-2022/</id>
         <link href="https://smashingmagazine.com/2022/01/desktop-wallpaper-calendars-february-2022/"/>
@@ -486,16 +492,6 @@ The Relevance of TypeScript in 2022 originally published on CSS-Tricks. You shou
         <summary type="html"><![CDATA[Accessibility must be a permanent program within organizations, much like security. In this article, Kate Kalcevich shares tips on which skills and questions to keep in mind when hiring for digital accessibility roles.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Kate Kalcevich)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Deep CSS Dive Into Radial And Conic Gradients]]></title>
-        <id>https://smashingmagazine.com/2022/01/css-radial-conic-gradient/</id>
-        <link href="https://smashingmagazine.com/2022/01/css-radial-conic-gradient/"/>
-        <updated>2022-01-10T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll be taking a closer look at two gradients: `conic-gradient` and `radial-gradient`. You’ll see how each one of them works in detail, what the differences and similarities are between them, how and where to use them, and some use cases for each.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
         </author>
     </entry>
 </feed>

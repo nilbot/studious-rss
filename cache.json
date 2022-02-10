@@ -12,12 +12,30 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=362777",
+          "author": "Chris Coyier",
+          "description": "Say you have a bitmap graphic — like a JPG, PNG, or GIF — and you wish it was vector, like SVG. What do you do? You could trace it yourself in some kind of design software. Or tools within …\nSVGcode for “Live Tracing” Raster Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/svgcode-raster-to-vector/",
+          "publishedOn": "2022-02-09T21:39:41.000Z",
+          "wordCount": 737,
+          "title": "SVGcode for “Live Tracing” Raster Images"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362940",
+          "author": "Dave Seidman",
+          "description": "I was updating my portfolio and wanted to use the forward slash (/) as a visual element for the site’s main layout. I hadn’t attempted to create a slanted container in CSS before, but it seemed like it …\nHow to Make CSS Slanted Containers originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/css-slanted-containers/",
+          "publishedOn": "2022-02-09T15:19:47.000Z",
+          "wordCount": 1242,
+          "title": "How to Make CSS Slanted Containers"
+        },
+        {
           "id": "https://css-tricks.com/?p=363057",
           "author": "Chris Coyier",
           "description": "There is a code snippet that I see all the time when the media query prefers-reduced-motion is talked about. Here it is:\n@media (prefers-reduced-motion: reduce) {\n  * {\n    animation-duration: 0.01ms !important;\n    animation-iteration-count: 1 !important;\n    transition-duration: 0.01ms !important;\n    scroll-behavior: auto !important;\n  \n…\nNo Motion Isn’t Always prefers-reduced-motion originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/nuking-motion-with-prefers-reduced-motion/",
           "publishedOn": "2022-02-08T20:55:51.000Z",
-          "wordCount": 1062,
+          "wordCount": 1189,
           "title": "No Motion Isn’t Always prefers-reduced-motion"
         },
         {
@@ -26,7 +44,7 @@
           "description": "You know how there are JavaScript dialogs for alerting, confirming, and prompting user actions? Say you want to replace JavaScript dialogs with the new HTML dialog element.\nLet me explain.\nI recently worked on a project with a lot of …\nReplace JavaScript Dialogs With the New HTML Dialog Element originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/replace-javascript-dialogs-html-dialog-element/",
           "publishedOn": "2022-02-08T15:09:40.000Z",
-          "wordCount": 3242,
+          "wordCount": 3590,
           "title": "Replace JavaScript Dialogs With the New HTML Dialog Element"
         },
         {
@@ -62,7 +80,7 @@
           "description": "The relatively new WordPress editor, also known as the WordPress Block Editor, always under development via the Gutenberg plugin, has been with us since 2018. You can use the block editor on any WordPress theme, provided the theme …\nA Deep Introduction to WordPress Block Themes originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/a-deep-introduction-to-wordpress-block-themes/",
           "publishedOn": "2022-02-04T15:07:04.000Z",
-          "wordCount": 6068,
+          "wordCount": 6124,
           "title": "A Deep Introduction to WordPress Block Themes"
         },
         {
@@ -116,7 +134,7 @@
           "description": "I have a coworker who is smart, capable, and technologically-literate. Like me, they work on the web full-time.\nWhen they are sharing their screen in a meeting, I find myself disassociating fixating on the red update button in their copy …\n“Evergreen” Does Not Mean Immediately Available originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/evergreen-does-not-mean-immediately-available/",
           "publishedOn": "2022-02-01T15:38:41.000Z",
-          "wordCount": 2589,
+          "wordCount": 2583,
           "title": "“Evergreen” Does Not Mean Immediately Available"
         },
         {
@@ -127,24 +145,6 @@
           "publishedOn": "2022-02-01T00:03:57.000Z",
           "wordCount": 692,
           "title": "Metaphors We Web By"
-        },
-        {
-          "id": "https://css-tricks.com/?p=362730",
-          "author": "Chris Coyier",
-          "description": "Lemme do this one quick-hits style:\nMary Lou published a quintessentially-Codrops-y demo called Alternate Column Scroll.\nThe scrolling effect is powered by Locomotive Scroll, which we’ve coincidentally covered before.\nBramus has been exploring native CSS scrolling effects \n…\nNotes on Reverse-Scrolling Columns With CSS Scroll-Timeline originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/css-scroll-timeline-reverse-motion-preference/",
-          "publishedOn": "2022-01-31T21:02:06.000Z",
-          "wordCount": 848,
-          "title": "Notes on Reverse-Scrolling Columns With CSS Scroll-Timeline"
-        },
-        {
-          "id": "https://css-tricks.com/?p=362478",
-          "author": "Mamta Dalal",
-          "description": "It’s 2022. And the current relevance of TypeScript is undisputed. TypeScript has dominated the front-end developer experience by many, many accounts. By now you likely already know that TypeScript is a superset of JavaScript, building on JavaScript by adding …\nThe Relevance of TypeScript in 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/the-relevance-of-typescript-in-2022/",
-          "publishedOn": "2022-01-31T15:16:01.000Z",
-          "wordCount": 2844,
-          "title": "The Relevance of TypeScript in 2022"
         }
       ]
     },
@@ -154,12 +154,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/02/fitts-law-touch-era/",
+          "author": "hello@smashingmagazine.com (Steven Hoober)",
+          "description": "In this article, Steven Hoober shines the spotlight on Fitts’ Law and explains why we should always ask questions and consider what particular guidelines and lessons mean to our users and our products.",
+          "link": "https://smashingmagazine.com/2022/02/fitts-law-touch-era/",
+          "publishedOn": "2022-02-09T12:00:00.000Z",
+          "wordCount": 3419,
+          "title": "Fitts’ Law In The Touch Era",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b558fa6-25b4-4ec2-922a-469910f989a1/fitts-law-touch-era.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2022/02/statoscope-course-intensive-therapy-bundle/",
           "author": "hello@smashingmagazine.com (Sergey Melukov)",
           "description": "Statoscope is an instrument that analyses your webpack-bundles. Created by Sergey Melukov, it started out as an experimental version in late 2016, which has now become a full-fledged toolkit for viewing, analyzing, and validating webpack-bundles.",
           "link": "https://smashingmagazine.com/2022/02/statoscope-course-intensive-therapy-bundle/",
           "publishedOn": "2022-02-08T10:00:00.000Z",
-          "wordCount": 5259,
+          "wordCount": 5256,
           "title": "Statoscope: A Course Of Intensive Therapy For Your Bundle",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8c91f031-fdf7-4b31-8a09-b7e0b0d01cc7/statoscope-course-intensive-therapy-bundle.jpg",
@@ -173,7 +187,7 @@
           "description": "While QR codes have many uses and can be leveraged at many touch points, they are just one of dozens of technologies that can improve the customer’s journey. Stanislav Khrustalev shares his advice with a list of things to keep in mind when using QR codes for your business.",
           "link": "https://smashingmagazine.com/2022/02/qr-codes-business-best-practices-pitfalls/",
           "publishedOn": "2022-02-07T14:00:00.000Z",
-          "wordCount": 2786,
+          "wordCount": 2802,
           "title": "Using QR Codes In Your Business: Best Practices And Pitfalls",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa41b6d9-f3ce-4b05-a110-21a7bc6c7595/qr-codes-business-best-practices-pitfalls.jpg",
@@ -187,7 +201,7 @@
           "description": "In this second part, Noam suggests a few patterns of how to use the web platform directly as an alternative to some of the solutions that are offered by frameworks.",
           "link": "https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/",
           "publishedOn": "2022-02-04T13:30:00.000Z",
-          "wordCount": 3777,
+          "wordCount": 3779,
           "title": "What Web Frameworks Solve: The Vanilla Alternative (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a3745837-4c65-4b2b-81ab-42e0088633d2/web-frameworks-guide-part2.jpg",
@@ -215,7 +229,7 @@
           "description": "In this article, Adrian Bece shares more about the benefits and caveats of code-splitting and how page performance and load times can be improved by dynamically loading expensive, non-critical JavaScript bundles.",
           "link": "https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/",
           "publishedOn": "2022-02-02T10:30:00.000Z",
-          "wordCount": 4506,
+          "wordCount": 4508,
           "title": "Improving JavaScript Bundle Performance With Code-Splitting",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f721011b-37a8-4c1d-a8b9-b249bf938678/javascript-bundle-performance-code-splitting.jpg",
@@ -243,7 +257,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for February 2022.",
           "link": "https://smashingmagazine.com/2022/01/desktop-wallpaper-calendars-february-2022/",
           "publishedOn": "2022-01-31T09:00:00.000Z",
-          "wordCount": 2266,
+          "wordCount": 2270,
           "title": "28 Days Of Inspiration (February 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/04d12428-d98f-4633-ad77-fed864da6842/feb-22-magic-of-music-preview-opt.png",
@@ -257,7 +271,7 @@
           "description": "In this article, Noam Rosenthal dives deep into a few technical features that are common across frameworks, and explains how some of the different frameworks implement them and what they cost.",
           "link": "https://smashingmagazine.com/2022/01/web-frameworks-guide-part1/",
           "publishedOn": "2022-01-28T14:00:00.000Z",
-          "wordCount": 2155,
+          "wordCount": 2162,
           "title": "What Web Frameworks Solve And How To Do Without Them (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7ca7294e-9325-4bab-8617-0bc3d42e3053/web-frameworks-guide.jpg",
@@ -285,7 +299,7 @@
           "description": "What’s new in Chrome, Edge, Safari and Firefox? Patrick Brosset breaks it down with the latest features in DevTools across browsers.",
           "link": "https://smashingmagazine.com/2022/01/devtools-updates-2022/",
           "publishedOn": "2022-01-25T13:00:00.000Z",
-          "wordCount": 2532,
+          "wordCount": 2517,
           "title": "What’s New In DevTools?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e516aa85-3b77-418a-9b43-cec06943b129/devtools-updates-2022.jpg",
@@ -299,7 +313,7 @@
           "description": "Cascade layers introduce the new at-rule of @layer. The intent is to help CSS authors be more intentional about ordering the “layers” of CSS rules as a new method of cascade management.",
           "link": "https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/",
           "publishedOn": "2022-01-24T11:00:00.000Z",
-          "wordCount": 4757,
+          "wordCount": 4758,
           "title": "Getting Started With CSS Cascade Layers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/13b8900c-aa53-49ae-84f7-9fbf598635e2/introduction-css-cascade-layers.jpg",
@@ -313,7 +327,7 @@
           "description": "Joining a team where there are no established design practices may feel disheartening. Does this situation resonate with you? If yes, then read on — as this article is sharing the author’s advice based on his personal experience and it will show you a way (although not easy) of facing the problem in a manner that will bring other benefits, beside order and consistency.",
           "link": "https://smashingmagazine.com/2022/01/from-chaos-to-system-design-teams/",
           "publishedOn": "2022-01-21T14:30:00.000Z",
-          "wordCount": 5318,
+          "wordCount": 5323,
           "title": "From Chaos To System In Design Teams",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a7ab411a-2903-440e-bbfa-4f7914345165/chaos-to-system-design-teams.jpg",
@@ -327,7 +341,7 @@
           "description": "In this article, Georgii Perepecho explains the most common React Query features that you need to be familiar with when creating a real-life application that is stable when testing.",
           "link": "https://smashingmagazine.com/2022/01/building-real-app-react-query/",
           "publishedOn": "2022-01-20T14:30:00.000Z",
-          "wordCount": 5250,
+          "wordCount": 5247,
           "title": "Building The Real App With React Query",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb299a88-9204-4579-bfb0-f9d8dac84014/building-real-app-react-query.jpg",
@@ -355,7 +369,7 @@
           "description": "Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies) related to different occasions and themes. We hope that with this icon set, everyone will be able to find their own use case for these icons in particular. Today, we present to you three icon sets designed by the creative folks at GraphicSurf — all free for personal and commercial use.",
           "link": "https://smashingmagazine.com/2022/01/freebie-wayfinding-icon-sets-exhibition-concert-museum/",
           "publishedOn": "2022-01-18T12:00:00.000Z",
-          "wordCount": 825,
+          "wordCount": 821,
           "title": "Freebie: Wayfinding Icon Sets (164 Icons, PNG, SVG, AI, EPS)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/27d4ee4d-0893-4ef6-b48a-435007089494/wayfinding-icon-preview.jpg",
@@ -369,7 +383,7 @@
           "description": "We’ll explore fluid typography principles, use-cases, implementation with CSS clamp() and an interactive fluid typography calculator.",
           "link": "https://smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/",
           "publishedOn": "2022-01-17T13:00:00.000Z",
-          "wordCount": 4023,
+          "wordCount": 4022,
           "title": "Modern Fluid Typography Using CSS Clamp",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f12f5a3d-f679-4b6b-b9c2-cb5a9d9166ae/modern-fluid-typography-css-clamp.jpg",
@@ -383,7 +397,7 @@
           "description": "In [Part 1](https://www.smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/), Luis Ouriach shared advice he wished he had when starting out in his career. In this second and last part of this series, Luis continues sharing tips that helped him grow and become a better designer throughout the years.",
           "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/",
           "publishedOn": "2022-01-14T15:00:00.000Z",
-          "wordCount": 3571,
+          "wordCount": 3577,
           "title": "Ten Tips For Aspiring Designer Beginners (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b0e9621-b939-439d-a812-69a4eb7d68ff/tips-aspiring-designer-beginners-part2.jpg",
@@ -397,7 +411,7 @@
           "description": "If you’re a developer who’s thinking about building a platform that requires a code editor in one form or another, then this article is for you. This article explains how to create a web code editor that displays the result in real time with the help of some HTML, CSS and JavaScript.",
           "link": "https://smashingmagazine.com/2022/01/building-web-code-editor/",
           "publishedOn": "2022-01-13T11:30:00.000Z",
-          "wordCount": 5053,
+          "wordCount": 5051,
           "title": "Building A Web Code Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7db33e0-a76e-4f4f-959f-be0f8898784f/building-web-code-editor.jpg",
@@ -411,24 +425,10 @@
           "description": "Accessibility must be a permanent program within organizations, much like security. In this article, Kate Kalcevich shares tips on which skills and questions to keep in mind when hiring for digital accessibility roles.",
           "link": "https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/",
           "publishedOn": "2022-01-12T10:30:00.000Z",
-          "wordCount": 3859,
+          "wordCount": 3856,
           "title": "How To Hire For Digital Accessibility Roles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/99b1af95-05d8-48ce-9086-171a59ba27f0/how-hire-digital-accessibility-roles.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/01/css-radial-conic-gradient/",
-          "author": "hello@smashingmagazine.com (Ahmad Shadeed)",
-          "description": "In this article, we’ll be taking a closer look at two gradients: `conic-gradient` and `radial-gradient`. You’ll see how each one of them works in detail, what the differences and similarities are between them, how and where to use them, and some use cases for each.",
-          "link": "https://smashingmagazine.com/2022/01/css-radial-conic-gradient/",
-          "publishedOn": "2022-01-10T12:30:00.000Z",
-          "wordCount": 2309,
-          "title": "A Deep CSS Dive Into Radial And Conic Gradients",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8b1eea9e-877a-4da7-b531-537a97a44613/css-radial-conic-gradient.jpg",
             "length": "0",
             "type": "image/jpg"
           }
@@ -440,6 +440,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "6202d8fe56125b0677c62f23",
+          "author": "David Clinton",
+          "description": "Before we get started, I'll just say this: don't leave this article without at least reading the final two paragraphs. I won't spoil it for you. But trust me, you won't want to miss it! The history of artificial intelligence can be traced back to early philosophical and scientific thinking",
+          "link": "https://www.freecodecamp.org/news/artificial-intelligence-from-its-early-development-to-the-present-day/",
+          "publishedOn": "2022-02-09T20:29:11.000Z",
+          "wordCount": 1678,
+          "title": "Artificial Intelligence From Its Early Development to the Present Day"
+        },
+        {
+          "id": "61ffb402f2ed6b06db5ae0f7",
+          "author": "Nishant Kumar",
+          "description": "In this tutorial, let's learn how to build dynamic forms in React. Using dynamic forms, we can add fields or remove them depending on our needs.  So, let's get started. How to Create a Form in React Let's create a simple form first. The syntax is straightforward: import './App.css';",
+          "link": "https://www.freecodecamp.org/news/build-dynamic-forms-in-react/",
+          "publishedOn": "2022-02-09T18:08:52.000Z",
+          "wordCount": 1384,
+          "title": "How to Build Dynamic Forms in React"
+        },
+        {
+          "id": "62012010f2ed6b06db5aeee0",
+          "author": "Shayan",
+          "description": "Say you're working on your new great idea – a web or mobile app, and a back end server. Nothing too complicated so far. Until you realize that you need to stream data from your server to these clients.  Usually, when working on this, the first thing that comes",
+          "link": "https://www.freecodecamp.org/news/build-a-logging-web-app-with-server-sent-events-rxjs-and-express/",
+          "publishedOn": "2022-02-09T18:06:54.000Z",
+          "wordCount": 1595,
+          "title": "How to Build a Logging Web App with Server-Sent Events, RxJS, and Express"
+        },
+        {
+          "id": "61ff69c0f2ed6b06db5adbae",
+          "author": "Keyur Paralkar",
+          "description": "In this article, I am going to walk you through creating a snake game using a React application. It is a simple 2d game built using TypeScript, and we won't need to use any third-party graphics libraries to build it.  This is what we'll make in this tutorial: Snake",
+          "link": "https://www.freecodecamp.org/news/build-a-snake-game-with-react-redux-and-redux-sagas/",
+          "publishedOn": "2022-02-09T18:03:35.000Z",
+          "wordCount": 8818,
+          "title": "How to Build a Snake Game with React, Redux, and Redux Saga"
+        },
+        {
+          "id": "61bb6e3e07222107a6c7ae69",
+          "author": "Beau Carnes",
+          "description": "Will AI ever replace developers? Which programming language should you learn first? What's the best way to learn programming? Learn the answers to these questions and more from a group of experienced developers and technical course creators. We just published a video on the freeCodeCamp.org YouTube channel where experienced developers",
+          "link": "https://www.freecodecamp.org/news/your-developer-career-questions-answered/",
+          "publishedOn": "2022-02-09T16:54:00.000Z",
+          "wordCount": 449,
+          "title": "Your Developer Career Questions Answered"
+        },
+        {
+          "id": "61f804bbf2ed6b06db5a95a9",
+          "author": "Alan Richardson",
+          "description": "When you're writing a Vanilla JavaScript application, you don't have to host all the code you use on your own site. Most popular JavaScript libraries are available from a public Content Delivery Network (CDN). This can simplify deploying the application and keeping dependencies up to date. In fact, if you've",
+          "link": "https://www.freecodecamp.org/news/import-javascript-and-css-from-a-public-cdn/",
+          "publishedOn": "2022-02-09T00:38:48.000Z",
+          "wordCount": 1677,
+          "title": "How to Import JavaScript and CSS from a Public CDN"
+        },
+        {
+          "id": "62026d96f2ed6b06db5af947",
+          "author": "Kolade Chris",
+          "description": "The String.prototype.replace() method searches for the first occurrence of a string and replaces it with the specified string. It does this without mutating the original string. This method works for regular expressions, too, so the item you're searching for may be expressed as a regular expression. The value to return",
+          "link": "https://www.freecodecamp.org/news/javascript-replace-how-to-use-the-string-prototype-replace-method-js-example/",
+          "publishedOn": "2022-02-08T21:26:21.000Z",
+          "wordCount": 1167,
+          "title": "JavaScript Replace – How to Use the String.prototype.replace() Method JS Example"
+        },
         {
           "id": "6200d99bf2ed6b06db5ae8aa",
           "author": "Zaira Hira",
@@ -455,7 +518,7 @@
           "description": "Have you ever noticed those fancy ribbons on websites that alert users to some special feature or event? They're great to have, but for many developers, it's a nightmare to create them.  You can easily find a lot of ready-to-use code for such a component, but they are not",
           "link": "https://www.freecodecamp.org/news/make-a-css-only-ribbon/",
           "publishedOn": "2022-02-08T19:33:59.000Z",
-          "wordCount": 1985,
+          "wordCount": 1981,
           "title": "How to Create a CSS-Only Ribbon for Your Website"
         },
         {
@@ -466,69 +529,6 @@
           "publishedOn": "2022-02-08T19:28:43.000Z",
           "wordCount": 8033,
           "title": "How to Enhance Nmap with Python"
-        },
-        {
-          "id": "620002cff2ed6b06db5ae51b",
-          "author": "Zaira Hira",
-          "description": "SQL, or structured query language, lets us gather data from a database through queries. It also enables us to insert, update, and delete that data.  In this blog post, we will focus on how to fetch data and limit the results using SQL.  Why should you limit SQL",
-          "link": "https://www.freecodecamp.org/news/row_number-in-sql-select-top-example-in-sql-and-sql-server2/",
-          "publishedOn": "2022-02-08T19:14:49.000Z",
-          "wordCount": 751,
-          "title": "ROW_NUMBER in SQL – Select Top Example in SQL and SQL Server"
-        },
-        {
-          "id": "6200d9eff2ed6b06db5ae8b2",
-          "author": "Ihechikara Vincent Abba",
-          "description": "We use operators in most programming languages to perform operations on variables.  They are divided into various categories like arithmetic operators, assignment operators, comparison operators, logical operators, and so on.  In this article, we will be talking about the bitwise AND operator, and the AND  (&&) and",
-          "link": "https://www.freecodecamp.org/news/java-operator-and-or-logical-operators/",
-          "publishedOn": "2022-02-08T18:38:13.000Z",
-          "wordCount": 946,
-          "title": "Java Operator – &amp;, &amp;&amp; (AND) || (OR) Logical Operators"
-        },
-        {
-          "id": "6200fe06f2ed6b06db5aeafe",
-          "author": "Kolade Chris",
-          "description": "Before the advent of HTML 5, web developers had to embed video on a web page with a plugin like Adobe flash player. Today, you can easily embed videos in an HTML document with the <video> tag. In this article, we'll see how the <video> tag works in HTML. Table",
-          "link": "https://www.freecodecamp.org/news/html-video-how-to-embed-a-video-player-with-the-html-5-video-tag/",
-          "publishedOn": "2022-02-08T16:59:19.000Z",
-          "wordCount": 1044,
-          "title": "HTML Video – How to Embed a Video Player with the HTML 5 Video Tag"
-        },
-        {
-          "id": "61ff5115f2ed6b06db5adab7",
-          "author": "Ashutosh Krishna",
-          "description": "In this article, we'll learn about a powerful library for Python called Rich [https://rich.readthedocs.io/en/stable/introduction.html]. Rich is a Python library for writing rich text (with color and style) to the terminal. It lets you display advanced content such as tables, markdown, and syntax-highlighted code. So, why is this useful? Well, if",
-          "link": "https://www.freecodecamp.org/news/use-the-rich-library-in-python/",
-          "publishedOn": "2022-02-08T16:15:49.000Z",
-          "wordCount": 1342,
-          "title": "How to Use the Rich Library with Python"
-        },
-        {
-          "id": "620192b1f2ed6b06db5af582",
-          "author": "Beau Carnes",
-          "description": "If you are going to build a multi-page website, it is good to create a design system to help tie everything together. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create and implement a design system with CSS. Kevin Powell created this",
-          "link": "https://www.freecodecamp.org/news/how-to-create-and-implement-a-design-system-with-css/",
-          "publishedOn": "2022-02-08T01:45:18.000Z",
-          "wordCount": 529,
-          "title": "How to Create and Implement a Design System with CSS"
-        },
-        {
-          "id": "61fefcc0f2ed6b06db5ad6a9",
-          "author": "Peter Lynch",
-          "description": "It's not a big secret that building a developer portfolio can greatly increase your chances of getting hired. Everyone tells you that. But, they don't always tell you what makes a good one. You see, many portfolios are generic and rather uninspiring. If your portfolio looks just like everyone else's,",
-          "link": "https://www.freecodecamp.org/news/level-up-developer-portfolio/",
-          "publishedOn": "2022-02-07T18:38:59.000Z",
-          "wordCount": 2903,
-          "title": "How to Level Up Your Developer Portfolio"
-        },
-        {
-          "id": "61e5b6f7b837d507ba0a4acb",
-          "author": "Natalie Pina",
-          "description": "Optional chaining is a safe and concise way to perform access checks for nested object properties. The optional chaining operator ?. takes the reference to its left and checks if it is undefined or null. If the reference is either of these nullish values, the checks will stop and return",
-          "link": "https://www.freecodecamp.org/news/javascript-optional-chaining/",
-          "publishedOn": "2022-02-07T17:13:35.000Z",
-          "wordCount": 933,
-          "title": "How to Use Optional Chaining in JavaScript"
         }
       ]
     }
