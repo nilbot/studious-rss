@@ -1,10 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-11T00:03:41.997Z</id>
+    <id>urn:2022-02-12T00:02:58.338Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-11T00:03:41.997Z</updated>
+    <updated>2022-02-12T00:02:58.338Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[9 New React and JavaScript Links for February 2022]]></title>
+        <id>https://css-tricks.com/?p=363396</id>
+        <link href="https://css-tricks.com/9-new-react-and-javascript-links-for-february-2022/"/>
+        <updated>2022-02-11T23:11:28.000Z</updated>
+        <summary type="html"><![CDATA[Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Like React and JavaScript! Here’s a list of nine links to other articles about them that I’ve been saving up and …
+9 New React and JavaScript Links for February 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Open Task Manager on Mac – Apple Shortcut Tutorial]]></title>
+        <id>62062b0b56125b0677c63fe4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-open-task-manager-on-mac-apple-shortcut-tutorial/"/>
+        <updated>2022-02-11T21:36:17.000Z</updated>
+        <summary type="html"><![CDATA[Having problems with our computers is never fun. And what's often worse than the problems themselves is that they seem to occur when we're in the middle of an important task that needs to get done. The computer starts to significanlty slow down and an app we are using might]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy AWS Infrastructure with Terraform and Github Actions – A Multi-Environment CI/CD Guide]]></title>
+        <id>61f587bbf2ed6b06db5a8380</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-aws-infrastructure-with-terraform-and-github-actions-a-practical-multi-environment-ci-cd-guide/"/>
+        <updated>2022-02-11T19:09:46.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I've been considering developing a complete end-to-end green field DevOps personal lab project.  The term "greenfield software project" refers to the development of a system for a new product that requires development from scratch with no legacy code.  This is a method you use when you are]]></summary>
+        <author>
+            <name>Nitheesh Poojary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fork a GitHub Repository – A Complete Workflow]]></title>
+        <id>6203730c56125b0677c632a1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-fork-a-github-repository/"/>
+        <updated>2022-02-11T18:02:16.000Z</updated>
+        <summary type="html"><![CDATA[GitHub is a great application that helps you manage your Git repositories. You can also use it to contribute to the open source ecosystem and collaborate with other contributors.  Public repositories on GitHub often get lots of attention from contributors, and this helps enhance the project. So how can]]></summary>
+        <author>
+            <name>TAPAS ADHIKARY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Value CSS Properties With Optional Custom Property Values]]></title>
+        <id>https://css-tricks.com/?p=363027</id>
+        <link href="https://css-tricks.com/optional-custom-property-values-trick/"/>
+        <updated>2022-02-11T15:30:11.000Z</updated>
+        <summary type="html"><![CDATA[Imagine you have an element with a multi-value CSS property, such as transform: optional custom property values:
+.el {
+  transform: translate(100px) scale(1.5) skew(5deg);
+}
+Now imagine you don’t always want all the transform values to be applied, so some …
+Multi-Value CSS Properties With Optional Custom Property Values originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Yair Even Or</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Design Done Well: Perfectly Pointless]]></title>
+        <id>https://smashingmagazine.com/2022/02/web-design-done-well-perfectly-pointless/</id>
+        <link href="https://smashingmagazine.com/2022/02/web-design-done-well-perfectly-pointless/"/>
+        <updated>2022-02-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This installment of *Web Design Done Well* celebrates weird and wacky websites. Sites with sweet, innocent, sometimes pointless purposes. Are they money makers? Game changers? Not necessarily, but they sure are fun, and in ways only the web could really manage.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[parseInt() in JavaScript – JS String to Int Example]]></title>
+        <id>6204325356125b0677c637f0</id>
+        <link href="https://www.freecodecamp.org/news/parseint-in-javascript-js-string-to-int-example/"/>
+        <updated>2022-02-11T00:44:09.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will talk about the parseInt function in JavaScript. This function parses (break down) a string and returns an integer or NaN (Not a Number).  How the parseInt function works The main purpose of using the parseInt function is to extract a number from a string.]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Whistle-Stop Tour of 4 New CSS Color Features]]></title>
         <id>https://css-tricks.com/?p=362285</id>
@@ -120,46 +196,6 @@ A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs Fro
 SVGcode for “Live Tracing” Raster Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Artificial Intelligence From Its Early Development to the Present Day]]></title>
-        <id>6202d8fe56125b0677c62f23</id>
-        <link href="https://www.freecodecamp.org/news/artificial-intelligence-from-its-early-development-to-the-present-day/"/>
-        <updated>2022-02-09T20:29:11.000Z</updated>
-        <summary type="html"><![CDATA[Before we get started, I'll just say this: don't leave this article without at least reading the final two paragraphs. I won't spoil it for you. But trust me, you won't want to miss it! The history of artificial intelligence can be traced back to early philosophical and scientific thinking]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Dynamic Forms in React]]></title>
-        <id>61ffb402f2ed6b06db5ae0f7</id>
-        <link href="https://www.freecodecamp.org/news/build-dynamic-forms-in-react/"/>
-        <updated>2022-02-09T18:08:52.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, let's learn how to build dynamic forms in React. Using dynamic forms, we can add fields or remove them depending on our needs.  So, let's get started. How to Create a Form in React Let's create a simple form first. The syntax is straightforward: import './App.css';]]></summary>
-        <author>
-            <name>Nishant Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Logging Web App with Server-Sent Events, RxJS, and Express]]></title>
-        <id>62012010f2ed6b06db5aeee0</id>
-        <link href="https://www.freecodecamp.org/news/build-a-logging-web-app-with-server-sent-events-rxjs-and-express/"/>
-        <updated>2022-02-09T18:06:54.000Z</updated>
-        <summary type="html"><![CDATA[Say you're working on your new great idea – a web or mobile app, and a back end server. Nothing too complicated so far. Until you realize that you need to stream data from your server to these clients.  Usually, when working on this, the first thing that comes]]></summary>
-        <author>
-            <name>Shayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Snake Game with React, Redux, and Redux Saga]]></title>
-        <id>61ff69c0f2ed6b06db5adbae</id>
-        <link href="https://www.freecodecamp.org/news/build-a-snake-game-with-react-redux-and-redux-sagas/"/>
-        <updated>2022-02-09T18:03:35.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I am going to walk you through creating a snake game using a React application. It is a simple 2d game built using TypeScript, and we won't need to use any third-party graphics libraries to build it.  This is what we'll make in this tutorial: Snake]]></summary>
-        <author>
-            <name>Keyur Paralkar</name>
         </author>
     </entry>
     <entry>
@@ -309,17 +345,6 @@ Building a newbie-friendly codebase originally published on CSS-Tricks. You shou
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Making of Atomic CSS: An Interview With Thierry Koblentz]]></title>
-        <id>https://css-tricks.com/?p=362578</id>
-        <link href="https://css-tricks.com/thierry-koblentz-atomic-css/"/>
-        <updated>2022-02-03T15:24:01.000Z</updated>
-        <summary type="html"><![CDATA[I interviewed Thierry Koblentz, creator of Atomic CSS, to understand the history and background that led to making of the popular CSS framework. Thierry, now retired, has vast experience writing CSS at large scale and has previously worked …
-The Making of Atomic CSS: An Interview With Thierry Koblentz originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Pankaj Parashar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Reducing The Web’s Carbon Footprint: Optimizing Social Media Embeds]]></title>
         <id>https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/</id>
         <link href="https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/"/>
@@ -327,17 +352,6 @@ The Making of Atomic CSS: An Interview With Thierry Koblentz originally publishe
         <summary type="html"><![CDATA[In this article, we’ll look specifically at what we can do to reduce the impact of social media embeds and social sharing widgets — or even some strategies to avoid them altogether. While the spotlight is on reducing the environmental impact, many of these tips will be great for performance too.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Michelle Barker)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Scrollable and Draggable Timeline with GSAP]]></title>
-        <id>https://css-tricks.com/?p=362893</id>
-        <link href="https://css-tricks.com/building-a-scrollable-and-draggable-timeline-with-gsap/"/>
-        <updated>2022-02-02T21:11:55.000Z</updated>
-        <summary type="html"><![CDATA[Here’s a super classy demo from Michelle Barker over on Codrops that shows how to build a scrollable and draggable timeline with GSAP. It’s an interesting challenge to have two different interactions (vertical scrolling and horizontal dragging) be tied together …
-Building a Scrollable and Draggable Timeline with GSAP originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -468,16 +482,6 @@ Building a Scrollable and Draggable Timeline with GSAP originally published on C
         <summary type="html"><![CDATA[In [Part 1](https://www.smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/), Luis Ouriach shared advice he wished he had when starting out in his career. In this second and last part of this series, Luis continues sharing tips that helped him grow and become a better designer throughout the years.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Luis Ouriach)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building A Web Code Editor]]></title>
-        <id>https://smashingmagazine.com/2022/01/building-web-code-editor/</id>
-        <link href="https://smashingmagazine.com/2022/01/building-web-code-editor/"/>
-        <updated>2022-01-13T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[If you’re a developer who’s thinking about building a platform that requires a code editor in one form or another, then this article is for you. This article explains how to create a web code editor that displays the result in real time with the help of some HTML, CSS and JavaScript.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Daniel Don)</name>
         </author>
     </entry>
 </feed>
