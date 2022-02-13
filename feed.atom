@@ -1,17 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-12T00:02:58.338Z</id>
+    <id>urn:2022-02-13T00:04:03.488Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-12T00:02:58.338Z</updated>
-    <generator>osmosfeed 1.12.0</generator>
+    <updated>2022-02-13T00:04:03.488Z</updated>
+    <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[v1.12.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1"/>
+        <updated>2022-02-12T17:46:42.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: Future articles appeared in the feed
+Fxied: Security vulnerability from axios
+Thank you: @naari3]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your CSS reset needs text-size-adjust (probably)]]></title>
+        <id>https://css-tricks.com/?p=363498</id>
+        <link href="https://css-tricks.com/your-css-reset-needs-text-size-adjust-probably/"/>
+        <updated>2022-02-12T00:46:40.000Z</updated>
+        <summary type="html"><![CDATA[Kilian Valkhof:
+[…] Mobile Safari increases the default font-size when you switch a website from portrait to landscape. On phones that is, it doesn’t do it on iPad. Safari has been doing this for a long time, as a 
+…
+Your CSS reset needs text-size-adjust (probably) originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9 New React and JavaScript Links for February 2022]]></title>
         <id>https://css-tricks.com/?p=363396</id>
         <link href="https://css-tricks.com/9-new-react-and-javascript-links-for-february-2022/"/>
         <updated>2022-02-11T23:11:28.000Z</updated>
         <summary type="html"><![CDATA[Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Like React and JavaScript! Here’s a list of nine links to other articles about them that I’ve been saving up and …
-9 New React and JavaScript Links for February 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+9 New React and JavaScript Links for February 2022 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -56,7 +81,7 @@
   transform: translate(100px) scale(1.5) skew(5deg);
 }
 Now imagine you don’t always want all the transform values to be applied, so some …
-Multi-Value CSS Properties With Optional Custom Property Values originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+Multi-Value CSS Properties With Optional Custom Property Values originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Yair Even Or</name>
         </author>
@@ -87,7 +112,7 @@ Multi-Value CSS Properties With Optional Custom Property Values originally publi
         <link href="https://css-tricks.com/new-css-color-features-preview/"/>
         <updated>2022-02-10T23:01:55.000Z</updated>
         <summary type="html"><![CDATA[I was just writing in my “What’s new in since CSS3?” article about recent and possible future changes to CSS colors. It’s weirdly a lot. There are just as many or more new and upcoming ways to define colors than …
-A Whistle-Stop Tour of 4 New CSS Color Features originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+A Whistle-Stop Tour of 4 New CSS Color Features originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -99,7 +124,7 @@ A Whistle-Stop Tour of 4 New CSS Color Features originally published on CSS-Tric
         <updated>2022-02-10T21:45:09.000Z</updated>
         <summary type="html"><![CDATA[This is a wonderful roundup from Jeremy, who I picture circling January 1, 2022, in red marker on a giant paper calendar back in 2008 and patiently counting the days.
 See, there was a little smattering of internet drama …
-Developers Speculating About the Long-Distant Future: 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+Developers Speculating About the Long-Distant Future: 2022 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -160,7 +185,7 @@ Developers Speculating About the Long-Distant Future: 2022 originally published 
         <link href="https://css-tricks.com/nextjs-chrome-extension-starter/"/>
         <updated>2022-02-10T15:24:02.000Z</updated>
         <summary type="html"><![CDATA[I recently rewrote one of my projects — Minimal Theme for Twitter — as a Next.js Chrome extension because I wanted to use React for the pop-up. Using React would allow me to clearly separate my extension’s pop-up component and …
-Helpful Tips for Starting a Next.js Chrome Extension originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+Helpful Tips for Starting a Next.js Chrome Extension originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Thomas Wang</name>
         </author>
@@ -172,7 +197,7 @@ Helpful Tips for Starting a Next.js Chrome Extension originally published on CSS
         <updated>2022-02-10T15:23:31.000Z</updated>
         <summary type="html"><![CDATA[(This is a sponsored post.)
 Cloudinary is a host for your digital assets like images and video. If you don’t already know them, you should, because you can build it into the asset management you almost certainly need to …
-A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -193,7 +218,7 @@ A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs Fro
         <link href="https://css-tricks.com/svgcode-raster-to-vector/"/>
         <updated>2022-02-09T21:39:41.000Z</updated>
         <summary type="html"><![CDATA[Say you have a bitmap graphic — like a JPG, PNG, or GIF — and you wish it was vector, like SVG. What do you do? You could trace it yourself in some kind of design software. Or tools within …
-SVGcode for “Live Tracing” Raster Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+SVGcode for “Live Tracing” Raster Images originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -204,7 +229,7 @@ SVGcode for “Live Tracing” Raster Images originally published on CSS-Tricks.
         <link href="https://css-tricks.com/css-slanted-containers/"/>
         <updated>2022-02-09T15:19:47.000Z</updated>
         <summary type="html"><![CDATA[I was updating my portfolio and wanted to use the forward slash (/) as a visual element for the site’s main layout. I hadn’t attempted to create a slanted container in CSS before, but it seemed like it …
-How to Make CSS Slanted Containers originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+How to Make CSS Slanted Containers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Dave Seidman</name>
         </author>
@@ -233,7 +258,7 @@ How to Make CSS Slanted Containers originally published on CSS-Tricks. You shoul
     scroll-behavior: auto !important;
   
 …
-No Motion Isn’t Always prefers-reduced-motion originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+No Motion Isn’t Always prefers-reduced-motion originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -246,7 +271,7 @@ No Motion Isn’t Always prefers-reduced-motion originally published on CSS-Tric
         <summary type="html"><![CDATA[You know how there are JavaScript dialogs for alerting, confirming, and prompting user actions? Say you want to replace JavaScript dialogs with the new HTML dialog element.
 Let me explain.
 I recently worked on a project with a lot of …
-Replace JavaScript Dialogs With the New HTML Dialog Element originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+Replace JavaScript Dialogs With the New HTML Dialog Element originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Mads Stoumann</name>
         </author>
@@ -258,7 +283,7 @@ Replace JavaScript Dialogs With the New HTML Dialog Element originally published
         <updated>2022-02-08T15:08:47.000Z</updated>
         <summary type="html"><![CDATA[(This is a sponsored post.)
 Hey! Scheduled Functions are cool! Think of them like a CRON job. I want this code to run every Monday at 2pm. I want this code run every hour on the hour. That kind …
-Netlify Has Scheduled Functions originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+Netlify Has Scheduled Functions originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -282,7 +307,7 @@ Netlify Has Scheduled Functions originally published on CSS-Tricks. You should g
 Tom’s generator does two things that help make a gradient better:
 You 
 …
-Using Different Color Spaces for Non-Boring Gradients originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+Using Different Color Spaces for Non-Boring Gradients originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -293,7 +318,7 @@ Using Different Color Spaces for Non-Boring Gradients originally published on CS
         <link href="https://css-tricks.com/css-scroll-snap-slide-deck/"/>
         <updated>2022-02-07T15:24:44.000Z</updated>
         <summary type="html"><![CDATA[Virtual conferences have changed the game in terms of how a presenter is able to deliver content to an audience. At a live event it’s likely you just have your laptop, but at home, you may have multiple monitors so …
-CSS Scroll Snap Slide Deck That Supports Live Coding originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+CSS Scroll Snap Slide Deck That Supports Live Coding originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Stephanie Eckles</name>
         </author>
@@ -314,7 +339,7 @@ CSS Scroll Snap Slide Deck That Supports Live Coding originally published on CSS
         <link href="https://css-tricks.com/a-deep-introduction-to-wordpress-block-themes/"/>
         <updated>2022-02-04T15:07:04.000Z</updated>
         <summary type="html"><![CDATA[The relatively new WordPress editor, also known as the WordPress Block Editor, always under development via the Gutenberg plugin, has been with us since 2018. You can use the block editor on any WordPress theme, provided the theme …
-A Deep Introduction to WordPress Block Themes originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+A Deep Introduction to WordPress Block Themes originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Ganesh Dahal</name>
         </author>
@@ -327,21 +352,6 @@ A Deep Introduction to WordPress Block Themes originally published on CSS-Tricks
         <summary type="html"><![CDATA[In this second part, Noam suggests a few patterns of how to use the web platform directly as an alternative to some of the solutions that are offered by frameworks.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Noam Rosenthal)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a newbie-friendly codebase]]></title>
-        <id>https://css-tricks.com/?p=362884</id>
-        <link href="https://css-tricks.com/building-a-newbie-friendly-codebase/"/>
-        <updated>2022-02-03T22:32:58.000Z</updated>
-        <summary type="html"><![CDATA[Pedro Santos suggests:
-Using naming conventions such that you can learn them once and apply them everywhere
-Unidirectional data flows. Make it easy to follow the app flow.
-No magic numbers. I’d add they are even worse in CSS
-…
-Building a newbie-friendly codebase originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
