@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-13T00:04:03.488Z</id>
+    <id>urn:2022-02-14T00:03:00.732Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-13T00:04:03.488Z</updated>
-    <generator>osmosfeed 1.12.1</generator>
+    <updated>2022-02-14T00:03:00.732Z</updated>
+    <generator>osmosfeed 1.13.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[v1.13.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0"/>
+        <updated>2022-02-13T05:05:17.000Z</updated>
+        <summary type="html"><![CDATA[New: Thumbnail image display for each article
+New: Improved color, spacing, and typography for easier reading
+New: Click the date to toggle all accordions on that day. Ctrl + Click to toggle all accordions on the entire site.
+Changed: All sections are expanded by default
+Changed: Switched to vitest for easier testing
+Fixed: Long string (e.g. URL) caused horizontal overflow
+Thank you: @naari3, @tianheg]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v1.12.1]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1</id>
@@ -482,16 +498,6 @@ A Deep Introduction to WordPress Block Themes originally published on CSS-Tricks
         <summary type="html"><![CDATA[We’ll explore fluid typography principles, use-cases, implementation with CSS clamp() and an interactive fluid typography calculator.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ten Tips For Aspiring Designer Beginners (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/</id>
-        <link href="https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/"/>
-        <updated>2022-01-14T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In [Part 1](https://www.smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/), Luis Ouriach shared advice he wished he had when starting out in his career. In this second and last part of this series, Luis continues sharing tips that helped him grow and become a better designer throughout the years.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Luis Ouriach)</name>
         </author>
     </entry>
 </feed>

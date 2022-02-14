@@ -6,13 +6,24 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0",
+          "author": null,
+          "description": "New: Thumbnail image display for each article\nNew: Improved color, spacing, and typography for easier reading\nNew: Click the date to toggle all accordions on that day. Ctrl + Click to toggle all accordions on the entire site.\nChanged: All sections are expanded by default\nChanged: Switched to vitest for easier testing\nFixed: Long string (e.g. URL) caused horizontal overflow\nThank you: @naari3, @tianheg",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0",
+          "publishedOn": "2022-02-13T05:05:17.000Z",
+          "wordCount": 342,
+          "title": "v1.13.0",
+          "imageUrl": "https://opengraph.githubassets.com/fc77c41c87b2cd4d8990f4c940e0ddf681667b6b6e4363b0f609861b7ae5b6d8/osmoscraft/osmosfeed/releases/tag/v1.13.0"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1",
           "author": null,
           "description": "Fixed: Future articles appeared in the feed\nFxied: Security vulnerability from axios\nThank you: @naari3",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1",
           "publishedOn": "2022-02-12T17:46:42.000Z",
-          "wordCount": 271,
-          "title": "v1.12.1"
+          "wordCount": 269,
+          "title": "v1.12.1",
+          "imageUrl": "https://opengraph.githubassets.com/d69790a31f94b1adf743c58bae86b9754de6969cceb83f11b8fbeb28ab1ad632/osmoscraft/osmosfeed/releases/tag/v1.12.1"
         }
       ]
     },
@@ -27,8 +38,9 @@
           "description": "Kilian Valkhof:\n[…] Mobile Safari increases the default font-size when you switch a website from portrait to landscape. On phones that is, it doesn’t do it on iPad. Safari has been doing this for a long time, as a \n…\nYour CSS reset needs text-size-adjust (probably) originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/your-css-reset-needs-text-size-adjust-probably/",
           "publishedOn": "2022-02-12T00:46:40.000Z",
-          "wordCount": 622,
-          "title": "Your CSS reset needs text-size-adjust (probably)"
+          "wordCount": 608,
+          "title": "Your CSS reset needs text-size-adjust (probably)",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363498"
         },
         {
           "id": "https://css-tricks.com/?p=363396",
@@ -37,7 +49,8 @@
           "link": "https://css-tricks.com/9-new-react-and-javascript-links-for-february-2022/",
           "publishedOn": "2022-02-11T23:11:28.000Z",
           "wordCount": 943,
-          "title": "9 New React and JavaScript Links for February 2022"
+          "title": "9 New React and JavaScript Links for February 2022",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363396"
         },
         {
           "id": "https://css-tricks.com/?p=363027",
@@ -46,7 +59,8 @@
           "link": "https://css-tricks.com/optional-custom-property-values-trick/",
           "publishedOn": "2022-02-11T15:30:11.000Z",
           "wordCount": 774,
-          "title": "Multi-Value CSS Properties With Optional Custom Property Values"
+          "title": "Multi-Value CSS Properties With Optional Custom Property Values",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363027"
         },
         {
           "id": "https://css-tricks.com/?p=362285",
@@ -54,8 +68,9 @@
           "description": "I was just writing in my “What’s new in since CSS3?” article about recent and possible future changes to CSS colors. It’s weirdly a lot. There are just as many or more new and upcoming ways to define colors than …\nA Whistle-Stop Tour of 4 New CSS Color Features originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/new-css-color-features-preview/",
           "publishedOn": "2022-02-10T23:01:55.000Z",
-          "wordCount": 2732,
-          "title": "A Whistle-Stop Tour of 4 New CSS Color Features"
+          "wordCount": 2724,
+          "title": "A Whistle-Stop Tour of 4 New CSS Color Features",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362285"
         },
         {
           "id": "https://css-tricks.com/?p=363480",
@@ -64,7 +79,8 @@
           "link": "https://css-tricks.com/developers-speculating-about-the-long-distant-future-2022/",
           "publishedOn": "2022-02-10T21:45:09.000Z",
           "wordCount": 790,
-          "title": "Developers Speculating About the Long-Distant Future: 2022"
+          "title": "Developers Speculating About the Long-Distant Future: 2022",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363480"
         },
         {
           "id": "https://css-tricks.com/?p=363079",
@@ -73,7 +89,8 @@
           "link": "https://css-tricks.com/nextjs-chrome-extension-starter/",
           "publishedOn": "2022-02-10T15:24:02.000Z",
           "wordCount": 1288,
-          "title": "Helpful Tips for Starting a Next.js Chrome Extension"
+          "title": "Helpful Tips for Starting a Next.js Chrome Extension",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363079"
         },
         {
           "id": "https://css-tricks.com/?p=362991",
@@ -82,7 +99,8 @@
           "link": "https://css-tricks.com/a-chrome-extension-for-cloudinary-that-helps-you-pluck-out-useful-media-urls-from-your-library-quickly/",
           "publishedOn": "2022-02-10T15:23:31.000Z",
           "wordCount": 882,
-          "title": "A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly"
+          "title": "A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362991"
         },
         {
           "id": "https://css-tricks.com/?p=362777",
@@ -91,7 +109,8 @@
           "link": "https://css-tricks.com/svgcode-raster-to-vector/",
           "publishedOn": "2022-02-09T21:39:41.000Z",
           "wordCount": 822,
-          "title": "SVGcode for “Live Tracing” Raster Images"
+          "title": "SVGcode for “Live Tracing” Raster Images",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362777"
         },
         {
           "id": "https://css-tricks.com/?p=362940",
@@ -100,7 +119,8 @@
           "link": "https://css-tricks.com/css-slanted-containers/",
           "publishedOn": "2022-02-09T15:19:47.000Z",
           "wordCount": 1312,
-          "title": "How to Make CSS Slanted Containers"
+          "title": "How to Make CSS Slanted Containers",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362940"
         },
         {
           "id": "https://css-tricks.com/?p=363057",
@@ -108,8 +128,9 @@
           "description": "There is a code snippet that I see all the time when the media query prefers-reduced-motion is talked about. Here it is:\n@media (prefers-reduced-motion: reduce) {\n  * {\n    animation-duration: 0.01ms !important;\n    animation-iteration-count: 1 !important;\n    transition-duration: 0.01ms !important;\n    scroll-behavior: auto !important;\n  \n…\nNo Motion Isn’t Always prefers-reduced-motion originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/nuking-motion-with-prefers-reduced-motion/",
           "publishedOn": "2022-02-08T20:55:51.000Z",
-          "wordCount": 1189,
-          "title": "No Motion Isn’t Always prefers-reduced-motion"
+          "wordCount": 1181,
+          "title": "No Motion Isn’t Always prefers-reduced-motion",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363057"
         },
         {
           "id": "https://css-tricks.com/?p=362672",
@@ -118,7 +139,8 @@
           "link": "https://css-tricks.com/replace-javascript-dialogs-html-dialog-element/",
           "publishedOn": "2022-02-08T15:09:40.000Z",
           "wordCount": 3942,
-          "title": "Replace JavaScript Dialogs With the New HTML Dialog Element"
+          "title": "Replace JavaScript Dialogs With the New HTML Dialog Element",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362672"
         },
         {
           "id": "https://css-tricks.com/?p=363380",
@@ -127,7 +149,8 @@
           "link": "https://css-tricks.com/netlify-has-scheduled-functions/",
           "publishedOn": "2022-02-08T15:08:47.000Z",
           "wordCount": 707,
-          "title": "Netlify Has Scheduled Functions"
+          "title": "Netlify Has Scheduled Functions",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363380"
         },
         {
           "id": "https://css-tricks.com/?p=363102",
@@ -136,7 +159,8 @@
           "link": "https://css-tricks.com/color-spaces-for-more-interesting-css-gradients/",
           "publishedOn": "2022-02-07T21:46:18.000Z",
           "wordCount": 616,
-          "title": "Using Different Color Spaces for Non-Boring Gradients"
+          "title": "Using Different Color Spaces for Non-Boring Gradients",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363102"
         },
         {
           "id": "https://css-tricks.com/?p=362616",
@@ -145,7 +169,8 @@
           "link": "https://css-tricks.com/css-scroll-snap-slide-deck/",
           "publishedOn": "2022-02-07T15:24:44.000Z",
           "wordCount": 4397,
-          "title": "CSS Scroll Snap Slide Deck That Supports Live Coding"
+          "title": "CSS Scroll Snap Slide Deck That Supports Live Coding",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362616"
         },
         {
           "id": "https://css-tricks.com/?p=362799",
@@ -154,7 +179,8 @@
           "link": "https://css-tricks.com/a-deep-introduction-to-wordpress-block-themes/",
           "publishedOn": "2022-02-04T15:07:04.000Z",
           "wordCount": 6150,
-          "title": "A Deep Introduction to WordPress Block Themes"
+          "title": "A Deep Introduction to WordPress Block Themes",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362799"
         }
       ]
     },
@@ -169,13 +195,14 @@
           "description": "This installment of *Web Design Done Well* celebrates weird and wacky websites. Sites with sweet, innocent, sometimes pointless purposes. Are they money makers? Game changers? Not necessarily, but they sure are fun, and in ways only the web could really manage.",
           "link": "https://smashingmagazine.com/2022/02/web-design-done-well-perfectly-pointless/",
           "publishedOn": "2022-02-11T12:00:00.000Z",
-          "wordCount": 1697,
+          "wordCount": 1695,
           "title": "Web Design Done Well: Perfectly Pointless",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a885ddca-3e45-4167-8475-3ccd9181e712/web-design-done-well-perfectly-pointless.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a885ddca-3e45-4167-8475-3ccd9181e712/web-design-done-well-perfectly-pointless.jpg"
         },
         {
           "id": "https://smashingmagazine.com/2022/02/fitts-law-touch-era/",
@@ -183,13 +210,14 @@
           "description": "In this article, Steven Hoober shines the spotlight on Fitts’ Law and explains why we should always ask questions and consider what particular guidelines and lessons mean to our users and our products.",
           "link": "https://smashingmagazine.com/2022/02/fitts-law-touch-era/",
           "publishedOn": "2022-02-09T12:00:00.000Z",
-          "wordCount": 3417,
+          "wordCount": 3419,
           "title": "Fitts’ Law In The Touch Era",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b558fa6-25b4-4ec2-922a-469910f989a1/fitts-law-touch-era.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b558fa6-25b4-4ec2-922a-469910f989a1/fitts-law-touch-era.jpg"
         },
         {
           "id": "https://smashingmagazine.com/2022/02/statoscope-course-intensive-therapy-bundle/",
@@ -197,13 +225,14 @@
           "description": "Statoscope is an instrument that analyses your webpack-bundles. Created by Sergey Melukov, it started out as an experimental version in late 2016, which has now become a full-fledged toolkit for viewing, analyzing, and validating webpack-bundles.",
           "link": "https://smashingmagazine.com/2022/02/statoscope-course-intensive-therapy-bundle/",
           "publishedOn": "2022-02-08T10:00:00.000Z",
-          "wordCount": 5252,
+          "wordCount": 5256,
           "title": "Statoscope: A Course Of Intensive Therapy For Your Bundle",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8c91f031-fdf7-4b31-8a09-b7e0b0d01cc7/statoscope-course-intensive-therapy-bundle.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8c91f031-fdf7-4b31-8a09-b7e0b0d01cc7/statoscope-course-intensive-therapy-bundle.jpg"
         },
         {
           "id": "https://smashingmagazine.com/2022/02/qr-codes-business-best-practices-pitfalls/",
@@ -211,13 +240,14 @@
           "description": "While QR codes have many uses and can be leveraged at many touch points, they are just one of dozens of technologies that can improve the customer’s journey. Stanislav Khrustalev shares his advice with a list of things to keep in mind when using QR codes for your business.",
           "link": "https://smashingmagazine.com/2022/02/qr-codes-business-best-practices-pitfalls/",
           "publishedOn": "2022-02-07T14:00:00.000Z",
-          "wordCount": 2790,
+          "wordCount": 2792,
           "title": "Using QR Codes In Your Business: Best Practices And Pitfalls",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa41b6d9-f3ce-4b05-a110-21a7bc6c7595/qr-codes-business-best-practices-pitfalls.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa41b6d9-f3ce-4b05-a110-21a7bc6c7595/qr-codes-business-best-practices-pitfalls.jpg"
         },
         {
           "id": "https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/",
@@ -225,13 +255,14 @@
           "description": "In this second part, Noam suggests a few patterns of how to use the web platform directly as an alternative to some of the solutions that are offered by frameworks.",
           "link": "https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/",
           "publishedOn": "2022-02-04T13:30:00.000Z",
-          "wordCount": 3777,
+          "wordCount": 3775,
           "title": "What Web Frameworks Solve: The Vanilla Alternative (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a3745837-4c65-4b2b-81ab-42e0088633d2/web-frameworks-guide-part2.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a3745837-4c65-4b2b-81ab-42e0088633d2/web-frameworks-guide-part2.jpg"
         },
         {
           "id": "https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/",
@@ -239,13 +270,14 @@
           "description": "In this article, we’ll look specifically at what we can do to reduce the impact of social media embeds and social sharing widgets — or even some strategies to avoid them altogether. While the spotlight is on reducing the environmental impact, many of these tips will be great for performance too.",
           "link": "https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/",
           "publishedOn": "2022-02-03T12:00:00.000Z",
-          "wordCount": 2559,
+          "wordCount": 2561,
           "title": "Reducing The Web’s Carbon Footprint: Optimizing Social Media Embeds",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/686a0218-bea0-4a0e-a2b9-aca40c29d412/reducing-web-carbon-footprint-optimizing-social-media-embeds.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/686a0218-bea0-4a0e-a2b9-aca40c29d412/reducing-web-carbon-footprint-optimizing-social-media-embeds.jpg"
         },
         {
           "id": "https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/",
@@ -253,13 +285,14 @@
           "description": "In this article, Adrian Bece shares more about the benefits and caveats of code-splitting and how page performance and load times can be improved by dynamically loading expensive, non-critical JavaScript bundles.",
           "link": "https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/",
           "publishedOn": "2022-02-02T10:30:00.000Z",
-          "wordCount": 4511,
+          "wordCount": 4519,
           "title": "Improving JavaScript Bundle Performance With Code-Splitting",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f721011b-37a8-4c1d-a8b9-b249bf938678/javascript-bundle-performance-code-splitting.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f721011b-37a8-4c1d-a8b9-b249bf938678/javascript-bundle-performance-code-splitting.jpg"
         },
         {
           "id": "https://smashingmagazine.com/2022/02/touch-design-release/",
@@ -273,7 +306,8 @@
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9bd7979-279d-4547-8540-cb1e344cbf19/newsletter-header-opt.png",
             "length": "0",
             "type": "image/png"
-          }
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9bd7979-279d-4547-8540-cb1e344cbf19/newsletter-header-opt.png"
         },
         {
           "id": "https://smashingmagazine.com/2022/01/desktop-wallpaper-calendars-february-2022/",
@@ -287,7 +321,8 @@
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/04d12428-d98f-4633-ad77-fed864da6842/feb-22-magic-of-music-preview-opt.png",
             "length": "0",
             "type": "image/png"
-          }
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/04d12428-d98f-4633-ad77-fed864da6842/feb-22-magic-of-music-preview-opt.png"
         },
         {
           "id": "https://smashingmagazine.com/2022/01/web-frameworks-guide-part1/",
@@ -295,13 +330,14 @@
           "description": "In this article, Noam Rosenthal dives deep into a few technical features that are common across frameworks, and explains how some of the different frameworks implement them and what they cost.",
           "link": "https://smashingmagazine.com/2022/01/web-frameworks-guide-part1/",
           "publishedOn": "2022-01-28T14:00:00.000Z",
-          "wordCount": 2157,
+          "wordCount": 2154,
           "title": "What Web Frameworks Solve And How To Do Without Them (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7ca7294e-9325-4bab-8617-0bc3d42e3053/web-frameworks-guide.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7ca7294e-9325-4bab-8617-0bc3d42e3053/web-frameworks-guide.jpg"
         },
         {
           "id": "https://smashingmagazine.com/2022/01/software-administration-ux/",
@@ -309,13 +345,14 @@
           "description": "This article reveals how something as trivial as administration in both software and As-a-service can be either a booster or bottleneck to a company’s productivity and innovation. It also provides several design aspects that UX practitioners should evaluate when designing the administration experience.",
           "link": "https://smashingmagazine.com/2022/01/software-administration-ux/",
           "publishedOn": "2022-01-26T12:00:00.000Z",
-          "wordCount": 2585,
+          "wordCount": 2586,
           "title": "Don’t Underestimate The Software Administration UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a25c6bb8-7778-48e1-b2e8-04cfd46d0765/software-administration-ux.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a25c6bb8-7778-48e1-b2e8-04cfd46d0765/software-administration-ux.jpg"
         },
         {
           "id": "https://smashingmagazine.com/2022/01/devtools-updates-2022/",
@@ -329,7 +366,8 @@
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e516aa85-3b77-418a-9b43-cec06943b129/devtools-updates-2022.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e516aa85-3b77-418a-9b43-cec06943b129/devtools-updates-2022.jpg"
         },
         {
           "id": "https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/",
@@ -337,13 +375,14 @@
           "description": "Cascade layers introduce the new at-rule of @layer. The intent is to help CSS authors be more intentional about ordering the “layers” of CSS rules as a new method of cascade management.",
           "link": "https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/",
           "publishedOn": "2022-01-24T11:00:00.000Z",
-          "wordCount": 4754,
+          "wordCount": 4755,
           "title": "Getting Started With CSS Cascade Layers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/13b8900c-aa53-49ae-84f7-9fbf598635e2/introduction-css-cascade-layers.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/13b8900c-aa53-49ae-84f7-9fbf598635e2/introduction-css-cascade-layers.jpg"
         },
         {
           "id": "https://smashingmagazine.com/2022/01/from-chaos-to-system-design-teams/",
@@ -351,13 +390,14 @@
           "description": "Joining a team where there are no established design practices may feel disheartening. Does this situation resonate with you? If yes, then read on — as this article is sharing the author’s advice based on his personal experience and it will show you a way (although not easy) of facing the problem in a manner that will bring other benefits, beside order and consistency.",
           "link": "https://smashingmagazine.com/2022/01/from-chaos-to-system-design-teams/",
           "publishedOn": "2022-01-21T14:30:00.000Z",
-          "wordCount": 5334,
+          "wordCount": 5315,
           "title": "From Chaos To System In Design Teams",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a7ab411a-2903-440e-bbfa-4f7914345165/chaos-to-system-design-teams.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a7ab411a-2903-440e-bbfa-4f7914345165/chaos-to-system-design-teams.jpg"
         },
         {
           "id": "https://smashingmagazine.com/2022/01/building-real-app-react-query/",
@@ -365,13 +405,14 @@
           "description": "In this article, Georgii Perepecho explains the most common React Query features that you need to be familiar with when creating a real-life application that is stable when testing.",
           "link": "https://smashingmagazine.com/2022/01/building-real-app-react-query/",
           "publishedOn": "2022-01-20T14:30:00.000Z",
-          "wordCount": 5260,
+          "wordCount": 5250,
           "title": "Building The Real App With React Query",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb299a88-9204-4579-bfb0-f9d8dac84014/building-real-app-react-query.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb299a88-9204-4579-bfb0-f9d8dac84014/building-real-app-react-query.jpg"
         },
         {
           "id": "https://smashingmagazine.com/2022/01/smashingconf-workshops-january-may-2022/",
@@ -385,7 +426,8 @@
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a64a7afb-ef32-458d-9dc1-d8b286fc0327/smashing-online-workshops-winter-2022.png",
             "length": "0",
             "type": "image/png"
-          }
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a64a7afb-ef32-458d-9dc1-d8b286fc0327/smashing-online-workshops-winter-2022.png"
         },
         {
           "id": "https://smashingmagazine.com/2022/01/freebie-wayfinding-icon-sets-exhibition-concert-museum/",
@@ -393,13 +435,14 @@
           "description": "Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies) related to different occasions and themes. We hope that with this icon set, everyone will be able to find their own use case for these icons in particular. Today, we present to you three icon sets designed by the creative folks at GraphicSurf — all free for personal and commercial use.",
           "link": "https://smashingmagazine.com/2022/01/freebie-wayfinding-icon-sets-exhibition-concert-museum/",
           "publishedOn": "2022-01-18T12:00:00.000Z",
-          "wordCount": 821,
+          "wordCount": 818,
           "title": "Freebie: Wayfinding Icon Sets (164 Icons, PNG, SVG, AI, EPS)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/27d4ee4d-0893-4ef6-b48a-435007089494/wayfinding-icon-preview.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/27d4ee4d-0893-4ef6-b48a-435007089494/wayfinding-icon-preview.jpg"
         },
         {
           "id": "https://smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/",
@@ -407,27 +450,14 @@
           "description": "We’ll explore fluid typography principles, use-cases, implementation with CSS clamp() and an interactive fluid typography calculator.",
           "link": "https://smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/",
           "publishedOn": "2022-01-17T13:00:00.000Z",
-          "wordCount": 4020,
+          "wordCount": 4021,
           "title": "Modern Fluid Typography Using CSS Clamp",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f12f5a3d-f679-4b6b-b9c2-cb5a9d9166ae/modern-fluid-typography-css-clamp.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/",
-          "author": "hello@smashingmagazine.com (Luis Ouriach)",
-          "description": "In [Part 1](https://www.smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/), Luis Ouriach shared advice he wished he had when starting out in his career. In this second and last part of this series, Luis continues sharing tips that helped him grow and become a better designer throughout the years.",
-          "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/",
-          "publishedOn": "2022-01-14T15:00:00.000Z",
-          "wordCount": 3569,
-          "title": "Ten Tips For Aspiring Designer Beginners (Part 2)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b0e9621-b939-439d-a812-69a4eb7d68ff/tips-aspiring-designer-beginners-part2.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f12f5a3d-f679-4b6b-b9c2-cb5a9d9166ae/modern-fluid-typography-css-clamp.jpg"
         }
       ]
     },
@@ -443,7 +473,8 @@
           "link": "https://www.freecodecamp.org/news/how-to-open-task-manager-on-mac-apple-shortcut-tutorial/",
           "publishedOn": "2022-02-11T21:36:17.000Z",
           "wordCount": 1943,
-          "title": "How to Open Task Manager on Mac – Apple Shortcut Tutorial"
+          "title": "How to Open Task Manager on Mac – Apple Shortcut Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/nadine-shaabana-DRzYMtae-vA-unsplash.jpg"
         },
         {
           "id": "61f587bbf2ed6b06db5a8380",
@@ -452,7 +483,8 @@
           "link": "https://www.freecodecamp.org/news/how-to-deploy-aws-infrastructure-with-terraform-and-github-actions-a-practical-multi-environment-ci-cd-guide/",
           "publishedOn": "2022-02-11T19:09:46.000Z",
           "wordCount": 2818,
-          "title": "How to Deploy AWS Infrastructure with Terraform and Github Actions – A Multi-Environment CI/CD Guide"
+          "title": "How to Deploy AWS Infrastructure with Terraform and Github Actions – A Multi-Environment CI/CD Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/pexels-pixabay-163235.jpg"
         },
         {
           "id": "6203730c56125b0677c632a1",
@@ -461,7 +493,8 @@
           "link": "https://www.freecodecamp.org/news/how-to-fork-a-github-repository/",
           "publishedOn": "2022-02-11T18:02:16.000Z",
           "wordCount": 1173,
-          "title": "How to Fork a GitHub Repository – A Complete Workflow"
+          "title": "How to Fork a GitHub Repository – A Complete Workflow",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/freeCodeCamp-Cover.png"
         },
         {
           "id": "6204325356125b0677c637f0",
@@ -470,7 +503,8 @@
           "link": "https://www.freecodecamp.org/news/parseint-in-javascript-js-string-to-int-example/",
           "publishedOn": "2022-02-11T00:44:09.000Z",
           "wordCount": 819,
-          "title": "parseInt() in JavaScript – JS String to Int Example"
+          "title": "parseInt() in JavaScript – JS String to Int Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/parseint.png"
         },
         {
           "id": "61fd8a56f2ed6b06db5acd03",
@@ -479,7 +513,8 @@
           "link": "https://www.freecodecamp.org/news/learn-programming-freecodecamp-japanese-released/",
           "publishedOn": "2022-02-10T21:06:15.000Z",
           "wordCount": 869,
-          "title": "Learn to Code in Japanese – The Japanese freeCodeCamp Curriculum is Now Live"
+          "title": "Learn to Code in Japanese – The Japanese freeCodeCamp Curriculum is Now Live",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/japanese_certs.png"
         },
         {
           "id": "61fc8bbef2ed6b06db5ac470",
@@ -488,7 +523,8 @@
           "link": "https://www.freecodecamp.org/news/execution-context-how-javascript-works-behind-the-scenes/",
           "publishedOn": "2022-02-10T19:56:18.000Z",
           "wordCount": 3432,
-          "title": "JavaScript Execution Context – How JS Works Behind The Scenes"
+          "title": "JavaScript Execution Context – How JS Works Behind The Scenes",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/header.png"
         },
         {
           "id": "6204e89c56125b0677c639a4",
@@ -497,7 +533,8 @@
           "link": "https://www.freecodecamp.org/news/what-is-antimalware-service-executable-why-is-it-high-cpu-disk-usage/",
           "publishedOn": "2022-02-10T17:31:27.000Z",
           "wordCount": 969,
-          "title": "What is Antimalware Service Executable? Why is it High CPU Disk Usage?"
+          "title": "What is Antimalware Service Executable? Why is it High CPU Disk Usage?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/cpu-4393376_1920.jpg"
         },
         {
           "id": "6203e7fe56125b0677c6337b",
@@ -506,7 +543,8 @@
           "link": "https://www.freecodecamp.org/news/add-supabase-authentication-to-vue/",
           "publishedOn": "2022-02-10T16:40:00.000Z",
           "wordCount": 2182,
-          "title": "How to Add Supabase Authentication to a Vue App"
+          "title": "How to Add Supabase Authentication to a Vue App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/Getting-Started-with-supabase-blog@2x.jpg"
         },
         {
           "id": "61f43d0ff2ed6b06db5a7157",
@@ -515,7 +553,8 @@
           "link": "https://www.freecodecamp.org/news/markdown-cheat-sheet/",
           "publishedOn": "2022-02-10T16:31:38.000Z",
           "wordCount": 871,
-          "title": "Markdown Cheat Sheet – How to Write in Markdown with Examples"
+          "title": "Markdown Cheat Sheet – How to Write in Markdown with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/01/Copy-of-Copy-of-Cron-jobs-Linux.png"
         },
         {
           "id": "6204203956125b0677c6377b",
@@ -524,10 +563,11 @@
           "link": "https://www.freecodecamp.org/news/blockchain-apis-how-to-query-on-the-blockchain/",
           "publishedOn": "2022-02-10T14:51:41.000Z",
           "wordCount": 533,
-          "title": "Blockchain APIs - How to Query on the Blockchain"
+          "title": "Blockchain APIs - How to Query on the Blockchain",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/blockchainapis.png"
         }
       ]
     }
   ],
-  "cliVersion": "1.12.1"
+  "cliVersion": "1.13.0"
 }
