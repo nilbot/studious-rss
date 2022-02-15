@@ -1,10 +1,156 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-14T00:03:00.732Z</id>
+    <id>urn:2022-02-15T00:02:58.053Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-14T00:03:00.732Z</updated>
-    <generator>osmosfeed 1.13.0</generator>
+    <updated>2022-02-15T00:02:58.053Z</updated>
+    <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn React Hooks – A Beginner's Guide]]></title>
+        <id>620a618e56125b0677c64e72</id>
+        <link href="https://www.freecodecamp.org/news/the-beginners-guide-to-react-hooks/"/>
+        <updated>2022-02-14T21:04:27.000Z</updated>
+        <summary type="html"><![CDATA[Functional components weren't always the preferred method for declaring components in React.  Before React version 16.8 was introduced, functional components were treated much like second-class citizens. They couldn't handle state, logic, and lots of other React features, and we only used them for rendering very simple components to the]]></summary>
+        <author>
+            <name>Victor Ikechukwu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why are hyperlinks blue?]]></title>
+        <id>https://css-tricks.com/?p=363555</id>
+        <link href="https://css-tricks.com/why-are-hyperlinks-blue/"/>
+        <updated>2022-02-14T20:13:31.000Z</updated>
+        <summary type="html"><![CDATA[Last year, Elise Blanchard did some great historical research and discovered that blue hyperlinks replaced black hyperlinks in 1993. They’ve been blue for so long now that the general advice I always hear is to keep them that way. There …
+Why are hyperlinks blue? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Setup a Basic Serverless REST API with AWS Lambda and API Gateway]]></title>
+        <id>61e80555183181284a1916cd</id>
+        <link href="https://www.freecodecamp.org/news/how-to-setup-a-basic-serverless-backend-with-aws-lambda-and-api-gateway/"/>
+        <updated>2022-02-14T19:10:14.000Z</updated>
+        <summary type="html"><![CDATA[As developers, we are always trying to optimize everything from how people communicate to how people buy things. The goal is to make humans arguably more productive.  In the spirit of making humans more productive, the software development landscape has seen a dramatic rise in the emergence of developer]]></summary>
+        <author>
+            <name>Nyior Clement</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Important Lessons they Don't Teach You in Business School]]></title>
+        <id>620a9e7521bfb3068cf286fe</id>
+        <link href="https://www.freecodecamp.org/news/important-lessons-they-dont-teach-you-in-business-school/"/>
+        <updated>2022-02-14T18:30:23.000Z</updated>
+        <summary type="html"><![CDATA[How can you find customers? How can you get a meeting with anyone? How can you take your career to the next level?  Learn the answers to these questions and more in an entrepreneurship course we just published on the freeCodeCamp.org YouTube channel. Business Insider wrote an article stating]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The React Cheatsheet for 2022]]></title>
+        <id>6207facb56125b0677c649a3</id>
+        <link href="https://www.freecodecamp.org/news/the-react-cheatsheet/"/>
+        <updated>2022-02-14T17:02:30.000Z</updated>
+        <summary type="html"><![CDATA[Do you want to get up to speed with React as quickly as possible? I’ve put together a super helpful cheatsheet to give you a complete overview of all of the React concepts you need to know in 2022. Let’s get started! Table of Contents  * React Elements]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use PropTypes in React]]></title>
+        <id>61fcba1ef2ed6b06db5ac4db</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-proptypes-in-react/"/>
+        <updated>2022-02-14T16:36:09.000Z</updated>
+        <summary type="html"><![CDATA[PropTypes are a good first line defense when it comes to debugging your apps. But before getting into detail about PropTypes, we have to understand the concept of props. Props [https://tekolio.com/what-are-props-in-react-and-how-to-use-them/] are the read-only properties that are shared between components to give the unidirectional flow of React a dynamic touch.]]></summary>
+        <author>
+            <name>Ateev Duggal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started With the File System Access API]]></title>
+        <id>https://css-tricks.com/?p=363339</id>
+        <link href="https://css-tricks.com/getting-started-with-the-file-system-access-api/"/>
+        <updated>2022-02-14T16:01:21.000Z</updated>
+        <summary type="html"><![CDATA[The File System Access API is a web API that allows read and write access to a user’s local files. It unlocks new capabilities to build powerful web applications, such as text editors or IDEs, image editing tools, improved …
+Getting Started With the File System Access API originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Charlie Gerard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything You Want To Know About Creating Voice User Interfaces]]></title>
+        <id>https://smashingmagazine.com/2022/02/voice-user-interfaces-guide/</id>
+        <link href="https://smashingmagazine.com/2022/02/voice-user-interfaces-guide/"/>
+        <updated>2022-02-14T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Voice is a powerful tool that we can use to communicate with each other. This article covers the most critical aspects of designing for voice user interfaces: designing the conversation and designing visual interfaces.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nick Babich &amp; Gleb Kuznetsov)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.14.4]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.4</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.4"/>
+        <updated>2022-02-14T06:58:28.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: Several style issues]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.14.3]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.3</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.3"/>
+        <updated>2022-02-14T06:29:16.000Z</updated>
+        <summary type="html"><![CDATA[style tweak]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.14.2]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.2</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.2"/>
+        <updated>2022-02-14T05:53:33.000Z</updated>
+        <summary type="html"><![CDATA[New: Adjust article grouping based on timezone. You need to add timezone in osmosfeed.yml for accurate grouping. See details in documentation.
+New: Card title now toggles card content
+New: all toggles on the UI are persisted with local storage. You can use it to track read/unread status within a single browser.
+New: Build timestamp now links to the GitHub Action run
+Changed: Sources are sorted based on publish time rather than alphabetical order
+Changed: Style adjusted for easier reading
+Fixed: Horizontal overflow on Safari
+Fixed: HTML syntax error in default template]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.14.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.1"/>
+        <updated>2022-02-14T05:26:23.000Z</updated>
+        <summary type="html"><![CDATA[git typo in gh run url]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.14.0: V1.14.0 (#79)]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.0"/>
+        <updated>2022-02-14T05:13:00.000Z</updated>
+        <summary type="html"><![CDATA[New: Adjust article grouping based on timezone. You need to add timezone in osmosfeed.yml for accurate grouping. See details in documentation.
+New: Card title now toggles card content
+New: all toggles on the UI are persisted with local storage. You can use it to track read/unread status within a single browser.
+New: Build timestamp now links to the GitHub Action run
+Changed: Sources are sorted based on publish time rather than alphabetical order
+Changed: Style adjusted for easier reading
+Fixed: Horizontal overflow on Safari
+Fixed: HTML syntax error in default template]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v1.13.0]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0</id>
@@ -72,7 +218,7 @@ Your CSS reset needs text-size-adjust (probably) originally published on CSS-Tri
         <id>61f587bbf2ed6b06db5a8380</id>
         <link href="https://www.freecodecamp.org/news/how-to-deploy-aws-infrastructure-with-terraform-and-github-actions-a-practical-multi-environment-ci-cd-guide/"/>
         <updated>2022-02-11T19:09:46.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I've been considering developing a complete end-to-end green field DevOps personal lab project.  The term "greenfield software project" refers to the development of a system for a new product that requires development from scratch with no legacy code.  This is a method you use when you are]]></summary>
+        <summary type="html"><![CDATA[Recently, I've been considering developing a complete end-to-end greenfield DevOps personal lab project.  The term "greenfield software project" refers to the development of a system for a new product that requires development from scratch with no legacy code.  This is a method you use when you are beginning]]></summary>
         <author>
             <name>Nitheesh Poojary</name>
         </author>
@@ -156,46 +302,6 @@ Developers Speculating About the Long-Distant Future: 2022 originally published 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript Execution Context – How JS Works Behind The Scenes]]></title>
-        <id>61fc8bbef2ed6b06db5ac470</id>
-        <link href="https://www.freecodecamp.org/news/execution-context-how-javascript-works-behind-the-scenes/"/>
-        <updated>2022-02-10T19:56:18.000Z</updated>
-        <summary type="html"><![CDATA[All JavaScript code needs to be hosted and run in some kind of environment. In most cases, that environment would be a web browser.  For any piece of JavaScript code to be executed in a web browser, a lot of processes take place behind the scenes. In this article,]]></summary>
-        <author>
-            <name>Victor Ikechukwu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Antimalware Service Executable? Why is it High CPU Disk Usage?]]></title>
-        <id>6204e89c56125b0677c639a4</id>
-        <link href="https://www.freecodecamp.org/news/what-is-antimalware-service-executable-why-is-it-high-cpu-disk-usage/"/>
-        <updated>2022-02-10T17:31:27.000Z</updated>
-        <summary type="html"><![CDATA[Antimalware service executable is a component of Windows Security that runs in the background. But sometimes antimalware service executable can impact Windows 10 computers negatively by using too much CPU. In this guide, I will show you what antimalware service executable is, why it uses so much CPU, and how]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Supabase Authentication to a Vue App]]></title>
-        <id>6203e7fe56125b0677c6337b</id>
-        <link href="https://www.freecodecamp.org/news/add-supabase-authentication-to-vue/"/>
-        <updated>2022-02-10T16:40:00.000Z</updated>
-        <summary type="html"><![CDATA[In this post we will walk through getting authentication set up using Supabase and Vue 3.  This will also work with Vue 2, but you'll need to move things around to work with the options API. I am using Vue 3 as it is now the default version [https://blog.vuejs.org/posts/vue-3-as-the-new-default.html].]]></summary>
-        <author>
-            <name>Brian Barrow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Markdown Cheat Sheet – How to Write in Markdown with Examples]]></title>
-        <id>61f43d0ff2ed6b06db5a7157</id>
-        <link href="https://www.freecodecamp.org/news/markdown-cheat-sheet/"/>
-        <updated>2022-02-10T16:31:38.000Z</updated>
-        <summary type="html"><![CDATA[Markdown has gained popularity because it's easy to use and it's widely accepted across platforms.  You can use markdown to write content that can be conveyed in plain text. A good example would be a blog post. In this article, you'll learn what markdown is and how to use]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Helpful Tips for Starting a Next.js Chrome Extension]]></title>
         <id>https://css-tricks.com/?p=363079</id>
         <link href="https://css-tricks.com/nextjs-chrome-extension-starter/"/>
@@ -216,16 +322,6 @@ Cloudinary is a host for your digital assets like images and video. If you don�
 A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain APIs - How to Query on the Blockchain]]></title>
-        <id>6204203956125b0677c6377b</id>
-        <link href="https://www.freecodecamp.org/news/blockchain-apis-how-to-query-on-the-blockchain/"/>
-        <updated>2022-02-10T14:51:41.000Z</updated>
-        <summary type="html"><![CDATA[If you wanna build apps on the blockchain, you are likely going to need a way to query data. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to query data on the blockchain in order to build your own decentralized apps. Ania Kubów]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -329,17 +425,6 @@ Using Different Color Spaces for Non-Boring Gradients originally published on CS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Scroll Snap Slide Deck That Supports Live Coding]]></title>
-        <id>https://css-tricks.com/?p=362616</id>
-        <link href="https://css-tricks.com/css-scroll-snap-slide-deck/"/>
-        <updated>2022-02-07T15:24:44.000Z</updated>
-        <summary type="html"><![CDATA[Virtual conferences have changed the game in terms of how a presenter is able to deliver content to an audience. At a live event it’s likely you just have your laptop, but at home, you may have multiple monitors so …
-CSS Scroll Snap Slide Deck That Supports Live Coding originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Stephanie Eckles</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using QR Codes In Your Business: Best Practices And Pitfalls]]></title>
         <id>https://smashingmagazine.com/2022/02/qr-codes-business-best-practices-pitfalls/</id>
         <link href="https://smashingmagazine.com/2022/02/qr-codes-business-best-practices-pitfalls/"/>
@@ -347,17 +432,6 @@ CSS Scroll Snap Slide Deck That Supports Live Coding originally published on CSS
         <summary type="html"><![CDATA[While QR codes have many uses and can be leveraged at many touch points, they are just one of dozens of technologies that can improve the customer’s journey. Stanislav Khrustalev shares his advice with a list of things to keep in mind when using QR codes for your business.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Stanislav Khrustalev)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Deep Introduction to WordPress Block Themes]]></title>
-        <id>https://css-tricks.com/?p=362799</id>
-        <link href="https://css-tricks.com/a-deep-introduction-to-wordpress-block-themes/"/>
-        <updated>2022-02-04T15:07:04.000Z</updated>
-        <summary type="html"><![CDATA[The relatively new WordPress editor, also known as the WordPress Block Editor, always under development via the Gutenberg plugin, has been with us since 2018. You can use the block editor on any WordPress theme, provided the theme …
-A Deep Introduction to WordPress Block Themes originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ganesh Dahal</name>
         </author>
     </entry>
     <entry>
