@@ -1,10 +1,124 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-16T00:03:04.636Z</id>
+    <id>urn:2022-02-17T00:02:45.251Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-16T00:03:04.636Z</updated>
+    <updated>2022-02-17T00:02:45.251Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Remote Work – How to Find Remote Working Jobs from Home]]></title>
+        <id>620a157456125b0677c64db4</id>
+        <link href="https://www.freecodecamp.org/news/remote-work-how-to-find-remote-working-jobs-from-home/"/>
+        <updated>2022-02-16T22:34:11.000Z</updated>
+        <summary type="html"><![CDATA[Remote work is becoming more common and more popular, as an increasing number of people want to have a flexible working schedule. There is no better time than now to find a remote job and to work from home. There are plenty of roles that can be done remotely, especially]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Print Type of Variable – How to Get Var Type]]></title>
+        <id>620c966821bfb3068cf2938f</id>
+        <link href="https://www.freecodecamp.org/news/python-print-type-of-variable-how-to-get-var-type/"/>
+        <updated>2022-02-16T18:16:37.000Z</updated>
+        <summary type="html"><![CDATA[If you're a Python beginner, becoming familiar with all its various data types can be confusing at first. After all, there are a lot of them available to you in the language. In this article, I'm going to show you how to get the type of various data structures in]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install WSL2 (Windows Subsystem for Linux 2) on Windows 10]]></title>
+        <id>62091cf856125b0677c64cae</id>
+        <link href="https://www.freecodecamp.org/news/how-to-install-wsl2-windows-subsystem-for-linux-2-on-windows-10/"/>
+        <updated>2022-02-16T17:30:44.000Z</updated>
+        <summary type="html"><![CDATA[Linux is a widely used operating system and is quite important for developers.  There are times when you might need to have both operating systems – Windows and Linux – either for work, study, or even just experimentation.  Luckily, Windows provides a convenient utility for using Linux along]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remove Directory in Linux – How to Delete a Folder from the Command Line]]></title>
+        <id>620bf77e21bfb3068cf28f5c</id>
+        <link href="https://www.freecodecamp.org/news/remove-directory-in-linux-how-to-delete-a-folder-from-the-command-line/"/>
+        <updated>2022-02-16T15:57:04.000Z</updated>
+        <summary type="html"><![CDATA[Linux CLI is a powerful tool that can help you accomplish complex tasks.  One of the common operations you'll need to perform is to delete things. Just as like creating files and folders, deleting them from the Linux command line is something you'll do often.  In this post,]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 React Hooks Your Next Project Needs]]></title>
+        <id>620be19f21bfb3068cf28dfa</id>
+        <link href="https://www.freecodecamp.org/news/react-hooks-your-next-project-needs/"/>
+        <updated>2022-02-16T15:39:06.000Z</updated>
+        <summary type="html"><![CDATA[Here are three custom hooks that will add essential functionality to your React projects in just a line of code. React hooks are powerful for their ability to give us reusable stateful features that are separate from our components. I’ve put together a short list of three custom React hooks]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fix Broken Audio in Headphones and Speakers in Linux]]></title>
+        <id>620510f056125b0677c63a0f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-fix-broken-audio-in-headphones-and-speakers-linux/"/>
+        <updated>2022-02-16T15:27:21.000Z</updated>
+        <summary type="html"><![CDATA[If you are using the Linux operating system on your desktop, you might have faced some audio issues before. Like when you're trying to get sound in your speakers when your headphones are connected to the audio jack.  If so, no worries! It is a pretty common issue that]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Auto-Filling CSS Grid With Max Columns of a Minimum Size]]></title>
+        <id>https://css-tricks.com/?p=363541</id>
+        <link href="https://css-tricks.com/an-auto-filling-css-grid-with-max-columns/"/>
+        <updated>2022-02-16T15:06:57.000Z</updated>
+        <summary type="html"><![CDATA[Within Drupal 10 core, we’re implementing a new auto-filling CSS Grid technique that I think is cool enough to share with the world.
+The requirements are:
+The user specifies a maximum number of columns. This is the auto-filling grid’s “natural” 
+…
+An Auto-Filling CSS Grid With Max Columns of a Minimum Size originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Mike Herchel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Audit a Class Online – Learn from Free University Courses]]></title>
+        <id>61fb236ef2ed6b06db5ab8eb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-audit-a-class-university-course/"/>
+        <updated>2022-02-16T14:13:29.000Z</updated>
+        <summary type="html"><![CDATA[These days, there are thousands of publicly available college courses on the web. You can audit those courses even if you're not enrolled in a program. In our video course [https://youtu.be/QeRSEoqpKVI], Sam Crombie and I explore what auditing is and why you should consider trying it.  We discuss how]]></summary>
+        <author>
+            <name>Seth Goldin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 30-minute guide to rocking your next coding interview]]></title>
+        <id>5f9cb349740569d1a4cac7db</id>
+        <link href="https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/"/>
+        <updated>2022-02-16T13:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Despite scoring decent grades in both my CS101 Algorithm class and my Data Structures class in university, I shudder at the thought of going through a coding interview that focuses on algorithms. Hence I spent the last three months figuring out how to improve my coding interview skills and eventually]]></summary>
+        <author>
+            <name>Yangshun Tay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Falling In Love With The Web: Inspiring Websites And Tools]]></title>
+        <id>https://smashingmagazine.com/2022/02/inspiring-websites-tools/</id>
+        <link href="https://smashingmagazine.com/2022/02/inspiring-websites-tools/"/>
+        <updated>2022-02-16T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[We all need a little inspiration boost every now and again. In this post, we collected inspiring resources from all across the web for you — beautiful eye candy, tips to challenge your skills, and useful tools that are bound to spark new ideas. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn iOS Development by Building a Netflix Clone]]></title>
+        <id>620c202c21bfb3068cf290cb</id>
+        <link href="https://www.freecodecamp.org/news/learn-ios-development-by-building-a-netflix-clone/"/>
+        <updated>2022-02-15T22:02:32.000Z</updated>
+        <summary type="html"><![CDATA[Swift is one of the main languages used for iOS development. What better way to learn how to build an iOS app than to recreate a popular app? We just published a 5-hour course on the freeCodeCamp.org YouTube channel that will teach you how to use Swift 5, UIKit, and]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GSAP Flip Plugin for Animation]]></title>
         <id>https://css-tricks.com/?p=363604</id>
@@ -62,16 +176,6 @@ WordPress.com Has a New Home on YouTube originally published on CSS-Tricks. You 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn React Hooks – A Beginner's Guide]]></title>
-        <id>620a618e56125b0677c64e72</id>
-        <link href="https://www.freecodecamp.org/news/the-beginners-guide-to-react-hooks/"/>
-        <updated>2022-02-14T21:04:27.000Z</updated>
-        <summary type="html"><![CDATA[Functional components weren't always the preferred method for declaring components in React.  Before React version 16.8 was introduced, functional components were treated much like second-class citizens. They couldn't handle state, logic, and lots of other React features, and we only used them for rendering very simple components to the]]></summary>
-        <author>
-            <name>Victor Ikechukwu</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why are hyperlinks blue?]]></title>
         <id>https://css-tricks.com/?p=363555</id>
         <link href="https://css-tricks.com/why-are-hyperlinks-blue/"/>
@@ -80,46 +184,6 @@ WordPress.com Has a New Home on YouTube originally published on CSS-Tricks. You 
 Why are hyperlinks blue? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Setup a Basic Serverless REST API with AWS Lambda and API Gateway]]></title>
-        <id>61e80555183181284a1916cd</id>
-        <link href="https://www.freecodecamp.org/news/how-to-setup-a-basic-serverless-backend-with-aws-lambda-and-api-gateway/"/>
-        <updated>2022-02-14T19:10:14.000Z</updated>
-        <summary type="html"><![CDATA[As developers, we are always trying to optimize everything from how people communicate to how people buy things. The goal is to make humans arguably more productive.  In the spirit of making humans more productive, the software development landscape has seen a dramatic rise in the emergence of developer]]></summary>
-        <author>
-            <name>Nyior Clement</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Important Lessons they Don't Teach You in Business School]]></title>
-        <id>620a9e7521bfb3068cf286fe</id>
-        <link href="https://www.freecodecamp.org/news/important-lessons-they-dont-teach-you-in-business-school/"/>
-        <updated>2022-02-14T18:30:23.000Z</updated>
-        <summary type="html"><![CDATA[How can you find customers? How can you get a meeting with anyone? How can you take your career to the next level?  Learn the answers to these questions and more in an entrepreneurship course we just published on the freeCodeCamp.org YouTube channel. Business Insider wrote an article stating]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The React Cheatsheet for 2022]]></title>
-        <id>6207facb56125b0677c649a3</id>
-        <link href="https://www.freecodecamp.org/news/the-react-cheatsheet/"/>
-        <updated>2022-02-14T17:02:30.000Z</updated>
-        <summary type="html"><![CDATA[Do you want to get up to speed with React as quickly as possible? I’ve put together a super helpful cheatsheet to give you a complete overview of all of the React concepts you need to know in 2022. Let’s get started! Table of Contents  * React Elements]]></summary>
-        <author>
-            <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use PropTypes in React]]></title>
-        <id>61fcba1ef2ed6b06db5ac4db</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-proptypes-in-react/"/>
-        <updated>2022-02-14T16:36:09.000Z</updated>
-        <summary type="html"><![CDATA[PropTypes are a good first line defense when it comes to debugging your apps. But before getting into detail about PropTypes, we have to understand the concept of props. Props [https://tekolio.com/what-are-props-in-react-and-how-to-use-them/] are the read-only properties that are shared between components to give the unidirectional flow of React a dynamic touch.]]></summary>
-        <author>
-            <name>Ateev Duggal</name>
         </author>
     </entry>
     <entry>
@@ -260,36 +324,6 @@ Your CSS reset needs text-size-adjust (probably) originally published on CSS-Tri
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Open Task Manager on Mac – Apple Shortcut Tutorial]]></title>
-        <id>62062b0b56125b0677c63fe4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-open-task-manager-on-mac-apple-shortcut-tutorial/"/>
-        <updated>2022-02-11T21:36:17.000Z</updated>
-        <summary type="html"><![CDATA[Having problems with our computers is never fun. And what's often worse than the problems themselves is that they seem to occur when we're in the middle of an important task that needs to get done. The computer starts to significanlty slow down and an app we are using might]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy AWS Infrastructure with Terraform and Github Actions – A Multi-Environment CI/CD Guide]]></title>
-        <id>61f587bbf2ed6b06db5a8380</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-aws-infrastructure-with-terraform-and-github-actions-a-practical-multi-environment-ci-cd-guide/"/>
-        <updated>2022-02-11T19:09:46.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I've been considering developing a complete end-to-end greenfield DevOps personal lab project.  The term "greenfield software project" refers to the development of a system for a new product that requires development from scratch with no legacy code.  This is a method you use when you are beginning]]></summary>
-        <author>
-            <name>Nitheesh Poojary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fork a GitHub Repository – A Complete Workflow]]></title>
-        <id>6203730c56125b0677c632a1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-fork-a-github-repository/"/>
-        <updated>2022-02-11T18:02:16.000Z</updated>
-        <summary type="html"><![CDATA[GitHub is a great application that helps you manage your Git repositories. You can also use it to contribute to the open source ecosystem and collaborate with other contributors.  Public repositories on GitHub often get lots of attention from contributors, and this helps enhance the project. So how can]]></summary>
-        <author>
-            <name>TAPAS ADHIKARY</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Multi-Value CSS Properties With Optional Custom Property Values]]></title>
         <id>https://css-tricks.com/?p=363027</id>
         <link href="https://css-tricks.com/optional-custom-property-values-trick/"/>
@@ -312,16 +346,6 @@ Multi-Value CSS Properties With Optional Custom Property Values originally publi
         <summary type="html"><![CDATA[This installment of *Web Design Done Well* celebrates weird and wacky websites. Sites with sweet, innocent, sometimes pointless purposes. Are they money makers? Game changers? Not necessarily, but they sure are fun, and in ways only the web could really manage.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[parseInt() in JavaScript – JS String to Int Example]]></title>
-        <id>6204325356125b0677c637f0</id>
-        <link href="https://www.freecodecamp.org/news/parseint-in-javascript-js-string-to-int-example/"/>
-        <updated>2022-02-11T00:44:09.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we will talk about the parseInt function in JavaScript. This function parses (break down) a string and returns an integer or NaN (Not a Number).  How the parseInt function works The main purpose of using the parseInt function is to extract a number from a string.]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
         </author>
     </entry>
     <entry>
@@ -400,25 +424,6 @@ How to Make CSS Slanted Containers originally published on CSS-Tricks. You shoul
         <summary type="html"><![CDATA[In this article, Steven Hoober shines the spotlight on Fitts’ Law and explains why we should always ask questions and consider what particular guidelines and lessons mean to our users and our products.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Steven Hoober)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No Motion Isn’t Always prefers-reduced-motion]]></title>
-        <id>https://css-tricks.com/?p=363057</id>
-        <link href="https://css-tricks.com/nuking-motion-with-prefers-reduced-motion/"/>
-        <updated>2022-02-08T20:55:51.000Z</updated>
-        <summary type="html"><![CDATA[There is a code snippet that I see all the time when the media query prefers-reduced-motion is talked about. Here it is:
-@media (prefers-reduced-motion: reduce) {
-  * {
-    animation-duration: 0.01ms !important;
-    animation-iteration-count: 1 !important;
-    transition-duration: 0.01ms !important;
-    scroll-behavior: auto !important;
-  
-…
-No Motion Isn’t Always prefers-reduced-motion originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -559,26 +564,6 @@ No Motion Isn’t Always prefers-reduced-motion originally published on CSS-Tric
         <summary type="html"><![CDATA[What goes into creating a successful design system? How can you take your testing workflow to the next level? And what smart interface design patterns could help you enhance your UIs? Let’s figure it out. With our [online workshops on front-end and UX](https://smashingconf.com/online-workshops).]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freebie: Wayfinding Icon Sets (164 Icons, PNG, SVG, AI, EPS)]]></title>
-        <id>https://smashingmagazine.com/2022/01/freebie-wayfinding-icon-sets-exhibition-concert-museum/</id>
-        <link href="https://smashingmagazine.com/2022/01/freebie-wayfinding-icon-sets-exhibition-concert-museum/"/>
-        <updated>2022-01-18T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies) related to different occasions and themes. We hope that with this icon set, everyone will be able to find their own use case for these icons in particular. Today, we present to you three icon sets designed by the creative folks at GraphicSurf — all free for personal and commercial use.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Anton Tyschenko)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern Fluid Typography Using CSS Clamp]]></title>
-        <id>https://smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/</id>
-        <link href="https://smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/"/>
-        <updated>2022-01-17T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’ll explore fluid typography principles, use-cases, implementation with CSS clamp() and an interactive fluid typography calculator.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
         </author>
     </entry>
 </feed>
