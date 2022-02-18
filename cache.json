@@ -83,12 +83,32 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=363179",
+          "author": "Adam Rackis",
+          "description": "Font Awesome is an incredibly popular icon library. Unfortunately, it’s somewhat easy to use in a way that results in less-than-ideal performance. By subsetting Font Awesome, we can remove any unused glyphs from the font files it provides. This will …\nSubsetting Font Awesome to Improve Performance originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/subsetting-font-awesome-to-improve-performance/",
+          "publishedOn": "2022-02-17T15:21:41.000Z",
+          "wordCount": 2089,
+          "title": "Subsetting Font Awesome to Improve Performance",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363179"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363861",
+          "author": "Chris Coyier",
+          "description": "A useful little UI widget thingy here from Jens Kuerschner. Click the add-to-calendar button, get a list of calendar apps, the user selects which one they actually use, and they get what they need for that calendar. Could be a …\nAdd-to-Calendar Button UI Widget originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/add-to-calendar-button-ui-widget/",
+          "publishedOn": "2022-02-17T01:14:21.000Z",
+          "wordCount": 799,
+          "title": "Add-to-Calendar Button UI Widget",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363861"
+        },
+        {
           "id": "https://css-tricks.com/?p=363541",
           "author": "Mike Herchel",
           "description": "Within Drupal 10 core, we’re implementing a new auto-filling CSS Grid technique that I think is cool enough to share with the world.\nThe requirements are:\nThe user specifies a maximum number of columns. This is the auto-filling grid’s “natural” \n…\nAn Auto-Filling CSS Grid With Max Columns of a Minimum Size originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/an-auto-filling-css-grid-with-max-columns/",
           "publishedOn": "2022-02-16T15:06:57.000Z",
-          "wordCount": 1130,
+          "wordCount": 1291,
           "title": "An Auto-Filling CSS Grid With Max Columns of a Minimum Size",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363541"
         },
@@ -108,7 +128,7 @@
           "description": "Creating CSS link hover effects can add a bit of flair to an otherwise bland webpage. If you’ve ever found yourself stumped trying to make a slick hover effect, then I have six CSS effects for you to take and …\n6 Creative Ideas for CSS Link Hover Effects originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-link-hover-effects/",
           "publishedOn": "2022-02-15T15:37:04.000Z",
-          "wordCount": 2444,
+          "wordCount": 2628,
           "title": "6 Creative Ideas for CSS Link Hover Effects",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363124"
         },
@@ -128,7 +148,7 @@
           "description": "Last year, Elise Blanchard did some great historical research and discovered that blue hyperlinks replaced black hyperlinks in 1993. They’ve been blue for so long now that the general advice I always hear is to keep them that way. There …\nWhy are hyperlinks blue? originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/why-are-hyperlinks-blue/",
           "publishedOn": "2022-02-14T20:13:31.000Z",
-          "wordCount": 583,
+          "wordCount": 763,
           "title": "Why are hyperlinks blue?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363555"
         },
@@ -138,7 +158,7 @@
           "description": "The File System Access API is a web API that allows read and write access to a user’s local files. It unlocks new capabilities to build powerful web applications, such as text editors or IDEs, image editing tools, improved …\nGetting Started With the File System Access API originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/getting-started-with-the-file-system-access-api/",
           "publishedOn": "2022-02-14T16:01:21.000Z",
-          "wordCount": 1659,
+          "wordCount": 2309,
           "title": "Getting Started With the File System Access API",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363339"
         },
@@ -158,7 +178,7 @@
           "description": "Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Like React and JavaScript! Here’s a list of nine links to other articles about them that I’ve been saving up and …\n9 New React and JavaScript Links for February 2022 originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/9-new-react-and-javascript-links-for-february-2022/",
           "publishedOn": "2022-02-11T23:11:28.000Z",
-          "wordCount": 943,
+          "wordCount": 942,
           "title": "9 New React and JavaScript Links for February 2022",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363396"
         },
@@ -168,7 +188,7 @@
           "description": "Imagine you have an element with a multi-value CSS property, such as transform: optional custom property values:\n.el {\n  transform: translate(100px) scale(1.5) skew(5deg);\n}\nNow imagine you don’t always want all the transform values to be applied, so some …\nMulti-Value CSS Properties With Optional Custom Property Values originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/optional-custom-property-values-trick/",
           "publishedOn": "2022-02-11T15:30:11.000Z",
-          "wordCount": 801,
+          "wordCount": 824,
           "title": "Multi-Value CSS Properties With Optional Custom Property Values",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363027"
         },
@@ -198,7 +218,7 @@
           "description": "I recently rewrote one of my projects — Minimal Theme for Twitter — as a Next.js Chrome extension because I wanted to use React for the pop-up. Using React would allow me to clearly separate my extension’s pop-up component and …\nHelpful Tips for Starting a Next.js Chrome Extension originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/nextjs-chrome-extension-starter/",
           "publishedOn": "2022-02-10T15:24:02.000Z",
-          "wordCount": 1287,
+          "wordCount": 1326,
           "title": "Helpful Tips for Starting a Next.js Chrome Extension",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363079"
         },
@@ -208,29 +228,9 @@
           "description": "(This is a sponsored post.)\nCloudinary is a host for your digital assets like images and video. If you don’t already know them, you should, because you can build it into the asset management you almost certainly need to …\nA Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/a-chrome-extension-for-cloudinary-that-helps-you-pluck-out-useful-media-urls-from-your-library-quickly/",
           "publishedOn": "2022-02-10T15:23:31.000Z",
-          "wordCount": 895,
+          "wordCount": 881,
           "title": "A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362991"
-        },
-        {
-          "id": "https://css-tricks.com/?p=362777",
-          "author": "Chris Coyier",
-          "description": "Say you have a bitmap graphic — like a JPG, PNG, or GIF — and you wish it was vector, like SVG. What do you do? You could trace it yourself in some kind of design software. Or tools within …\nSVGcode for “Live Tracing” Raster Images originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/svgcode-raster-to-vector/",
-          "publishedOn": "2022-02-09T21:39:41.000Z",
-          "wordCount": 822,
-          "title": "SVGcode for “Live Tracing” Raster Images",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362777"
-        },
-        {
-          "id": "https://css-tricks.com/?p=362940",
-          "author": "Dave Seidman",
-          "description": "I was updating my portfolio and wanted to use the forward slash (/) as a visual element for the site’s main layout. I hadn’t attempted to create a slanted container in CSS before, but it seemed like it …\nHow to Make CSS Slanted Containers originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-slanted-containers/",
-          "publishedOn": "2022-02-09T15:19:47.000Z",
-          "wordCount": 1363,
-          "title": "How to Make CSS Slanted Containers",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362940"
         }
       ]
     },
@@ -245,7 +245,7 @@
           "description": "We all need a little inspiration boost every now and again. In this post, we collected inspiring resources from all across the web for you — beautiful eye candy, tips to challenge your skills, and useful tools that are bound to spark new ideas. Enjoy!",
           "link": "https://smashingmagazine.com/2022/02/inspiring-websites-tools/",
           "publishedOn": "2022-02-16T11:30:00.000Z",
-          "wordCount": 3730,
+          "wordCount": 3734,
           "title": "Falling In Love With The Web: Inspiring Websites And Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/04bfe761-b62e-4717-89c3-9099cb0286bb/inspiring-websites-tools.jpg",
@@ -260,7 +260,7 @@
           "description": "In this article, Leonardo Losoviz discusses some potential consequences as well as positive outcomes of WordPress joining the Block Protocol.",
           "link": "https://smashingmagazine.com/2022/02/implications-wordpress-joining-block-protocol/",
           "publishedOn": "2022-02-15T10:00:00.000Z",
-          "wordCount": 3934,
+          "wordCount": 3935,
           "title": "Implications Of WordPress Joining The Block Protocol",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7e6ffb6e-3386-4823-a9ef-b3cd63f1f398/implications-wordpress-joining-block-protocol.jpg",
@@ -275,7 +275,7 @@
           "description": "Voice is a powerful tool that we can use to communicate with each other. This article covers the most critical aspects of designing for voice user interfaces: designing the conversation and designing visual interfaces.",
           "link": "https://smashingmagazine.com/2022/02/voice-user-interfaces-guide/",
           "publishedOn": "2022-02-14T13:30:00.000Z",
-          "wordCount": 4403,
+          "wordCount": 4404,
           "title": "Everything You Want To Know About Creating Voice User Interfaces",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1470bd2f-c151-4408-8f43-0a7d76a67249/voice-user-interfaces-guide.jpg",
@@ -290,7 +290,7 @@
           "description": "This installment of *Web Design Done Well* celebrates weird and wacky websites. Sites with sweet, innocent, sometimes pointless purposes. Are they money makers? Game changers? Not necessarily, but they sure are fun, and in ways only the web could really manage.",
           "link": "https://smashingmagazine.com/2022/02/web-design-done-well-perfectly-pointless/",
           "publishedOn": "2022-02-11T12:00:00.000Z",
-          "wordCount": 1703,
+          "wordCount": 1711,
           "title": "Web Design Done Well: Perfectly Pointless",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a885ddca-3e45-4167-8475-3ccd9181e712/web-design-done-well-perfectly-pointless.jpg",
@@ -320,7 +320,7 @@
           "description": "Statoscope is an instrument that analyses your webpack-bundles. Created by Sergey Melukov, it started out as an experimental version in late 2016, which has now become a full-fledged toolkit for viewing, analyzing, and validating webpack-bundles.",
           "link": "https://smashingmagazine.com/2022/02/statoscope-course-intensive-therapy-bundle/",
           "publishedOn": "2022-02-08T10:00:00.000Z",
-          "wordCount": 5258,
+          "wordCount": 5261,
           "title": "Statoscope: A Course Of Intensive Therapy For Your Bundle",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8c91f031-fdf7-4b31-8a09-b7e0b0d01cc7/statoscope-course-intensive-therapy-bundle.jpg",
@@ -335,7 +335,7 @@
           "description": "While QR codes have many uses and can be leveraged at many touch points, they are just one of dozens of technologies that can improve the customer’s journey. Stanislav Khrustalev shares his advice with a list of things to keep in mind when using QR codes for your business.",
           "link": "https://smashingmagazine.com/2022/02/qr-codes-business-best-practices-pitfalls/",
           "publishedOn": "2022-02-07T14:00:00.000Z",
-          "wordCount": 2792,
+          "wordCount": 2782,
           "title": "Using QR Codes In Your Business: Best Practices And Pitfalls",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa41b6d9-f3ce-4b05-a110-21a7bc6c7595/qr-codes-business-best-practices-pitfalls.jpg",
@@ -365,7 +365,7 @@
           "description": "In this article, we’ll look specifically at what we can do to reduce the impact of social media embeds and social sharing widgets — or even some strategies to avoid them altogether. While the spotlight is on reducing the environmental impact, many of these tips will be great for performance too.",
           "link": "https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/",
           "publishedOn": "2022-02-03T12:00:00.000Z",
-          "wordCount": 2559,
+          "wordCount": 2555,
           "title": "Reducing The Web’s Carbon Footprint: Optimizing Social Media Embeds",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/686a0218-bea0-4a0e-a2b9-aca40c29d412/reducing-web-carbon-footprint-optimizing-social-media-embeds.jpg",
@@ -380,7 +380,7 @@
           "description": "In this article, Adrian Bece shares more about the benefits and caveats of code-splitting and how page performance and load times can be improved by dynamically loading expensive, non-critical JavaScript bundles.",
           "link": "https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/",
           "publishedOn": "2022-02-02T10:30:00.000Z",
-          "wordCount": 4518,
+          "wordCount": 4521,
           "title": "Improving JavaScript Bundle Performance With Code-Splitting",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f721011b-37a8-4c1d-a8b9-b249bf938678/javascript-bundle-performance-code-splitting.jpg",
@@ -410,7 +410,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for February 2022.",
           "link": "https://smashingmagazine.com/2022/01/desktop-wallpaper-calendars-february-2022/",
           "publishedOn": "2022-01-31T09:00:00.000Z",
-          "wordCount": 2259,
+          "wordCount": 2279,
           "title": "28 Days Of Inspiration (February 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/04d12428-d98f-4633-ad77-fed864da6842/feb-22-magic-of-music-preview-opt.png",
@@ -425,7 +425,7 @@
           "description": "In this article, Noam Rosenthal dives deep into a few technical features that are common across frameworks, and explains how some of the different frameworks implement them and what they cost.",
           "link": "https://smashingmagazine.com/2022/01/web-frameworks-guide-part1/",
           "publishedOn": "2022-01-28T14:00:00.000Z",
-          "wordCount": 2159,
+          "wordCount": 2157,
           "title": "What Web Frameworks Solve And How To Do Without Them (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7ca7294e-9325-4bab-8617-0bc3d42e3053/web-frameworks-guide.jpg",
@@ -440,7 +440,7 @@
           "description": "This article reveals how something as trivial as administration in both software and As-a-service can be either a booster or bottleneck to a company’s productivity and innovation. It also provides several design aspects that UX practitioners should evaluate when designing the administration experience.",
           "link": "https://smashingmagazine.com/2022/01/software-administration-ux/",
           "publishedOn": "2022-01-26T12:00:00.000Z",
-          "wordCount": 2586,
+          "wordCount": 2585,
           "title": "Don’t Underestimate The Software Administration UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a25c6bb8-7778-48e1-b2e8-04cfd46d0765/software-administration-ux.jpg",
@@ -455,7 +455,7 @@
           "description": "What’s new in Chrome, Edge, Safari and Firefox? Patrick Brosset breaks it down with the latest features in DevTools across browsers.",
           "link": "https://smashingmagazine.com/2022/01/devtools-updates-2022/",
           "publishedOn": "2022-01-25T13:00:00.000Z",
-          "wordCount": 2522,
+          "wordCount": 2516,
           "title": "What’s New In DevTools?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e516aa85-3b77-418a-9b43-cec06943b129/devtools-updates-2022.jpg",
@@ -470,7 +470,7 @@
           "description": "Cascade layers introduce the new at-rule of @layer. The intent is to help CSS authors be more intentional about ordering the “layers” of CSS rules as a new method of cascade management.",
           "link": "https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/",
           "publishedOn": "2022-01-24T11:00:00.000Z",
-          "wordCount": 4753,
+          "wordCount": 4755,
           "title": "Getting Started With CSS Cascade Layers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/13b8900c-aa53-49ae-84f7-9fbf598635e2/introduction-css-cascade-layers.jpg",
@@ -485,7 +485,7 @@
           "description": "Joining a team where there are no established design practices may feel disheartening. Does this situation resonate with you? If yes, then read on — as this article is sharing the author’s advice based on his personal experience and it will show you a way (although not easy) of facing the problem in a manner that will bring other benefits, beside order and consistency.",
           "link": "https://smashingmagazine.com/2022/01/from-chaos-to-system-design-teams/",
           "publishedOn": "2022-01-21T14:30:00.000Z",
-          "wordCount": 5323,
+          "wordCount": 5318,
           "title": "From Chaos To System In Design Teams",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a7ab411a-2903-440e-bbfa-4f7914345165/chaos-to-system-design-teams.jpg",
@@ -508,21 +508,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb299a88-9204-4579-bfb0-f9d8dac84014/building-real-app-react-query.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/01/smashingconf-workshops-january-may-2022/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "What goes into creating a successful design system? How can you take your testing workflow to the next level? And what smart interface design patterns could help you enhance your UIs? Let’s figure it out. With our [online workshops on front-end and UX](https://smashingconf.com/online-workshops).",
-          "link": "https://smashingmagazine.com/2022/01/smashingconf-workshops-january-may-2022/",
-          "publishedOn": "2022-01-19T11:00:00.000Z",
-          "wordCount": 814,
-          "title": "Upcoming Online Workshops: January &ndash; May 2022",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a64a7afb-ef32-458d-9dc1-d8b286fc0327/smashing-online-workshops-winter-2022.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a64a7afb-ef32-458d-9dc1-d8b286fc0327/smashing-online-workshops-winter-2022.png"
         }
       ]
     },
@@ -531,6 +516,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6206b26756125b0677c646d3",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In this tutorial, we will talk about an important CSS property – the overflow  property.  It helps us control what happens when an element's content is too big to fit into an area. When this happens, it makes the content \"overflow\" into another area, either horizontally (X-axis) or",
+          "link": "https://www.freecodecamp.org/news/css-overflow-visible-scroll-auto-hidden/",
+          "publishedOn": "2022-02-17T20:37:54.000Z",
+          "wordCount": 1283,
+          "title": "CSS Overflow – Visible, Scroll, Auto, or Hidden? The Overflow Property Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/css-overflow.png"
+        },
+        {
+          "id": "620e62a321bfb3068cf2a204",
+          "author": "Reed Barger",
+          "description": "The ultimate tool you have when you're developing your projects is your code editor. Which is why it's so important to set it up properly. In this step-by-step guide, we will go from a completely new VSCode installation to a code editor perfectly prepared for your next React project. Let's",
+          "link": "https://www.freecodecamp.org/news/vscode-react-setup/",
+          "publishedOn": "2022-02-17T16:54:36.000Z",
+          "wordCount": 1168,
+          "title": "How to Set Up VSCode for Your React Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/setup-vscode-for-react-projects.png"
+        },
+        {
+          "id": "620e67e821bfb3068cf2a29c",
+          "author": "Kaushal Joshi",
+          "description": "Previously, if you wanted to include a diagram in your GitHub README file, you would've needed to add it like an image created with third-party software.  This worked, and let us complete our tasks – but why settle for less when you can create a diagram within the README",
+          "link": "https://www.freecodecamp.org/news/how-to-add-diagrams-to-github-readme/",
+          "publishedOn": "2022-02-17T16:37:07.000Z",
+          "wordCount": 854,
+          "title": "How to Add Diagrams to GitHub Markdown Files",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/How-to-Add-Diagrams-to-GitHub-Markdown-Files.png"
+        },
+        {
+          "id": "61f7d395f2ed6b06db5a936a",
+          "author": "Andrej Kovacevic",
+          "description": "Many people who want to try freelancing believe that they need to have years of experience to succeed. But this is a common misconception that many freelancers have disproved. Regardless of your industry, a helpful blueprint can be all you need to fast-track your freelancing success. This article underscores what",
+          "link": "https://www.freecodecamp.org/news/how-to-start-a-freelance-dev-business/",
+          "publishedOn": "2022-02-17T15:04:27.000Z",
+          "wordCount": 1571,
+          "title": "How to Start a Freelance Dev Business",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/freelance-dev-business-article-image.jpg"
+        },
         {
           "id": "620a157456125b0677c64db4",
           "author": "Dionysia Lemonaki",
@@ -590,46 +615,6 @@
           "wordCount": 821,
           "title": "How to Fix Broken Audio in Headphones and Speakers in Linux",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/Screenshot--10-.jpg"
-        },
-        {
-          "id": "61fb236ef2ed6b06db5ab8eb",
-          "author": "Seth Goldin",
-          "description": "These days, there are thousands of publicly available college courses on the web. You can audit those courses even if you're not enrolled in a program. In our video course [https://youtu.be/QeRSEoqpKVI], Sam Crombie and I explore what auditing is and why you should consider trying it.  We discuss how",
-          "link": "https://www.freecodecamp.org/news/how-to-audit-a-class-university-course/",
-          "publishedOn": "2022-02-16T14:13:29.000Z",
-          "wordCount": 2320,
-          "title": "How to Audit a Class Online – Learn from Free University Courses",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/allaboutauditing.png"
-        },
-        {
-          "id": "5f9cb349740569d1a4cac7db",
-          "author": "Yangshun Tay",
-          "description": "Despite scoring decent grades in both my CS101 Algorithm class and my Data Structures class in university, I shudder at the thought of going through a coding interview that focuses on algorithms. Hence I spent the last three months figuring out how to improve my coding interview skills and eventually",
-          "link": "https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/",
-          "publishedOn": "2022-02-16T13:07:00.000Z",
-          "wordCount": 7123,
-          "title": "The 30-minute guide to rocking your next coding interview",
-          "imageUrl": "https://cdn-media-1.freecodecamp.org/images/1*Qf9fEs5XdOEQiWX3R6R6ww.jpeg"
-        },
-        {
-          "id": "620c202c21bfb3068cf290cb",
-          "author": "Beau Carnes",
-          "description": "Swift is one of the main languages used for iOS development. What better way to learn how to build an iOS app than to recreate a popular app? We just published a 5-hour course on the freeCodeCamp.org YouTube channel that will teach you how to use Swift 5, UIKit, and",
-          "link": "https://www.freecodecamp.org/news/learn-ios-development-by-building-a-netflix-clone/",
-          "publishedOn": "2022-02-15T22:02:32.000Z",
-          "wordCount": 525,
-          "title": "Learn iOS Development by Building a Netflix Clone",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/maxresdefault-1.jpeg"
-        },
-        {
-          "id": "620abe4a21bfb3068cf28888",
-          "author": "Kolade Chris",
-          "description": "In your applications and web projects, there might be times when a user needs to perform an action if a certain condition is met. There might also be cases when you need to make the user perform another action if the condition is not met. To do this in Python,",
-          "link": "https://www.freecodecamp.org/news/python-if-else-python-conditional-syntax-example/",
-          "publishedOn": "2022-02-15T17:43:26.000Z",
-          "wordCount": 1247,
-          "title": "Python If-Else – Python Conditional Syntax Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/py.png"
         }
       ]
     }

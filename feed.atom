@@ -1,10 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-17T00:02:45.251Z</id>
+    <id>urn:2022-02-18T00:03:48.336Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-17T00:02:45.251Z</updated>
+    <updated>2022-02-18T00:03:48.336Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Overflow – Visible, Scroll, Auto, or Hidden? The Overflow Property Explained]]></title>
+        <id>6206b26756125b0677c646d3</id>
+        <link href="https://www.freecodecamp.org/news/css-overflow-visible-scroll-auto-hidden/"/>
+        <updated>2022-02-17T20:37:54.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will talk about an important CSS property – the overflow  property.  It helps us control what happens when an element's content is too big to fit into an area. When this happens, it makes the content "overflow" into another area, either horizontally (X-axis) or]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up VSCode for Your React Projects]]></title>
+        <id>620e62a321bfb3068cf2a204</id>
+        <link href="https://www.freecodecamp.org/news/vscode-react-setup/"/>
+        <updated>2022-02-17T16:54:36.000Z</updated>
+        <summary type="html"><![CDATA[The ultimate tool you have when you're developing your projects is your code editor. Which is why it's so important to set it up properly. In this step-by-step guide, we will go from a completely new VSCode installation to a code editor perfectly prepared for your next React project. Let's]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Diagrams to GitHub Markdown Files]]></title>
+        <id>620e67e821bfb3068cf2a29c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-diagrams-to-github-readme/"/>
+        <updated>2022-02-17T16:37:07.000Z</updated>
+        <summary type="html"><![CDATA[Previously, if you wanted to include a diagram in your GitHub README file, you would've needed to add it like an image created with third-party software.  This worked, and let us complete our tasks – but why settle for less when you can create a diagram within the README]]></summary>
+        <author>
+            <name>Kaushal Joshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subsetting Font Awesome to Improve Performance]]></title>
+        <id>https://css-tricks.com/?p=363179</id>
+        <link href="https://css-tricks.com/subsetting-font-awesome-to-improve-performance/"/>
+        <updated>2022-02-17T15:21:41.000Z</updated>
+        <summary type="html"><![CDATA[Font Awesome is an incredibly popular icon library. Unfortunately, it’s somewhat easy to use in a way that results in less-than-ideal performance. By subsetting Font Awesome, we can remove any unused glyphs from the font files it provides. This will …
+Subsetting Font Awesome to Improve Performance originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Start a Freelance Dev Business]]></title>
+        <id>61f7d395f2ed6b06db5a936a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-start-a-freelance-dev-business/"/>
+        <updated>2022-02-17T15:04:27.000Z</updated>
+        <summary type="html"><![CDATA[Many people who want to try freelancing believe that they need to have years of experience to succeed. But this is a common misconception that many freelancers have disproved. Regardless of your industry, a helpful blueprint can be all you need to fast-track your freelancing success. This article underscores what]]></summary>
+        <author>
+            <name>Andrej Kovacevic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add-to-Calendar Button UI Widget]]></title>
+        <id>https://css-tricks.com/?p=363861</id>
+        <link href="https://css-tricks.com/add-to-calendar-button-ui-widget/"/>
+        <updated>2022-02-17T01:14:21.000Z</updated>
+        <summary type="html"><![CDATA[A useful little UI widget thingy here from Jens Kuerschner. Click the add-to-calendar button, get a list of calendar apps, the user selects which one they actually use, and they get what they need for that calendar. Could be a …
+Add-to-Calendar Button UI Widget originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Remote Work – How to Find Remote Working Jobs from Home]]></title>
         <id>620a157456125b0677c64db4</id>
@@ -80,26 +142,6 @@ An Auto-Filling CSS Grid With Max Columns of a Minimum Size originally published
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Audit a Class Online – Learn from Free University Courses]]></title>
-        <id>61fb236ef2ed6b06db5ab8eb</id>
-        <link href="https://www.freecodecamp.org/news/how-to-audit-a-class-university-course/"/>
-        <updated>2022-02-16T14:13:29.000Z</updated>
-        <summary type="html"><![CDATA[These days, there are thousands of publicly available college courses on the web. You can audit those courses even if you're not enrolled in a program. In our video course [https://youtu.be/QeRSEoqpKVI], Sam Crombie and I explore what auditing is and why you should consider trying it.  We discuss how]]></summary>
-        <author>
-            <name>Seth Goldin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 30-minute guide to rocking your next coding interview]]></title>
-        <id>5f9cb349740569d1a4cac7db</id>
-        <link href="https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/"/>
-        <updated>2022-02-16T13:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Despite scoring decent grades in both my CS101 Algorithm class and my Data Structures class in university, I shudder at the thought of going through a coding interview that focuses on algorithms. Hence I spent the last three months figuring out how to improve my coding interview skills and eventually]]></summary>
-        <author>
-            <name>Yangshun Tay</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Falling In Love With The Web: Inspiring Websites And Tools]]></title>
         <id>https://smashingmagazine.com/2022/02/inspiring-websites-tools/</id>
         <link href="https://smashingmagazine.com/2022/02/inspiring-websites-tools/"/>
@@ -107,16 +149,6 @@ An Auto-Filling CSS Grid With Max Columns of a Minimum Size originally published
         <summary type="html"><![CDATA[We all need a little inspiration boost every now and again. In this post, we collected inspiring resources from all across the web for you — beautiful eye candy, tips to challenge your skills, and useful tools that are bound to spark new ideas. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn iOS Development by Building a Netflix Clone]]></title>
-        <id>620c202c21bfb3068cf290cb</id>
-        <link href="https://www.freecodecamp.org/news/learn-ios-development-by-building-a-netflix-clone/"/>
-        <updated>2022-02-15T22:02:32.000Z</updated>
-        <summary type="html"><![CDATA[Swift is one of the main languages used for iOS development. What better way to learn how to build an iOS app than to recreate a popular app? We just published a 5-hour course on the freeCodeCamp.org YouTube channel that will teach you how to use Swift 5, UIKit, and]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -130,16 +162,6 @@ FLIP, coined by Paul Lewis, is an
 GSAP Flip Plugin for Animation originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python If-Else – Python Conditional Syntax Example]]></title>
-        <id>620abe4a21bfb3068cf28888</id>
-        <link href="https://www.freecodecamp.org/news/python-if-else-python-conditional-syntax-example/"/>
-        <updated>2022-02-15T17:43:26.000Z</updated>
-        <summary type="html"><![CDATA[In your applications and web projects, there might be times when a user needs to perform an action if a certain condition is met. There might also be cases when you need to make the user perform another action if the condition is not met. To do this in Python,]]></summary>
-        <author>
-            <name>Kolade Chris</name>
         </author>
     </entry>
     <entry>
@@ -395,28 +417,6 @@ A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs Fro
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SVGcode for “Live Tracing” Raster Images]]></title>
-        <id>https://css-tricks.com/?p=362777</id>
-        <link href="https://css-tricks.com/svgcode-raster-to-vector/"/>
-        <updated>2022-02-09T21:39:41.000Z</updated>
-        <summary type="html"><![CDATA[Say you have a bitmap graphic — like a JPG, PNG, or GIF — and you wish it was vector, like SVG. What do you do? You could trace it yourself in some kind of design software. Or tools within …
-SVGcode for “Live Tracing” Raster Images originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make CSS Slanted Containers]]></title>
-        <id>https://css-tricks.com/?p=362940</id>
-        <link href="https://css-tricks.com/css-slanted-containers/"/>
-        <updated>2022-02-09T15:19:47.000Z</updated>
-        <summary type="html"><![CDATA[I was updating my portfolio and wanted to use the forward slash (/) as a visual element for the site’s main layout. I hadn’t attempted to create a slanted container in CSS before, but it seemed like it …
-How to Make CSS Slanted Containers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Dave Seidman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fitts’ Law In The Touch Era]]></title>
         <id>https://smashingmagazine.com/2022/02/fitts-law-touch-era/</id>
         <link href="https://smashingmagazine.com/2022/02/fitts-law-touch-era/"/>
@@ -554,16 +554,6 @@ How to Make CSS Slanted Containers originally published on CSS-Tricks. You shoul
         <summary type="html"><![CDATA[In this article, Georgii Perepecho explains the most common React Query features that you need to be familiar with when creating a real-life application that is stable when testing.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Georgii Perepecho)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upcoming Online Workshops: January &ndash; May 2022]]></title>
-        <id>https://smashingmagazine.com/2022/01/smashingconf-workshops-january-may-2022/</id>
-        <link href="https://smashingmagazine.com/2022/01/smashingconf-workshops-january-may-2022/"/>
-        <updated>2022-01-19T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What goes into creating a successful design system? How can you take your testing workflow to the next level? And what smart interface design patterns could help you enhance your UIs? Let’s figure it out. With our [online workshops on front-end and UX](https://smashingconf.com/online-workshops).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
