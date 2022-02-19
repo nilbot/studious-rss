@@ -1,10 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-18T00:03:48.336Z</id>
+    <id>urn:2022-02-19T00:03:17.189Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-18T00:03:48.336Z</updated>
+    <updated>2022-02-19T00:03:17.189Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Manage State in Your React Apps]]></title>
+        <id>620fb6a621bfb3068cf2a92a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-manage-state-in-your-react-apps/"/>
+        <updated>2022-02-18T20:55:31.000Z</updated>
+        <summary type="html"><![CDATA[Managing state in your React apps isn’t as simple as using useState or useReducer. Not only are there are a lot of different kinds of state, but there often dozens of ways of managing each kind. Which should you choose? In this guide, we will uncover the several kinds of]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Remove a Key from a Python Dictionary – Delete Key from Dict]]></title>
+        <id>620ea69721bfb3068cf2a59b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-remove-a-key-from-a-python-dictionary-delete-key-from-dict/"/>
+        <updated>2022-02-18T20:32:40.000Z</updated>
+        <summary type="html"><![CDATA[A dictionary is a very powerful data collection in Python. Dictionaries help make database operations faster.  You can append items to an existing dictionary and remove them as well. In this blog post, we will learn how to delete "keys" using two methods:  1. Deleting key:value pairs using]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparing Node JavaScript to JavaScript in the Browser]]></title>
+        <id>https://css-tricks.com/?p=363467</id>
+        <link href="https://css-tricks.com/node-javascript-compared-to-javascript/"/>
+        <updated>2022-02-18T19:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Being able to understand Node continues to be an important skill if you’re a front-end developer. Deno has arrived as another way to run JavaScript outside the browser, but the huge ecosystem of tools and software built with Node mean …
+Comparing Node JavaScript to JavaScript in the Browser originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Hugh Haworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install Python on Windows]]></title>
+        <id>620f5f5e21bfb3068cf2a6d8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-install-python-in-windows-operating-system/"/>
+        <updated>2022-02-18T16:14:23.000Z</updated>
+        <summary type="html"><![CDATA[Before trying to run any Python program in your Windows operating system, you'll need to check if you have Python installed and added to the environment's path variable correctly. In this article, I will show you how you can check whether you have Python installed successfully in your operating system]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VGA No Signal – How to Fix a Monitor Connection on Windows 10 PC]]></title>
+        <id>620ecdf421bfb3068cf2a603</id>
+        <link href="https://www.freecodecamp.org/news/vga-no-signal-how-to-fix-a-monitor-connection-on-windows-10-pc/"/>
+        <updated>2022-02-18T16:02:36.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes you might turn on your PC but your monitor displays "No Signal" on the screen. In this article, we will look at various solutions for solving this problem. How to Fix a Monitor Connection by Checking Hardware Connections  * Check to see if the VGA connector fits in]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Custom Dashboard with WordPress APIs and React]]></title>
+        <id>620d6f0321bfb3068cf29c08</id>
+        <link href="https://www.freecodecamp.org/news/build-a-custom-dashboard-with-wordpress-apis-and-react/"/>
+        <updated>2022-02-18T15:59:20.000Z</updated>
+        <summary type="html"><![CDATA[When you manage websites, it is all about data: views, response time, users, bounce rate, and so on. And, if you manage websites, you've likely had to deal with a WordPress instance at least once.  There are hundreds – or maybe thousands – of WordPress plugins to retrieve and]]></summary>
+        <author>
+            <name>Marco Venturi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(Jay Freestone’s) Front-End Predictions for 2022]]></title>
+        <id>https://css-tricks.com/?p=363911</id>
+        <link href="https://css-tricks.com/jay-freestone-front-end-predictions-for-2022/"/>
+        <updated>2022-02-18T15:34:39.000Z</updated>
+        <summary type="html"><![CDATA[I linked to Jay’s front-end predictions last year and I think they panned out pretty well. I think he’s got a bit of a knack for that wide-scope look at front-end, including tooling and architecture, as well as browser tech. …
+(Jay Freestone’s) Front-End Predictions for 2022 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thoughts On Markdown]]></title>
+        <id>https://smashingmagazine.com/2022/02/thoughts-on-markdown/</id>
+        <link href="https://smashingmagazine.com/2022/02/thoughts-on-markdown/"/>
+        <updated>2022-02-18T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Markdown in all its flavors, interpretations, and forks won’t go away. However, it’s important to look at emerging content formats that try to encompass modern needs. In this article, Knut shares his advice against Markdown by looking back on why it was introduced in the first place, and by going through some of the major developments of content on the web.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Knut Melvær)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn C++ Programming for Beginners – Free 31-Hour Course]]></title>
+        <id>620ed56e21bfb3068cf2a607</id>
+        <link href="https://www.freecodecamp.org/news/learn-c-with-free-31-hour-course/"/>
+        <updated>2022-02-17T23:16:34.000Z</updated>
+        <summary type="html"><![CDATA[C++ has been one of the most popular programming languages for over 30 years. Developers use it for everything from building video games to coding operating systems. We just published a comprehensive 31-hour C++ course on the freeCodeCamp.org YouTube channel. Daniel Gakwaya developed this course. Daniel is an experienced software]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Overflow – Visible, Scroll, Auto, or Hidden? The Overflow Property Explained]]></title>
         <id>6206b26756125b0677c646d3</id>
@@ -57,6 +149,18 @@ Subsetting Font Awesome to Improve Performance originally published on CSS-Trick
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Top Things You Didn’t Know You Could Do With Netlify CLI￼]]></title>
+        <id>https://css-tricks.com/?p=363872</id>
+        <link href="https://css-tricks.com/top-things-you-didnt-know-you-could-do-with-netlify-cli/"/>
+        <updated>2022-02-17T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+First things first, if you didn’t know Netlify had a CLI, they do.  One of my favorite things about it running the command netlify dev on nearly any static-site generator project is seeing it …
+Top Things You Didn’t Know You Could Do With Netlify CLI￼ originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Add-to-Calendar Button UI Widget]]></title>
         <id>https://css-tricks.com/?p=363861</id>
         <link href="https://css-tricks.com/add-to-calendar-button-ui-widget/"/>
@@ -65,66 +169,6 @@ Subsetting Font Awesome to Improve Performance originally published on CSS-Trick
 Add-to-Calendar Button UI Widget originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remote Work – How to Find Remote Working Jobs from Home]]></title>
-        <id>620a157456125b0677c64db4</id>
-        <link href="https://www.freecodecamp.org/news/remote-work-how-to-find-remote-working-jobs-from-home/"/>
-        <updated>2022-02-16T22:34:11.000Z</updated>
-        <summary type="html"><![CDATA[Remote work is becoming more common and more popular, as an increasing number of people want to have a flexible working schedule. There is no better time than now to find a remote job and to work from home. There are plenty of roles that can be done remotely, especially]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Print Type of Variable – How to Get Var Type]]></title>
-        <id>620c966821bfb3068cf2938f</id>
-        <link href="https://www.freecodecamp.org/news/python-print-type-of-variable-how-to-get-var-type/"/>
-        <updated>2022-02-16T18:16:37.000Z</updated>
-        <summary type="html"><![CDATA[If you're a Python beginner, becoming familiar with all its various data types can be confusing at first. After all, there are a lot of them available to you in the language. In this article, I'm going to show you how to get the type of various data structures in]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install WSL2 (Windows Subsystem for Linux 2) on Windows 10]]></title>
-        <id>62091cf856125b0677c64cae</id>
-        <link href="https://www.freecodecamp.org/news/how-to-install-wsl2-windows-subsystem-for-linux-2-on-windows-10/"/>
-        <updated>2022-02-16T17:30:44.000Z</updated>
-        <summary type="html"><![CDATA[Linux is a widely used operating system and is quite important for developers.  There are times when you might need to have both operating systems – Windows and Linux – either for work, study, or even just experimentation.  Luckily, Windows provides a convenient utility for using Linux along]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remove Directory in Linux – How to Delete a Folder from the Command Line]]></title>
-        <id>620bf77e21bfb3068cf28f5c</id>
-        <link href="https://www.freecodecamp.org/news/remove-directory-in-linux-how-to-delete-a-folder-from-the-command-line/"/>
-        <updated>2022-02-16T15:57:04.000Z</updated>
-        <summary type="html"><![CDATA[Linux CLI is a powerful tool that can help you accomplish complex tasks.  One of the common operations you'll need to perform is to delete things. Just as like creating files and folders, deleting them from the Linux command line is something you'll do often.  In this post,]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 React Hooks Your Next Project Needs]]></title>
-        <id>620be19f21bfb3068cf28dfa</id>
-        <link href="https://www.freecodecamp.org/news/react-hooks-your-next-project-needs/"/>
-        <updated>2022-02-16T15:39:06.000Z</updated>
-        <summary type="html"><![CDATA[Here are three custom hooks that will add essential functionality to your React projects in just a line of code. React hooks are powerful for their ability to give us reusable stateful features that are separate from our components. I’ve put together a short list of three custom React hooks]]></summary>
-        <author>
-            <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fix Broken Audio in Headphones and Speakers in Linux]]></title>
-        <id>620510f056125b0677c63a0f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-fix-broken-audio-in-headphones-and-speakers-linux/"/>
-        <updated>2022-02-16T15:27:21.000Z</updated>
-        <summary type="html"><![CDATA[If you are using the Linux operating system on your desktop, you might have faced some audio issues before. Like when you're trying to get sound in your speakers when your headphones are connected to the audio jack.  If so, no worries! It is a pretty common issue that]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
         </author>
     </entry>
     <entry>
@@ -377,41 +421,6 @@ Multi-Value CSS Properties With Optional Custom Property Values originally publi
         <updated>2022-02-10T23:01:55.000Z</updated>
         <summary type="html"><![CDATA[I was just writing in my “What’s new in since CSS3?” article about recent and possible future changes to CSS colors. It’s weirdly a lot. There are just as many or more new and upcoming ways to define colors than …
 A Whistle-Stop Tour of 4 New CSS Color Features originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developers Speculating About the Long-Distant Future: 2022]]></title>
-        <id>https://css-tricks.com/?p=363480</id>
-        <link href="https://css-tricks.com/developers-speculating-about-the-long-distant-future-2022/"/>
-        <updated>2022-02-10T21:45:09.000Z</updated>
-        <summary type="html"><![CDATA[This is a wonderful roundup from Jeremy, who I picture circling January 1, 2022, in red marker on a giant paper calendar back in 2008 and patiently counting the days.
-See, there was a little smattering of internet drama …
-Developers Speculating About the Long-Distant Future: 2022 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helpful Tips for Starting a Next.js Chrome Extension]]></title>
-        <id>https://css-tricks.com/?p=363079</id>
-        <link href="https://css-tricks.com/nextjs-chrome-extension-starter/"/>
-        <updated>2022-02-10T15:24:02.000Z</updated>
-        <summary type="html"><![CDATA[I recently rewrote one of my projects — Minimal Theme for Twitter — as a Next.js Chrome extension because I wanted to use React for the pop-up. Using React would allow me to clearly separate my extension’s pop-up component and …
-Helpful Tips for Starting a Next.js Chrome Extension originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Thomas Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly]]></title>
-        <id>https://css-tricks.com/?p=362991</id>
-        <link href="https://css-tricks.com/a-chrome-extension-for-cloudinary-that-helps-you-pluck-out-useful-media-urls-from-your-library-quickly/"/>
-        <updated>2022-02-10T15:23:31.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-Cloudinary is a host for your digital assets like images and video. If you don’t already know them, you should, because you can build it into the asset management you almost certainly need to …
-A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
