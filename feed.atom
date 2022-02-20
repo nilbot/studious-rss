@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-19T00:03:17.189Z</id>
+    <id>urn:2022-02-20T00:03:41.136Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-19T00:03:17.189Z</updated>
+    <updated>2022-02-20T00:03:41.136Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,7 +10,7 @@
         <id>620fb6a621bfb3068cf2a92a</id>
         <link href="https://www.freecodecamp.org/news/how-to-manage-state-in-your-react-apps/"/>
         <updated>2022-02-18T20:55:31.000Z</updated>
-        <summary type="html"><![CDATA[Managing state in your React apps isn’t as simple as using useState or useReducer. Not only are there are a lot of different kinds of state, but there often dozens of ways of managing each kind. Which should you choose? In this guide, we will uncover the several kinds of]]></summary>
+        <summary type="html"><![CDATA[Managing state in your React apps isn’t as simple as using useState or  useReducer. Not only are there are a lot of different kinds of state, but there often dozens of ways of managing each kind. Which should you choose? In this guide, we will uncover the several kinds]]></summary>
         <author>
             <name>Reed Barger</name>
         </author>
@@ -553,16 +553,6 @@ A Whistle-Stop Tour of 4 New CSS Color Features originally published on CSS-Tric
         <summary type="html"><![CDATA[Joining a team where there are no established design practices may feel disheartening. Does this situation resonate with you? If yes, then read on — as this article is sharing the author’s advice based on his personal experience and it will show you a way (although not easy) of facing the problem in a manner that will bring other benefits, beside order and consistency.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Javier Cuello)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building The Real App With React Query]]></title>
-        <id>https://smashingmagazine.com/2022/01/building-real-app-react-query/</id>
-        <link href="https://smashingmagazine.com/2022/01/building-real-app-react-query/"/>
-        <updated>2022-01-20T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Georgii Perepecho explains the most common React Query features that you need to be familiar with when creating a real-life application that is stable when testing.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Georgii Perepecho)</name>
         </author>
     </entry>
 </feed>
