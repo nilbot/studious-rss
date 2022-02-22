@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-21T00:03:34.302Z</id>
+    <id>urn:2022-02-22T00:03:30.300Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-21T00:03:34.302Z</updated>
+    <updated>2022-02-22T00:03:30.300Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Online Coding Classes – For Beginners [2022 Guide]]]></title>
+        <id>61d54402d2d9de084285c345</id>
+        <link href="https://www.freecodecamp.org/news/online-coding-classes-for-beginners-2022-guide/"/>
+        <updated>2022-02-21T19:24:05.000Z</updated>
+        <summary type="html"><![CDATA[Learning how to code can help you start a great career as a software developer. There are many free courses you can take to cultivate the skills need to become a developer.  In this article, I'm going to show you 152 beginner friendly courses where you can learn computer]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Low-Code Development?]]></title>
+        <id>6213a92221bfb3068cf2c07b</id>
+        <link href="https://www.freecodecamp.org/news/what-is-low-code/"/>
+        <updated>2022-02-21T19:02:17.000Z</updated>
+        <summary type="html"><![CDATA[Imagine a type of software development platform that enables developers to create applications without writing code.  Low-code platforms use visual drag and drop tools, pre-built components, and templates to help developers quickly create custom applications without any coding knowledge. I'm going to  introduce you to the basics of this]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python String to Array – How to Convert Text to a List]]></title>
+        <id>620e41a421bfb3068cf2a1aa</id>
+        <link href="https://www.freecodecamp.org/news/python-string-to-array-how-to-convert-text-to-a-list/"/>
+        <updated>2022-02-21T18:47:23.000Z</updated>
+        <summary type="html"><![CDATA[There will be times where you need to convert one data type to another. Fear not, because Python offers a variety of different ways to help you do that. In this article, you'll see a few of the ways in which you can convert a string to a list. Here]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a RESTful API Using Node, Express, and MongoDB]]></title>
+        <id>6210970621bfb3068cf2ae7a</id>
+        <link href="https://www.freecodecamp.org/news/build-a-restful-api-using-node-express-and-mongodb/"/>
+        <updated>2022-02-21T18:15:19.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll build a RESTful API using Node, Express, and MongoDB. We will create endpoints for creating data, reading data, updating data, and deleting data (basic CRUD operations). But before we get started, make sure you have Node installed in your system. If not, go to https://nodejs.org/en/download/ to]]></summary>
+        <author>
+            <name>Nishant Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux ln – How to Create a Symbolic Link in Linux [Example Bash Command]]]></title>
+        <id>618216378bcfae07ca4e073b</id>
+        <link href="https://www.freecodecamp.org/news/linux-ln-how-to-create-a-symbolic-link-in-linux-example-bash-command/"/>
+        <updated>2022-02-21T16:05:08.000Z</updated>
+        <summary type="html"><![CDATA[A symlink (symbolic) is a type of file that points to other files or directories (folders) in Linux.  You can create a symlink (symbolic) by using the ln command in the command line.  Symbolic links are useful because they act as shortcuts to a file or directory.]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Complete Guide to CSS Cascade Layers]]></title>
+        <id>https://css-tricks.com/?p=363766</id>
+        <link href="https://css-tricks.com/css-cascade-layers/"/>
+        <updated>2022-02-21T15:40:35.000Z</updated>
+        <summary type="html"><![CDATA[This is your complete guide to CSS cascade layers, a CSS feature that allows us to define explicit contained layers of specificity, so that we have full control over which styles take priority in a project without relying on specificity …
+A Complete Guide to CSS Cascade Layers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Miriam Suzanne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing Pipeline 101 For Frontend Testing]]></title>
+        <id>https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/</id>
+        <link href="https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/"/>
+        <updated>2022-02-21T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[You don’t need to be a full DevOps engineer if you want to introduce a testing build routine. With the help of some testing frameworks and GitHub actions, Ramona Schwering gives a short kick-off to help you get on the right track.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ramona Schwering)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Manage State in Your React Apps]]></title>
         <id>620fb6a621bfb3068cf2a92a</id>
@@ -88,46 +159,6 @@ Comparing Node JavaScript to JavaScript in the Browser originally published on C
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn C++ Programming for Beginners – Free 31-Hour Course]]></title>
-        <id>620ed56e21bfb3068cf2a607</id>
-        <link href="https://www.freecodecamp.org/news/learn-c-with-free-31-hour-course/"/>
-        <updated>2022-02-17T23:16:34.000Z</updated>
-        <summary type="html"><![CDATA[C++ has been one of the most popular programming languages for over 30 years. Developers use it for everything from building video games to coding operating systems. We just published a comprehensive 31-hour C++ course on the freeCodeCamp.org YouTube channel. Daniel Gakwaya developed this course. Daniel is an experienced software]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Overflow – Visible, Scroll, Auto, or Hidden? The Overflow Property Explained]]></title>
-        <id>6206b26756125b0677c646d3</id>
-        <link href="https://www.freecodecamp.org/news/css-overflow-visible-scroll-auto-hidden/"/>
-        <updated>2022-02-17T20:37:54.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we will talk about an important CSS property – the overflow  property.  It helps us control what happens when an element's content is too big to fit into an area. When this happens, it makes the content "overflow" into another area, either horizontally (X-axis) or]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up VSCode for Your React Projects]]></title>
-        <id>620e62a321bfb3068cf2a204</id>
-        <link href="https://www.freecodecamp.org/news/vscode-react-setup/"/>
-        <updated>2022-02-17T16:54:36.000Z</updated>
-        <summary type="html"><![CDATA[The ultimate tool you have when you're developing your projects is your code editor. Which is why it's so important to set it up properly. In this step-by-step guide, we will go from a completely new VSCode installation to a code editor perfectly prepared for your next React project. Let's]]></summary>
-        <author>
-            <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Diagrams to GitHub Markdown Files]]></title>
-        <id>620e67e821bfb3068cf2a29c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-diagrams-to-github-readme/"/>
-        <updated>2022-02-17T16:37:07.000Z</updated>
-        <summary type="html"><![CDATA[Previously, if you wanted to include a diagram in your GitHub README file, you would've needed to add it like an image created with third-party software.  This worked, and let us complete our tasks – but why settle for less when you can create a diagram within the README]]></summary>
-        <author>
-            <name>Kaushal Joshi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Subsetting Font Awesome to Improve Performance]]></title>
         <id>https://css-tricks.com/?p=363179</id>
         <link href="https://css-tricks.com/subsetting-font-awesome-to-improve-performance/"/>
@@ -136,16 +167,6 @@ Comparing Node JavaScript to JavaScript in the Browser originally published on C
 Subsetting Font Awesome to Improve Performance originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Adam Rackis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Start a Freelance Dev Business]]></title>
-        <id>61f7d395f2ed6b06db5a936a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-start-a-freelance-dev-business/"/>
-        <updated>2022-02-17T15:04:27.000Z</updated>
-        <summary type="html"><![CDATA[Many people who want to try freelancing believe that they need to have years of experience to succeed. But this is a common misconception that many freelancers have disproved. Regardless of your industry, a helpful blueprint can be all you need to fast-track your freelancing success. This article underscores what]]></summary>
-        <author>
-            <name>Andrej Kovacevic</name>
         </author>
     </entry>
     <entry>
@@ -412,17 +433,6 @@ Multi-Value CSS Properties With Optional Custom Property Values originally publi
         <summary type="html"><![CDATA[This installment of *Web Design Done Well* celebrates weird and wacky websites. Sites with sweet, innocent, sometimes pointless purposes. Are they money makers? Game changers? Not necessarily, but they sure are fun, and in ways only the web could really manage.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Whistle-Stop Tour of 4 New CSS Color Features]]></title>
-        <id>https://css-tricks.com/?p=362285</id>
-        <link href="https://css-tricks.com/new-css-color-features-preview/"/>
-        <updated>2022-02-10T23:01:55.000Z</updated>
-        <summary type="html"><![CDATA[I was just writing in my “What’s new in since CSS3?” article about recent and possible future changes to CSS colors. It’s weirdly a lot. There are just as many or more new and upcoming ways to define colors than …
-A Whistle-Stop Tour of 4 New CSS Color Features originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>

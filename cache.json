@@ -83,6 +83,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=363766",
+          "author": "Miriam Suzanne",
+          "description": "This is your complete guide to CSS cascade layers, a CSS feature that allows us to define explicit contained layers of specificity, so that we have full control over which styles take priority in a project without relying on specificity …\nA Complete Guide to CSS Cascade Layers originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-cascade-layers/",
+          "publishedOn": "2022-02-21T15:40:35.000Z",
+          "wordCount": 7498,
+          "title": "A Complete Guide to CSS Cascade Layers",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363766"
+        },
+        {
           "id": "https://css-tricks.com/?p=363467",
           "author": "Hugh Haworth",
           "description": "Being able to understand Node continues to be an important skill if you’re a front-end developer. Deno has arrived as another way to run JavaScript outside the browser, but the huge ecosystem of tools and software built with Node mean …\nComparing Node JavaScript to JavaScript in the Browser originally published on CSS-Tricks. You should get the newsletter.",
@@ -128,7 +138,7 @@
           "description": "A useful little UI widget thingy here from Jens Kuerschner. Click the add-to-calendar button, get a list of calendar apps, the user selects which one they actually use, and they get what they need for that calendar. Could be a …\nAdd-to-Calendar Button UI Widget originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/add-to-calendar-button-ui-widget/",
           "publishedOn": "2022-02-17T01:14:21.000Z",
-          "wordCount": 799,
+          "wordCount": 830,
           "title": "Add-to-Calendar Button UI Widget",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363861"
         },
@@ -221,16 +231,6 @@
           "wordCount": 824,
           "title": "Multi-Value CSS Properties With Optional Custom Property Values",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363027"
-        },
-        {
-          "id": "https://css-tricks.com/?p=362285",
-          "author": "Chris Coyier",
-          "description": "I was just writing in my “What’s new in since CSS3?” article about recent and possible future changes to CSS colors. It’s weirdly a lot. There are just as many or more new and upcoming ways to define colors than …\nA Whistle-Stop Tour of 4 New CSS Color Features originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/new-css-color-features-preview/",
-          "publishedOn": "2022-02-10T23:01:55.000Z",
-          "wordCount": 2723,
-          "title": "A Whistle-Stop Tour of 4 New CSS Color Features",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362285"
         }
       ]
     },
@@ -240,12 +240,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/",
+          "author": "hello@smashingmagazine.com (Ramona Schwering)",
+          "description": "You don’t need to be a full DevOps engineer if you want to introduce a testing build routine. With the help of some testing frameworks and GitHub actions, Ramona Schwering gives a short kick-off to help you get on the right track.",
+          "link": "https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/",
+          "publishedOn": "2022-02-21T13:30:00.000Z",
+          "wordCount": 5933,
+          "title": "Testing Pipeline 101 For Frontend Testing",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/96b8ad22-5da2-4bee-8696-2aa210727e4a/testing-pipeline-101-frontend-testing.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/96b8ad22-5da2-4bee-8696-2aa210727e4a/testing-pipeline-101-frontend-testing.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/02/thoughts-on-markdown/",
           "author": "hello@smashingmagazine.com (Knut Melvær)",
           "description": "Markdown in all its flavors, interpretations, and forks won’t go away. However, it’s important to look at emerging content formats that try to encompass modern needs. In this article, Knut shares his advice against Markdown by looking back on why it was introduced in the first place, and by going through some of the major developments of content on the web.",
           "link": "https://smashingmagazine.com/2022/02/thoughts-on-markdown/",
           "publishedOn": "2022-02-18T10:30:00.000Z",
-          "wordCount": 6643,
+          "wordCount": 6638,
           "title": "Thoughts On Markdown",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cddeff5f-3d06-4d4f-9f90-b5e55761bb12/thoughts-on-markdown.jpg",
@@ -275,7 +290,7 @@
           "description": "In this article, Leonardo Losoviz discusses some potential consequences as well as positive outcomes of WordPress joining the Block Protocol.",
           "link": "https://smashingmagazine.com/2022/02/implications-wordpress-joining-block-protocol/",
           "publishedOn": "2022-02-15T10:00:00.000Z",
-          "wordCount": 3932,
+          "wordCount": 3942,
           "title": "Implications Of WordPress Joining The Block Protocol",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7e6ffb6e-3386-4823-a9ef-b3cd63f1f398/implications-wordpress-joining-block-protocol.jpg",
@@ -290,7 +305,7 @@
           "description": "Voice is a powerful tool that we can use to communicate with each other. This article covers the most critical aspects of designing for voice user interfaces: designing the conversation and designing visual interfaces.",
           "link": "https://smashingmagazine.com/2022/02/voice-user-interfaces-guide/",
           "publishedOn": "2022-02-14T13:30:00.000Z",
-          "wordCount": 4405,
+          "wordCount": 4410,
           "title": "Everything You Want To Know About Creating Voice User Interfaces",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1470bd2f-c151-4408-8f43-0a7d76a67249/voice-user-interfaces-guide.jpg",
@@ -305,7 +320,7 @@
           "description": "This installment of *Web Design Done Well* celebrates weird and wacky websites. Sites with sweet, innocent, sometimes pointless purposes. Are they money makers? Game changers? Not necessarily, but they sure are fun, and in ways only the web could really manage.",
           "link": "https://smashingmagazine.com/2022/02/web-design-done-well-perfectly-pointless/",
           "publishedOn": "2022-02-11T12:00:00.000Z",
-          "wordCount": 1699,
+          "wordCount": 1692,
           "title": "Web Design Done Well: Perfectly Pointless",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a885ddca-3e45-4167-8475-3ccd9181e712/web-design-done-well-perfectly-pointless.jpg",
@@ -320,7 +335,7 @@
           "description": "In this article, Steven Hoober shines the spotlight on Fitts’ Law and explains why we should always ask questions and consider what particular guidelines and lessons mean to our users and our products.",
           "link": "https://smashingmagazine.com/2022/02/fitts-law-touch-era/",
           "publishedOn": "2022-02-09T12:00:00.000Z",
-          "wordCount": 3421,
+          "wordCount": 3416,
           "title": "Fitts’ Law In The Touch Era",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b558fa6-25b4-4ec2-922a-469910f989a1/fitts-law-touch-era.jpg",
@@ -335,7 +350,7 @@
           "description": "Statoscope is an instrument that analyses your webpack-bundles. Created by Sergey Melukov, it started out as an experimental version in late 2016, which has now become a full-fledged toolkit for viewing, analyzing, and validating webpack-bundles.",
           "link": "https://smashingmagazine.com/2022/02/statoscope-course-intensive-therapy-bundle/",
           "publishedOn": "2022-02-08T10:00:00.000Z",
-          "wordCount": 5260,
+          "wordCount": 5259,
           "title": "Statoscope: A Course Of Intensive Therapy For Your Bundle",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8c91f031-fdf7-4b31-8a09-b7e0b0d01cc7/statoscope-course-intensive-therapy-bundle.jpg",
@@ -350,7 +365,7 @@
           "description": "While QR codes have many uses and can be leveraged at many touch points, they are just one of dozens of technologies that can improve the customer’s journey. Stanislav Khrustalev shares his advice with a list of things to keep in mind when using QR codes for your business.",
           "link": "https://smashingmagazine.com/2022/02/qr-codes-business-best-practices-pitfalls/",
           "publishedOn": "2022-02-07T14:00:00.000Z",
-          "wordCount": 2801,
+          "wordCount": 2786,
           "title": "Using QR Codes In Your Business: Best Practices And Pitfalls",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa41b6d9-f3ce-4b05-a110-21a7bc6c7595/qr-codes-business-best-practices-pitfalls.jpg",
@@ -365,7 +380,7 @@
           "description": "In this second part, Noam suggests a few patterns of how to use the web platform directly as an alternative to some of the solutions that are offered by frameworks.",
           "link": "https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/",
           "publishedOn": "2022-02-04T13:30:00.000Z",
-          "wordCount": 3780,
+          "wordCount": 3777,
           "title": "What Web Frameworks Solve: The Vanilla Alternative (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a3745837-4c65-4b2b-81ab-42e0088633d2/web-frameworks-guide-part2.jpg",
@@ -380,7 +395,7 @@
           "description": "In this article, we’ll look specifically at what we can do to reduce the impact of social media embeds and social sharing widgets — or even some strategies to avoid them altogether. While the spotlight is on reducing the environmental impact, many of these tips will be great for performance too.",
           "link": "https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/",
           "publishedOn": "2022-02-03T12:00:00.000Z",
-          "wordCount": 2561,
+          "wordCount": 2560,
           "title": "Reducing The Web’s Carbon Footprint: Optimizing Social Media Embeds",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/686a0218-bea0-4a0e-a2b9-aca40c29d412/reducing-web-carbon-footprint-optimizing-social-media-embeds.jpg",
@@ -395,7 +410,7 @@
           "description": "In this article, Adrian Bece shares more about the benefits and caveats of code-splitting and how page performance and load times can be improved by dynamically loading expensive, non-critical JavaScript bundles.",
           "link": "https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/",
           "publishedOn": "2022-02-02T10:30:00.000Z",
-          "wordCount": 4518,
+          "wordCount": 4520,
           "title": "Improving JavaScript Bundle Performance With Code-Splitting",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f721011b-37a8-4c1d-a8b9-b249bf938678/javascript-bundle-performance-code-splitting.jpg",
@@ -440,7 +455,7 @@
           "description": "In this article, Noam Rosenthal dives deep into a few technical features that are common across frameworks, and explains how some of the different frameworks implement them and what they cost.",
           "link": "https://smashingmagazine.com/2022/01/web-frameworks-guide-part1/",
           "publishedOn": "2022-01-28T14:00:00.000Z",
-          "wordCount": 2159,
+          "wordCount": 2169,
           "title": "What Web Frameworks Solve And How To Do Without Them (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7ca7294e-9325-4bab-8617-0bc3d42e3053/web-frameworks-guide.jpg",
@@ -455,7 +470,7 @@
           "description": "This article reveals how something as trivial as administration in both software and As-a-service can be either a booster or bottleneck to a company’s productivity and innovation. It also provides several design aspects that UX practitioners should evaluate when designing the administration experience.",
           "link": "https://smashingmagazine.com/2022/01/software-administration-ux/",
           "publishedOn": "2022-01-26T12:00:00.000Z",
-          "wordCount": 2586,
+          "wordCount": 2584,
           "title": "Don’t Underestimate The Software Administration UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a25c6bb8-7778-48e1-b2e8-04cfd46d0765/software-administration-ux.jpg",
@@ -470,7 +485,7 @@
           "description": "What’s new in Chrome, Edge, Safari and Firefox? Patrick Brosset breaks it down with the latest features in DevTools across browsers.",
           "link": "https://smashingmagazine.com/2022/01/devtools-updates-2022/",
           "publishedOn": "2022-01-25T13:00:00.000Z",
-          "wordCount": 2528,
+          "wordCount": 2511,
           "title": "What’s New In DevTools?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e516aa85-3b77-418a-9b43-cec06943b129/devtools-updates-2022.jpg",
@@ -485,7 +500,7 @@
           "description": "Cascade layers introduce the new at-rule of @layer. The intent is to help CSS authors be more intentional about ordering the “layers” of CSS rules as a new method of cascade management.",
           "link": "https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/",
           "publishedOn": "2022-01-24T11:00:00.000Z",
-          "wordCount": 4757,
+          "wordCount": 4758,
           "title": "Getting Started With CSS Cascade Layers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/13b8900c-aa53-49ae-84f7-9fbf598635e2/introduction-css-cascade-layers.jpg",
@@ -501,6 +516,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "61d54402d2d9de084285c345",
+          "author": "Jessica Wilkins",
+          "description": "Learning how to code can help you start a great career as a software developer. There are many free courses you can take to cultivate the skills need to become a developer.  In this article, I'm going to show you 152 beginner friendly courses where you can learn computer",
+          "link": "https://www.freecodecamp.org/news/online-coding-classes-for-beginners-2022-guide/",
+          "publishedOn": "2022-02-21T19:24:05.000Z",
+          "wordCount": 5704,
+          "title": "Online Coding Classes – For Beginners [2022 Guide]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/arnold-francisca-f77Bh3inUpE-unsplash.jpg"
+        },
+        {
+          "id": "6213a92221bfb3068cf2c07b",
+          "author": "David Clinton",
+          "description": "Imagine a type of software development platform that enables developers to create applications without writing code.  Low-code platforms use visual drag and drop tools, pre-built components, and templates to help developers quickly create custom applications without any coding knowledge. I'm going to  introduce you to the basics of this",
+          "link": "https://www.freecodecamp.org/news/what-is-low-code/",
+          "publishedOn": "2022-02-21T19:02:17.000Z",
+          "wordCount": 1712,
+          "title": "What Is Low-Code Development?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/pexels-mockupeditorcom-205316.jpg"
+        },
+        {
+          "id": "620e41a421bfb3068cf2a1aa",
+          "author": "Dionysia Lemonaki",
+          "description": "There will be times where you need to convert one data type to another. Fear not, because Python offers a variety of different ways to help you do that. In this article, you'll see a few of the ways in which you can convert a string to a list. Here",
+          "link": "https://www.freecodecamp.org/news/python-string-to-array-how-to-convert-text-to-a-list/",
+          "publishedOn": "2022-02-21T18:47:23.000Z",
+          "wordCount": 2283,
+          "title": "Python String to Array – How to Convert Text to a List",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/steve-johnson-8VO-UxlJ-Lw-unsplash.jpg"
+        },
+        {
+          "id": "6210970621bfb3068cf2ae7a",
+          "author": "Nishant Kumar",
+          "description": "In this article, we'll build a RESTful API using Node, Express, and MongoDB. We will create endpoints for creating data, reading data, updating data, and deleting data (basic CRUD operations). But before we get started, make sure you have Node installed in your system. If not, go to https://nodejs.org/en/download/ to",
+          "link": "https://www.freecodecamp.org/news/build-a-restful-api-using-node-express-and-mongodb/",
+          "publishedOn": "2022-02-21T18:15:19.000Z",
+          "wordCount": 2349,
+          "title": "How to Build a RESTful API Using Node, Express, and MongoDB",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/How-to-Build-a-Weather-Application-using-React--65-.png"
+        },
+        {
+          "id": "618216378bcfae07ca4e073b",
+          "author": "Jessica Wilkins",
+          "description": "A symlink (symbolic) is a type of file that points to other files or directories (folders) in Linux.  You can create a symlink (symbolic) by using the ln command in the command line.  Symbolic links are useful because they act as shortcuts to a file or directory.",
+          "link": "https://www.freecodecamp.org/news/linux-ln-how-to-create-a-symbolic-link-in-linux-example-bash-command/",
+          "publishedOn": "2022-02-21T16:05:08.000Z",
+          "wordCount": 1355,
+          "title": "Linux ln – How to Create a Symbolic Link in Linux [Example Bash Command]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/gabriel-heinzer-4Mw7nkQDByk-unsplash.jpg"
+        },
         {
           "id": "620fb6a621bfb3068cf2a92a",
           "author": "Reed Barger",
@@ -550,56 +615,6 @@
           "wordCount": 1592,
           "title": "How to Build a Custom Dashboard with WordPress APIs and React",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/stephen-dawson-qwtCeJ5cLYs-unsplash.jpg"
-        },
-        {
-          "id": "620ed56e21bfb3068cf2a607",
-          "author": "Beau Carnes",
-          "description": "C++ has been one of the most popular programming languages for over 30 years. Developers use it for everything from building video games to coding operating systems. We just published a comprehensive 31-hour C++ course on the freeCodeCamp.org YouTube channel. Daniel Gakwaya developed this course. Daniel is an experienced software",
-          "link": "https://www.freecodecamp.org/news/learn-c-with-free-31-hour-course/",
-          "publishedOn": "2022-02-17T23:16:34.000Z",
-          "wordCount": 829,
-          "title": "Learn C++ Programming for Beginners – Free 31-Hour Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/cpp31.png"
-        },
-        {
-          "id": "6206b26756125b0677c646d3",
-          "author": "Ihechikara Vincent Abba",
-          "description": "In this tutorial, we will talk about an important CSS property – the overflow  property.  It helps us control what happens when an element's content is too big to fit into an area. When this happens, it makes the content \"overflow\" into another area, either horizontally (X-axis) or",
-          "link": "https://www.freecodecamp.org/news/css-overflow-visible-scroll-auto-hidden/",
-          "publishedOn": "2022-02-17T20:37:54.000Z",
-          "wordCount": 1283,
-          "title": "CSS Overflow – Visible, Scroll, Auto, or Hidden? The Overflow Property Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/css-overflow.png"
-        },
-        {
-          "id": "620e62a321bfb3068cf2a204",
-          "author": "Reed Barger",
-          "description": "The ultimate tool you have when you're developing your projects is your code editor. Which is why it's so important to set it up properly. In this step-by-step guide, we will go from a completely new VSCode installation to a code editor perfectly prepared for your next React project. Let's",
-          "link": "https://www.freecodecamp.org/news/vscode-react-setup/",
-          "publishedOn": "2022-02-17T16:54:36.000Z",
-          "wordCount": 1168,
-          "title": "How to Set Up VSCode for Your React Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/setup-vscode-for-react-projects.png"
-        },
-        {
-          "id": "620e67e821bfb3068cf2a29c",
-          "author": "Kaushal Joshi",
-          "description": "Previously, if you wanted to include a diagram in your GitHub README file, you would've needed to add it like an image created with third-party software.  This worked, and let us complete our tasks – but why settle for less when you can create a diagram within the README",
-          "link": "https://www.freecodecamp.org/news/how-to-add-diagrams-to-github-readme/",
-          "publishedOn": "2022-02-17T16:37:07.000Z",
-          "wordCount": 854,
-          "title": "How to Add Diagrams to GitHub Markdown Files",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/How-to-Add-Diagrams-to-GitHub-Markdown-Files.png"
-        },
-        {
-          "id": "61f7d395f2ed6b06db5a936a",
-          "author": "Andrej Kovacevic",
-          "description": "Many people who want to try freelancing believe that they need to have years of experience to succeed. But this is a common misconception that many freelancers have disproved. Regardless of your industry, a helpful blueprint can be all you need to fast-track your freelancing success. This article underscores what",
-          "link": "https://www.freecodecamp.org/news/how-to-start-a-freelance-dev-business/",
-          "publishedOn": "2022-02-17T15:04:27.000Z",
-          "wordCount": 1571,
-          "title": "How to Start a Freelance Dev Business",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/freelance-dev-business-article-image.jpg"
         }
       ]
     }
