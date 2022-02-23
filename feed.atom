@@ -1,10 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-22T00:03:30.300Z</id>
+    <id>urn:2022-02-23T00:03:32.331Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-22T00:03:30.300Z</updated>
+    <updated>2022-02-23T00:03:32.331Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Backend Should You Use for React?]]></title>
+        <id>62151953c4d0d306772ee3e2</id>
+        <link href="https://www.freecodecamp.org/news/backend-for-react-projects/"/>
+        <updated>2022-02-22T21:04:58.000Z</updated>
+        <summary type="html"><![CDATA[What backend should you choose for the React projects you are building?  There are so many different options to pick from, how do you know whether the backend you choose is the right one?  In this guide, you'll learn how to pick the appropriate backend for the type]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Before I go: When it comes to complaining about web browsers]]></title>
+        <id>https://css-tricks.com/?p=363998</id>
+        <link href="https://css-tricks.com/before-i-go-when-it-comes-to-complaining-about-web-browsers/"/>
+        <updated>2022-02-22T20:06:57.000Z</updated>
+        <summary type="html"><![CDATA[That’s a damn one-two punch from Dave. He goes for the ultimate clickbait title¹, then follows up with a pile of epic advice for us all. If you want web browsers to get better, listen up:
+Complaining on 
+…
+Before I go: When it comes to complaining about web browsers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install C and C++ Compilers on Windows]]></title>
+        <id>6214ebce21bfb3068cf2cbad</id>
+        <link href="https://www.freecodecamp.org/news/how-to-install-c-and-cpp-compiler-on-windows/"/>
+        <updated>2022-02-22T18:04:59.000Z</updated>
+        <summary type="html"><![CDATA[If you want to run C or C++ programs in your Windows operating system, then you need to have the right compilers.  The MinGW compiler is a well known and widely used software for installing GCC and G++ compilers for the C and C++ programming languages.  But many]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reliably Send an HTTP Request as a User Leaves a Page]]></title>
+        <id>https://css-tricks.com/?p=363511</id>
+        <link href="https://css-tricks.com/send-an-http-request-on-page-exit/"/>
+        <updated>2022-02-22T15:24:01.000Z</updated>
+        <summary type="html"><![CDATA[On several occasions, I’ve needed to send off an HTTP request with some data to log when a user does something like navigate to a different page or submit a form. Consider this contrived example of sending some information to …
+Reliably Send an HTTP Request as a User Leaves a Page originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Alex MacArthur</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use localStorage with React Hooks to Set and Get Items]]></title>
+        <id>6212882b21bfb3068cf2bc05</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-localstorage-with-react-hooks-to-set-and-get-items/"/>
+        <updated>2022-02-22T14:53:30.000Z</updated>
+        <summary type="html"><![CDATA[localStorage is a web storage object that allows JavaScript sites and apps to keep key-value pairs in a web browser with no expiration date.  This means the data survives page refreshes (sessionStorage) and even browser restarts. This indicates that the data stored in the browser will remain even when]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Develop A Text Editor For The Web]]></title>
+        <id>https://smashingmagazine.com/2022/02/develop-text-editor-web/</id>
+        <link href="https://smashingmagazine.com/2022/02/develop-text-editor-web/"/>
+        <updated>2022-02-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How do text typing and editing work on the web? Although this process might seem straightforward, there is a lot of technical nuance behind its apparent simplicity. This article looks at how typing on the web works.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ilya Medvedev)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 45 With Jeremy Wagner: What Is Reponsible JavaScript?]]></title>
+        <id>https://smashingmagazine.com/2022/02/smashing-podcast-episode-45/</id>
+        <link href="https://smashingmagazine.com/2022/02/smashing-podcast-episode-45/"/>
+        <updated>2022-02-22T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re talking about Responsible JavaScript. What does it mean for code to be responsible, and how should we approach projects differently? Drew McLellan talks to expert Jeremy Wagner to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 React Interview Questions You Should Know in 2022]]></title>
+        <id>6213b45e21bfb3068cf2c103</id>
+        <link href="https://www.freecodecamp.org/news/react-interview-questions-to-know/"/>
+        <updated>2022-02-22T00:21:59.000Z</updated>
+        <summary type="html"><![CDATA[Feel confident about your React knowledge? Put it to the test! I have selected all of the major questions you should know as a React developer in 2022, whether you are interviewing for a hired position or not. These questions cover everything from the core concepts of React to a]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working from Home – Tips to Help You Stay Productive]]></title>
+        <id>6210c04621bfb3068cf2b0a6</id>
+        <link href="https://www.freecodecamp.org/news/working-from-home-tips-to-stay-productive/"/>
+        <updated>2022-02-22T00:12:34.000Z</updated>
+        <summary type="html"><![CDATA[Over the past few years, a lot of us have started working remotely. That's what I also did, and I fell in love with this life. Indeed, a bit more than two years ago, I started my first full-time job as a Software Engineer. And at the same time, I]]></summary>
+        <author>
+            <name>Gaël Thomas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Online Coding Classes – For Beginners [2022 Guide]]]></title>
         <id>61d54402d2d9de084285c345</id>
@@ -77,26 +171,6 @@ A Complete Guide to CSS Cascade Layers originally published on CSS-Tricks. You s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Manage State in Your React Apps]]></title>
-        <id>620fb6a621bfb3068cf2a92a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-manage-state-in-your-react-apps/"/>
-        <updated>2022-02-18T20:55:31.000Z</updated>
-        <summary type="html"><![CDATA[Managing state in your React apps isn’t as simple as using useState or  useReducer. Not only are there are a lot of different kinds of state, but there often dozens of ways of managing each kind. Which should you choose? In this guide, we will uncover the several kinds]]></summary>
-        <author>
-            <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Remove a Key from a Python Dictionary – Delete Key from Dict]]></title>
-        <id>620ea69721bfb3068cf2a59b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-remove-a-key-from-a-python-dictionary-delete-key-from-dict/"/>
-        <updated>2022-02-18T20:32:40.000Z</updated>
-        <summary type="html"><![CDATA[A dictionary is a very powerful data collection in Python. Dictionaries help make database operations faster.  You can append items to an existing dictionary and remove them as well. In this blog post, we will learn how to delete "keys" using two methods:  1. Deleting key:value pairs using]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Comparing Node JavaScript to JavaScript in the Browser]]></title>
         <id>https://css-tricks.com/?p=363467</id>
         <link href="https://css-tricks.com/node-javascript-compared-to-javascript/"/>
@@ -105,36 +179,6 @@ A Complete Guide to CSS Cascade Layers originally published on CSS-Tricks. You s
 Comparing Node JavaScript to JavaScript in the Browser originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Hugh Haworth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install Python on Windows]]></title>
-        <id>620f5f5e21bfb3068cf2a6d8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-install-python-in-windows-operating-system/"/>
-        <updated>2022-02-18T16:14:23.000Z</updated>
-        <summary type="html"><![CDATA[Before trying to run any Python program in your Windows operating system, you'll need to check if you have Python installed and added to the environment's path variable correctly. In this article, I will show you how you can check whether you have Python installed successfully in your operating system]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VGA No Signal – How to Fix a Monitor Connection on Windows 10 PC]]></title>
-        <id>620ecdf421bfb3068cf2a603</id>
-        <link href="https://www.freecodecamp.org/news/vga-no-signal-how-to-fix-a-monitor-connection-on-windows-10-pc/"/>
-        <updated>2022-02-18T16:02:36.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes you might turn on your PC but your monitor displays "No Signal" on the screen. In this article, we will look at various solutions for solving this problem. How to Fix a Monitor Connection by Checking Hardware Connections  * Check to see if the VGA connector fits in]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Custom Dashboard with WordPress APIs and React]]></title>
-        <id>620d6f0321bfb3068cf29c08</id>
-        <link href="https://www.freecodecamp.org/news/build-a-custom-dashboard-with-wordpress-apis-and-react/"/>
-        <updated>2022-02-18T15:59:20.000Z</updated>
-        <summary type="html"><![CDATA[When you manage websites, it is all about data: views, response time, users, bounce rate, and so on. And, if you manage websites, you've likely had to deal with a WordPress instance at least once.  There are hundreds – or maybe thousands – of WordPress plugins to retrieve and]]></summary>
-        <author>
-            <name>Marco Venturi</name>
         </author>
     </entry>
     <entry>
@@ -400,32 +444,6 @@ Your CSS reset needs text-size-adjust (probably) originally published on CSS-Tri
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[9 New React and JavaScript Links for February 2022]]></title>
-        <id>https://css-tricks.com/?p=363396</id>
-        <link href="https://css-tricks.com/9-new-react-and-javascript-links-for-february-2022/"/>
-        <updated>2022-02-11T23:11:28.000Z</updated>
-        <summary type="html"><![CDATA[Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Like React and JavaScript! Here’s a list of nine links to other articles about them that I’ve been saving up and …
-9 New React and JavaScript Links for February 2022 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multi-Value CSS Properties With Optional Custom Property Values]]></title>
-        <id>https://css-tricks.com/?p=363027</id>
-        <link href="https://css-tricks.com/optional-custom-property-values-trick/"/>
-        <updated>2022-02-11T15:30:11.000Z</updated>
-        <summary type="html"><![CDATA[Imagine you have an element with a multi-value CSS property, such as transform: optional custom property values:
-.el {
-  transform: translate(100px) scale(1.5) skew(5deg);
-}
-Now imagine you don’t always want all the transform values to be applied, so some …
-Multi-Value CSS Properties With Optional Custom Property Values originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Yair Even Or</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web Design Done Well: Perfectly Pointless]]></title>
         <id>https://smashingmagazine.com/2022/02/web-design-done-well-perfectly-pointless/</id>
         <link href="https://smashingmagazine.com/2022/02/web-design-done-well-perfectly-pointless/"/>
@@ -543,16 +561,6 @@ Multi-Value CSS Properties With Optional Custom Property Values originally publi
         <summary type="html"><![CDATA[What’s new in Chrome, Edge, Safari and Firefox? Patrick Brosset breaks it down with the latest features in DevTools across browsers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Patrick Brosset)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started With CSS Cascade Layers]]></title>
-        <id>https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/</id>
-        <link href="https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/"/>
-        <updated>2022-01-24T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cascade layers introduce the new at-rule of @layer. The intent is to help CSS authors be more intentional about ordering the “layers” of CSS rules as a new method of cascade management.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
         </author>
     </entry>
 </feed>
