@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-23T00:03:32.331Z</id>
+    <id>urn:2022-02-24T00:03:24.341Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-23T00:03:32.331Z</updated>
+    <updated>2022-02-24T00:03:24.341Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Database Queries? Sure We Can!]]></title>
+        <id>https://css-tricks.com/?p=363937</id>
+        <link href="https://css-tricks.com/css-database-queries/"/>
+        <updated>2022-02-23T20:04:39.000Z</updated>
+        <summary type="html"><![CDATA[Kinda silly sounding, isn’t it? CSS database queries. But, hey, CSS is capable of talking to other languages in the sense that it can set the values of things that they can read. Plus, CSS can request other files, and …
+CSS Database Queries? Sure We Can! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Accessibility Quick Wins You Can Implement Today]]></title>
+        <id>https://css-tricks.com/?p=363532</id>
+        <link href="https://css-tricks.com/5-accessibility-quick-wins-you-can-implement-today/"/>
+        <updated>2022-02-23T15:15:33.000Z</updated>
+        <summary type="html"><![CDATA[Let’s face it: building an AA or AAA-accessible product can be quite daunting. Luckily, having an accessible product isn’t all-or-nothing. Even seemingly small improvements can have nice quality of life benefits for many people.
+In that spirit, here are five …
+5 Accessibility Quick Wins You Can Implement Today originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Yuschick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn NestJS by Building a CRUD API]]></title>
+        <id>621648e1c4d0d306772eeefc</id>
+        <link href="https://www.freecodecamp.org/news/learn-nestjs-by-building-a-crud-api/"/>
+        <updated>2022-02-23T14:53:04.000Z</updated>
+        <summary type="html"><![CDATA[NestJS is a framework for building efficient, scalable Node.js web applications. It is a complete development kit for building scalable server-side apps. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use NestJS by building a CRUD API. Vladimir Agaev developed this]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using The WordPress Editor And CPTs To Configure Plugins]]></title>
+        <id>https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/</id>
+        <link href="https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/"/>
+        <updated>2022-02-23T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[If we want our WordPress plugins to offer a settings page that is fully powered by blocks, how can we do it? Since *Full Site Editing* doesn’t support this feature yet, we need to code a custom solution. In this article, we will learn how we can do it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Backend Should You Use for React?]]></title>
         <id>62151953c4d0d306772ee3e2</id>
@@ -70,7 +113,7 @@ Reliably Send an HTTP Request as a User Leaves a Page originally published on CS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 45 With Jeremy Wagner: What Is Reponsible JavaScript?]]></title>
+        <title type="html"><![CDATA[Smashing Podcast Episode 45 With Jeremy Wagner: What Is Responsible JavaScript?]]></title>
         <id>https://smashingmagazine.com/2022/02/smashing-podcast-episode-45/</id>
         <link href="https://smashingmagazine.com/2022/02/smashing-podcast-episode-45/"/>
         <updated>2022-02-22T06:00:00.000Z</updated>
@@ -137,16 +180,6 @@ Reliably Send an HTTP Request as a User Leaves a Page originally published on CS
         <summary type="html"><![CDATA[In this article, we'll build a RESTful API using Node, Express, and MongoDB. We will create endpoints for creating data, reading data, updating data, and deleting data (basic CRUD operations). But before we get started, make sure you have Node installed in your system. If not, go to https://nodejs.org/en/download/ to]]></summary>
         <author>
             <name>Nishant Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux ln – How to Create a Symbolic Link in Linux [Example Bash Command]]]></title>
-        <id>618216378bcfae07ca4e073b</id>
-        <link href="https://www.freecodecamp.org/news/linux-ln-how-to-create-a-symbolic-link-in-linux-example-bash-command/"/>
-        <updated>2022-02-21T16:05:08.000Z</updated>
-        <summary type="html"><![CDATA[A symlink (symbolic) is a type of file that points to other files or directories (folders) in Linux.  You can create a symlink (symbolic) by using the ln command in the command line.  Symbolic links are useful because they act as shortcuts to a file or directory.]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
         </author>
     </entry>
     <entry>
@@ -318,17 +351,6 @@ Why are hyperlinks blue? originally published on CSS-Tricks. You should get the 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Getting Started With the File System Access API]]></title>
-        <id>https://css-tricks.com/?p=363339</id>
-        <link href="https://css-tricks.com/getting-started-with-the-file-system-access-api/"/>
-        <updated>2022-02-14T16:01:21.000Z</updated>
-        <summary type="html"><![CDATA[The File System Access API is a web API that allows read and write access to a user’s local files. It unlocks new capabilities to build powerful web applications, such as text editors or IDEs, image editing tools, improved …
-Getting Started With the File System Access API originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Charlie Gerard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Everything You Want To Know About Creating Voice User Interfaces]]></title>
         <id>https://smashingmagazine.com/2022/02/voice-user-interfaces-guide/</id>
         <link href="https://smashingmagazine.com/2022/02/voice-user-interfaces-guide/"/>
@@ -428,19 +450,6 @@ Fxied: Security vulnerability from axios
 Thank you: @naari3]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your CSS reset needs text-size-adjust (probably)]]></title>
-        <id>https://css-tricks.com/?p=363498</id>
-        <link href="https://css-tricks.com/your-css-reset-needs-text-size-adjust-probably/"/>
-        <updated>2022-02-12T00:46:40.000Z</updated>
-        <summary type="html"><![CDATA[Kilian Valkhof:
-[…] Mobile Safari increases the default font-size when you switch a website from portrait to landscape. On phones that is, it doesn’t do it on iPad. Safari has been doing this for a long time, as a 
-…
-Your CSS reset needs text-size-adjust (probably) originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
