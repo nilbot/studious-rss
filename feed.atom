@@ -1,10 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-24T00:03:24.341Z</id>
+    <id>urn:2022-02-25T00:03:41.626Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-24T00:03:24.341Z</updated>
+    <updated>2022-02-25T00:03:41.626Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[My white whale: A use case for will-change]]></title>
+        <id>https://css-tricks.com/?p=364138</id>
+        <link href="https://css-tricks.com/my-white-whale-a-use-case-for-will-change/"/>
+        <updated>2022-02-24T20:59:29.000Z</updated>
+        <summary type="html"><![CDATA[Nic Chan:
+[…] the will-change property landed in major browsers in August 2015, and I’ve been on the lookout for when to use it ever since. It might seem self-evident to apply it to commonly animated properties such 
+…
+My white whale: A use case for will-change originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Find in List – How to Find the Index of an Item or Element in a List]]></title>
+        <id>6213c94921bfb3068cf2c268</id>
+        <link href="https://www.freecodecamp.org/news/python-find-in-list-how-to-find-the-index-of-an-item-or-element-in-a-list/"/>
+        <updated>2022-02-24T20:38:46.000Z</updated>
+        <summary type="html"><![CDATA[In this article you will learn how to find the index of an element contained in a list in the Python programming language. There are a few ways to achieve this, and in this article you will learn three of the different techniques used to find the index of a]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is len() in Python? How to Use the len() Function to Find the Length of a String]]></title>
+        <id>620c980321bfb3068cf29395</id>
+        <link href="https://www.freecodecamp.org/news/what-is-len-in-python-how-to-use-the-len-function-to-find-the-length-of-a-string/"/>
+        <updated>2022-02-24T18:35:06.000Z</updated>
+        <summary type="html"><![CDATA[In programming languages, getting the length of a particular data type is a common practice. Python is no different because you can use the built-in len() function to get the length of a string, tuple, list, dictionary, or any other data type. In this article, I'm going to show you]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explain the First 10 Lines of Twitter’s Source Code to Me]]></title>
+        <id>https://css-tricks.com/?p=363553</id>
+        <link href="https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/"/>
+        <updated>2022-02-24T15:31:55.000Z</updated>
+        <summary type="html"><![CDATA[For the past few weeks, I’ve been hiring for a senior full-stack JavaScript engineer at my rental furniture company, Pabio. Since we’re a remote team, we conduct our interviews on Zoom, and I’ve observed that some developers are not …
+Explain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Anand Chowdhary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine]]></title>
+        <id>https://css-tricks.com/?p=363526</id>
+        <link href="https://css-tricks.com/superior-image-optimization-an-ideal-solution-using-gatsby-imageengine/"/>
+        <updated>2022-02-24T15:31:49.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+In recent years, the Jamstack methodology for building websites has become increasingly popular. Performance, scalable, and secure, it’s easy to see why it’s becoming an attractive way to build websites for developers.
+GatsbyJS is …
+Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>ImageEngine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flutter Course for Beginners – 37-hour Android App Development Tutorial]]></title>
+        <id>62179b03c4d0d306772ef2f8</id>
+        <link href="https://www.freecodecamp.org/news/learn-flutter-full-course/"/>
+        <updated>2022-02-24T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Flutter is an open-source UI software development kit used to create cross-platform applications for iOS, Android, Windows, Mac, and more. We just published a 37-hour Flutter course for beginners on the freeCodeCamp.org YouTube channel. Vandad Nahavandipoor developed this course. Vlandad is a Google Developer Expert and Lead iOS Developer. Flutter]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn the Basics of the Linux Operating System]]></title>
+        <id>62164addc4d0d306772eef3e</id>
+        <link href="https://www.freecodecamp.org/news/learn-the-basics-of-the-linux-operating-system/"/>
+        <updated>2022-02-24T13:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Linux is an open source, free operating system which is used by computers all over the world. It is especially popular for use in servers. We just published a Linux crash course on the freeCodeCamp.org YouTube channel that will teach you the basics of this open source operating system. Josh]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Benchmark And Improve Web Vitals With Real User Metrics]]></title>
+        <id>https://smashingmagazine.com/2022/02/benchmark-improve-web-vitals-real-user-metrics/</id>
+        <link href="https://smashingmagazine.com/2022/02/benchmark-improve-web-vitals-real-user-metrics/"/>
+        <updated>2022-02-24T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Web Vitals are the new gold standard in performance due to their direct correlation with the user’s experience. In this article, you’ll learn what monitoring can do and how RayGun can help you sustain performance maintenance while scaling your app.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Átila Fassina)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Database Queries? Sure We Can!]]></title>
         <id>https://css-tricks.com/?p=363937</id>
@@ -143,46 +230,6 @@ Reliably Send an HTTP Request as a User Leaves a Page originally published on CS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Online Coding Classes – For Beginners [2022 Guide]]]></title>
-        <id>61d54402d2d9de084285c345</id>
-        <link href="https://www.freecodecamp.org/news/online-coding-classes-for-beginners-2022-guide/"/>
-        <updated>2022-02-21T19:24:05.000Z</updated>
-        <summary type="html"><![CDATA[Learning how to code can help you start a great career as a software developer. There are many free courses you can take to cultivate the skills need to become a developer.  In this article, I'm going to show you 152 beginner friendly courses where you can learn computer]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Low-Code Development?]]></title>
-        <id>6213a92221bfb3068cf2c07b</id>
-        <link href="https://www.freecodecamp.org/news/what-is-low-code/"/>
-        <updated>2022-02-21T19:02:17.000Z</updated>
-        <summary type="html"><![CDATA[Imagine a type of software development platform that enables developers to create applications without writing code.  Low-code platforms use visual drag and drop tools, pre-built components, and templates to help developers quickly create custom applications without any coding knowledge. I'm going to  introduce you to the basics of this]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python String to Array – How to Convert Text to a List]]></title>
-        <id>620e41a421bfb3068cf2a1aa</id>
-        <link href="https://www.freecodecamp.org/news/python-string-to-array-how-to-convert-text-to-a-list/"/>
-        <updated>2022-02-21T18:47:23.000Z</updated>
-        <summary type="html"><![CDATA[There will be times where you need to convert one data type to another. Fear not, because Python offers a variety of different ways to help you do that. In this article, you'll see a few of the ways in which you can convert a string to a list. Here]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a RESTful API Using Node, Express, and MongoDB]]></title>
-        <id>6210970621bfb3068cf2ae7a</id>
-        <link href="https://www.freecodecamp.org/news/build-a-restful-api-using-node-express-and-mongodb/"/>
-        <updated>2022-02-21T18:15:19.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll build a RESTful API using Node, Express, and MongoDB. We will create endpoints for creating data, reading data, updating data, and deleting data (basic CRUD operations). But before we get started, make sure you have Node installed in your system. If not, go to https://nodejs.org/en/download/ to]]></summary>
-        <author>
-            <name>Nishant Kumar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Complete Guide to CSS Cascade Layers]]></title>
         <id>https://css-tricks.com/?p=363766</id>
         <link href="https://css-tricks.com/css-cascade-layers/"/>
@@ -247,13 +294,13 @@ Subsetting Font Awesome to Improve Performance originally published on CSS-Trick
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top Things You Didn’t Know You Could Do With Netlify CLI￼]]></title>
+        <title type="html"><![CDATA[Top Things You Didn’t Know You Could Do With Netlify CLI]]></title>
         <id>https://css-tricks.com/?p=363872</id>
         <link href="https://css-tricks.com/top-things-you-didnt-know-you-could-do-with-netlify-cli/"/>
         <updated>2022-02-17T13:00:00.000Z</updated>
         <summary type="html"><![CDATA[(This is a sponsored post.)
 First things first, if you didn’t know Netlify had a CLI, they do.  One of my favorite things about it running the command netlify dev on nearly any static-site generator project is seeing it …
-Top Things You Didn’t Know You Could Do With Netlify CLI￼ originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+Top Things You Didn’t Know You Could Do With Netlify CLI originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -307,29 +354,6 @@ GSAP Flip Plugin for Animation originally published on CSS-Tricks. You should ge
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6 Creative Ideas for CSS Link Hover Effects]]></title>
-        <id>https://css-tricks.com/?p=363124</id>
-        <link href="https://css-tricks.com/css-link-hover-effects/"/>
-        <updated>2022-02-15T15:37:04.000Z</updated>
-        <summary type="html"><![CDATA[Creating CSS link hover effects can add a bit of flair to an otherwise bland webpage. If you’ve ever found yourself stumped trying to make a slick hover effect, then I have six CSS effects for you to take and …
-6 Creative Ideas for CSS Link Hover Effects originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Harshil Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress.com Has a New Home on YouTube]]></title>
-        <id>https://css-tricks.com/?p=363739</id>
-        <link href="https://css-tricks.com/wordpress-com-has-a-new-home-on-youtube/"/>
-        <updated>2022-02-15T15:35:35.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-✋ High fives to WordPress for releasing version 5.9 on January 29! This was the long-awaited introduction of the Site Editor and the reverberations are still being felt across the 43% slice of the …
-WordPress.com Has a New Home on YouTube originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Implications Of WordPress Joining The Block Protocol]]></title>
         <id>https://smashingmagazine.com/2022/02/implications-wordpress-joining-block-protocol/</id>
         <link href="https://smashingmagazine.com/2022/02/implications-wordpress-joining-block-protocol/"/>
@@ -337,17 +361,6 @@ WordPress.com Has a New Home on YouTube originally published on CSS-Tricks. You 
         <summary type="html"><![CDATA[In this article, Leonardo Losoviz discusses some potential consequences as well as positive outcomes of WordPress joining the Block Protocol.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why are hyperlinks blue?]]></title>
-        <id>https://css-tricks.com/?p=363555</id>
-        <link href="https://css-tricks.com/why-are-hyperlinks-blue/"/>
-        <updated>2022-02-14T20:13:31.000Z</updated>
-        <summary type="html"><![CDATA[Last year, Elise Blanchard did some great historical research and discovered that blue hyperlinks replaced black hyperlinks in 1993. They’ve been blue for so long now that the general advice I always hear is to keep them that way. There …
-Why are hyperlinks blue? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -550,26 +563,6 @@ Thank you: @naari3]]></summary>
         <summary type="html"><![CDATA[In this article, Noam Rosenthal dives deep into a few technical features that are common across frameworks, and explains how some of the different frameworks implement them and what they cost.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Noam Rosenthal)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don’t Underestimate The Software Administration UX]]></title>
-        <id>https://smashingmagazine.com/2022/01/software-administration-ux/</id>
-        <link href="https://smashingmagazine.com/2022/01/software-administration-ux/"/>
-        <updated>2022-01-26T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This article reveals how something as trivial as administration in both software and As-a-service can be either a booster or bottleneck to a company’s productivity and innovation. It also provides several design aspects that UX practitioners should evaluate when designing the administration experience.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Shell Zhu &amp; Adrian Jones)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s New In DevTools?]]></title>
-        <id>https://smashingmagazine.com/2022/01/devtools-updates-2022/</id>
-        <link href="https://smashingmagazine.com/2022/01/devtools-updates-2022/"/>
-        <updated>2022-01-25T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What’s new in Chrome, Edge, Safari and Firefox? Patrick Brosset breaks it down with the latest features in DevTools across browsers.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Patrick Brosset)</name>
         </author>
     </entry>
 </feed>
