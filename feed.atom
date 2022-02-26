@@ -1,10 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-25T00:03:41.626Z</id>
+    <id>urn:2022-02-26T00:03:32.848Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-25T00:03:41.626Z</updated>
+    <updated>2022-02-26T00:03:32.848Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Section Divider Using CSS]]></title>
+        <id>6217ea59c4d0d306772ef522</id>
+        <link href="https://www.freecodecamp.org/news/section-divider-using-css/"/>
+        <updated>2022-02-25T21:46:23.000Z</updated>
+        <summary type="html"><![CDATA[It's always cool to have a fancy section divider on your website. And it's even better if we can make them responsive and easy to adjust. This is what you will learn in this article. We will explore different section dividers made using only CSS and some optimized code that's]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trailing Slashes on URLs: Contentious or Settled?]]></title>
+        <id>https://css-tricks.com/?p=364070</id>
+        <link href="https://css-tricks.com/trailing-slashes-on-urls-contentious-or-settled/"/>
+        <updated>2022-02-25T21:13:08.000Z</updated>
+        <summary type="html"><![CDATA[A fun deep dive from Zach. Do you have an opinion on which you should use?
+1) https://website.com/foo/
+2) https://websites.com/foo
+The first option has a “trailing slash.” The second does not.
+I’ve always preferred this thinking: you use a trailing …
+Trailing Slashes on URLs: Contentious or Settled? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When to Avoid the text-decoration Shorthand Property]]></title>
+        <id>https://css-tricks.com/?p=363619</id>
+        <link href="https://css-tricks.com/when-to-avoid-css-text-decoration-shorthand/"/>
+        <updated>2022-02-25T15:28:33.000Z</updated>
+        <summary type="html"><![CDATA[In my recent article about CSS underline bugs in Chrome, I discussed text-decoration-thickness and text-underline-offset, two relatively new and widely-supported CSS properties that give us more control over the styling of underlines.
+Let me demonstrate the usefulness of …
+When to Avoid the text-decoration Shorthand Property originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Šime Vidas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuel Matuzovic’s CSS Specificity Demo]]></title>
+        <id>https://css-tricks.com/?p=364152</id>
+        <link href="https://css-tricks.com/manuel-matuzovics-css-specificity-demo/"/>
+        <updated>2022-02-25T15:27:19.000Z</updated>
+        <summary type="html"><![CDATA[If you’re looking for a primer on CSS specificity, we’ve got that. And if you’re trying to get ahead of the game, you should be aware of CSS Cascade Layers as well.
+One of the ways to help get …
+Manuel Matuzovic’s CSS Specificity Demo originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My white whale: A use case for will-change]]></title>
         <id>https://css-tricks.com/?p=364138</id>
@@ -220,16 +269,6 @@ Reliably Send an HTTP Request as a User Leaves a Page originally published on CS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Working from Home – Tips to Help You Stay Productive]]></title>
-        <id>6210c04621bfb3068cf2b0a6</id>
-        <link href="https://www.freecodecamp.org/news/working-from-home-tips-to-stay-productive/"/>
-        <updated>2022-02-22T00:12:34.000Z</updated>
-        <summary type="html"><![CDATA[Over the past few years, a lot of us have started working remotely. That's what I also did, and I fell in love with this life. Indeed, a bit more than two years ago, I started my first full-time job as a Software Engineer. And at the same time, I]]></summary>
-        <author>
-            <name>Gaël Thomas</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Complete Guide to CSS Cascade Layers]]></title>
         <id>https://css-tricks.com/?p=363766</id>
         <link href="https://css-tricks.com/css-cascade-layers/"/>
@@ -306,31 +345,6 @@ Top Things You Didn’t Know You Could Do With Netlify CLI originally published 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Add-to-Calendar Button UI Widget]]></title>
-        <id>https://css-tricks.com/?p=363861</id>
-        <link href="https://css-tricks.com/add-to-calendar-button-ui-widget/"/>
-        <updated>2022-02-17T01:14:21.000Z</updated>
-        <summary type="html"><![CDATA[A useful little UI widget thingy here from Jens Kuerschner. Click the add-to-calendar button, get a list of calendar apps, the user selects which one they actually use, and they get what they need for that calendar. Could be a …
-Add-to-Calendar Button UI Widget originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Auto-Filling CSS Grid With Max Columns of a Minimum Size]]></title>
-        <id>https://css-tricks.com/?p=363541</id>
-        <link href="https://css-tricks.com/an-auto-filling-css-grid-with-max-columns/"/>
-        <updated>2022-02-16T15:06:57.000Z</updated>
-        <summary type="html"><![CDATA[Within Drupal 10 core, we’re implementing a new auto-filling CSS Grid technique that I think is cool enough to share with the world.
-The requirements are:
-The user specifies a maximum number of columns. This is the auto-filling grid’s “natural” 
-…
-An Auto-Filling CSS Grid With Max Columns of a Minimum Size originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Mike Herchel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Falling In Love With The Web: Inspiring Websites And Tools]]></title>
         <id>https://smashingmagazine.com/2022/02/inspiring-websites-tools/</id>
         <link href="https://smashingmagazine.com/2022/02/inspiring-websites-tools/"/>
@@ -338,19 +352,6 @@ An Auto-Filling CSS Grid With Max Columns of a Minimum Size originally published
         <summary type="html"><![CDATA[We all need a little inspiration boost every now and again. In this post, we collected inspiring resources from all across the web for you — beautiful eye candy, tips to challenge your skills, and useful tools that are bound to spark new ideas. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GSAP Flip Plugin for Animation]]></title>
-        <id>https://css-tricks.com/?p=363604</id>
-        <link href="https://css-tricks.com/gsap-flip-plugin-for-animation/"/>
-        <updated>2022-02-15T21:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Greensock made the GSAP Flip plugin free in the 3.9 release. FLIP is an animation concept that helps make super performance state-change animations. Ryan Mulligan has a good blog post: 
-FLIP, coined by Paul Lewis, is an 
-…
-GSAP Flip Plugin for Animation originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
