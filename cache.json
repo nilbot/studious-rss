@@ -83,12 +83,32 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=364346",
+          "author": "Chris Coyier",
+          "description": "I enjoy articles like Hartley Charlton’s “Microsoft Edge Looks Set to Overtake Safari as World’s Second Most Popular Desktop Browser.” It’s juicy! We know these massive players in the browser market care very much about their market share, so when …\nIE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/ie-down-edge-up-global-browser-usage-stats-are-for-cocktail-parties-and-conference-slides/",
+          "publishedOn": "2022-02-28T23:14:29.000Z",
+          "wordCount": 815,
+          "title": "IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364346"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363929",
+          "author": "John Rhea",
+          "description": "We’ve discussed a lot about the internals of using CSS in this ongoing series on web components, but there are a few special pseudo-elements and pseudo-classes that, like good friends, willingly smell your possibly halitotic breath before you go …\nWeb Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/",
+          "publishedOn": "2022-02-28T15:37:23.000Z",
+          "wordCount": 2422,
+          "title": "Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363929"
+        },
+        {
           "id": "https://css-tricks.com/?p=364070",
           "author": "Chris Coyier",
           "description": "A fun deep dive from Zach. Do you have an opinion on which you should use?\n1) https://website.com/foo/\n2) https://websites.com/foo\nThe first option has a “trailing slash.” The second does not.\nI’ve always preferred this thinking: you use a trailing …\nTrailing Slashes on URLs: Contentious or Settled? originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/trailing-slashes-on-urls-contentious-or-settled/",
           "publishedOn": "2022-02-25T21:13:08.000Z",
-          "wordCount": 857,
+          "wordCount": 882,
           "title": "Trailing Slashes on URLs: Contentious or Settled?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364070"
         },
@@ -128,7 +148,7 @@
           "description": "For the past few weeks, I’ve been hiring for a senior full-stack JavaScript engineer at my rental furniture company, Pabio. Since we’re a remote team, we conduct our interviews on Zoom, and I’ve observed that some developers are not …\nExplain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/",
           "publishedOn": "2022-02-24T15:31:55.000Z",
-          "wordCount": 5960,
+          "wordCount": 6390,
           "title": "Explain the First 10 Lines of Twitter’s Source Code to Me",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363553"
         },
@@ -178,7 +198,7 @@
           "description": "On several occasions, I’ve needed to send off an HTTP request with some data to log when a user does something like navigate to a different page or submit a form. Consider this contrived example of sending some information to …\nReliably Send an HTTP Request as a User Leaves a Page originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/send-an-http-request-on-page-exit/",
           "publishedOn": "2022-02-22T15:24:01.000Z",
-          "wordCount": 2526,
+          "wordCount": 2597,
           "title": "Reliably Send an HTTP Request as a User Leaves a Page",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363511"
         },
@@ -188,7 +208,7 @@
           "description": "This is your complete guide to CSS cascade layers, a CSS feature that allows us to define explicit contained layers of specificity, so that we have full control over which styles take priority in a project without relying on specificity …\nA Complete Guide to CSS Cascade Layers originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-cascade-layers/",
           "publishedOn": "2022-02-21T15:40:35.000Z",
-          "wordCount": 8780,
+          "wordCount": 9217,
           "title": "A Complete Guide to CSS Cascade Layers",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363766"
         },
@@ -211,26 +231,6 @@
           "wordCount": 1091,
           "title": "(Jay Freestone’s) Front-End Predictions for 2022",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363911"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363179",
-          "author": "Adam Rackis",
-          "description": "Font Awesome is an incredibly popular icon library. Unfortunately, it’s somewhat easy to use in a way that results in less-than-ideal performance. By subsetting Font Awesome, we can remove any unused glyphs from the font files it provides. This will …\nSubsetting Font Awesome to Improve Performance originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/subsetting-font-awesome-to-improve-performance/",
-          "publishedOn": "2022-02-17T15:21:41.000Z",
-          "wordCount": 2403,
-          "title": "Subsetting Font Awesome to Improve Performance",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363179"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363872",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nFirst things first, if you didn’t know Netlify had a CLI, they do.  One of my favorite things about it running the command netlify dev on nearly any static-site generator project is seeing it …\nTop Things You Didn’t Know You Could Do With Netlify CLI originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/top-things-you-didnt-know-you-could-do-with-netlify-cli/",
-          "publishedOn": "2022-02-17T13:00:00.000Z",
-          "wordCount": 771,
-          "title": "Top Things You Didn’t Know You Could Do With Netlify CLI",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363872"
         }
       ]
     },
@@ -239,6 +239,51 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/02/we-all-are-ukraine/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "As a design community, we all can’t be silent in these times. We need to be united in our fight against the war, for democracy, for those dreams that children are entitled to have when they are growing up. It’s our obligation to help as much as we can. **We are donating all proceeds** from \"Interface Design Checklists\" PDF to support Ukraine.",
+          "link": "https://smashingmagazine.com/2022/02/we-all-are-ukraine/",
+          "publishedOn": "2022-02-28T10:00:00.000Z",
+          "wordCount": 1256,
+          "title": "We All Are Ukraine 🇺🇦",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fbc9e281-74da-421b-b3ae-4882be4aee66/smashing-stands-with-ukraine.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fbc9e281-74da-421b-b3ae-4882be4aee66/smashing-stands-with-ukraine.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/02/desktop-wallpaper-calendars-march-2022/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Following our monthly tradition, artists and designers from across the globe challenged their creative skills and designed desktop wallpapers to welcome March. They come in versions with and without a calendar and can be downloaded for free.",
+          "link": "https://smashingmagazine.com/2022/02/desktop-wallpaper-calendars-march-2022/",
+          "publishedOn": "2022-02-28T09:30:00.000Z",
+          "wordCount": 2432,
+          "title": "March For Equality (2022 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/74ffb821-71d4-4625-8d1d-085de28b17ef/mar-22-spring-is-coming-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/74ffb821-71d4-4625-8d1d-085de28b17ef/mar-22-spring-is-coming-preview-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/02/recipe-good-design-system/",
+          "author": "hello@smashingmagazine.com (Átila Fassina)",
+          "description": "Maintaining a design system is a lot of work. In this article, Atila Fassina shares his lessons learned and how a platform such as Backlight can help put together a series of tools to speed up your architecture setup.",
+          "link": "https://smashingmagazine.com/2022/02/recipe-good-design-system/",
+          "publishedOn": "2022-02-28T09:00:00.000Z",
+          "wordCount": 2643,
+          "title": "A Recipe For A Good Design System",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8246a3cc-f74f-4d3a-93ff-8f8aa95fef1a/recipe-good-design-system.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8246a3cc-f74f-4d3a-93ff-8f8aa95fef1a/recipe-good-design-system.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/02/benchmark-improve-web-vitals-real-user-metrics/",
           "author": "hello@smashingmagazine.com (Átila Fassina)",
@@ -260,7 +305,7 @@
           "description": "If we want our WordPress plugins to offer a settings page that is fully powered by blocks, how can we do it? Since *Full Site Editing* doesn’t support this feature yet, we need to code a custom solution. In this article, we will learn how we can do it.",
           "link": "https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/",
           "publishedOn": "2022-02-23T10:30:00.000Z",
-          "wordCount": 3486,
+          "wordCount": 3483,
           "title": "Using The WordPress Editor And CPTs To Configure Plugins",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/854c1fe6-8061-4a9f-bf59-75f81a732114/wordpress-editor-cpts-configure-plugins.jpg",
@@ -275,7 +320,7 @@
           "description": "How do text typing and editing work on the web? Although this process might seem straightforward, there is a lot of technical nuance behind its apparent simplicity. This article looks at how typing on the web works.",
           "link": "https://smashingmagazine.com/2022/02/develop-text-editor-web/",
           "publishedOn": "2022-02-22T13:00:00.000Z",
-          "wordCount": 2187,
+          "wordCount": 2185,
           "title": "How To Develop A Text Editor For The Web",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e771d289-5725-48a4-b8b6-4ba30f2a2f44/develop-text-editor-web.jpg",
@@ -305,7 +350,7 @@
           "description": "You don’t need to be a full DevOps engineer if you want to introduce a testing build routine. With the help of some testing frameworks and GitHub actions, Ramona Schwering gives a short kick-off to help you get on the right track.",
           "link": "https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/",
           "publishedOn": "2022-02-21T13:30:00.000Z",
-          "wordCount": 5929,
+          "wordCount": 5934,
           "title": "Testing Pipeline 101 For Frontend Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/96b8ad22-5da2-4bee-8696-2aa210727e4a/testing-pipeline-101-frontend-testing.jpg",
@@ -320,7 +365,7 @@
           "description": "Markdown in all its flavors, interpretations, and forks won’t go away. However, it’s important to look at emerging content formats that try to encompass modern needs. In this article, Knut shares his advice against Markdown by looking back on why it was introduced in the first place, and by going through some of the major developments of content on the web.",
           "link": "https://smashingmagazine.com/2022/02/thoughts-on-markdown/",
           "publishedOn": "2022-02-18T10:30:00.000Z",
-          "wordCount": 6643,
+          "wordCount": 6651,
           "title": "Thoughts On Markdown",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cddeff5f-3d06-4d4f-9f90-b5e55761bb12/thoughts-on-markdown.jpg",
@@ -335,7 +380,7 @@
           "description": "We all need a little inspiration boost every now and again. In this post, we collected inspiring resources from all across the web for you — beautiful eye candy, tips to challenge your skills, and useful tools that are bound to spark new ideas. Enjoy!",
           "link": "https://smashingmagazine.com/2022/02/inspiring-websites-tools/",
           "publishedOn": "2022-02-16T11:30:00.000Z",
-          "wordCount": 3733,
+          "wordCount": 3741,
           "title": "Falling In Love With The Web: Inspiring Websites And Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/04bfe761-b62e-4717-89c3-9099cb0286bb/inspiring-websites-tools.jpg",
@@ -350,7 +395,7 @@
           "description": "In this article, Leonardo Losoviz discusses some potential consequences as well as positive outcomes of WordPress joining the Block Protocol.",
           "link": "https://smashingmagazine.com/2022/02/implications-wordpress-joining-block-protocol/",
           "publishedOn": "2022-02-15T10:00:00.000Z",
-          "wordCount": 3937,
+          "wordCount": 3927,
           "title": "Implications Of WordPress Joining The Block Protocol",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7e6ffb6e-3386-4823-a9ef-b3cd63f1f398/implications-wordpress-joining-block-protocol.jpg",
@@ -365,7 +410,7 @@
           "description": "Voice is a powerful tool that we can use to communicate with each other. This article covers the most critical aspects of designing for voice user interfaces: designing the conversation and designing visual interfaces.",
           "link": "https://smashingmagazine.com/2022/02/voice-user-interfaces-guide/",
           "publishedOn": "2022-02-14T13:30:00.000Z",
-          "wordCount": 4406,
+          "wordCount": 4402,
           "title": "Everything You Want To Know About Creating Voice User Interfaces",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1470bd2f-c151-4408-8f43-0a7d76a67249/voice-user-interfaces-guide.jpg",
@@ -380,7 +425,7 @@
           "description": "This installment of *Web Design Done Well* celebrates weird and wacky websites. Sites with sweet, innocent, sometimes pointless purposes. Are they money makers? Game changers? Not necessarily, but they sure are fun, and in ways only the web could really manage.",
           "link": "https://smashingmagazine.com/2022/02/web-design-done-well-perfectly-pointless/",
           "publishedOn": "2022-02-11T12:00:00.000Z",
-          "wordCount": 1709,
+          "wordCount": 1701,
           "title": "Web Design Done Well: Perfectly Pointless",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a885ddca-3e45-4167-8475-3ccd9181e712/web-design-done-well-perfectly-pointless.jpg",
@@ -395,7 +440,7 @@
           "description": "In this article, Steven Hoober shines the spotlight on Fitts’ Law and explains why we should always ask questions and consider what particular guidelines and lessons mean to our users and our products.",
           "link": "https://smashingmagazine.com/2022/02/fitts-law-touch-era/",
           "publishedOn": "2022-02-09T12:00:00.000Z",
-          "wordCount": 3418,
+          "wordCount": 3420,
           "title": "Fitts’ Law In The Touch Era",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b558fa6-25b4-4ec2-922a-469910f989a1/fitts-law-touch-era.jpg",
@@ -410,7 +455,7 @@
           "description": "Statoscope is an instrument that analyses your webpack-bundles. Created by Sergey Melukov, it started out as an experimental version in late 2016, which has now become a full-fledged toolkit for viewing, analyzing, and validating webpack-bundles.",
           "link": "https://smashingmagazine.com/2022/02/statoscope-course-intensive-therapy-bundle/",
           "publishedOn": "2022-02-08T10:00:00.000Z",
-          "wordCount": 5255,
+          "wordCount": 5253,
           "title": "Statoscope: A Course Of Intensive Therapy For Your Bundle",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8c91f031-fdf7-4b31-8a09-b7e0b0d01cc7/statoscope-course-intensive-therapy-bundle.jpg",
@@ -425,7 +470,7 @@
           "description": "While QR codes have many uses and can be leveraged at many touch points, they are just one of dozens of technologies that can improve the customer’s journey. Stanislav Khrustalev shares his advice with a list of things to keep in mind when using QR codes for your business.",
           "link": "https://smashingmagazine.com/2022/02/qr-codes-business-best-practices-pitfalls/",
           "publishedOn": "2022-02-07T14:00:00.000Z",
-          "wordCount": 2783,
+          "wordCount": 2789,
           "title": "Using QR Codes In Your Business: Best Practices And Pitfalls",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa41b6d9-f3ce-4b05-a110-21a7bc6c7595/qr-codes-business-best-practices-pitfalls.jpg",
@@ -440,7 +485,7 @@
           "description": "In this second part, Noam suggests a few patterns of how to use the web platform directly as an alternative to some of the solutions that are offered by frameworks.",
           "link": "https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/",
           "publishedOn": "2022-02-04T13:30:00.000Z",
-          "wordCount": 3779,
+          "wordCount": 3776,
           "title": "What Web Frameworks Solve: The Vanilla Alternative (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a3745837-4c65-4b2b-81ab-42e0088633d2/web-frameworks-guide-part2.jpg",
@@ -455,7 +500,7 @@
           "description": "In this article, we’ll look specifically at what we can do to reduce the impact of social media embeds and social sharing widgets — or even some strategies to avoid them altogether. While the spotlight is on reducing the environmental impact, many of these tips will be great for performance too.",
           "link": "https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/",
           "publishedOn": "2022-02-03T12:00:00.000Z",
-          "wordCount": 2562,
+          "wordCount": 2569,
           "title": "Reducing The Web’s Carbon Footprint: Optimizing Social Media Embeds",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/686a0218-bea0-4a0e-a2b9-aca40c29d412/reducing-web-carbon-footprint-optimizing-social-media-embeds.jpg",
@@ -470,7 +515,7 @@
           "description": "In this article, Adrian Bece shares more about the benefits and caveats of code-splitting and how page performance and load times can be improved by dynamically loading expensive, non-critical JavaScript bundles.",
           "link": "https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/",
           "publishedOn": "2022-02-02T10:30:00.000Z",
-          "wordCount": 4508,
+          "wordCount": 4502,
           "title": "Improving JavaScript Bundle Performance With Code-Splitting",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f721011b-37a8-4c1d-a8b9-b249bf938678/javascript-bundle-performance-code-splitting.jpg",
@@ -517,6 +562,86 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "62160a08c4d0d306772eecd2",
+          "author": "Elham Nazif",
+          "description": "If you want to learn Python, there are a lot of great resources out there. But if you're specifically looking for the best online course to learn Python, then you've come to the right place. In this article, I present a list of awesome Python courses ranked according to a",
+          "link": "https://www.freecodecamp.org/news/best-python-courses/",
+          "publishedOn": "2022-02-28T19:56:20.000Z",
+          "wordCount": 5764,
+          "title": "10 Best Python Courses to Take in 2022",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/Banner-10.png"
+        },
+        {
+          "id": "620c9b9621bfb3068cf2939d",
+          "author": "Kolade Chris",
+          "description": "While working with strings in JavaScript, you can perform different operations on them. The operations you might perform on strings include capitalization, conversion to lowercase, adding symbols within words, and many more. In this article, I will show you how to convert a string to uppercase letters with the .toUpperCase()",
+          "link": "https://www.freecodecamp.org/news/javascript-uppercase-how-to-capitalize-a-string-in-js-with-touppercase/",
+          "publishedOn": "2022-02-28T19:25:42.000Z",
+          "wordCount": 590,
+          "title": "JavaScript Uppercase – How to Capitalize a String in JS with .toUpperCase",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/toUpperCase.png"
+        },
+        {
+          "id": "6213501a21bfb3068cf2bf5b",
+          "author": "Jessica Wilkins",
+          "description": "Before the pandemic, I spent my whole life performing, teaching, and composing music. But in June of 2020, I made the decision to learn how to code and successfully landed a job as a software developer. Here is the story of how I learned how to code using freeCodeCamp [https://www.freecodecamp.org/learn/]",
+          "link": "https://www.freecodecamp.org/news/how-i-went-from-a-classical-musician-to-software-developer-and-techinal-writer/",
+          "publishedOn": "2022-02-28T19:11:22.000Z",
+          "wordCount": 2672,
+          "title": "How I Went from Classical Musician to Software Developer using freeCodeCamp",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/JW-pic.jpeg"
+        },
+        {
+          "id": "61faafa3f2ed6b06db5ab1ab",
+          "author": "Reza Lavarian",
+          "description": "What if I told you that web pages were interactive animations played back by your web browser? We watch various motions every time we're on a web page.  And it's not only JavaScript or CSS animations that I'm talking about. Scrolling, pinch zooming, text selection, and even hovering over",
+          "link": "https://www.freecodecamp.org/news/web-animation-performance-fundamentals/",
+          "publishedOn": "2022-02-28T18:49:59.000Z",
+          "wordCount": 4361,
+          "title": "Web Animation Performance Fundamentals – How to Make Your Pages Look Smooth",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/Antics_2-D_Animation_infobox_screenshot-1.png"
+        },
+        {
+          "id": "620abfab21bfb3068cf288b5",
+          "author": "Kolade Chris",
+          "description": "Commenting is an integral part of every programming language. With comments, you get a better understanding of your own code, make it more readable, and can help team members understand how it works. Comments are ignored by compilers and interpreters, so they don’t run. Apart from making your code more",
+          "link": "https://www.freecodecamp.org/news/python-multiline-comment-how-to-comment-out-multiple-lines-in-python/",
+          "publishedOn": "2022-02-28T17:54:47.000Z",
+          "wordCount": 786,
+          "title": "Python Multiline Comment – How to Comment Out Multiple Lines in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/ear-g3dcf79b5f_1280-1.png"
+        },
+        {
+          "id": "6213533d21bfb3068cf2bf8c",
+          "author": "Md. Fahim Bin Amin",
+          "description": "When you're working on a project or computer program, you might need to use the ASCII value of a certain character.  This is a common phenomenon in competitive programming, as well – we typically need to use the ASCII value of characters when solving some of the problems on",
+          "link": "https://www.freecodecamp.org/news/get-the-ascii-value-of-any-character-with-one-line-of-code/",
+          "publishedOn": "2022-02-28T16:20:44.000Z",
+          "wordCount": 2264,
+          "title": "How to Get the ASCII Value of Any Character with One Line of Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/ascii-banner.jpg"
+        },
+        {
+          "id": "62013885f2ed6b06db5af06e",
+          "author": "Ania Kubow",
+          "description": "As a software developer, I use a variety of plugins that make my life easier when it comes to avoiding mistakes and coding more efficiently. Whilst these time and effort saving techniques may seem negligible as a one off, when accumulated together they can really make a difference. In this",
+          "link": "https://www.freecodecamp.org/news/best-webstorm-plugins-for-effective-coding/",
+          "publishedOn": "2022-02-28T15:01:45.000Z",
+          "wordCount": 1284,
+          "title": "Best Webstorm Plugins for Effective Coding",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/pexels-johannes-plenio-1118874.jpg"
+        },
+        {
+          "id": "617db19e33422e07df36811e",
+          "author": "Dillion Megida",
+          "description": "When you're coding, you're writing various text that can be executed by different language compilers. And what makes this text fun and easy to write are the editors that we use. Different editors have different features. But they have a common goal: making writing code easier – easier to compose,",
+          "link": "https://www.freecodecamp.org/news/the-5-best-code-editors-for-mac-macos-text-editor-guide/",
+          "publishedOn": "2022-02-28T14:46:44.000Z",
+          "wordCount": 1380,
+          "title": "The 5 Best Code Editors for Mac – MacOS Text Editor Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/pexels-negative-space-169573.jpg"
+        },
+        {
           "id": "6217ea59c4d0d306772ef522",
           "author": "Temani Afif",
           "description": "It's always cool to have a fancy section divider on your website. And it's even better if we can make them responsive and easy to adjust. This is what you will learn in this article. We will explore different section dividers made using only CSS and some optimized code that's",
@@ -535,86 +660,6 @@
           "wordCount": 2285,
           "title": "Python Find in List – How to Find the Index of an Item or Element in a List",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/pexels-mateusz-dach-450035.jpg"
-        },
-        {
-          "id": "620c980321bfb3068cf29395",
-          "author": "Kolade Chris",
-          "description": "In programming languages, getting the length of a particular data type is a common practice. Python is no different because you can use the built-in len() function to get the length of a string, tuple, list, dictionary, or any other data type. In this article, I'm going to show you",
-          "link": "https://www.freecodecamp.org/news/what-is-len-in-python-how-to-use-the-len-function-to-find-the-length-of-a-string/",
-          "publishedOn": "2022-02-24T18:35:06.000Z",
-          "wordCount": 647,
-          "title": "What is len() in Python? How to Use the len() Function to Find the Length of a String",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/leninpython.png"
-        },
-        {
-          "id": "62179b03c4d0d306772ef2f8",
-          "author": "Beau Carnes",
-          "description": "Flutter is an open-source UI software development kit used to create cross-platform applications for iOS, Android, Windows, Mac, and more. We just published a 37-hour Flutter course for beginners on the freeCodeCamp.org YouTube channel. Vandad Nahavandipoor developed this course. Vlandad is a Google Developer Expert and Lead iOS Developer. Flutter",
-          "link": "https://www.freecodecamp.org/news/learn-flutter-full-course/",
-          "publishedOn": "2022-02-24T14:59:00.000Z",
-          "wordCount": 678,
-          "title": "Flutter Course for Beginners – 37-hour Android App Development Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/flutter37.png"
-        },
-        {
-          "id": "62164addc4d0d306772eef3e",
-          "author": "Beau Carnes",
-          "description": "Linux is an open source, free operating system which is used by computers all over the world. It is especially popular for use in servers. We just published a Linux crash course on the freeCodeCamp.org YouTube channel that will teach you the basics of this open source operating system. Josh",
-          "link": "https://www.freecodecamp.org/news/learn-the-basics-of-the-linux-operating-system/",
-          "publishedOn": "2022-02-24T13:48:00.000Z",
-          "wordCount": 470,
-          "title": "Learn the Basics of the Linux Operating System",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/linux.png"
-        },
-        {
-          "id": "621648e1c4d0d306772eeefc",
-          "author": "Beau Carnes",
-          "description": "NestJS is a framework for building efficient, scalable Node.js web applications. It is a complete development kit for building scalable server-side apps. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use NestJS by building a CRUD API. Vladimir Agaev developed this",
-          "link": "https://www.freecodecamp.org/news/learn-nestjs-by-building-a-crud-api/",
-          "publishedOn": "2022-02-23T14:53:04.000Z",
-          "wordCount": 511,
-          "title": "Learn NestJS by Building a CRUD API",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/nestjs.png"
-        },
-        {
-          "id": "62151953c4d0d306772ee3e2",
-          "author": "Reed Barger",
-          "description": "What backend should you choose for the React projects you are building?  There are so many different options to pick from, how do you know whether the backend you choose is the right one?  In this guide, you'll learn how to pick the appropriate backend for the type",
-          "link": "https://www.freecodecamp.org/news/backend-for-react-projects/",
-          "publishedOn": "2022-02-22T21:04:58.000Z",
-          "wordCount": 1555,
-          "title": "What Backend Should You Use for React?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/backend-for-react.png"
-        },
-        {
-          "id": "6214ebce21bfb3068cf2cbad",
-          "author": "Md. Fahim Bin Amin",
-          "description": "If you want to run C or C++ programs in your Windows operating system, then you need to have the right compilers.  The MinGW compiler is a well known and widely used software for installing GCC and G++ compilers for the C and C++ programming languages.  But many",
-          "link": "https://www.freecodecamp.org/news/how-to-install-c-and-cpp-compiler-on-windows/",
-          "publishedOn": "2022-02-22T18:04:59.000Z",
-          "wordCount": 1327,
-          "title": "How to Install C and C++ Compilers on Windows",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/banner_freeCodeCamp.png"
-        },
-        {
-          "id": "6212882b21bfb3068cf2bc05",
-          "author": "Joel Olawanle",
-          "description": "localStorage is a web storage object that allows JavaScript sites and apps to keep key-value pairs in a web browser with no expiration date.  This means the data survives page refreshes (sessionStorage) and even browser restarts. This indicates that the data stored in the browser will remain even when",
-          "link": "https://www.freecodecamp.org/news/how-to-use-localstorage-with-react-hooks-to-set-and-get-items/",
-          "publishedOn": "2022-02-22T14:53:30.000Z",
-          "wordCount": 1118,
-          "title": "How to Use localStorage with React Hooks to Set and Get Items",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/Yellow-and-Purple-Geometric-Covid-19-General-Facts-Twitter-Post.jpg"
-        },
-        {
-          "id": "6213b45e21bfb3068cf2c103",
-          "author": "Reed Barger",
-          "description": "Feel confident about your React knowledge? Put it to the test! I have selected all of the major questions you should know as a React developer in 2022, whether you are interviewing for a hired position or not. These questions cover everything from the core concepts of React to a",
-          "link": "https://www.freecodecamp.org/news/react-interview-questions-to-know/",
-          "publishedOn": "2022-02-22T00:21:59.000Z",
-          "wordCount": 1913,
-          "title": "10 React Interview Questions You Should Know in 2022",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/react-interview-questions-1.png"
         }
       ]
     }
