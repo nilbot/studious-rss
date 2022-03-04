@@ -1,10 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-03T00:03:46.013Z</id>
+    <id>urn:2022-03-04T00:04:12.528Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-03T00:03:46.013Z</updated>
+    <updated>2022-03-04T00:04:12.528Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build and Deploy a Backend App with Express, Postgres, Github, and Heroku]]></title>
+        <id>62208eb2c4d0d306772f3282</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-backend-application/"/>
+        <updated>2022-03-03T20:46:30.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will be learning how to build and deploy an image management application backend.  It will be able to store a record of an image in the database, get the image's record back from the database, update the record, and even delete the record completely as]]></summary>
+        <author>
+            <name>Njoku Samson Ebere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redux Tutorial for Beginners]]></title>
+        <id>62210a36c4d0d306772f3898</id>
+        <link href="https://www.freecodecamp.org/news/redux-tutorial-for-beginners/"/>
+        <updated>2022-03-03T18:38:46.000Z</updated>
+        <summary type="html"><![CDATA[Redux is a popular open-source JavaScript library for managing and centralizing application state. It is commonly used with React. We just published a complete course on the freeCodeCamp.org YouTube channel that will teach you how to use Redux. Nikhil Thadani developed this course. Nikhil has created many technical courses on]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python List Length – How to Get the Size of a List in Python]]></title>
+        <id>6220c90cc4d0d306772f359a</id>
+        <link href="https://www.freecodecamp.org/news/python-list-length-how-to-get-the-size-of-a-list-in-python/"/>
+        <updated>2022-03-03T18:21:33.000Z</updated>
+        <summary type="html"><![CDATA[In Python, you use a list to store various types of data such as strings and numbers. A list is identifiable by the square brackets that surround it, and individual values are separated by a comma. To get the length of a list in Python, you can use the built-in]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pip Command Not Found – Mac and Linux Error Solved]]></title>
+        <id>62208d02c4d0d306772f324e</id>
+        <link href="https://www.freecodecamp.org/news/pip-command-not-found-mac-and-linux-error-solved/"/>
+        <updated>2022-03-03T18:14:36.000Z</updated>
+        <summary type="html"><![CDATA[When using Python, you might need to install and use certain packages. And there is a command available for that known as 'pip'.  With pip, you can install, upgrade, and uninstall various Python packages. You'll learn how to use it, and how to handle pip errors, in this article.]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install Java on Windows]]></title>
+        <id>621fce2dc4d0d306772f2fbf</id>
+        <link href="https://www.freecodecamp.org/news/how-to-install-java-on-windows/"/>
+        <updated>2022-03-03T18:07:41.000Z</updated>
+        <summary type="html"><![CDATA[If you want to run any Java program on your Windows PC, you won't be able to do it without installing the Java Development Kit (JDK for short).  The JDK also contains the Java Runtime Environment (or JRE) which is the core of a Java program.  If you]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Location Information of an IP Address Using Python]]></title>
+        <id>6220562bc4d0d306772f31f5</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-location-information-of-ip-address-using-python/"/>
+        <updated>2022-03-03T17:55:34.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes you'll need to know the location of an IP address, whether it's your own or that of a site you're using.  One use-case for this is when you want to send login information to users for your website.  In this article, we're going to see how you]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Solve Project Euler Problems in Rust]]></title>
+        <id>62168995c4d0d306772ef0d1</id>
+        <link href="https://www.freecodecamp.org/news/project-euler-problems-in-rust/"/>
+        <updated>2022-03-03T17:09:14.000Z</updated>
+        <summary type="html"><![CDATA[You can now solve the classic Project Euler programming problems using the Rust language. Each of these problems comes with a user-friendly test suite. Here's the full Project Euler Rust GitHub repository [https://github.com/freeCodeCamp/euler-rust]. If you do not know Rust, and want to learn it, you can start with  freeCodeCamp's]]></summary>
+        <author>
+            <name>Shaun Hamilton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Say Hello to selectmenu, a Fully Style-able select Element]]></title>
+        <id>https://css-tricks.com/?p=363972</id>
+        <link href="https://css-tricks.com/the-selectmenu-element/"/>
+        <updated>2022-03-03T15:35:32.000Z</updated>
+        <summary type="html"><![CDATA[I want to introduce you to a new, experimental form control called <selectmenu>. We’ll get deep into it, including how much easier it is to style than a traditional <select> element. But first, let’s fill in some context …
+Say Hello to selectmenu, a Fully Style-able select Element originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Patrick Brosset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Membership Businesses with Memberful]]></title>
+        <id>https://css-tricks.com/?p=364001</id>
+        <link href="https://css-tricks.com/build-membership-businesses-with-memberful/"/>
+        <updated>2022-03-03T15:33:57.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+What would your business be like if you sold memberships? It might be more than fun to think about, in fact, it might just be transformative. With membership, would you include little add-ons or …
+Build Membership Businesses with Memberful originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Web Layouts For Dual-Screen And Foldable Devices]]></title>
+        <id>https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/</id>
+        <link href="https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/"/>
+        <updated>2022-03-03T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Dual-screen devices are just the next evolution in responsive design. If you have a PWA or website, the APIs available make integrating into your existing code base seamless. This article explains why it’s an exciting time for layout on the web, and how dual screens provide an opportunity to get even more creative.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stephanie Stimac)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7 Fresh Links on Performance For March 2022]]></title>
         <id>https://css-tricks.com/?p=364350</id>
@@ -62,16 +165,6 @@ How to Make a “Raise the Curtains” Effect in CSS originally published on CSS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps with GitLab CI Course]]></title>
-        <id>621f860dc4d0d306772f2cf9</id>
-        <link href="https://www.freecodecamp.org/news/devops-with-gitlab-ci-course/"/>
-        <updated>2022-03-02T15:05:24.000Z</updated>
-        <summary type="html"><![CDATA[GitLab CI/CD can automatically build, test, deploy, and monitor your applications. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use GitLab CI. Valentin Despa developed this course. Vaentin is an experienced developer and course creator. In this course, you will learn]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Guide To Audio Visualization With JavaScript And GSAP (Part 1)]]></title>
         <id>https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/</id>
         <link href="https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/"/>
@@ -79,66 +172,6 @@ How to Make a “Raise the Curtains” Effect in CSS originally published on CSS
         <summary type="html"><![CDATA[What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install Node.js and npm on Windows]]></title>
-        <id>621e97a4c4d0d306772f290b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-install-node-js-and-npm-on-windows-2/"/>
-        <updated>2022-03-02T00:18:51.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn how to work with JavaScript in the backend using Node on Windows. When you start working with JavaScript and discover that you can not only work with it in the frontend but also in the backend, a new world of possibilities seems to open up]]></summary>
-        <author>
-            <name>Daniel Rosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Wordle Clone in JavaScript]]></title>
-        <id>621903c6c4d0d306772efc76</id>
-        <link href="https://www.freecodecamp.org/news/build-a-wordle-clone-in-javascript/"/>
-        <updated>2022-03-01T23:35:30.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will be recreating the guessing game Wordle [https://www.nytimes.com/games/wordle/index.html]. This article covers the core game logic but does not implement sharing your results. The article also doesn't cover the functionality that generates game statistics.  This tutorial is intended for beginner front-end developers that want to build]]></summary>
-        <author>
-            <name>Paul Akinyemi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IoT Deployment – How to Secure and Deploy Internet of Things Devices]]></title>
-        <id>621d6316c4d0d306772f1f16</id>
-        <link href="https://www.freecodecamp.org/news/internet-of-things-deployments-getting-it-right/"/>
-        <updated>2022-03-01T21:06:01.000Z</updated>
-        <summary type="html"><![CDATA[The Internet of Things (IoT) is a term that has been floating around for a few years now, but what does it actually mean?  The best way to describe the IoT is to think of it as the network of physical objects that are interconnected and can communicate with]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[npm Uninstall – How to Remove a Package]]></title>
-        <id>621dfc8cc4d0d306772f220f</id>
-        <link href="https://www.freecodecamp.org/news/npm-uninstall-how-to-remove-a-package/"/>
-        <updated>2022-03-01T20:46:50.000Z</updated>
-        <summary type="html"><![CDATA[The Node Package Manager (NPM) provides various commands that let you work with packages. And just as you can install a package from the npm library, you can uninstall it. To uninstall a package, you can use the command provided by npm for the purpose – npm uninstall. The way]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The React useEffect Hook for Absolute Beginners]]></title>
-        <id>621e4f3ec4d0d306772f239d</id>
-        <link href="https://www.freecodecamp.org/news/react-useeffect-absolute-beginners/"/>
-        <updated>2022-03-01T20:41:00.000Z</updated>
-        <summary type="html"><![CDATA[If you have trouble understanding the useEffect hook, you're not alone. Beginners and experienced developers alike find it to be one of the trickiest hooks to understand, because it requires understanding a few unfamiliar programming concepts. In this quick guide, we're going to cover why this hook exists, how to]]></summary>
-        <author>
-            <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python .pop() – How to Pop from a List or an Array in Python]]></title>
-        <id>621c8bcfc4d0d306772f1263</id>
-        <link href="https://www.freecodecamp.org/news/python-pop-how-to-pop-from-a-list-or-an-array-in-python/"/>
-        <updated>2022-03-01T20:30:51.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn how to use Python's built-in pop() list method. By the end, you'll know how to use pop() to remove an item from a list in Python. Here is what we will cover:  1. An overview of lists in Python  2.  How to]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
         </author>
     </entry>
     <entry>
@@ -324,18 +357,6 @@ CSS Database Queries? Sure We Can! originally published on CSS-Tricks. You shoul
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 Accessibility Quick Wins You Can Implement Today]]></title>
-        <id>https://css-tricks.com/?p=363532</id>
-        <link href="https://css-tricks.com/5-accessibility-quick-wins-you-can-implement-today/"/>
-        <updated>2022-02-23T15:15:33.000Z</updated>
-        <summary type="html"><![CDATA[Let’s face it: building an AA or AAA-accessible product can be quite daunting. Luckily, having an accessible product isn’t all-or-nothing. Even seemingly small improvements can have nice quality of life benefits for many people.
-In that spirit, here are five …
-5 Accessibility Quick Wins You Can Implement Today originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Yuschick</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using The WordPress Editor And CPTs To Configure Plugins]]></title>
         <id>https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/</id>
         <link href="https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/"/>
@@ -343,19 +364,6 @@ In that spirit, here are five …
         <summary type="html"><![CDATA[If we want our WordPress plugins to offer a settings page that is fully powered by blocks, how can we do it? Since *Full Site Editing* doesn’t support this feature yet, we need to code a custom solution. In this article, we will learn how we can do it.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Before I go: When it comes to complaining about web browsers]]></title>
-        <id>https://css-tricks.com/?p=363998</id>
-        <link href="https://css-tricks.com/before-i-go-when-it-comes-to-complaining-about-web-browsers/"/>
-        <updated>2022-02-22T20:06:57.000Z</updated>
-        <summary type="html"><![CDATA[That’s a damn one-two punch from Dave. He goes for the ultimate clickbait title¹, then follows up with a pile of epic advice for us all. If you want web browsers to get better, listen up:
-Complaining on 
-…
-Before I go: When it comes to complaining about web browsers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -578,26 +586,6 @@ Thank you: @naari3]]></summary>
         <summary type="html"><![CDATA[In this article, we’ll look specifically at what we can do to reduce the impact of social media embeds and social sharing widgets — or even some strategies to avoid them altogether. While the spotlight is on reducing the environmental impact, many of these tips will be great for performance too.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Michelle Barker)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving JavaScript Bundle Performance With Code-Splitting]]></title>
-        <id>https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/</id>
-        <link href="https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/"/>
-        <updated>2022-02-02T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Adrian Bece shares more about the benefits and caveats of code-splitting and how page performance and load times can be improved by dynamically loading expensive, non-critical JavaScript bundles.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet “Touch Design For Mobile Interfaces”, A New Smashing Book]]></title>
-        <id>https://smashingmagazine.com/2022/02/touch-design-release/</id>
-        <link href="https://smashingmagazine.com/2022/02/touch-design-release/"/>
-        <updated>2022-02-01T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s shipping! Meet “Touch Design for Mobile Interfaces”, our brand-new guide with guidelines and best practices to improve usability and accessibility on mobile. 400 pages. For designers and developers working with mobile UIs.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
