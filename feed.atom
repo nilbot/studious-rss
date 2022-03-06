@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-05T00:03:31.730Z</id>
+    <id>urn:2022-03-06T00:07:33.715Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-05T00:03:31.730Z</updated>
+    <updated>2022-03-06T00:07:33.716Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -36,7 +36,17 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My Six Years in the Open Community]]></title>
+        <title type="html"><![CDATA[We All Are Ukraine 🇺🇦]]></title>
+        <id>https://smashingmagazine.com/2022/03/we-all-are-ukraine/</id>
+        <link href="https://smashingmagazine.com/2022/03/we-all-are-ukraine/"/>
+        <updated>2022-03-04T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As a design community, we all can’t be silent in these times. We need to be united in our fight against the war, for democracy, for those dreams that children are entitled to have when they are growing up. It’s our obligation to help as much as we can. **We are donating all proceeds** from "Interface Design Checklists" PDF to support Ukraine.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Six Years in the Open Source Community]]></title>
         <id>62189cadc4d0d306772ef999</id>
         <link href="https://www.freecodecamp.org/news/my-six-years-in-open-community/"/>
         <updated>2022-03-04T16:35:38.000Z</updated>
@@ -237,16 +247,6 @@ IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conf
 Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>John Rhea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We All Are Ukraine 🇺🇦]]></title>
-        <id>https://smashingmagazine.com/2022/02/we-all-are-ukraine/</id>
-        <link href="https://smashingmagazine.com/2022/02/we-all-are-ukraine/"/>
-        <updated>2022-02-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As a design community, we all can’t be silent in these times. We need to be united in our fight against the war, for democracy, for those dreams that children are entitled to have when they are growing up. It’s our obligation to help as much as we can. **We are donating all proceeds** from "Interface Design Checklists" PDF to support Ukraine.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
     <entry>
