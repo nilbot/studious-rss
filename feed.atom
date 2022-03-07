@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-06T00:07:33.715Z</id>
+    <id>urn:2022-03-07T00:04:00.817Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-06T00:07:33.716Z</updated>
+    <updated>2022-03-07T00:04:00.817Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -50,7 +50,7 @@
         <id>62189cadc4d0d306772ef999</id>
         <link href="https://www.freecodecamp.org/news/my-six-years-in-open-community/"/>
         <updated>2022-03-04T16:35:38.000Z</updated>
-        <summary type="html"><![CDATA[Original article: 在开放社区中的六年，我做着喜欢且擅长的事情，利他而自利 [https://chinese.freecodecamp.org/news/my-six-years-in-open-community/] by Miya Liu [https://chinese.freecodecamp.org/news/author/miyaliu/] Translated by: Alan Luo [/news/alan-luo] Hello, I'm Yuyu Liu (Miya) from the freeCodeCamp [http://freecodecamp.org/]  community. freeCodeCamp.org is the world's largest open-source non-profit programming education community. It is also an open-source project that has long been ranked number one on GitHub. In]]></summary>
+        <summary type="html"><![CDATA[Original article: 在开放社区中的六年，我做着喜欢且擅长的事情，利他而自利 [https://chinese.freecodecamp.org/news/my-six-years-in-open-community/] by Miya Liu [https://chinese.freecodecamp.org/news/author/miyaliu/] Translated by: Alan Luo [https://twitter.com/iLtcDev] Hello, I'm Yuyu Liu (Miya) from the freeCodeCamp [http://freecodecamp.org/]  community. freeCodeCamp.org is the world's largest open-source non-profit programming education community. It is also an open-source project that has long been ranked number one on]]></summary>
         <author>
             <name>Miya Liu</name>
         </author>
@@ -576,16 +576,6 @@ Thank you: @naari3]]></summary>
         <summary type="html"><![CDATA[While QR codes have many uses and can be leveraged at many touch points, they are just one of dozens of technologies that can improve the customer’s journey. Stanislav Khrustalev shares his advice with a list of things to keep in mind when using QR codes for your business.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Stanislav Khrustalev)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Web Frameworks Solve: The Vanilla Alternative (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/</id>
-        <link href="https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/"/>
-        <updated>2022-02-04T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this second part, Noam suggests a few patterns of how to use the web platform directly as an alternative to some of the solutions that are offered by frameworks.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Noam Rosenthal)</name>
         </author>
     </entry>
 </feed>
