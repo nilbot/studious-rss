@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-07T00:04:00.817Z</id>
+    <id>urn:2022-03-08T00:03:48.765Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-07T00:04:00.817Z</updated>
+    <updated>2022-03-08T00:03:48.765Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Python Remove Character from a String – How to Delete Characters from Strings]]></title>
+        <id>62134fbd21bfb3068cf2bf4b</id>
+        <link href="https://www.freecodecamp.org/news/python-remove-character-from-a-string-how-to-delete-characters-from-strings/"/>
+        <updated>2022-03-07T18:08:44.000Z</updated>
+        <summary type="html"><![CDATA[In Python you can use the replace() and translate() methods to specify which characters you want to remove from a string and return a new modified string result.  It is important to remember that the original string will not be altered because strings are immutable.  In this article,]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy a TensorFlow Model as a RESTful API Service]]></title>
+        <id>62118afc21bfb3068cf2b63c</id>
+        <link href="https://www.freecodecamp.org/news/deploy-an-ml-model-using-fastapi-and-docker/"/>
+        <updated>2022-03-07T14:58:44.000Z</updated>
+        <summary type="html"><![CDATA[If you're like I am, then you've probably watched and read a number of tutorials on creating machine learning models with TensorFlow, PyTorch, Scikit-Learn or any other framework out there.  But there is one thing that these tutorials tend to miss out on, and that's model deployment. In this]]></summary>
+        <author>
+            <name>Neil Ruaro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Signals For Customizing Website User Experience]]></title>
+        <id>https://smashingmagazine.com/2022/03/signals-customizing-website-user-experience/</id>
+        <link href="https://smashingmagazine.com/2022/03/signals-customizing-website-user-experience/"/>
+        <updated>2022-03-07T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Using signals to deliver less, or different, content is a form of progressive enhancement (or graceful degradation depending on how you look at it), whereby extraneous content is only loaded when necessary, but the core functionality of the website still works. In this article, we’ll look at some of the signals that can be used for this.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Barry Pollard)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fullstack Development Project - Create a Blog with HTML & CSS]]></title>
         <id>62227173c4d0d306772f4441</id>
@@ -36,21 +66,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We All Are Ukraine 🇺🇦]]></title>
-        <id>https://smashingmagazine.com/2022/03/we-all-are-ukraine/</id>
-        <link href="https://smashingmagazine.com/2022/03/we-all-are-ukraine/"/>
-        <updated>2022-03-04T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As a design community, we all can’t be silent in these times. We need to be united in our fight against the war, for democracy, for those dreams that children are entitled to have when they are growing up. It’s our obligation to help as much as we can. **We are donating all proceeds** from "Interface Design Checklists" PDF to support Ukraine.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[My Six Years in the Open Source Community]]></title>
         <id>62189cadc4d0d306772ef999</id>
         <link href="https://www.freecodecamp.org/news/my-six-years-in-open-community/"/>
         <updated>2022-03-04T16:35:38.000Z</updated>
-        <summary type="html"><![CDATA[Original article: 在开放社区中的六年，我做着喜欢且擅长的事情，利他而自利 [https://chinese.freecodecamp.org/news/my-six-years-in-open-community/] by Miya Liu [https://chinese.freecodecamp.org/news/author/miyaliu/] Translated by: Alan Luo [https://twitter.com/iLtcDev] Hello, I'm Yuyu Liu (Miya) from the freeCodeCamp [http://freecodecamp.org/]  community. freeCodeCamp.org is the world's largest open-source non-profit programming education community. It is also an open-source project that has long been ranked number one on]]></summary>
+        <summary type="html"><![CDATA[Original article: 在开放社区中的六年，我做着喜欢且擅长的事情，利他而自利 [https://chinese.freecodecamp.org/news/my-six-years-in-open-community/] by Miya Liu [https://chinese.freecodecamp.org/news/author/miyaliu/] Translated by: Alan Luo [https://twitter.com/iLtcDev] Hello, I'm Yuyu Liu (Miya) from the freeCodeCamp [http://freecodecamp.org/]  community. freeCodeCamp.org is the world's largest open-source non-profit programming education community. It is also an open-source project that has more stars than any other repos]]></summary>
         <author>
             <name>Miya Liu</name>
         </author>
@@ -103,26 +123,6 @@
         <summary type="html"><![CDATA[In Python, you use a list to store various types of data such as strings and numbers. A list is identifiable by the square brackets that surround it, and individual values are separated by a comma. To get the length of a list in Python, you can use the built-in]]></summary>
         <author>
             <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pip Command Not Found – Mac and Linux Error Solved]]></title>
-        <id>62208d02c4d0d306772f324e</id>
-        <link href="https://www.freecodecamp.org/news/pip-command-not-found-mac-and-linux-error-solved/"/>
-        <updated>2022-03-03T18:14:36.000Z</updated>
-        <summary type="html"><![CDATA[When using Python, you might need to install and use certain packages. And there is a command available for that known as 'pip'.  With pip, you can install, upgrade, and uninstall various Python packages. You'll learn how to use it, and how to handle pip errors, in this article.]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install Java on Windows]]></title>
-        <id>621fce2dc4d0d306772f2fbf</id>
-        <link href="https://www.freecodecamp.org/news/how-to-install-java-on-windows/"/>
-        <updated>2022-03-03T18:07:41.000Z</updated>
-        <summary type="html"><![CDATA[If you want to run any Java program on your Windows PC, you won't be able to do it without installing the Java Development Kit (JDK for short).  The JDK also contains the Java Runtime Environment (or JRE) which is the core of a Java program.  If you]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
         </author>
     </entry>
     <entry>
@@ -236,6 +236,16 @@ Ahmad Shadeed: Use Cases For CSS fit-content originally published on CSS-Tricks.
 IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We All Are Ukraine 🇺🇦]]></title>
+        <id>https://smashingmagazine.com/2022/02/we-all-are-ukraine/</id>
+        <link href="https://smashingmagazine.com/2022/02/we-all-are-ukraine/"/>
+        <updated>2022-02-28T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As a design community, we all can’t be silent in these times. We need to be united in our fight against the war, for democracy, for those dreams that children are entitled to have when they are growing up. It’s our obligation to help as much as we can. **We are donating all proceeds** from "Interface Design Checklists" PDF to support Ukraine.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
     <entry>
