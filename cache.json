@@ -88,7 +88,7 @@
           "description": "I want to introduce you to a new, experimental form control called <selectmenu>. We’ll get deep into it, including how much easier it is to style than a traditional <select> element. But first, let’s fill in some context …\nSay Hello to selectmenu, a Fully Style-able select Element originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/the-selectmenu-element/",
           "publishedOn": "2022-03-03T15:35:32.000Z",
-          "wordCount": 3034,
+          "wordCount": 3033,
           "title": "Say Hello to selectmenu, a Fully Style-able select Element",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363972"
         },
@@ -108,7 +108,7 @@
           "description": "I have a handful of good links to articles about performance that are burning a hole in my bookmarks folder, and wanna drop them here to share.\nThe new WebPageTest website design\nFrom fonts to SVG: an icon migration strategy\n…\n7 Fresh Links on Performance For March 2022 originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/performance-links-february-2022/",
           "publishedOn": "2022-03-02T21:26:50.000Z",
-          "wordCount": 840,
+          "wordCount": 839,
           "title": "7 Fresh Links on Performance For March 2022",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364350"
         },
@@ -128,7 +128,7 @@
           "description": "Styling ranges of text in software is a very useful thing to be able to do. Thankfully, we have the CSS Custom Highlight API to look forward to because it represents the future of styling text ranges on the web.…\nCSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-custom-highlight-api-early-loo/",
           "publishedOn": "2022-03-01T17:41:13.000Z",
-          "wordCount": 2574,
+          "wordCount": 2573,
           "title": "CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363724"
         },
@@ -138,7 +138,7 @@
           "description": "Ahmad Shadeed covers the CSS fit-content sizing keyword. It’s useful! It just doesn’t come up super often. I find myself using min-content a lot more, like when setting up the height of a grid-template-row.\nThe fit-content keyword is actually …\nAhmad Shadeed: Use Cases For CSS fit-content originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/ahmad-shadeed-use-cases-for-css-fit-content/",
           "publishedOn": "2022-03-01T15:41:16.000Z",
-          "wordCount": 435,
+          "wordCount": 434,
           "title": "Ahmad Shadeed: Use Cases For CSS fit-content",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364351"
         },
@@ -148,7 +148,7 @@
           "description": "I enjoy articles like Hartley Charlton’s “Microsoft Edge Looks Set to Overtake Safari as World’s Second Most Popular Desktop Browser.” It’s juicy! We know these massive players in the browser market care very much about their market share, so when …\nIE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/ie-down-edge-up-global-browser-usage-stats-are-for-cocktail-parties-and-conference-slides/",
           "publishedOn": "2022-02-28T23:14:29.000Z",
-          "wordCount": 940,
+          "wordCount": 939,
           "title": "IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364346"
         },
@@ -158,7 +158,7 @@
           "description": "We’ve discussed a lot about the internals of using CSS in this ongoing series on web components, but there are a few special pseudo-elements and pseudo-classes that, like good friends, willingly smell your possibly halitotic breath before you go …\nWeb Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/",
           "publishedOn": "2022-02-28T15:37:23.000Z",
-          "wordCount": 2478,
+          "wordCount": 2477,
           "title": "Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363929"
         },
@@ -168,7 +168,7 @@
           "description": "A fun deep dive from Zach. Do you have an opinion on which you should use?\n1) https://website.com/foo/\n2) https://websites.com/foo\nThe first option has a “trailing slash.” The second does not.\nI’ve always preferred this thinking: you use a trailing …\nTrailing Slashes on URLs: Contentious or Settled? originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/trailing-slashes-on-urls-contentious-or-settled/",
           "publishedOn": "2022-02-25T21:13:08.000Z",
-          "wordCount": 847,
+          "wordCount": 846,
           "title": "Trailing Slashes on URLs: Contentious or Settled?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364070"
         },
@@ -178,7 +178,7 @@
           "description": "In my recent article about CSS underline bugs in Chrome, I discussed text-decoration-thickness and text-underline-offset, two relatively new and widely-supported CSS properties that give us more control over the styling of underlines.\nLet me demonstrate the usefulness of …\nWhen to Avoid the text-decoration Shorthand Property originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/when-to-avoid-css-text-decoration-shorthand/",
           "publishedOn": "2022-02-25T15:28:33.000Z",
-          "wordCount": 1214,
+          "wordCount": 1213,
           "title": "When to Avoid the text-decoration Shorthand Property",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363619"
         },
@@ -188,7 +188,7 @@
           "description": "If you’re looking for a primer on CSS specificity, we’ve got that. And if you’re trying to get ahead of the game, you should be aware of CSS Cascade Layers as well.\nOne of the ways to help get …\nManuel Matuzovic’s CSS Specificity Demo originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/manuel-matuzovics-css-specificity-demo/",
           "publishedOn": "2022-02-25T15:27:19.000Z",
-          "wordCount": 494,
+          "wordCount": 493,
           "title": "Manuel Matuzovic’s CSS Specificity Demo",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364152"
         },
@@ -245,7 +245,7 @@
           "description": "Using signals to deliver less, or different, content is a form of progressive enhancement (or graceful degradation depending on how you look at it), whereby extraneous content is only loaded when necessary, but the core functionality of the website still works. In this article, we’ll look at some of the signals that can be used for this.",
           "link": "https://smashingmagazine.com/2022/03/signals-customizing-website-user-experience/",
           "publishedOn": "2022-03-07T10:30:00.000Z",
-          "wordCount": 4680,
+          "wordCount": 4678,
           "title": "Signals For Customizing Website User Experience",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6c2416bf-b3e1-4398-a1d9-fd2404eb678d/signals-customizing-website-user-experience.jpg",
@@ -260,7 +260,7 @@
           "description": "If users cannot find the answers to their questions or are not exposed to critical messaging, they will not act, and your website will fail. To prevent that from happening, you need an effective information architecture. In this article, Paul Boag provides you with a process to ensure you have precisely that.",
           "link": "https://smashingmagazine.com/2022/03/easy-information-architecture/",
           "publishedOn": "2022-03-04T10:30:00.000Z",
-          "wordCount": 3165,
+          "wordCount": 3161,
           "title": "How To Create An Information Architecture That Is Easy To Use",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/771aac3c-df07-49cb-a4b1-8558b39f9e2a/easy-information-architecture.jpg",
@@ -290,7 +290,7 @@
           "description": "What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.",
           "link": "https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/",
           "publishedOn": "2022-03-02T13:30:00.000Z",
-          "wordCount": 5303,
+          "wordCount": 5312,
           "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d02916da-2e33-4aed-ac5e-f1107fa44e57/audio-visualization-javascript-gsap-part1.jpg",
@@ -335,7 +335,7 @@
           "description": "Following our monthly tradition, artists and designers from across the globe challenged their creative skills and designed desktop wallpapers to welcome March. They come in versions with and without a calendar and can be downloaded for free.",
           "link": "https://smashingmagazine.com/2022/02/desktop-wallpaper-calendars-march-2022/",
           "publishedOn": "2022-02-28T09:30:00.000Z",
-          "wordCount": 2426,
+          "wordCount": 2423,
           "title": "March For Equality (2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/74ffb821-71d4-4625-8d1d-085de28b17ef/mar-22-spring-is-coming-preview-opt.png",
@@ -380,7 +380,7 @@
           "description": "If we want our WordPress plugins to offer a settings page that is fully powered by blocks, how can we do it? Since *Full Site Editing* doesn’t support this feature yet, we need to code a custom solution. In this article, we will learn how we can do it.",
           "link": "https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/",
           "publishedOn": "2022-02-23T10:30:00.000Z",
-          "wordCount": 3488,
+          "wordCount": 3485,
           "title": "Using The WordPress Editor And CPTs To Configure Plugins",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/854c1fe6-8061-4a9f-bf59-75f81a732114/wordpress-editor-cpts-configure-plugins.jpg",
@@ -395,7 +395,7 @@
           "description": "How do text typing and editing work on the web? Although this process might seem straightforward, there is a lot of technical nuance behind its apparent simplicity. This article looks at how typing on the web works.",
           "link": "https://smashingmagazine.com/2022/02/develop-text-editor-web/",
           "publishedOn": "2022-02-22T13:00:00.000Z",
-          "wordCount": 2187,
+          "wordCount": 2184,
           "title": "How To Develop A Text Editor For The Web",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e771d289-5725-48a4-b8b6-4ba30f2a2f44/develop-text-editor-web.jpg",
@@ -425,7 +425,7 @@
           "description": "You don’t need to be a full DevOps engineer if you want to introduce a testing build routine. With the help of some testing frameworks and GitHub actions, Ramona Schwering gives a short kick-off to help you get on the right track.",
           "link": "https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/",
           "publishedOn": "2022-02-21T13:30:00.000Z",
-          "wordCount": 5945,
+          "wordCount": 5933,
           "title": "Testing Pipeline 101 For Frontend Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/96b8ad22-5da2-4bee-8696-2aa210727e4a/testing-pipeline-101-frontend-testing.jpg",
@@ -440,7 +440,7 @@
           "description": "Markdown in all its flavors, interpretations, and forks won’t go away. However, it’s important to look at emerging content formats that try to encompass modern needs. In this article, Knut shares his advice against Markdown by looking back on why it was introduced in the first place, and by going through some of the major developments of content on the web.",
           "link": "https://smashingmagazine.com/2022/02/thoughts-on-markdown/",
           "publishedOn": "2022-02-18T10:30:00.000Z",
-          "wordCount": 6644,
+          "wordCount": 6658,
           "title": "Thoughts On Markdown",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cddeff5f-3d06-4d4f-9f90-b5e55761bb12/thoughts-on-markdown.jpg",
@@ -470,7 +470,7 @@
           "description": "In this article, Leonardo Losoviz discusses some potential consequences as well as positive outcomes of WordPress joining the Block Protocol.",
           "link": "https://smashingmagazine.com/2022/02/implications-wordpress-joining-block-protocol/",
           "publishedOn": "2022-02-15T10:00:00.000Z",
-          "wordCount": 3933,
+          "wordCount": 3928,
           "title": "Implications Of WordPress Joining The Block Protocol",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7e6ffb6e-3386-4823-a9ef-b3cd63f1f398/implications-wordpress-joining-block-protocol.jpg",
@@ -485,7 +485,7 @@
           "description": "Voice is a powerful tool that we can use to communicate with each other. This article covers the most critical aspects of designing for voice user interfaces: designing the conversation and designing visual interfaces.",
           "link": "https://smashingmagazine.com/2022/02/voice-user-interfaces-guide/",
           "publishedOn": "2022-02-14T13:30:00.000Z",
-          "wordCount": 4407,
+          "wordCount": 4410,
           "title": "Everything You Want To Know About Creating Voice User Interfaces",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1470bd2f-c151-4408-8f43-0a7d76a67249/voice-user-interfaces-guide.jpg",
@@ -500,7 +500,7 @@
           "description": "This installment of *Web Design Done Well* celebrates weird and wacky websites. Sites with sweet, innocent, sometimes pointless purposes. Are they money makers? Game changers? Not necessarily, but they sure are fun, and in ways only the web could really manage.",
           "link": "https://smashingmagazine.com/2022/02/web-design-done-well-perfectly-pointless/",
           "publishedOn": "2022-02-11T12:00:00.000Z",
-          "wordCount": 1701,
+          "wordCount": 1699,
           "title": "Web Design Done Well: Perfectly Pointless",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a885ddca-3e45-4167-8475-3ccd9181e712/web-design-done-well-perfectly-pointless.jpg",
@@ -515,7 +515,7 @@
           "description": "In this article, Steven Hoober shines the spotlight on Fitts’ Law and explains why we should always ask questions and consider what particular guidelines and lessons mean to our users and our products.",
           "link": "https://smashingmagazine.com/2022/02/fitts-law-touch-era/",
           "publishedOn": "2022-02-09T12:00:00.000Z",
-          "wordCount": 3417,
+          "wordCount": 3421,
           "title": "Fitts’ Law In The Touch Era",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b558fa6-25b4-4ec2-922a-469910f989a1/fitts-law-touch-era.jpg",
@@ -530,7 +530,7 @@
           "description": "Statoscope is an instrument that analyses your webpack-bundles. Created by Sergey Melukov, it started out as an experimental version in late 2016, which has now become a full-fledged toolkit for viewing, analyzing, and validating webpack-bundles.",
           "link": "https://smashingmagazine.com/2022/02/statoscope-course-intensive-therapy-bundle/",
           "publishedOn": "2022-02-08T10:00:00.000Z",
-          "wordCount": 5260,
+          "wordCount": 5251,
           "title": "Statoscope: A Course Of Intensive Therapy For Your Bundle",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8c91f031-fdf7-4b31-8a09-b7e0b0d01cc7/statoscope-course-intensive-therapy-bundle.jpg",
@@ -545,7 +545,7 @@
           "description": "While QR codes have many uses and can be leveraged at many touch points, they are just one of dozens of technologies that can improve the customer’s journey. Stanislav Khrustalev shares his advice with a list of things to keep in mind when using QR codes for your business.",
           "link": "https://smashingmagazine.com/2022/02/qr-codes-business-best-practices-pitfalls/",
           "publishedOn": "2022-02-07T14:00:00.000Z",
-          "wordCount": 2794,
+          "wordCount": 2787,
           "title": "Using QR Codes In Your Business: Best Practices And Pitfalls",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa41b6d9-f3ce-4b05-a110-21a7bc6c7595/qr-codes-business-best-practices-pitfalls.jpg",
@@ -562,104 +562,104 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
-          "id": "62134fbd21bfb3068cf2bf4b",
-          "author": "Jessica Wilkins",
-          "description": "In Python you can use the replace() and translate() methods to specify which characters you want to remove from a string and return a new modified string result.  It is important to remember that the original string will not be altered because strings are immutable.  In this article,",
-          "link": "https://www.freecodecamp.org/news/python-remove-character-from-a-string-how-to-delete-characters-from-strings/",
-          "publishedOn": "2022-03-07T18:08:44.000Z",
-          "wordCount": 990,
-          "title": "Python Remove Character from a String – How to Delete Characters from Strings",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/fotis-fotopoulos-LJ9KY8pIH3E-unsplash.jpg"
-        },
-        {
-          "id": "62118afc21bfb3068cf2b63c",
-          "author": "Neil Ruaro",
-          "description": "If you're like I am, then you've probably watched and read a number of tutorials on creating machine learning models with TensorFlow, PyTorch, Scikit-Learn or any other framework out there.  But there is one thing that these tutorials tend to miss out on, and that's model deployment. In this",
-          "link": "https://www.freecodecamp.org/news/deploy-an-ml-model-using-fastapi-and-docker/",
-          "publishedOn": "2022-03-07T14:58:44.000Z",
-          "wordCount": 2445,
-          "title": "How to Deploy a TensorFlow Model as a RESTful API Service",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/deploying-tensorflow-heroku-docker.png"
-        },
-        {
-          "id": "62227173c4d0d306772f4441",
-          "author": "Beau Carnes",
-          "description": "It's time for you to improve your HTML and CSS skills by creating a blog. We just posted a fullstack development course on the freeCodeCamp.org YouTube channel that will teach you how to build a blog with HTML and CSS. Julio Codes created this course. He has a popular YouTube",
-          "link": "https://www.freecodecamp.org/news/fullstack-development-project-create-a-blog-with-html-css/",
-          "publishedOn": "2022-03-04T20:11:34.000Z",
-          "wordCount": 441,
-          "title": "Fullstack Development Project - Create a Blog with HTML & CSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/blog.png"
-        },
-        {
-          "id": "6221b192c4d0d306772f3ed5",
-          "author": "MacBobby Chibuzor",
-          "description": "What is Haskell? What is it used for? Why are there relatively few Haskell programmers? How can I get started with Haskell? If you're asking yourself these questions, then this article is for you. In it, I'll answer your questions about the Haskell programming language and demystify it for you.",
-          "link": "https://www.freecodecamp.org/news/haskell-programming-language-introduction/",
-          "publishedOn": "2022-03-04T19:57:55.000Z",
-          "wordCount": 1693,
-          "title": "Haskell Programming Language – How to Install and Use Haskell Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Hacking-into-Haskell.png"
-        },
-        {
-          "id": "607da1ecdd38b9088c2bc6c9",
-          "author": "Dillion Megida",
-          "description": "When using Python, you may install different version variations for different projects. But sometimes this can affect how your code executes, as it may not use the correct version. In this article, we'll learn how to install new Python versions (Python 3 in our case) and how to set this",
-          "link": "https://www.freecodecamp.org/news/how-to-install-python-3-on-mac-and-update-the-python-version-macos-homebrew-command-guide/",
-          "publishedOn": "2022-03-04T18:44:30.000Z",
-          "wordCount": 725,
-          "title": "How to Install Python 3 on Mac and Update the Version with Pyenv – MacOS Homebrew Command Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-christina-morillo-1181359--2-.jpg"
-        },
-        {
-          "id": "62189cadc4d0d306772ef999",
-          "author": "Miya Liu",
-          "description": "Original article: 在开放社区中的六年，我做着喜欢且擅长的事情，利他而自利 [https://chinese.freecodecamp.org/news/my-six-years-in-open-community/] by Miya Liu [https://chinese.freecodecamp.org/news/author/miyaliu/] Translated by: Alan Luo [https://twitter.com/iLtcDev] Hello, I'm Yuyu Liu (Miya) from the freeCodeCamp [http://freecodecamp.org/]  community. freeCodeCamp.org is the world's largest open-source non-profit programming education community. It is also an open-source project that has more stars than any other repos",
-          "link": "https://www.freecodecamp.org/news/my-six-years-in-open-community/",
-          "publishedOn": "2022-03-04T16:35:38.000Z",
-          "wordCount": 8752,
-          "title": "My Six Years in the Open Source Community",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/WechatIMG3506.jpeg"
-        },
-        {
-          "id": "6220a4a5c4d0d306772f338d",
-          "author": "Ihechikara Vincent Abba",
-          "description": "In this article, we will talk about the queue data structure, its operations, and how to implement these operations using an array in Java.  What Is a Queue? A queue is linear data structure that consists of a collection is of items that follow a first-in-first-out sequence. This implies",
-          "link": "https://www.freecodecamp.org/news/queue-data-structure-definition-and-java-example-code/",
-          "publishedOn": "2022-03-04T00:36:52.000Z",
-          "wordCount": 1812,
-          "title": "Queue Data Structure – Definition and Java Example Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/queue-data-structure.png"
-        },
-        {
-          "id": "62208eb2c4d0d306772f3282",
-          "author": "Njoku Samson Ebere",
-          "description": "In this tutorial, we will be learning how to build and deploy an image management application backend.  It will be able to store a record of an image in the database, get the image's record back from the database, update the record, and even delete the record completely as",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-backend-application/",
-          "publishedOn": "2022-03-03T20:46:30.000Z",
-          "wordCount": 4482,
-          "title": "How to Build and Deploy a Backend App with Express, Postgres, Github, and Heroku",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-pixabay-417273.jpg"
-        },
-        {
-          "id": "62210a36c4d0d306772f3898",
-          "author": "Beau Carnes",
-          "description": "Redux is a popular open-source JavaScript library for managing and centralizing application state. It is commonly used with React. We just published a complete course on the freeCodeCamp.org YouTube channel that will teach you how to use Redux. Nikhil Thadani developed this course. Nikhil has created many technical courses on",
-          "link": "https://www.freecodecamp.org/news/redux-tutorial-for-beginners/",
-          "publishedOn": "2022-03-03T18:38:46.000Z",
-          "wordCount": 439,
-          "title": "Redux Tutorial for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/redux.png"
-        },
-        {
-          "id": "6220c90cc4d0d306772f359a",
+          "id": "62273a7f63ded806bb9e6778",
           "author": "Kolade Chris",
-          "description": "In Python, you use a list to store various types of data such as strings and numbers. A list is identifiable by the square brackets that surround it, and individual values are separated by a comma. To get the length of a list in Python, you can use the built-in",
-          "link": "https://www.freecodecamp.org/news/python-list-length-how-to-get-the-size-of-a-list-in-python/",
-          "publishedOn": "2022-03-03T18:21:33.000Z",
-          "wordCount": 869,
-          "title": "Python List Length – How to Get the Size of a List in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/calendar-g2ed8847ef_1280.jpg"
+          "description": "You might have heard the term \"coding\" for a while now. It has changed the way we live and work, from automating tasks to helping people get well-paying jobs to support their families. If you want to learn about what coding means and what it is used for, you’ve come",
+          "link": "https://www.freecodecamp.org/news/coding-meaning-what-does-coding-mean/",
+          "publishedOn": "2022-03-08T21:02:23.000Z",
+          "wordCount": 1904,
+          "title": "Coding Meaning – What does Coding Mean and What is it Used For?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/programmer-gd48038c8a_1280.png"
+        },
+        {
+          "id": "6227bf3463ded806bb9e6b72",
+          "author": "Beau Carnes",
+          "description": "HTML is the backbone of every website on the internet. If you want to get into web development, learning HTML is the place to start. We just published a beginner's HTML video course on the freeCodeCamp.org YouTube channel. (And we still offer our free interactive HTML course [https://www.freecodecamp.org/learn/responsive-web-design/].) Dave Gray",
+          "link": "https://www.freecodecamp.org/news/learn-html-beginners-course/",
+          "publishedOn": "2022-03-08T20:56:48.000Z",
+          "wordCount": 425,
+          "title": "Learn HTML – Beginner's Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/htmlgray-1.png"
+        },
+        {
+          "id": "6227bd9e63ded806bb9e6b4a",
+          "author": "Beau Carnes",
+          "description": "It's easier than you may think to create a custom live steaming app. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Flutter and Agora.io to build a live streaming app that works on Android and iOS. Tadas Petra created this course.",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-live-streaming-app-for-ios-and-android/",
+          "publishedOn": "2022-03-08T20:38:27.000Z",
+          "wordCount": 483,
+          "title": "How to Build a Live Streaming App for iOS and Android",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/livestreaming.png"
+        },
+        {
+          "id": "6225e82ec4d0d306772f5680",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In this article, we we talk about the merge sort algorithm. We will see some visual examples to help understand the algorithm and then implement it using Java and Python code. What Is a Merge Sort Algorithm? A merge sort algorithm is an efficient sorting algorithm based on the divide",
+          "link": "https://www.freecodecamp.org/news/merge-sort-algorithm-python-and-java-examples-with-time-complexity/",
+          "publishedOn": "2022-03-08T18:55:36.000Z",
+          "wordCount": 1512,
+          "title": "Merge Sort Algorithm – Python and Java Examples with Time Complexity",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/merge-sort-main-1.png"
+        },
+        {
+          "id": "61ebda7f011f893303470580",
+          "author": "Faizan Bashir",
+          "description": "This article is based on my experience studying for and passing the Certified Kubernetes Security Specialist exam. I passed the exam on my first attempt in Sep 2021. I passed the Certified Kubernetes Application Developer exam back in Feb 2020, followed by Certified Kubernetes Administrator in March 2020. The Certified",
+          "link": "https://www.freecodecamp.org/news/how-to-pass-the-certified-kubernetes-security-specialist-exam/",
+          "publishedOn": "2022-03-08T17:40:39.000Z",
+          "wordCount": 5261,
+          "title": "How to Pass the Certified Kubernetes Security Specialist Exam – Cheat sheet and Study Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/cks.jpeg"
+        },
+        {
+          "id": "6221c8c0c4d0d306772f3f3f",
+          "author": "Dionysia Lemonaki",
+          "description": "In this article, you will learn how to use Python's sort() list method. You will also learn a different way of performing sorting in Python by using the  sorted() function so you can see how it differs from sort(). By the end, you will know the basics of sorting",
+          "link": "https://www.freecodecamp.org/news/python-sort-how-to-sort-a-list-in-python/",
+          "publishedOn": "2022-03-08T17:38:27.000Z",
+          "wordCount": 2512,
+          "title": "Python .sort() – How to Sort a List in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-ken-tomita-389818.jpg"
+        },
+        {
+          "id": "6223ced7c4d0d306772f4bf0",
+          "author": "Joel Olawanle",
+          "description": "When you're developing websites and applications using React and any React framework, you'll want to add certain features to help your users navigate your site. These features include scroll to top and scroll to bottom buttons, as well as the ability to scroll anywhere on the page. These functionalities are",
+          "link": "https://www.freecodecamp.org/news/scroll-to-top-bottom-and-particular-section-with-react/",
+          "publishedOn": "2022-03-08T17:14:38.000Z",
+          "wordCount": 1623,
+          "title": "Page Scroll to Top – How to Scroll to a Particular Section with React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/cover-template-1.jpg"
+        },
+        {
+          "id": "6224c1bbc4d0d306772f52f4",
+          "author": "Elham Nazif",
+          "description": "Are you looking for the best introductions to computer science? I’ve ranked the top courses available online, following a robust methodology. And they're all free to audit. You can read about it below. But if you’re in a hurry, here are my top picks. Click on one to skip to",
+          "link": "https://www.freecodecamp.org/news/best-computer-science-courses/",
+          "publishedOn": "2022-03-08T15:23:25.000Z",
+          "wordCount": 7209,
+          "title": "10 Best Computer Science Courses to Take in 2022",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Banner-10.png"
+        },
+        {
+          "id": "62134fb321bfb3068cf2bf47",
+          "author": "Jessica Wilkins",
+          "description": "If you try to access values from a dictionary or iterable object using the string value instead of the integer value then you will receive the following error message: TypeError: string indices must be integers In this article, I will show you examples of why you might receive this error",
+          "link": "https://www.freecodecamp.org/news/typeerror-string-indices-must-be-integers-javascript-error-solved/",
+          "publishedOn": "2022-03-07T23:28:09.000Z",
+          "wordCount": 649,
+          "title": "TypeError String Indices Must be Integers Python Error [Solved]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pakata-goh-RDolnHtjVCY-unsplash.jpg"
+        },
+        {
+          "id": "620be72b21bfb3068cf28e55",
+          "author": "Maybell Obadoni",
+          "description": "What is Software Testing? Let's say you're working on a coding project. You have been writing a bunch of code and staying up late at night to fix bugs. All this is part of the process before you release that software product.  Then you'll check your code to verify",
+          "link": "https://www.freecodecamp.org/news/software-testing-for-beginners/",
+          "publishedOn": "2022-03-07T23:14:46.000Z",
+          "wordCount": 1522,
+          "title": "Software Testing – Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/Talk2Her-Foundation--4-.png"
         }
       ]
     }
