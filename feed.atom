@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-10T00:03:43.147Z</id>
+    <id>urn:2022-03-11T00:04:29.905Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-10T00:03:43.147Z</updated>
+    <updated>2022-03-11T00:04:29.905Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CNCF Kubernetes and Cloud-Native Associate Study Course – Pass the Exam With This Free 13-Hour Course]]></title>
+        <id>6220e4a7c4d0d306772f366e</id>
+        <link href="https://www.freecodecamp.org/news/cncf-kubernetes-and-cloud-native-associate-study-course-pass-the-exam-with-this-free-13-hour-course/"/>
+        <updated>2022-03-10T20:19:15.000Z</updated>
+        <summary type="html"><![CDATA[This exam mostly deals with cloud-native  concepts. Even if you are new to cloud-native, you should be able to prepare for this exam and earn the CNCF certification. This entire free course is now live on YouTube, and linked below. Before you dive into it, read this guide to help]]></summary>
+        <author>
+            <name>Andrew Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Execute and Run Java Code from the Terminal]]></title>
+        <id>6226651763ded806bb9e60eb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-execute-and-run-java-code/"/>
+        <updated>2022-03-10T19:20:03.000Z</updated>
+        <summary type="html"><![CDATA[If you work with Java, you've probably used one of the well known text editors like Sublime Text, VS Code, Brackets, Atom, and Notepad++ as well as IDEs like Apache NetBeans and IntelliJ IDEA.  Running code in your IDE is straightforward, but you don't often get to see how]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Rename a Local or Remote Branch in Git]]></title>
+        <id>622a09b763ded806bb9e7c6f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-rename-a-local-or-remote-branch-in-git/"/>
+        <updated>2022-03-10T19:03:32.000Z</updated>
+        <summary type="html"><![CDATA[Git is a version control system that software developers use to keep track of changes in their applications and collaborate with others. One helpful feature of Git is branches. Different people working on a software project can work in different branches before merging their changes with the original code. You]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Print Without New Line – Print on the Same Line]]></title>
+        <id>6228676363ded806bb9e6fa7</id>
+        <link href="https://www.freecodecamp.org/news/python-print-without-new-line-print-on-the-same-line/"/>
+        <updated>2022-03-10T18:11:21.000Z</updated>
+        <summary type="html"><![CDATA[The print function is an important function in Python, as it is used to redirect output to the terminal. The output can also be redirected to a file.  The print function, by default, prints on a new line every time. This is due to the definition of print() in]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Introduction To AWS Cloud Development Kit (CDK)]]></title>
+        <id>https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/</id>
+        <link href="https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/"/>
+        <updated>2022-03-10T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Vivek Maskara introduces Amazon Web Services’ (AWS) Cloud Development Kit (CDK) which is increasingly becoming a popular tool for managing AWS-based infrastructure. We’ll take a closer look into CDK concepts, and then how to use the AWS CDK toolkit to deploy a sample application to an AWS account.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vivek Maskara)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How I Developed My First Adventure Game]]></title>
         <id>60c5b9d1d3126007592d75b4</id>
@@ -76,47 +126,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coding Meaning – What does Coding Mean and What is it Used For?]]></title>
-        <id>62273a7f63ded806bb9e6778</id>
-        <link href="https://www.freecodecamp.org/news/coding-meaning-what-does-coding-mean/"/>
-        <updated>2022-03-08T21:02:23.000Z</updated>
-        <summary type="html"><![CDATA[You might have heard the term "coding" for a while now. It has changed the way we live and work, from automating tasks to helping people get well-paying jobs to support their families. If you want to learn about what coding means and what it is used for, you’ve come]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn HTML – Beginner's Course]]></title>
-        <id>6227bf3463ded806bb9e6b72</id>
-        <link href="https://www.freecodecamp.org/news/learn-html-beginners-course/"/>
-        <updated>2022-03-08T20:56:48.000Z</updated>
-        <summary type="html"><![CDATA[HTML is the backbone of every website on the internet. If you want to get into web development, learning HTML is the place to start. We just published a beginner's HTML video course on the freeCodeCamp.org YouTube channel. (And we still offer our free interactive HTML course [https://www.freecodecamp.org/learn/responsive-web-design/].) Dave Gray]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Live Streaming App for iOS and Android]]></title>
-        <id>6227bd9e63ded806bb9e6b4a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-live-streaming-app-for-ios-and-android/"/>
-        <updated>2022-03-08T20:38:27.000Z</updated>
-        <summary type="html"><![CDATA[It's easier than you may think to create a custom live steaming app. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Flutter and Agora.io to build a live streaming app that works on Android and iOS. Tadas Petra created this course.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge Sort Algorithm – Python and Java Examples with Time Complexity]]></title>
-        <id>6225e82ec4d0d306772f5680</id>
-        <link href="https://www.freecodecamp.org/news/merge-sort-algorithm-python-and-java-examples-with-time-complexity/"/>
-        <updated>2022-03-08T18:55:36.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we we talk about the merge sort algorithm. We will see some visual examples to help understand the algorithm and then implement it using Java and Python code. What Is a Merge Sort Algorithm? A merge sort algorithm is an efficient sorting algorithm based on the divide]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Signals For Customizing Website User Experience]]></title>
+        <title type="html"><![CDATA[Performance Signals For Customizing Website UX]]></title>
         <id>https://smashingmagazine.com/2022/03/signals-customizing-website-user-experience/</id>
         <link href="https://smashingmagazine.com/2022/03/signals-customizing-website-user-experience/"/>
         <updated>2022-03-07T10:30:00.000Z</updated>
@@ -566,16 +576,6 @@ Thank you: @naari3]]></summary>
         <summary type="html"><![CDATA[This installment of *Web Design Done Well* celebrates weird and wacky websites. Sites with sweet, innocent, sometimes pointless purposes. Are they money makers? Game changers? Not necessarily, but they sure are fun, and in ways only the web could really manage.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fitts’ Law In The Touch Era]]></title>
-        <id>https://smashingmagazine.com/2022/02/fitts-law-touch-era/</id>
-        <link href="https://smashingmagazine.com/2022/02/fitts-law-touch-era/"/>
-        <updated>2022-02-09T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Steven Hoober shines the spotlight on Fitts’ Law and explains why we should always ask questions and consider what particular guidelines and lessons mean to our users and our products.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Steven Hoober)</name>
         </author>
     </entry>
 </feed>
