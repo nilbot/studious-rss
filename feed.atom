@@ -1,16 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-11T00:04:29.905Z</id>
+    <id>urn:2022-03-12T00:03:35.876Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-11T00:04:29.905Z</updated>
+    <updated>2022-03-12T00:03:35.876Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
+        <title type="html"><![CDATA[Python Comment Block – How to Comment Out Code in Python]]></title>
+        <id>622ae68d63ded806bb9e81de</id>
+        <link href="https://www.freecodecamp.org/news/python-comment-block-how-to-comment-out-code-in-python/"/>
+        <updated>2022-03-11T20:11:40.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll talk about comments in Python, why they are important, and how to use them effectively in your code.  When to Use Comments In this section, we'll talk about some of the general use cases for comments. These aren't only applicable to Python, but to most]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a New Stacking Context with the Isolation Property in CSS]]></title>
+        <id>61e5c35ab837d507ba0a4b06</id>
+        <link href="https://www.freecodecamp.org/news/the-css-isolation-property/"/>
+        <updated>2022-03-11T20:03:45.000Z</updated>
+        <summary type="html"><![CDATA[What is the CSS Isolation Property? In CSS, you can use the isolation property to create a new stacking context. Here's what that looks like: .container-for-new-stacking-context {   isolation: isolate; } The default value for isolation is auto, which is a bit more nuanced as a stacking context can]]></summary>
+        <author>
+            <name>Natalie Pina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Concatenate Strings – How to Combine and Append Strings in Python]]></title>
+        <id>622a2a6663ded806bb9e7d22</id>
+        <link href="https://www.freecodecamp.org/news/python-concatenate-strings-how-to-combine-and-append-strings-in-python/"/>
+        <updated>2022-03-11T17:19:31.000Z</updated>
+        <summary type="html"><![CDATA[When you're learning a programming language, you're likely to come across a data type called a string. A string usually contains a series of characters nested in quotation marks that can be represented as a text.  In this article, we will talk about string concatenation in Python. This is]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Complete Guide To Mobile App Marketing]]></title>
+        <id>https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/</id>
+        <link href="https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/"/>
+        <updated>2022-03-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Standing out among the millions of mobile apps can be challenging, but proper marketing can give you that crucial edge. This piece shares how to start your mobile app marketing strategy and improve it as you go while keeping up with the latest trends in the market.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Sona Dabaghyan)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CNCF Kubernetes and Cloud-Native Associate Study Course – Pass the Exam With This Free 13-Hour Course]]></title>
         <id>6220e4a7c4d0d306772f366e</id>
-        <link href="https://www.freecodecamp.org/news/cncf-kubernetes-and-cloud-native-associate-study-course-pass-the-exam-with-this-free-13-hour-course/"/>
+        <link href="https://www.freecodecamp.org/news/cncf-kubernetes-cloud-native-associate-exam-course/"/>
         <updated>2022-03-10T20:19:15.000Z</updated>
-        <summary type="html"><![CDATA[This exam mostly deals with cloud-native  concepts. Even if you are new to cloud-native, you should be able to prepare for this exam and earn the CNCF certification. This entire free course is now live on YouTube, and linked below. Before you dive into it, read this guide to help]]></summary>
+        <summary type="html"><![CDATA[This exam mostly deals with cloud-native concepts. Even if you are new to cloud-native, you should be able to prepare for this exam and earn the CNCF certification. This entire free course is now live on YouTube, and linked below. Before you dive into it, read this guide to help]]></summary>
         <author>
             <name>Andrew Brown</name>
         </author>
@@ -86,16 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Vim – Beginner's Tutorial]]></title>
-        <id>6228c8f663ded806bb9e72e2</id>
-        <link href="https://www.freecodecamp.org/news/learn-vim-beginners-tutorial/"/>
-        <updated>2022-03-09T16:02:23.000Z</updated>
-        <summary type="html"><![CDATA[Vim is a highly configurable text editor that you can use for software development or any kind of text editing.  We just published a full Vim course on the freeCodeCamp.org YouTube channel that will teach you how to use Vim. Florian Dedov from NeuralNine developed this course. When someone]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Guide To Audio Visualization With JavaScript And GSAP (Part 2)]]></title>
         <id>https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part2/</id>
         <link href="https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part2/"/>
@@ -103,26 +133,6 @@
         <summary type="html"><![CDATA[What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Test PHP Code With PHPUnit]]></title>
-        <id>62271f4863ded806bb9e65d2</id>
-        <link href="https://www.freecodecamp.org/news/test-php-code-with-phpunit/"/>
-        <updated>2022-03-09T01:15:45.000Z</updated>
-        <summary type="html"><![CDATA[There are many different ways to test your software application, and unit testing is an important one. So what is unit testing and how can you do it? You'll learn that and more in this article. What is Unit Testing? > Unit testing is a software development process in which]]></summary>
-        <author>
-            <name>Zubair Idris Aweda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Project Ideas to Improve Your Résumé]]></title>
-        <id>6217b1bcc4d0d306772ef348</id>
-        <link href="https://www.freecodecamp.org/news/python-project-ideas-to-improve-your-resume/"/>
-        <updated>2022-03-08T23:34:04.000Z</updated>
-        <summary type="html"><![CDATA[Every project is an opportunity to learn – to figure out problems and challenges, and to invent and reinvent. And as a developer, working on projects can improve not only your skills but also your résumé – which can increase your chances of getting that dream job. Have you ever]]></summary>
-        <author>
-            <name>Hillary Nyakundi</name>
         </author>
     </entry>
     <entry>

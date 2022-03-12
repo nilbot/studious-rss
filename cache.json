@@ -240,12 +240,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/",
+          "author": "hello@smashingmagazine.com (Sona Dabaghyan)",
+          "description": "Standing out among the millions of mobile apps can be challenging, but proper marketing can give you that crucial edge. This piece shares how to start your mobile app marketing strategy and improve it as you go while keeping up with the latest trends in the market.",
+          "link": "https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/",
+          "publishedOn": "2022-03-11T12:00:00.000Z",
+          "wordCount": 3804,
+          "title": "A Complete Guide To Mobile App Marketing",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0defe765-5a21-40d6-a906-70edfad759ca/guide-mobile-app-marketing.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0defe765-5a21-40d6-a906-70edfad759ca/guide-mobile-app-marketing.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/",
           "author": "hello@smashingmagazine.com (Vivek Maskara)",
           "description": "In this article, Vivek Maskara introduces Amazon Web Services’ (AWS) Cloud Development Kit (CDK) which is increasingly becoming a popular tool for managing AWS-based infrastructure. We’ll take a closer look into CDK concepts, and then how to use the AWS CDK toolkit to deploy a sample application to an AWS account.",
           "link": "https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/",
           "publishedOn": "2022-03-10T18:00:00.000Z",
-          "wordCount": 3684,
+          "wordCount": 3492,
           "title": "An Introduction To AWS Cloud Development Kit (CDK)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/46a0c491-6562-46ba-a48d-41b4f97b0965/introduction-aws-cloud-development-kit.jpg",
@@ -260,7 +275,7 @@
           "description": "What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.",
           "link": "https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part2/",
           "publishedOn": "2022-03-09T13:00:00.000Z",
-          "wordCount": 4962,
+          "wordCount": 4721,
           "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d02916da-2e33-4aed-ac5e-f1107fa44e57/audio-visualization-javascript-gsap-part1.jpg",
@@ -275,7 +290,7 @@
           "description": "Using signals to deliver less, or different, content is a form of progressive enhancement (or graceful degradation depending on how you look at it), whereby extraneous content is only loaded when necessary, but the core functionality of the website still works. In this article, we’ll look at some of the signals that can be used for this.",
           "link": "https://smashingmagazine.com/2022/03/signals-customizing-website-user-experience/",
           "publishedOn": "2022-03-07T10:30:00.000Z",
-          "wordCount": 4678,
+          "wordCount": 4396,
           "title": "Performance Signals For Customizing Website UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6c2416bf-b3e1-4398-a1d9-fd2404eb678d/signals-customizing-website-user-experience.jpg",
@@ -290,7 +305,7 @@
           "description": "If users cannot find the answers to their questions or are not exposed to critical messaging, they will not act, and your website will fail. To prevent that from happening, you need an effective information architecture. In this article, Paul Boag provides you with a process to ensure you have precisely that.",
           "link": "https://smashingmagazine.com/2022/03/easy-information-architecture/",
           "publishedOn": "2022-03-04T10:30:00.000Z",
-          "wordCount": 3165,
+          "wordCount": 2963,
           "title": "How To Create An Information Architecture That Is Easy To Use",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/771aac3c-df07-49cb-a4b1-8558b39f9e2a/easy-information-architecture.jpg",
@@ -305,7 +320,7 @@
           "description": "Dual-screen devices are just the next evolution in responsive design. If you have a PWA or website, the APIs available make integrating into your existing code base seamless. This article explains why it’s an exciting time for layout on the web, and how dual screens provide an opportunity to get even more creative.",
           "link": "https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/",
           "publishedOn": "2022-03-03T10:30:00.000Z",
-          "wordCount": 3801,
+          "wordCount": 3568,
           "title": "Building Web Layouts For Dual-Screen And Foldable Devices",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f45e5695-4423-4581-862d-ce6c1f8b55ac/building-web-layouts-dual-screen-foldable-devices.jpg",
@@ -320,7 +335,7 @@
           "description": "What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.",
           "link": "https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/",
           "publishedOn": "2022-03-02T13:30:00.000Z",
-          "wordCount": 5301,
+          "wordCount": 5071,
           "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d02916da-2e33-4aed-ac5e-f1107fa44e57/audio-visualization-javascript-gsap-part1.jpg",
@@ -335,7 +350,7 @@
           "description": "2022 is shaping up to be a pretty great year for CSS, with a plethora of new features on the horizon. Some are already starting to land in browsers, others are likely to gain widespread browser support in 2022, while for one or two the process may be a little longer. In this article we’ll take a look at a few of them.",
           "link": "https://smashingmagazine.com/2022/03/new-css-features-2022/",
           "publishedOn": "2022-03-01T13:00:00.000Z",
-          "wordCount": 3516,
+          "wordCount": 3249,
           "title": "New CSS Features In 2022",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/14419af2-69ab-4150-8cf3-bca2cd2291ad/new-css-features-2022.jpg",
@@ -350,7 +365,7 @@
           "description": "As a design community, we all can’t be silent in these times. We need to be united in our fight against the war, for democracy, for those dreams that children are entitled to have when they are growing up. It’s our obligation to help as much as we can. **We are donating all proceeds** from \"Interface Design Checklists\" PDF to support Ukraine.",
           "link": "https://smashingmagazine.com/2022/02/we-all-are-ukraine/",
           "publishedOn": "2022-02-28T18:00:00.000Z",
-          "wordCount": 1338,
+          "wordCount": 1200,
           "title": "We All Are Ukraine 🇺🇦",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fbc9e281-74da-421b-b3ae-4882be4aee66/smashing-stands-with-ukraine.jpg",
@@ -365,7 +380,7 @@
           "description": "Following our monthly tradition, artists and designers from across the globe challenged their creative skills and designed desktop wallpapers to welcome March. They come in versions with and without a calendar and can be downloaded for free.",
           "link": "https://smashingmagazine.com/2022/02/desktop-wallpaper-calendars-march-2022/",
           "publishedOn": "2022-02-28T09:30:00.000Z",
-          "wordCount": 2425,
+          "wordCount": 2179,
           "title": "March For Equality (2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/74ffb821-71d4-4625-8d1d-085de28b17ef/mar-22-spring-is-coming-preview-opt.png",
@@ -380,7 +395,7 @@
           "description": "Maintaining a design system is a lot of work. In this article, Atila Fassina shares his lessons learned and how a platform such as Backlight can help put together a series of tools to speed up your architecture setup.",
           "link": "https://smashingmagazine.com/2022/02/recipe-good-design-system/",
           "publishedOn": "2022-02-28T09:00:00.000Z",
-          "wordCount": 2648,
+          "wordCount": 2461,
           "title": "A Recipe For A Good Design System",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77873ca3-a5cc-4a2f-82d9-0443c334ecba/design-systems-dev-backlight.jpg",
@@ -395,7 +410,7 @@
           "description": "Web Vitals are the new gold standard in performance due to their direct correlation with the user’s experience. In this article, you’ll learn what monitoring can do and how RayGun can help you sustain performance maintenance while scaling your app.",
           "link": "https://smashingmagazine.com/2022/02/benchmark-improve-web-vitals-real-user-metrics/",
           "publishedOn": "2022-02-24T09:30:00.000Z",
-          "wordCount": 1714,
+          "wordCount": 1562,
           "title": "How To Benchmark And Improve Web Vitals With Real User Metrics",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4ed9b745-ad2b-425c-8ffc-d73feeea7cd7/benchmark-improve-web-vitals-real-user-metrics.jpg",
@@ -410,7 +425,7 @@
           "description": "If we want our WordPress plugins to offer a settings page that is fully powered by blocks, how can we do it? Since *Full Site Editing* doesn’t support this feature yet, we need to code a custom solution. In this article, we will learn how we can do it.",
           "link": "https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/",
           "publishedOn": "2022-02-23T10:30:00.000Z",
-          "wordCount": 3484,
+          "wordCount": 3284,
           "title": "Using The WordPress Editor And CPTs To Configure Plugins",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/854c1fe6-8061-4a9f-bf59-75f81a732114/wordpress-editor-cpts-configure-plugins.jpg",
@@ -425,7 +440,7 @@
           "description": "How do text typing and editing work on the web? Although this process might seem straightforward, there is a lot of technical nuance behind its apparent simplicity. This article looks at how typing on the web works.",
           "link": "https://smashingmagazine.com/2022/02/develop-text-editor-web/",
           "publishedOn": "2022-02-22T13:00:00.000Z",
-          "wordCount": 2187,
+          "wordCount": 1997,
           "title": "How To Develop A Text Editor For The Web",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e771d289-5725-48a4-b8b6-4ba30f2a2f44/develop-text-editor-web.jpg",
@@ -440,7 +455,7 @@
           "description": "In this episode, we’re talking about Responsible JavaScript. What does it mean for code to be responsible, and how should we approach projects differently? Drew McLellan talks to expert Jeremy Wagner to find out.",
           "link": "https://smashingmagazine.com/2022/02/smashing-podcast-episode-45/",
           "publishedOn": "2022-02-22T06:00:00.000Z",
-          "wordCount": 8590,
+          "wordCount": 8389,
           "title": "Smashing Podcast Episode 45 With Jeremy Wagner: What Is Responsible JavaScript?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d599b9c-98ef-4be9-ba35-46d9a9f4a66b/45-smashing-podcast-episode.jpg",
@@ -455,7 +470,7 @@
           "description": "You don’t need to be a full DevOps engineer if you want to introduce a testing build routine. With the help of some testing frameworks and GitHub actions, Ramona Schwering gives a short kick-off to help you get on the right track.",
           "link": "https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/",
           "publishedOn": "2022-02-21T13:30:00.000Z",
-          "wordCount": 5947,
+          "wordCount": 5655,
           "title": "Testing Pipeline 101 For Frontend Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/96b8ad22-5da2-4bee-8696-2aa210727e4a/testing-pipeline-101-frontend-testing.jpg",
@@ -470,7 +485,7 @@
           "description": "Markdown in all its flavors, interpretations, and forks won’t go away. However, it’s important to look at emerging content formats that try to encompass modern needs. In this article, Knut shares his advice against Markdown by looking back on why it was introduced in the first place, and by going through some of the major developments of content on the web.",
           "link": "https://smashingmagazine.com/2022/02/thoughts-on-markdown/",
           "publishedOn": "2022-02-18T10:30:00.000Z",
-          "wordCount": 6659,
+          "wordCount": 6404,
           "title": "Thoughts On Markdown",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cddeff5f-3d06-4d4f-9f90-b5e55761bb12/thoughts-on-markdown.jpg",
@@ -485,7 +500,7 @@
           "description": "We all need a little inspiration boost every now and again. In this post, we collected inspiring resources from all across the web for you — beautiful eye candy, tips to challenge your skills, and useful tools that are bound to spark new ideas. Enjoy!",
           "link": "https://smashingmagazine.com/2022/02/inspiring-websites-tools/",
           "publishedOn": "2022-02-16T11:30:00.000Z",
-          "wordCount": 3743,
+          "wordCount": 3535,
           "title": "Falling In Love With The Web: Inspiring Websites And Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/04bfe761-b62e-4717-89c3-9099cb0286bb/inspiring-websites-tools.jpg",
@@ -500,7 +515,7 @@
           "description": "In this article, Leonardo Losoviz discusses some potential consequences as well as positive outcomes of WordPress joining the Block Protocol.",
           "link": "https://smashingmagazine.com/2022/02/implications-wordpress-joining-block-protocol/",
           "publishedOn": "2022-02-15T10:00:00.000Z",
-          "wordCount": 3932,
+          "wordCount": 3722,
           "title": "Implications Of WordPress Joining The Block Protocol",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7e6ffb6e-3386-4823-a9ef-b3cd63f1f398/implications-wordpress-joining-block-protocol.jpg",
@@ -515,7 +530,7 @@
           "description": "Voice is a powerful tool that we can use to communicate with each other. This article covers the most critical aspects of designing for voice user interfaces: designing the conversation and designing visual interfaces.",
           "link": "https://smashingmagazine.com/2022/02/voice-user-interfaces-guide/",
           "publishedOn": "2022-02-14T13:30:00.000Z",
-          "wordCount": 4410,
+          "wordCount": 4132,
           "title": "Everything You Want To Know About Creating Voice User Interfaces",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1470bd2f-c151-4408-8f43-0a7d76a67249/voice-user-interfaces-guide.jpg",
@@ -530,7 +545,7 @@
           "description": "This installment of *Web Design Done Well* celebrates weird and wacky websites. Sites with sweet, innocent, sometimes pointless purposes. Are they money makers? Game changers? Not necessarily, but they sure are fun, and in ways only the web could really manage.",
           "link": "https://smashingmagazine.com/2022/02/web-design-done-well-perfectly-pointless/",
           "publishedOn": "2022-02-11T12:00:00.000Z",
-          "wordCount": 1698,
+          "wordCount": 1533,
           "title": "Web Design Done Well: Perfectly Pointless",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a885ddca-3e45-4167-8475-3ccd9181e712/web-design-done-well-perfectly-pointless.jpg",
@@ -547,12 +562,42 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "622ae68d63ded806bb9e81de",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In this article, we'll talk about comments in Python, why they are important, and how to use them effectively in your code.  When to Use Comments In this section, we'll talk about some of the general use cases for comments. These aren't only applicable to Python, but to most",
+          "link": "https://www.freecodecamp.org/news/python-comment-block-how-to-comment-out-code-in-python/",
+          "publishedOn": "2022-03-11T20:11:40.000Z",
+          "wordCount": 744,
+          "title": "Python Comment Block – How to Comment Out Code in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/comments-python.jpg"
+        },
+        {
+          "id": "61e5c35ab837d507ba0a4b06",
+          "author": "Natalie Pina",
+          "description": "What is the CSS Isolation Property? In CSS, you can use the isolation property to create a new stacking context. Here's what that looks like: .container-for-new-stacking-context {   isolation: isolate; } The default value for isolation is auto, which is a bit more nuanced as a stacking context can",
+          "link": "https://www.freecodecamp.org/news/the-css-isolation-property/",
+          "publishedOn": "2022-03-11T20:03:45.000Z",
+          "wordCount": 899,
+          "title": "How to Create a New Stacking Context with the Isolation Property in CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/stacked.jpg"
+        },
+        {
+          "id": "622a2a6663ded806bb9e7d22",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When you're learning a programming language, you're likely to come across a data type called a string. A string usually contains a series of characters nested in quotation marks that can be represented as a text.  In this article, we will talk about string concatenation in Python. This is",
+          "link": "https://www.freecodecamp.org/news/python-concatenate-strings-how-to-combine-and-append-strings-in-python/",
+          "publishedOn": "2022-03-11T17:19:31.000Z",
+          "wordCount": 769,
+          "title": "Python Concatenate Strings – How to Combine and Append Strings in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/join.jpg"
+        },
+        {
           "id": "6220e4a7c4d0d306772f366e",
           "author": "Andrew Brown",
-          "description": "This exam mostly deals with cloud-native  concepts. Even if you are new to cloud-native, you should be able to prepare for this exam and earn the CNCF certification. This entire free course is now live on YouTube, and linked below. Before you dive into it, read this guide to help",
-          "link": "https://www.freecodecamp.org/news/cncf-kubernetes-and-cloud-native-associate-study-course-pass-the-exam-with-this-free-13-hour-course/",
+          "description": "This exam mostly deals with cloud-native concepts. Even if you are new to cloud-native, you should be able to prepare for this exam and earn the CNCF certification. This entire free course is now live on YouTube, and linked below. Before you dive into it, read this guide to help",
+          "link": "https://www.freecodecamp.org/news/cncf-kubernetes-cloud-native-associate-exam-course/",
           "publishedOn": "2022-03-10T20:19:15.000Z",
-          "wordCount": 922,
+          "wordCount": 921,
           "title": "CNCF Kubernetes and Cloud-Native Associate Study Course – Pass the Exam With This Free 13-Hour Course",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/cncf.png"
         },
@@ -562,7 +607,7 @@
           "description": "If you work with Java, you've probably used one of the well known text editors like Sublime Text, VS Code, Brackets, Atom, and Notepad++ as well as IDEs like Apache NetBeans and IntelliJ IDEA.  Running code in your IDE is straightforward, but you don't often get to see how",
           "link": "https://www.freecodecamp.org/news/how-to-execute-and-run-java-code/",
           "publishedOn": "2022-03-10T19:20:03.000Z",
-          "wordCount": 1692,
+          "wordCount": 1691,
           "title": "How to Execute and Run Java Code from the Terminal",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Run-Java-Using-The-Terminal---freeCodeCamp-Cover-image.jpg"
         },
@@ -572,7 +617,7 @@
           "description": "Git is a version control system that software developers use to keep track of changes in their applications and collaborate with others. One helpful feature of Git is branches. Different people working on a software project can work in different branches before merging their changes with the original code. You",
           "link": "https://www.freecodecamp.org/news/how-to-rename-a-local-or-remote-branch-in-git/",
           "publishedOn": "2022-03-10T19:03:32.000Z",
-          "wordCount": 751,
+          "wordCount": 750,
           "title": "How to Rename a Local or Remote Branch in Git",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/git.png"
         },
@@ -582,7 +627,7 @@
           "description": "The print function is an important function in Python, as it is used to redirect output to the terminal. The output can also be redirected to a file.  The print function, by default, prints on a new line every time. This is due to the definition of print() in",
           "link": "https://www.freecodecamp.org/news/python-print-without-new-line-print-on-the-same-line/",
           "publishedOn": "2022-03-10T18:11:21.000Z",
-          "wordCount": 1000,
+          "wordCount": 999,
           "title": "Python Print Without New Line – Print on the Same Line",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Copy-of-pip.png"
         },
@@ -592,7 +637,7 @@
           "description": "It's hard to tell exactly when my journey creating Occulto, a point and click adventure game, started. But I have a significant date in mind: 3 May 2018. Here's one thing that got the ball rolling: > Luigi: Hello Andrea. Sorry to bother you. I would like to learn how",
           "link": "https://www.freecodecamp.org/news/how-i-developed-my-first-game/",
           "publishedOn": "2022-03-09T20:05:24.000Z",
-          "wordCount": 3749,
+          "wordCount": 3748,
           "title": "How I Developed My First Adventure Game",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/presentazione-new.min.jpg"
         },
@@ -602,7 +647,7 @@
           "description": "git config is a powerful command in Git. You can use the Git configuration file to customize how Git works. This file exists in the project level where Git is initialized ( /project/.git/config) or at the root level (~/.gitcongig). If no configurations are specified, Git uses its default settings. In",
           "link": "https://www.freecodecamp.org/news/git-config-how-to-configure-git-settings/",
           "publishedOn": "2022-03-09T19:14:42.000Z",
-          "wordCount": 1129,
+          "wordCount": 1128,
           "title": "git config – How to Configure Git Settings to Improve Your Development Workflow",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-thisisengineering-3861958.jpg"
         },
@@ -612,39 +657,9 @@
           "description": "One of the most essential concepts that any modern JavaScript developer needs to understand is state.  If you don't understand state, you're not going to be able to fully use and take advantage of powerful libraries such as React to build your applications.  Let's see exactly what state",
           "link": "https://www.freecodecamp.org/news/react-state/",
           "publishedOn": "2022-03-09T16:48:55.000Z",
-          "wordCount": 1793,
+          "wordCount": 1788,
           "title": "React State for Absolute Beginners",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/react-state-absolute-beginners.png"
-        },
-        {
-          "id": "6228c8f663ded806bb9e72e2",
-          "author": "Beau Carnes",
-          "description": "Vim is a highly configurable text editor that you can use for software development or any kind of text editing.  We just published a full Vim course on the freeCodeCamp.org YouTube channel that will teach you how to use Vim. Florian Dedov from NeuralNine developed this course. When someone",
-          "link": "https://www.freecodecamp.org/news/learn-vim-beginners-tutorial/",
-          "publishedOn": "2022-03-09T16:02:23.000Z",
-          "wordCount": 456,
-          "title": "Learn Vim – Beginner's Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/vim.png"
-        },
-        {
-          "id": "62271f4863ded806bb9e65d2",
-          "author": "Zubair Idris Aweda",
-          "description": "There are many different ways to test your software application, and unit testing is an important one. So what is unit testing and how can you do it? You'll learn that and more in this article. What is Unit Testing? > Unit testing is a software development process in which",
-          "link": "https://www.freecodecamp.org/news/test-php-code-with-phpunit/",
-          "publishedOn": "2022-03-09T01:15:45.000Z",
-          "wordCount": 1781,
-          "title": "How to Test PHP Code With PHPUnit",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/120480919-metal-bolts-nuts-group-drawing-technical-drafting-steel-screws-threaded-parts-with-hexagonal-head-bl--1-.png"
-        },
-        {
-          "id": "6217b1bcc4d0d306772ef348",
-          "author": "Hillary Nyakundi",
-          "description": "Every project is an opportunity to learn – to figure out problems and challenges, and to invent and reinvent. And as a developer, working on projects can improve not only your skills but also your résumé – which can increase your chances of getting that dream job. Have you ever",
-          "link": "https://www.freecodecamp.org/news/python-project-ideas-to-improve-your-resume/",
-          "publishedOn": "2022-03-08T23:34:04.000Z",
-          "wordCount": 2417,
-          "title": "Python Project Ideas to Improve Your Résumé",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/Creative-Business-Template-Presentation.jpg"
         }
       ]
     }
