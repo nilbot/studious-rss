@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-12T00:03:35.876Z</id>
+    <id>urn:2022-03-13T00:03:59.196Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-12T00:03:35.876Z</updated>
+    <updated>2022-03-13T00:03:59.196Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -576,16 +576,6 @@ Fxied: Security vulnerability from axios
 Thank you: @naari3]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Design Done Well: Perfectly Pointless]]></title>
-        <id>https://smashingmagazine.com/2022/02/web-design-done-well-perfectly-pointless/</id>
-        <link href="https://smashingmagazine.com/2022/02/web-design-done-well-perfectly-pointless/"/>
-        <updated>2022-02-11T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This installment of *Web Design Done Well* celebrates weird and wacky websites. Sites with sweet, innocent, sometimes pointless purposes. Are they money makers? Game changers? Not necessarily, but they sure are fun, and in ways only the web could really manage.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
         </author>
     </entry>
 </feed>
