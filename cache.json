@@ -54,26 +54,6 @@
           "wordCount": 398,
           "title": "v1.14.0: V1.14.0 (#79)",
           "imageUrl": "https://repository-images.githubusercontent.com/312859305/30a63d00-a162-11eb-8a1d-a3167673e96a"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0",
-          "author": null,
-          "description": "New: Thumbnail image display for each article\nNew: Improved color, spacing, and typography for easier reading\nNew: Click the date to toggle all accordions on that day. Ctrl + Click to toggle all accordions on the entire site.\nChanged: All sections are expanded by default\nChanged: Switched to vitest for easier testing\nFixed: Long string (e.g. URL) caused horizontal overflow\nThank you: @naari3, @tianheg",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0",
-          "publishedOn": "2022-02-13T05:05:17.000Z",
-          "wordCount": 339,
-          "title": "v1.13.0",
-          "imageUrl": "https://opengraph.githubassets.com/fc77c41c87b2cd4d8990f4c940e0ddf681667b6b6e4363b0f609861b7ae5b6d8/osmoscraft/osmosfeed/releases/tag/v1.13.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1",
-          "author": null,
-          "description": "Fixed: Future articles appeared in the feed\nFxied: Security vulnerability from axios\nThank you: @naari3",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1",
-          "publishedOn": "2022-02-12T17:46:42.000Z",
-          "wordCount": 268,
-          "title": "v1.12.1",
-          "imageUrl": "https://opengraph.githubassets.com/d69790a31f94b1adf743c58bae86b9754de6969cceb83f11b8fbeb28ab1ad632/osmoscraft/osmosfeed/releases/tag/v1.12.1"
         }
       ]
     },
@@ -240,6 +220,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/03/improving-ci-cd-flow-application/",
+          "author": "hello@smashingmagazine.com (Tom Hastjarjanto)",
+          "description": "Looking for ways to create a smooth CI/CD flow for your software? In this article, Tom Hastjarjanto shares some useful concepts that can be combined with GitHub Actions and NPM packages. With this setup, you will be able to release multiple times per hour with a fully documented trace managed by Git.",
+          "link": "https://smashingmagazine.com/2022/03/improving-ci-cd-flow-application/",
+          "publishedOn": "2022-03-14T12:30:00.000Z",
+          "wordCount": 1627,
+          "title": "Improving The CI/CD Flow For Your Application",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/48cfa0d0-3a69-4e42-bc6d-3c07df736343/improving-ci-cd-flow-application.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/48cfa0d0-3a69-4e42-bc6d-3c07df736343/improving-ci-cd-flow-application.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/",
           "author": "hello@smashingmagazine.com (Sona Dabaghyan)",
           "description": "Standing out among the millions of mobile apps can be challenging, but proper marketing can give you that crucial edge. This piece shares how to start your mobile app marketing strategy and improve it as you go while keeping up with the latest trends in the market.",
@@ -260,7 +255,7 @@
           "description": "In this article, Vivek Maskara introduces Amazon Web Services’ (AWS) Cloud Development Kit (CDK) which is increasingly becoming a popular tool for managing AWS-based infrastructure. We’ll take a closer look into CDK concepts, and then how to use the AWS CDK toolkit to deploy a sample application to an AWS account.",
           "link": "https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/",
           "publishedOn": "2022-03-10T18:00:00.000Z",
-          "wordCount": 3507,
+          "wordCount": 3488,
           "title": "An Introduction To AWS Cloud Development Kit (CDK)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/46a0c491-6562-46ba-a48d-41b4f97b0965/introduction-aws-cloud-development-kit.jpg",
@@ -275,7 +270,7 @@
           "description": "What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.",
           "link": "https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part2/",
           "publishedOn": "2022-03-09T13:00:00.000Z",
-          "wordCount": 4718,
+          "wordCount": 4736,
           "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d02916da-2e33-4aed-ac5e-f1107fa44e57/audio-visualization-javascript-gsap-part1.jpg",
@@ -320,7 +315,7 @@
           "description": "Dual-screen devices are just the next evolution in responsive design. If you have a PWA or website, the APIs available make integrating into your existing code base seamless. This article explains why it’s an exciting time for layout on the web, and how dual screens provide an opportunity to get even more creative.",
           "link": "https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/",
           "publishedOn": "2022-03-03T10:30:00.000Z",
-          "wordCount": 3564,
+          "wordCount": 3570,
           "title": "Building Web Layouts For Dual-Screen And Foldable Devices",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f45e5695-4423-4581-862d-ce6c1f8b55ac/building-web-layouts-dual-screen-foldable-devices.jpg",
@@ -350,7 +345,7 @@
           "description": "2022 is shaping up to be a pretty great year for CSS, with a plethora of new features on the horizon. Some are already starting to land in browsers, others are likely to gain widespread browser support in 2022, while for one or two the process may be a little longer. In this article we’ll take a look at a few of them.",
           "link": "https://smashingmagazine.com/2022/03/new-css-features-2022/",
           "publishedOn": "2022-03-01T13:00:00.000Z",
-          "wordCount": 3251,
+          "wordCount": 3249,
           "title": "New CSS Features In 2022",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/14419af2-69ab-4150-8cf3-bca2cd2291ad/new-css-features-2022.jpg",
@@ -380,7 +375,7 @@
           "description": "Following our monthly tradition, artists and designers from across the globe challenged their creative skills and designed desktop wallpapers to welcome March. They come in versions with and without a calendar and can be downloaded for free.",
           "link": "https://smashingmagazine.com/2022/02/desktop-wallpaper-calendars-march-2022/",
           "publishedOn": "2022-02-28T09:30:00.000Z",
-          "wordCount": 2182,
+          "wordCount": 2188,
           "title": "March For Equality (2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/74ffb821-71d4-4625-8d1d-085de28b17ef/mar-22-spring-is-coming-preview-opt.png",
@@ -425,7 +420,7 @@
           "description": "If we want our WordPress plugins to offer a settings page that is fully powered by blocks, how can we do it? Since *Full Site Editing* doesn’t support this feature yet, we need to code a custom solution. In this article, we will learn how we can do it.",
           "link": "https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/",
           "publishedOn": "2022-02-23T10:30:00.000Z",
-          "wordCount": 3280,
+          "wordCount": 3282,
           "title": "Using The WordPress Editor And CPTs To Configure Plugins",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/854c1fe6-8061-4a9f-bf59-75f81a732114/wordpress-editor-cpts-configure-plugins.jpg",
@@ -440,7 +435,7 @@
           "description": "How do text typing and editing work on the web? Although this process might seem straightforward, there is a lot of technical nuance behind its apparent simplicity. This article looks at how typing on the web works.",
           "link": "https://smashingmagazine.com/2022/02/develop-text-editor-web/",
           "publishedOn": "2022-02-22T13:00:00.000Z",
-          "wordCount": 1996,
+          "wordCount": 1997,
           "title": "How To Develop A Text Editor For The Web",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e771d289-5725-48a4-b8b6-4ba30f2a2f44/develop-text-editor-web.jpg",
@@ -470,7 +465,7 @@
           "description": "You don’t need to be a full DevOps engineer if you want to introduce a testing build routine. With the help of some testing frameworks and GitHub actions, Ramona Schwering gives a short kick-off to help you get on the right track.",
           "link": "https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/",
           "publishedOn": "2022-02-21T13:30:00.000Z",
-          "wordCount": 5665,
+          "wordCount": 5652,
           "title": "Testing Pipeline 101 For Frontend Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/96b8ad22-5da2-4bee-8696-2aa210727e4a/testing-pipeline-101-frontend-testing.jpg",
@@ -500,7 +495,7 @@
           "description": "We all need a little inspiration boost every now and again. In this post, we collected inspiring resources from all across the web for you — beautiful eye candy, tips to challenge your skills, and useful tools that are bound to spark new ideas. Enjoy!",
           "link": "https://smashingmagazine.com/2022/02/inspiring-websites-tools/",
           "publishedOn": "2022-02-16T11:30:00.000Z",
-          "wordCount": 3535,
+          "wordCount": 3534,
           "title": "Falling In Love With The Web: Inspiring Websites And Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/04bfe761-b62e-4717-89c3-9099cb0286bb/inspiring-websites-tools.jpg",
@@ -515,7 +510,7 @@
           "description": "In this article, Leonardo Losoviz discusses some potential consequences as well as positive outcomes of WordPress joining the Block Protocol.",
           "link": "https://smashingmagazine.com/2022/02/implications-wordpress-joining-block-protocol/",
           "publishedOn": "2022-02-15T10:00:00.000Z",
-          "wordCount": 3705,
+          "wordCount": 3708,
           "title": "Implications Of WordPress Joining The Block Protocol",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7e6ffb6e-3386-4823-a9ef-b3cd63f1f398/implications-wordpress-joining-block-protocol.jpg",
@@ -530,7 +525,7 @@
           "description": "Voice is a powerful tool that we can use to communicate with each other. This article covers the most critical aspects of designing for voice user interfaces: designing the conversation and designing visual interfaces.",
           "link": "https://smashingmagazine.com/2022/02/voice-user-interfaces-guide/",
           "publishedOn": "2022-02-14T13:30:00.000Z",
-          "wordCount": 4131,
+          "wordCount": 4139,
           "title": "Everything You Want To Know About Creating Voice User Interfaces",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1470bd2f-c151-4408-8f43-0a7d76a67249/voice-user-interfaces-guide.jpg",
@@ -546,6 +541,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "622acecd63ded806bb9e8101",
+          "author": "Ijelekhai Faith Olohijere",
+          "description": "In this article, you'll learn how to install plugins in Figma. You'll also get to know some really cool Figma plugins that every designer and developer should use.  Plugins help make your design process easier and smoother. From image assets to embedding maps into your designs, plugins are easy",
+          "link": "https://www.freecodecamp.org/news/plugins-in-figma/",
+          "publishedOn": "2022-03-14T20:42:03.000Z",
+          "wordCount": 1093,
+          "title": "How to Use Plugins in Figma",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-picjumbocom-196645.jpg"
+        },
+        {
+          "id": "622cecd663ded806bb9e8dfd",
+          "author": "Sebastian Sigl",
+          "description": "Containers are everywhere in today’s tech world. The most popular technology for container management is Docker [https://www.docker.com/]. It makes using containers easy and helps you easily get applications up and running.  Unfortunately, this can take a lot of disk space, and you will eventually end up with a full",
+          "link": "https://www.freecodecamp.org/news/how-to-remove-all-docker-images-a-docker-cleanup-guide/",
+          "publishedOn": "2022-03-14T20:25:16.000Z",
+          "wordCount": 873,
+          "title": "How to Remove All Docker Images – A Docker Cleanup Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/docker-cleanup-guide.png"
+        },
+        {
+          "id": "622c9d4363ded806bb9e8a9f",
+          "author": "Nishant Kumar",
+          "description": "Building a full-stack application can be tough. And the base of building such an application is learning how to perform CRUD operations – Create, Read, Update, and Delete.  It's by using these operations that we manage the data flow between the client application and the server. So, in this",
+          "link": "https://www.freecodecamp.org/news/how-to-perform-crud-operations-using-angular-13/",
+          "publishedOn": "2022-03-14T19:49:03.000Z",
+          "wordCount": 1773,
+          "title": "How to Perform CRUD Operations using Angular 13",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/How-to-Build-a-Weather-Application-using-React--82-.png"
+        },
+        {
+          "id": "622c7bf563ded806bb9e8a20",
+          "author": "Gaël Thomas",
+          "description": "Do you like listening to music while you code? If so, you're in luck. This blog post is all about music for programming.  In this reference guide, I'll be sharing a variety of different playlists, radio stations, and videos that you can listen to while coding. Whether you're a",
+          "link": "https://www.freecodecamp.org/news/music-for-programming-youtube-channels-twitchtv-web-radios-and-more/",
+          "publishedOn": "2022-03-14T19:16:43.000Z",
+          "wordCount": 811,
+          "title": "Music for Programming – Coding Music Playlists, Radio Stations, Videos, and Lives",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Big-Text-How-to-Youtube-Thumbnail.png"
+        },
+        {
+          "id": "62239491c4d0d306772f4a00",
+          "author": "Tiago Monteiro",
+          "description": "Did you know that it is thanks to compilers that software exists? Exactly – compilers are very important, and some form of a compiler exists in all programming languages. But, what is a compiler? What do they do exactly? This article will teach you:  1. What a compiler is",
+          "link": "https://www.freecodecamp.org/news/what-is-a-compiler-in-c/",
+          "publishedOn": "2022-03-14T18:39:43.000Z",
+          "wordCount": 1214,
+          "title": "What is a Compiler? Compilers in C Explained for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/1-YhjIVZXE56R6YZaTF-Lzig.jpeg"
+        },
+        {
+          "id": "622b53f963ded806bb9e8436",
+          "author": "Zaira Hira",
+          "description": "Removing files and formatting disks is a common task for users. And Linux provides a number of utilities to delete files and folders from the command line.  The most common command to delete files and folders is rm and rmdir, respectively. You can read in detail about the rm",
+          "link": "https://www.freecodecamp.org/news/securely-erasing-a-disk-and-file-using-linux-command-shred/",
+          "publishedOn": "2022-03-14T14:55:27.000Z",
+          "wordCount": 1117,
+          "title": "How to Securely Erase a Disk and File using the Linux shred Command",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/shred--2-.gif"
+        },
+        {
+          "id": "6221c8d2c4d0d306772f3f43",
+          "author": "Dionysia Lemonaki",
+          "description": "In this article, you will learn the basics of dictionaries in Python. You will learn how to create dictionaries, access the elements inside them, and how to modify them depending on your needs. You will also learn some of the most common built-in methods used on dictionaries. Here is what",
+          "link": "https://www.freecodecamp.org/news/create-a-dictionary-in-python-python-dict-methods/",
+          "publishedOn": "2022-03-14T14:19:43.000Z",
+          "wordCount": 3091,
+          "title": "Create a Dictionary in Python – Python Dict Methods",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-kevin-ku-577585.jpg"
+        },
+        {
+          "id": "62134fa821bfb3068cf2bf43",
+          "author": "Jessica Wilkins",
+          "description": "If you ever need to skip part of the current loop you are in or break out of the loop completely, then you can use the break and continue statements. In this article, I will cover how to use the break and continue statements in your Python code. How to",
+          "link": "https://www.freecodecamp.org/news/python-break-and-python-continue-how-to-skip-to-the-next-function/",
+          "publishedOn": "2022-03-14T13:55:01.000Z",
+          "wordCount": 839,
+          "title": "Python Break and Python Continue – How to Skip to the Next Function",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/thisisengineering-raeng-uyfohHiTxho-unsplash.jpg"
+        },
         {
           "id": "622ae68d63ded806bb9e81de",
           "author": "Ihechikara Vincent Abba",
@@ -565,86 +640,6 @@
           "wordCount": 899,
           "title": "How to Create a New Stacking Context with the Isolation Property in CSS",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/stacked.jpg"
-        },
-        {
-          "id": "622a2a6663ded806bb9e7d22",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When you're learning a programming language, you're likely to come across a data type called a string. A string usually contains a series of characters nested in quotation marks that can be represented as a text.  In this article, we will talk about string concatenation in Python. This is",
-          "link": "https://www.freecodecamp.org/news/python-concatenate-strings-how-to-combine-and-append-strings-in-python/",
-          "publishedOn": "2022-03-11T17:19:31.000Z",
-          "wordCount": 769,
-          "title": "Python Concatenate Strings – How to Combine and Append Strings in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/join.jpg"
-        },
-        {
-          "id": "6220e4a7c4d0d306772f366e",
-          "author": "Andrew Brown",
-          "description": "This exam mostly deals with cloud-native concepts. Even if you are new to cloud-native, you should be able to prepare for this exam and earn the CNCF certification. This entire free course is now live on YouTube, and linked below. Before you dive into it, read this guide to help",
-          "link": "https://www.freecodecamp.org/news/cncf-kubernetes-cloud-native-associate-exam-course/",
-          "publishedOn": "2022-03-10T20:19:15.000Z",
-          "wordCount": 921,
-          "title": "CNCF Kubernetes and Cloud-Native Associate Study Course – Pass the Exam With This Free 13-Hour Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/cncf.png"
-        },
-        {
-          "id": "6226651763ded806bb9e60eb",
-          "author": "Md. Fahim Bin Amin",
-          "description": "If you work with Java, you've probably used one of the well known text editors like Sublime Text, VS Code, Brackets, Atom, and Notepad++ as well as IDEs like Apache NetBeans and IntelliJ IDEA.  Running code in your IDE is straightforward, but you don't often get to see how",
-          "link": "https://www.freecodecamp.org/news/how-to-execute-and-run-java-code/",
-          "publishedOn": "2022-03-10T19:20:03.000Z",
-          "wordCount": 1691,
-          "title": "How to Execute and Run Java Code from the Terminal",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Run-Java-Using-The-Terminal---freeCodeCamp-Cover-image.jpg"
-        },
-        {
-          "id": "622a09b763ded806bb9e7c6f",
-          "author": "Kolade Chris",
-          "description": "Git is a version control system that software developers use to keep track of changes in their applications and collaborate with others. One helpful feature of Git is branches. Different people working on a software project can work in different branches before merging their changes with the original code. You",
-          "link": "https://www.freecodecamp.org/news/how-to-rename-a-local-or-remote-branch-in-git/",
-          "publishedOn": "2022-03-10T19:03:32.000Z",
-          "wordCount": 750,
-          "title": "How to Rename a Local or Remote Branch in Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/git.png"
-        },
-        {
-          "id": "6228676363ded806bb9e6fa7",
-          "author": "Zaira Hira",
-          "description": "The print function is an important function in Python, as it is used to redirect output to the terminal. The output can also be redirected to a file.  The print function, by default, prints on a new line every time. This is due to the definition of print() in",
-          "link": "https://www.freecodecamp.org/news/python-print-without-new-line-print-on-the-same-line/",
-          "publishedOn": "2022-03-10T18:11:21.000Z",
-          "wordCount": 999,
-          "title": "Python Print Without New Line – Print on the Same Line",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Copy-of-pip.png"
-        },
-        {
-          "id": "60c5b9d1d3126007592d75b4",
-          "author": "Andrea Koutifaris",
-          "description": "It's hard to tell exactly when my journey creating Occulto, a point and click adventure game, started. But I have a significant date in mind: 3 May 2018. Here's one thing that got the ball rolling: > Luigi: Hello Andrea. Sorry to bother you. I would like to learn how",
-          "link": "https://www.freecodecamp.org/news/how-i-developed-my-first-game/",
-          "publishedOn": "2022-03-09T20:05:24.000Z",
-          "wordCount": 3748,
-          "title": "How I Developed My First Adventure Game",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/presentazione-new.min.jpg"
-        },
-        {
-          "id": "6222908cc4d0d306772f4477",
-          "author": "Dillion Megida",
-          "description": "git config is a powerful command in Git. You can use the Git configuration file to customize how Git works. This file exists in the project level where Git is initialized ( /project/.git/config) or at the root level (~/.gitcongig). If no configurations are specified, Git uses its default settings. In",
-          "link": "https://www.freecodecamp.org/news/git-config-how-to-configure-git-settings/",
-          "publishedOn": "2022-03-09T19:14:42.000Z",
-          "wordCount": 1128,
-          "title": "git config – How to Configure Git Settings to Improve Your Development Workflow",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-thisisengineering-3861958.jpg"
-        },
-        {
-          "id": "6216b67dc4d0d306772ef0ed",
-          "author": "Reed Barger",
-          "description": "One of the most essential concepts that any modern JavaScript developer needs to understand is state.  If you don't understand state, you're not going to be able to fully use and take advantage of powerful libraries such as React to build your applications.  Let's see exactly what state",
-          "link": "https://www.freecodecamp.org/news/react-state/",
-          "publishedOn": "2022-03-09T16:48:55.000Z",
-          "wordCount": 1788,
-          "title": "React State for Absolute Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/react-state-absolute-beginners.png"
         }
       ]
     }

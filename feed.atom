@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-14T00:03:42.041Z</id>
+    <id>urn:2022-03-15T00:03:41.665Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-14T00:03:42.041Z</updated>
+    <updated>2022-03-15T00:03:41.665Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Plugins in Figma]]></title>
+        <id>622acecd63ded806bb9e8101</id>
+        <link href="https://www.freecodecamp.org/news/plugins-in-figma/"/>
+        <updated>2022-03-14T20:42:03.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to install plugins in Figma. You'll also get to know some really cool Figma plugins that every designer and developer should use.  Plugins help make your design process easier and smoother. From image assets to embedding maps into your designs, plugins are easy]]></summary>
+        <author>
+            <name>Ijelekhai Faith Olohijere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Remove All Docker Images – A Docker Cleanup Guide]]></title>
+        <id>622cecd663ded806bb9e8dfd</id>
+        <link href="https://www.freecodecamp.org/news/how-to-remove-all-docker-images-a-docker-cleanup-guide/"/>
+        <updated>2022-03-14T20:25:16.000Z</updated>
+        <summary type="html"><![CDATA[Containers are everywhere in today’s tech world. The most popular technology for container management is Docker [https://www.docker.com/]. It makes using containers easy and helps you easily get applications up and running.  Unfortunately, this can take a lot of disk space, and you will eventually end up with a full]]></summary>
+        <author>
+            <name>Sebastian Sigl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Perform CRUD Operations using Angular 13]]></title>
+        <id>622c9d4363ded806bb9e8a9f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-perform-crud-operations-using-angular-13/"/>
+        <updated>2022-03-14T19:49:03.000Z</updated>
+        <summary type="html"><![CDATA[Building a full-stack application can be tough. And the base of building such an application is learning how to perform CRUD operations – Create, Read, Update, and Delete.  It's by using these operations that we manage the data flow between the client application and the server. So, in this]]></summary>
+        <author>
+            <name>Nishant Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Music for Programming – Coding Music Playlists, Radio Stations, Videos, and Lives]]></title>
+        <id>622c7bf563ded806bb9e8a20</id>
+        <link href="https://www.freecodecamp.org/news/music-for-programming-youtube-channels-twitchtv-web-radios-and-more/"/>
+        <updated>2022-03-14T19:16:43.000Z</updated>
+        <summary type="html"><![CDATA[Do you like listening to music while you code? If so, you're in luck. This blog post is all about music for programming.  In this reference guide, I'll be sharing a variety of different playlists, radio stations, and videos that you can listen to while coding. Whether you're a]]></summary>
+        <author>
+            <name>Gaël Thomas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Compiler? Compilers in C Explained for Beginners]]></title>
+        <id>62239491c4d0d306772f4a00</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-compiler-in-c/"/>
+        <updated>2022-03-14T18:39:43.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that it is thanks to compilers that software exists? Exactly – compilers are very important, and some form of a compiler exists in all programming languages. But, what is a compiler? What do they do exactly? This article will teach you:  1. What a compiler is]]></summary>
+        <author>
+            <name>Tiago Monteiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Securely Erase a Disk and File using the Linux shred Command]]></title>
+        <id>622b53f963ded806bb9e8436</id>
+        <link href="https://www.freecodecamp.org/news/securely-erasing-a-disk-and-file-using-linux-command-shred/"/>
+        <updated>2022-03-14T14:55:27.000Z</updated>
+        <summary type="html"><![CDATA[Removing files and formatting disks is a common task for users. And Linux provides a number of utilities to delete files and folders from the command line.  The most common command to delete files and folders is rm and rmdir, respectively. You can read in detail about the rm]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Dictionary in Python – Python Dict Methods]]></title>
+        <id>6221c8d2c4d0d306772f3f43</id>
+        <link href="https://www.freecodecamp.org/news/create-a-dictionary-in-python-python-dict-methods/"/>
+        <updated>2022-03-14T14:19:43.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn the basics of dictionaries in Python. You will learn how to create dictionaries, access the elements inside them, and how to modify them depending on your needs. You will also learn some of the most common built-in methods used on dictionaries. Here is what]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Break and Python Continue – How to Skip to the Next Function]]></title>
+        <id>62134fa821bfb3068cf2bf43</id>
+        <link href="https://www.freecodecamp.org/news/python-break-and-python-continue-how-to-skip-to-the-next-function/"/>
+        <updated>2022-03-14T13:55:01.000Z</updated>
+        <summary type="html"><![CDATA[If you ever need to skip part of the current loop you are in or break out of the loop completely, then you can use the break and continue statements. In this article, I will cover how to use the break and continue statements in your Python code. How to]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving The CI/CD Flow For Your Application]]></title>
+        <id>https://smashingmagazine.com/2022/03/improving-ci-cd-flow-application/</id>
+        <link href="https://smashingmagazine.com/2022/03/improving-ci-cd-flow-application/"/>
+        <updated>2022-03-14T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking for ways to create a smooth CI/CD flow for your software? In this article, Tom Hastjarjanto shares some useful concepts that can be combined with GitHub Actions and NPM packages. With this setup, you will be able to release multiple times per hour with a fully documented trace managed by Git.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Tom Hastjarjanto)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python Comment Block – How to Comment Out Code in Python]]></title>
         <id>622ae68d63ded806bb9e81de</id>
@@ -26,16 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python Concatenate Strings – How to Combine and Append Strings in Python]]></title>
-        <id>622a2a6663ded806bb9e7d22</id>
-        <link href="https://www.freecodecamp.org/news/python-concatenate-strings-how-to-combine-and-append-strings-in-python/"/>
-        <updated>2022-03-11T17:19:31.000Z</updated>
-        <summary type="html"><![CDATA[When you're learning a programming language, you're likely to come across a data type called a string. A string usually contains a series of characters nested in quotation marks that can be represented as a text.  In this article, we will talk about string concatenation in Python. This is]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Complete Guide To Mobile App Marketing]]></title>
         <id>https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/</id>
         <link href="https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/"/>
@@ -46,46 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CNCF Kubernetes and Cloud-Native Associate Study Course – Pass the Exam With This Free 13-Hour Course]]></title>
-        <id>6220e4a7c4d0d306772f366e</id>
-        <link href="https://www.freecodecamp.org/news/cncf-kubernetes-cloud-native-associate-exam-course/"/>
-        <updated>2022-03-10T20:19:15.000Z</updated>
-        <summary type="html"><![CDATA[This exam mostly deals with cloud-native concepts. Even if you are new to cloud-native, you should be able to prepare for this exam and earn the CNCF certification. This entire free course is now live on YouTube, and linked below. Before you dive into it, read this guide to help]]></summary>
-        <author>
-            <name>Andrew Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Execute and Run Java Code from the Terminal]]></title>
-        <id>6226651763ded806bb9e60eb</id>
-        <link href="https://www.freecodecamp.org/news/how-to-execute-and-run-java-code/"/>
-        <updated>2022-03-10T19:20:03.000Z</updated>
-        <summary type="html"><![CDATA[If you work with Java, you've probably used one of the well known text editors like Sublime Text, VS Code, Brackets, Atom, and Notepad++ as well as IDEs like Apache NetBeans and IntelliJ IDEA.  Running code in your IDE is straightforward, but you don't often get to see how]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Rename a Local or Remote Branch in Git]]></title>
-        <id>622a09b763ded806bb9e7c6f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-rename-a-local-or-remote-branch-in-git/"/>
-        <updated>2022-03-10T19:03:32.000Z</updated>
-        <summary type="html"><![CDATA[Git is a version control system that software developers use to keep track of changes in their applications and collaborate with others. One helpful feature of Git is branches. Different people working on a software project can work in different branches before merging their changes with the original code. You]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Print Without New Line – Print on the Same Line]]></title>
-        <id>6228676363ded806bb9e6fa7</id>
-        <link href="https://www.freecodecamp.org/news/python-print-without-new-line-print-on-the-same-line/"/>
-        <updated>2022-03-10T18:11:21.000Z</updated>
-        <summary type="html"><![CDATA[The print function is an important function in Python, as it is used to redirect output to the terminal. The output can also be redirected to a file.  The print function, by default, prints on a new line every time. This is due to the definition of print() in]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[An Introduction To AWS Cloud Development Kit (CDK)]]></title>
         <id>https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/</id>
         <link href="https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/"/>
@@ -93,36 +133,6 @@
         <summary type="html"><![CDATA[In this article, Vivek Maskara introduces Amazon Web Services’ (AWS) Cloud Development Kit (CDK) which is increasingly becoming a popular tool for managing AWS-based infrastructure. We’ll take a closer look into CDK concepts, and then how to use the AWS CDK toolkit to deploy a sample application to an AWS account.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vivek Maskara)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Developed My First Adventure Game]]></title>
-        <id>60c5b9d1d3126007592d75b4</id>
-        <link href="https://www.freecodecamp.org/news/how-i-developed-my-first-game/"/>
-        <updated>2022-03-09T20:05:24.000Z</updated>
-        <summary type="html"><![CDATA[It's hard to tell exactly when my journey creating Occulto, a point and click adventure game, started. But I have a significant date in mind: 3 May 2018. Here's one thing that got the ball rolling: > Luigi: Hello Andrea. Sorry to bother you. I would like to learn how]]></summary>
-        <author>
-            <name>Andrea Koutifaris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[git config – How to Configure Git Settings to Improve Your Development Workflow]]></title>
-        <id>6222908cc4d0d306772f4477</id>
-        <link href="https://www.freecodecamp.org/news/git-config-how-to-configure-git-settings/"/>
-        <updated>2022-03-09T19:14:42.000Z</updated>
-        <summary type="html"><![CDATA[git config is a powerful command in Git. You can use the Git configuration file to customize how Git works. This file exists in the project level where Git is initialized ( /project/.git/config) or at the root level (~/.gitcongig). If no configurations are specified, Git uses its default settings. In]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React State for Absolute Beginners]]></title>
-        <id>6216b67dc4d0d306772ef0ed</id>
-        <link href="https://www.freecodecamp.org/news/react-state/"/>
-        <updated>2022-03-09T16:48:55.000Z</updated>
-        <summary type="html"><![CDATA[One of the most essential concepts that any modern JavaScript developer needs to understand is state.  If you don't understand state, you're not going to be able to fully use and take advantage of powerful libraries such as React to build your applications.  Let's see exactly what state]]></summary>
-        <author>
-            <name>Reed Barger</name>
         </author>
     </entry>
     <entry>
@@ -546,34 +556,6 @@ Changed: Sources are sorted based on publish time rather than alphabetical order
 Changed: Style adjusted for easier reading
 Fixed: Horizontal overflow on Safari
 Fixed: HTML syntax error in default template]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.13.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0"/>
-        <updated>2022-02-13T05:05:17.000Z</updated>
-        <summary type="html"><![CDATA[New: Thumbnail image display for each article
-New: Improved color, spacing, and typography for easier reading
-New: Click the date to toggle all accordions on that day. Ctrl + Click to toggle all accordions on the entire site.
-Changed: All sections are expanded by default
-Changed: Switched to vitest for easier testing
-Fixed: Long string (e.g. URL) caused horizontal overflow
-Thank you: @naari3, @tianheg]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.12.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1"/>
-        <updated>2022-02-12T17:46:42.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Future articles appeared in the feed
-Fxied: Security vulnerability from axios
-Thank you: @naari3]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>
