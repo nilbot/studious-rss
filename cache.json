@@ -4,58 +4,7 @@
       "title": "Release notes from osmosfeed",
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": [
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.4",
-          "author": null,
-          "description": "Fixed: Several style issues",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.4",
-          "publishedOn": "2022-02-14T06:58:28.000Z",
-          "wordCount": 257,
-          "title": "v1.14.4",
-          "imageUrl": "https://opengraph.githubassets.com/9a7043530dac30c2f389b7a285822cfe3c2b54efc7d2cdc63a0735d3cc5095a2/osmoscraft/osmosfeed/releases/tag/v1.14.4"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.3",
-          "author": null,
-          "description": "style tweak",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.3",
-          "publishedOn": "2022-02-14T06:29:16.000Z",
-          "wordCount": 254,
-          "title": "v1.14.3",
-          "imageUrl": "https://repository-images.githubusercontent.com/312859305/30a63d00-a162-11eb-8a1d-a3167673e96a"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.2",
-          "author": null,
-          "description": "New: Adjust article grouping based on timezone. You need to add timezone in osmosfeed.yml for accurate grouping. See details in documentation.\nNew: Card title now toggles card content\nNew: all toggles on the UI are persisted with local storage. You can use it to track read/unread status within a single browser.\nNew: Build timestamp now links to the GitHub Action run\nChanged: Sources are sorted based on publish time rather than alphabetical order\nChanged: Style adjusted for easier reading\nFixed: Horizontal overflow on Safari\nFixed: HTML syntax error in default template",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.2",
-          "publishedOn": "2022-02-14T05:53:33.000Z",
-          "wordCount": 355,
-          "title": "v1.14.2",
-          "imageUrl": "https://opengraph.githubassets.com/3d1aa7f7484f74c258c25be470129b65acc359f03644040243b05803daae68aa/osmoscraft/osmosfeed/releases/tag/v1.14.2"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.1",
-          "author": null,
-          "description": "git typo in gh run url",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.1",
-          "publishedOn": "2022-02-14T05:26:23.000Z",
-          "wordCount": 258,
-          "title": "v1.14.1",
-          "imageUrl": "https://repository-images.githubusercontent.com/312859305/30a63d00-a162-11eb-8a1d-a3167673e96a"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.0",
-          "author": null,
-          "description": "New: Adjust article grouping based on timezone. You need to add timezone in osmosfeed.yml for accurate grouping. See details in documentation.\nNew: Card title now toggles card content\nNew: all toggles on the UI are persisted with local storage. You can use it to track read/unread status within a single browser.\nNew: Build timestamp now links to the GitHub Action run\nChanged: Sources are sorted based on publish time rather than alphabetical order\nChanged: Style adjusted for easier reading\nFixed: Horizontal overflow on Safari\nFixed: HTML syntax error in default template",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.0",
-          "publishedOn": "2022-02-14T05:13:00.000Z",
-          "wordCount": 398,
-          "title": "v1.14.0: V1.14.0 (#79)",
-          "imageUrl": "https://repository-images.githubusercontent.com/312859305/30a63d00-a162-11eb-8a1d-a3167673e96a"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "CSS-Tricks",
@@ -63,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365042",
+          "author": "Chris Coyier",
+          "description": "Hey hey!\nI’ve got a big announcement to make here. (Where’s my gong? I feel like this really needs a good gong hit.)\nCSS-Tricks, this very website you’re looking at, has been acquired by DigitalOcean!\nYou can hear …\nCSS-Tricks is joining DigitalOcean! originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-tricks-is-joining-digitalocean/",
+          "publishedOn": "2022-03-15T12:18:44.000Z",
+          "wordCount": 3692,
+          "title": "CSS-Tricks is joining DigitalOcean!",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365042"
+        },
+        {
           "id": "https://css-tricks.com/?p=363972",
           "author": "Patrick Brosset",
           "description": "I want to introduce you to a new, experimental form control called <selectmenu>. We’ll get deep into it, including how much easier it is to style than a traditional <select> element. But first, let’s fill in some context …\nSay Hello to selectmenu, a Fully Style-able select Element originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/the-selectmenu-element/",
           "publishedOn": "2022-03-03T15:35:32.000Z",
-          "wordCount": 3033,
+          "wordCount": 3329,
           "title": "Say Hello to selectmenu, a Fully Style-able select Element",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363972"
         },
@@ -78,7 +37,7 @@
           "description": "(This is a sponsored post.)\nWhat would your business be like if you sold memberships? It might be more than fun to think about, in fact, it might just be transformative. With membership, would you include little add-ons or …\nBuild Membership Businesses with Memberful originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/build-membership-businesses-with-memberful/",
           "publishedOn": "2022-03-03T15:33:57.000Z",
-          "wordCount": 883,
+          "wordCount": 938,
           "title": "Build Membership Businesses with Memberful",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364001"
         },
@@ -88,7 +47,7 @@
           "description": "I have a handful of good links to articles about performance that are burning a hole in my bookmarks folder, and wanna drop them here to share.\nThe new WebPageTest website design\nFrom fonts to SVG: an icon migration strategy\n…\n7 Fresh Links on Performance For March 2022 originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/performance-links-february-2022/",
           "publishedOn": "2022-03-02T21:26:50.000Z",
-          "wordCount": 839,
+          "wordCount": 767,
           "title": "7 Fresh Links on Performance For March 2022",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364350"
         },
@@ -98,7 +57,7 @@
           "description": "“Raise the curtains” is what I call an effect where the background goes from dark to light on scroll, and the content on top also goes from light to dark while in a sticky position.\nHere’s an example where I …\nHow to Make a “Raise the Curtains” Effect in CSS originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-raise-the-curtains-effect/",
           "publishedOn": "2022-03-02T15:57:32.000Z",
-          "wordCount": 1300,
+          "wordCount": 1248,
           "title": "How to Make a “Raise the Curtains” Effect in CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363882"
         },
@@ -108,7 +67,7 @@
           "description": "Styling ranges of text in software is a very useful thing to be able to do. Thankfully, we have the CSS Custom Highlight API to look forward to because it represents the future of styling text ranges on the web.…\nCSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-custom-highlight-api-early-loo/",
           "publishedOn": "2022-03-01T17:41:13.000Z",
-          "wordCount": 2573,
+          "wordCount": 2521,
           "title": "CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363724"
         },
@@ -118,7 +77,7 @@
           "description": "Ahmad Shadeed covers the CSS fit-content sizing keyword. It’s useful! It just doesn’t come up super often. I find myself using min-content a lot more, like when setting up the height of a grid-template-row.\nThe fit-content keyword is actually …\nAhmad Shadeed: Use Cases For CSS fit-content originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/ahmad-shadeed-use-cases-for-css-fit-content/",
           "publishedOn": "2022-03-01T15:41:16.000Z",
-          "wordCount": 434,
+          "wordCount": 382,
           "title": "Ahmad Shadeed: Use Cases For CSS fit-content",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364351"
         },
@@ -128,7 +87,7 @@
           "description": "I enjoy articles like Hartley Charlton’s “Microsoft Edge Looks Set to Overtake Safari as World’s Second Most Popular Desktop Browser.” It’s juicy! We know these massive players in the browser market care very much about their market share, so when …\nIE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/ie-down-edge-up-global-browser-usage-stats-are-for-cocktail-parties-and-conference-slides/",
           "publishedOn": "2022-02-28T23:14:29.000Z",
-          "wordCount": 939,
+          "wordCount": 901,
           "title": "IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364346"
         },
@@ -138,7 +97,7 @@
           "description": "We’ve discussed a lot about the internals of using CSS in this ongoing series on web components, but there are a few special pseudo-elements and pseudo-classes that, like good friends, willingly smell your possibly halitotic breath before you go …\nWeb Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/",
           "publishedOn": "2022-02-28T15:37:23.000Z",
-          "wordCount": 2477,
+          "wordCount": 2425,
           "title": "Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363929"
         },
@@ -148,7 +107,7 @@
           "description": "A fun deep dive from Zach. Do you have an opinion on which you should use?\n1) https://website.com/foo/\n2) https://websites.com/foo\nThe first option has a “trailing slash.” The second does not.\nI’ve always preferred this thinking: you use a trailing …\nTrailing Slashes on URLs: Contentious or Settled? originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/trailing-slashes-on-urls-contentious-or-settled/",
           "publishedOn": "2022-02-25T21:13:08.000Z",
-          "wordCount": 846,
+          "wordCount": 963,
           "title": "Trailing Slashes on URLs: Contentious or Settled?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364070"
         },
@@ -158,7 +117,7 @@
           "description": "In my recent article about CSS underline bugs in Chrome, I discussed text-decoration-thickness and text-underline-offset, two relatively new and widely-supported CSS properties that give us more control over the styling of underlines.\nLet me demonstrate the usefulness of …\nWhen to Avoid the text-decoration Shorthand Property originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/when-to-avoid-css-text-decoration-shorthand/",
           "publishedOn": "2022-02-25T15:28:33.000Z",
-          "wordCount": 1213,
+          "wordCount": 1161,
           "title": "When to Avoid the text-decoration Shorthand Property",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363619"
         },
@@ -168,7 +127,7 @@
           "description": "If you’re looking for a primer on CSS specificity, we’ve got that. And if you’re trying to get ahead of the game, you should be aware of CSS Cascade Layers as well.\nOne of the ways to help get …\nManuel Matuzovic’s CSS Specificity Demo originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/manuel-matuzovics-css-specificity-demo/",
           "publishedOn": "2022-02-25T15:27:19.000Z",
-          "wordCount": 493,
+          "wordCount": 462,
           "title": "Manuel Matuzovic’s CSS Specificity Demo",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364152"
         },
@@ -178,7 +137,7 @@
           "description": "Nic Chan:\n[…] the will-change property landed in major browsers in August 2015, and I’ve been on the lookout for when to use it ever since. It might seem self-evident to apply it to commonly animated properties such \n…\nMy white whale: A use case for will-change originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/my-white-whale-a-use-case-for-will-change/",
           "publishedOn": "2022-02-24T20:59:29.000Z",
-          "wordCount": 603,
+          "wordCount": 551,
           "title": "My white whale: A use case for will-change",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364138"
         },
@@ -188,7 +147,7 @@
           "description": "For the past few weeks, I’ve been hiring for a senior full-stack JavaScript engineer at my rental furniture company, Pabio. Since we’re a remote team, we conduct our interviews on Zoom, and I’ve observed that some developers are not …\nExplain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/",
           "publishedOn": "2022-02-24T15:31:55.000Z",
-          "wordCount": 6590,
+          "wordCount": 6923,
           "title": "Explain the First 10 Lines of Twitter’s Source Code to Me",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363553"
         },
@@ -198,19 +157,9 @@
           "description": "(This is a sponsored post.)\nIn recent years, the Jamstack methodology for building websites has become increasingly popular. Performance, scalable, and secure, it’s easy to see why it’s becoming an attractive way to build websites for developers.\nGatsbyJS is …\nSuperior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/superior-image-optimization-an-ideal-solution-using-gatsby-imageengine/",
           "publishedOn": "2022-02-24T15:31:49.000Z",
-          "wordCount": 2772,
+          "wordCount": 2793,
           "title": "Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363526"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363937",
-          "author": "Chris Coyier",
-          "description": "Kinda silly sounding, isn’t it? CSS database queries. But, hey, CSS is capable of talking to other languages in the sense that it can set the values of things that they can read. Plus, CSS can request other files, and …\nCSS Database Queries? Sure We Can! originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-database-queries/",
-          "publishedOn": "2022-02-23T20:04:39.000Z",
-          "wordCount": 814,
-          "title": "CSS Database Queries? Sure We Can!",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363937"
         }
       ]
     },
@@ -225,7 +174,7 @@
           "description": "Looking for ways to create a smooth CI/CD flow for your software? In this article, Tom Hastjarjanto shares some useful concepts that can be combined with GitHub Actions and NPM packages. With this setup, you will be able to release multiple times per hour with a fully documented trace managed by Git.",
           "link": "https://smashingmagazine.com/2022/03/improving-ci-cd-flow-application/",
           "publishedOn": "2022-03-14T12:30:00.000Z",
-          "wordCount": 1627,
+          "wordCount": 1639,
           "title": "Improving The CI/CD Flow For Your Application",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/48cfa0d0-3a69-4e42-bc6d-3c07df736343/improving-ci-cd-flow-application.jpg",
@@ -240,7 +189,7 @@
           "description": "Standing out among the millions of mobile apps can be challenging, but proper marketing can give you that crucial edge. This piece shares how to start your mobile app marketing strategy and improve it as you go while keeping up with the latest trends in the market.",
           "link": "https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/",
           "publishedOn": "2022-03-11T12:00:00.000Z",
-          "wordCount": 3806,
+          "wordCount": 3814,
           "title": "A Complete Guide To Mobile App Marketing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0defe765-5a21-40d6-a906-70edfad759ca/guide-mobile-app-marketing.jpg",
@@ -255,7 +204,7 @@
           "description": "In this article, Vivek Maskara introduces Amazon Web Services’ (AWS) Cloud Development Kit (CDK) which is increasingly becoming a popular tool for managing AWS-based infrastructure. We’ll take a closer look into CDK concepts, and then how to use the AWS CDK toolkit to deploy a sample application to an AWS account.",
           "link": "https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/",
           "publishedOn": "2022-03-10T18:00:00.000Z",
-          "wordCount": 3488,
+          "wordCount": 3499,
           "title": "An Introduction To AWS Cloud Development Kit (CDK)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/46a0c491-6562-46ba-a48d-41b4f97b0965/introduction-aws-cloud-development-kit.jpg",
@@ -270,7 +219,7 @@
           "description": "What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.",
           "link": "https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part2/",
           "publishedOn": "2022-03-09T13:00:00.000Z",
-          "wordCount": 4736,
+          "wordCount": 4729,
           "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d02916da-2e33-4aed-ac5e-f1107fa44e57/audio-visualization-javascript-gsap-part1.jpg",
@@ -300,7 +249,7 @@
           "description": "If users cannot find the answers to their questions or are not exposed to critical messaging, they will not act, and your website will fail. To prevent that from happening, you need an effective information architecture. In this article, Paul Boag provides you with a process to ensure you have precisely that.",
           "link": "https://smashingmagazine.com/2022/03/easy-information-architecture/",
           "publishedOn": "2022-03-04T10:30:00.000Z",
-          "wordCount": 2964,
+          "wordCount": 2962,
           "title": "How To Create An Information Architecture That Is Easy To Use",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/771aac3c-df07-49cb-a4b1-8558b39f9e2a/easy-information-architecture.jpg",
@@ -315,7 +264,7 @@
           "description": "Dual-screen devices are just the next evolution in responsive design. If you have a PWA or website, the APIs available make integrating into your existing code base seamless. This article explains why it’s an exciting time for layout on the web, and how dual screens provide an opportunity to get even more creative.",
           "link": "https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/",
           "publishedOn": "2022-03-03T10:30:00.000Z",
-          "wordCount": 3570,
+          "wordCount": 3569,
           "title": "Building Web Layouts For Dual-Screen And Foldable Devices",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f45e5695-4423-4581-862d-ce6c1f8b55ac/building-web-layouts-dual-screen-foldable-devices.jpg",
@@ -330,7 +279,7 @@
           "description": "What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.",
           "link": "https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/",
           "publishedOn": "2022-03-02T13:30:00.000Z",
-          "wordCount": 5073,
+          "wordCount": 5074,
           "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d02916da-2e33-4aed-ac5e-f1107fa44e57/audio-visualization-javascript-gsap-part1.jpg",
@@ -345,7 +294,7 @@
           "description": "2022 is shaping up to be a pretty great year for CSS, with a plethora of new features on the horizon. Some are already starting to land in browsers, others are likely to gain widespread browser support in 2022, while for one or two the process may be a little longer. In this article we’ll take a look at a few of them.",
           "link": "https://smashingmagazine.com/2022/03/new-css-features-2022/",
           "publishedOn": "2022-03-01T13:00:00.000Z",
-          "wordCount": 3249,
+          "wordCount": 3252,
           "title": "New CSS Features In 2022",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/14419af2-69ab-4150-8cf3-bca2cd2291ad/new-css-features-2022.jpg",
@@ -375,7 +324,7 @@
           "description": "Following our monthly tradition, artists and designers from across the globe challenged their creative skills and designed desktop wallpapers to welcome March. They come in versions with and without a calendar and can be downloaded for free.",
           "link": "https://smashingmagazine.com/2022/02/desktop-wallpaper-calendars-march-2022/",
           "publishedOn": "2022-02-28T09:30:00.000Z",
-          "wordCount": 2188,
+          "wordCount": 2187,
           "title": "March For Equality (2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/74ffb821-71d4-4625-8d1d-085de28b17ef/mar-22-spring-is-coming-preview-opt.png",
@@ -420,7 +369,7 @@
           "description": "If we want our WordPress plugins to offer a settings page that is fully powered by blocks, how can we do it? Since *Full Site Editing* doesn’t support this feature yet, we need to code a custom solution. In this article, we will learn how we can do it.",
           "link": "https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/",
           "publishedOn": "2022-02-23T10:30:00.000Z",
-          "wordCount": 3282,
+          "wordCount": 3284,
           "title": "Using The WordPress Editor And CPTs To Configure Plugins",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/854c1fe6-8061-4a9f-bf59-75f81a732114/wordpress-editor-cpts-configure-plugins.jpg",
@@ -465,7 +414,7 @@
           "description": "You don’t need to be a full DevOps engineer if you want to introduce a testing build routine. With the help of some testing frameworks and GitHub actions, Ramona Schwering gives a short kick-off to help you get on the right track.",
           "link": "https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/",
           "publishedOn": "2022-02-21T13:30:00.000Z",
-          "wordCount": 5652,
+          "wordCount": 5655,
           "title": "Testing Pipeline 101 For Frontend Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/96b8ad22-5da2-4bee-8696-2aa210727e4a/testing-pipeline-101-frontend-testing.jpg",
@@ -510,7 +459,7 @@
           "description": "In this article, Leonardo Losoviz discusses some potential consequences as well as positive outcomes of WordPress joining the Block Protocol.",
           "link": "https://smashingmagazine.com/2022/02/implications-wordpress-joining-block-protocol/",
           "publishedOn": "2022-02-15T10:00:00.000Z",
-          "wordCount": 3708,
+          "wordCount": 3712,
           "title": "Implications Of WordPress Joining The Block Protocol",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7e6ffb6e-3386-4823-a9ef-b3cd63f1f398/implications-wordpress-joining-block-protocol.jpg",
@@ -525,7 +474,7 @@
           "description": "Voice is a powerful tool that we can use to communicate with each other. This article covers the most critical aspects of designing for voice user interfaces: designing the conversation and designing visual interfaces.",
           "link": "https://smashingmagazine.com/2022/02/voice-user-interfaces-guide/",
           "publishedOn": "2022-02-14T13:30:00.000Z",
-          "wordCount": 4139,
+          "wordCount": 4138,
           "title": "Everything You Want To Know About Creating Voice User Interfaces",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1470bd2f-c151-4408-8f43-0a7d76a67249/voice-user-interfaces-guide.jpg",
@@ -542,12 +491,62 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "62245d2ac4d0d306772f4e3a",
+          "author": "TAPAS ADHIKARY",
+          "description": "React.js is an open-source JavaScript-based user interface library. It is hugely popular for web and mobile app development.  React follows the principle of component-based architecture. A component in React is an isolated and reusable piece of code. The components can be of two types – class components and functional",
+          "link": "https://www.freecodecamp.org/news/react-hooks-fundamentals/",
+          "publishedOn": "2022-03-15T19:20:16.000Z",
+          "wordCount": 1220,
+          "title": "React Hooks Fundamentals for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/freeCodeCamp-Cover.png"
+        },
+        {
+          "id": "6213cb7d21bfb3068cf2c271",
+          "author": "Estefania Cassingena Navone",
+          "description": "Hi! If you speak Spanish and you want you learn React, you're in the right place. In this article, you will find a brief introduction to React. You will learn why it is so important for web development and why you should learn it.  Then, you will find a",
+          "link": "https://www.freecodecamp.org/news/learn-react-in-spanish-course-for-beginners/",
+          "publishedOn": "2022-03-15T15:41:39.000Z",
+          "wordCount": 1508,
+          "title": "Learn React in Spanish – Course for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/thumbnail-2.png"
+        },
+        {
+          "id": "6230acbbc3e3d106805db524",
+          "author": "Beau Carnes",
+          "description": "If you want your 3D animated characters to move in realistic-looking ways, you need to have a good understanding of skeletal animations. We just posted a full course on the freeCodeCamp.org YouTube channel well teach you how to do skeletal animations with OpenGL and the Assimp library. Etay Meiri created",
+          "link": "https://www.freecodecamp.org/news/advanced-opengl-animation-technique-skeletal-animations/",
+          "publishedOn": "2022-03-15T15:37:21.000Z",
+          "wordCount": 16524,
+          "title": "Advanced OpenGL Animation Technique – Skeletal Animations with Assimp",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/opengl.png"
+        },
+        {
+          "id": "622b887163ded806bb9e8566",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Data structures help us organize and store collections of data. Python has built-in data structures like Lists, Sets, Tuples and Dictionaries.  Each of these structures have their own syntax and methods for interacting with the data stored.  In this article, we'll talk about Dictionaries, their features, and how",
+          "link": "https://www.freecodecamp.org/news/python-add-to-dictionary-adding-an-item-to-a-dict/",
+          "publishedOn": "2022-03-15T00:33:07.000Z",
+          "wordCount": 953,
+          "title": "Python Add to Dictionary – Adding an Item to a Dict",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/dictionaary.jpg"
+        },
+        {
+          "id": "622ce4df63ded806bb9e8dae",
+          "author": "Paul Akinyemi",
+          "description": "After you write your first couple of articles, a problem most technical writers face is: \"So, what do I write about next?\" It can be a frustrating question, so I wrote this article to help. In it, I will give you tips that will save you the headache the next",
+          "link": "https://www.freecodecamp.org/news/choose-a-topic-for-your-next-article/",
+          "publishedOn": "2022-03-14T23:52:03.000Z",
+          "wordCount": 1370,
+          "title": "How to Choose a Topic for Your Technical Article",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/topic_article_head.jpg"
+        },
+        {
           "id": "622acecd63ded806bb9e8101",
           "author": "Ijelekhai Faith Olohijere",
           "description": "In this article, you'll learn how to install plugins in Figma. You'll also get to know some really cool Figma plugins that every designer and developer should use.  Plugins help make your design process easier and smoother. From image assets to embedding maps into your designs, plugins are easy",
           "link": "https://www.freecodecamp.org/news/plugins-in-figma/",
           "publishedOn": "2022-03-14T20:42:03.000Z",
-          "wordCount": 1093,
+          "wordCount": 1124,
           "title": "How to Use Plugins in Figma",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-picjumbocom-196645.jpg"
         },
@@ -587,59 +586,9 @@
           "description": "Did you know that it is thanks to compilers that software exists? Exactly – compilers are very important, and some form of a compiler exists in all programming languages. But, what is a compiler? What do they do exactly? This article will teach you:  1. What a compiler is",
           "link": "https://www.freecodecamp.org/news/what-is-a-compiler-in-c/",
           "publishedOn": "2022-03-14T18:39:43.000Z",
-          "wordCount": 1214,
+          "wordCount": 1215,
           "title": "What is a Compiler? Compilers in C Explained for Beginners",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/1-YhjIVZXE56R6YZaTF-Lzig.jpeg"
-        },
-        {
-          "id": "622b53f963ded806bb9e8436",
-          "author": "Zaira Hira",
-          "description": "Removing files and formatting disks is a common task for users. And Linux provides a number of utilities to delete files and folders from the command line.  The most common command to delete files and folders is rm and rmdir, respectively. You can read in detail about the rm",
-          "link": "https://www.freecodecamp.org/news/securely-erasing-a-disk-and-file-using-linux-command-shred/",
-          "publishedOn": "2022-03-14T14:55:27.000Z",
-          "wordCount": 1117,
-          "title": "How to Securely Erase a Disk and File using the Linux shred Command",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/shred--2-.gif"
-        },
-        {
-          "id": "6221c8d2c4d0d306772f3f43",
-          "author": "Dionysia Lemonaki",
-          "description": "In this article, you will learn the basics of dictionaries in Python. You will learn how to create dictionaries, access the elements inside them, and how to modify them depending on your needs. You will also learn some of the most common built-in methods used on dictionaries. Here is what",
-          "link": "https://www.freecodecamp.org/news/create-a-dictionary-in-python-python-dict-methods/",
-          "publishedOn": "2022-03-14T14:19:43.000Z",
-          "wordCount": 3091,
-          "title": "Create a Dictionary in Python – Python Dict Methods",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-kevin-ku-577585.jpg"
-        },
-        {
-          "id": "62134fa821bfb3068cf2bf43",
-          "author": "Jessica Wilkins",
-          "description": "If you ever need to skip part of the current loop you are in or break out of the loop completely, then you can use the break and continue statements. In this article, I will cover how to use the break and continue statements in your Python code. How to",
-          "link": "https://www.freecodecamp.org/news/python-break-and-python-continue-how-to-skip-to-the-next-function/",
-          "publishedOn": "2022-03-14T13:55:01.000Z",
-          "wordCount": 839,
-          "title": "Python Break and Python Continue – How to Skip to the Next Function",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/thisisengineering-raeng-uyfohHiTxho-unsplash.jpg"
-        },
-        {
-          "id": "622ae68d63ded806bb9e81de",
-          "author": "Ihechikara Vincent Abba",
-          "description": "In this article, we'll talk about comments in Python, why they are important, and how to use them effectively in your code.  When to Use Comments In this section, we'll talk about some of the general use cases for comments. These aren't only applicable to Python, but to most",
-          "link": "https://www.freecodecamp.org/news/python-comment-block-how-to-comment-out-code-in-python/",
-          "publishedOn": "2022-03-11T20:11:40.000Z",
-          "wordCount": 744,
-          "title": "Python Comment Block – How to Comment Out Code in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/comments-python.jpg"
-        },
-        {
-          "id": "61e5c35ab837d507ba0a4b06",
-          "author": "Natalie Pina",
-          "description": "What is the CSS Isolation Property? In CSS, you can use the isolation property to create a new stacking context. Here's what that looks like: .container-for-new-stacking-context {   isolation: isolate; } The default value for isolation is auto, which is a bit more nuanced as a stacking context can",
-          "link": "https://www.freecodecamp.org/news/the-css-isolation-property/",
-          "publishedOn": "2022-03-11T20:03:45.000Z",
-          "wordCount": 899,
-          "title": "How to Create a New Stacking Context with the Isolation Property in CSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/stacked.jpg"
         }
       ]
     }
