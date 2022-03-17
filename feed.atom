@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-16T00:03:40.254Z</id>
+    <id>urn:2022-03-17T00:03:47.096Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-16T00:03:40.254Z</updated>
+    <updated>2022-03-17T00:03:47.096Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is Debugging? How to Debug Your Code for Beginners]]></title>
+        <id>62321616cdcd57069ddfa114</id>
+        <link href="https://www.freecodecamp.org/news/what-is-debugging-how-to-debug-code/"/>
+        <updated>2022-03-16T21:31:29.000Z</updated>
+        <summary type="html"><![CDATA[In this article we'll talk about what debugging is, how to debug your code, and how you can get better at it. Table of contents  * How Debugging Started  * Why Should You Learn About Debugging?  * How to Debug Your Code  * How to Get]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Functions – How to Define and Call a Function]]></title>
+        <id>6231fec0cdcd57069ddfa05d</id>
+        <link href="https://www.freecodecamp.org/news/python-functions-define-and-call-a-function/"/>
+        <updated>2022-03-16T17:17:43.000Z</updated>
+        <summary type="html"><![CDATA[In programming, a function is a reusable block of code that executes a certain functionality when it is called. Functions are integral parts of every programming language because they help make your code more modular and reusable. In this article, I will show you how to define a function in]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Python Crash Course]]></title>
+        <id>623204d4cdcd57069ddfa080</id>
+        <link href="https://www.freecodecamp.org/news/free-python-crash-course/"/>
+        <updated>2022-03-16T15:46:45.000Z</updated>
+        <summary type="html"><![CDATA[Python is one of the most popular programming languages in the word. It is used everywhere from web development, to simple scripts, to machine learning and AI. We just published a Python tutorial on the freeCodeCamp.org YouTube channel that will teach you the basics of Python. Bobby Stearman developed this]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claymorphism: Will It Stick Around?]]></title>
+        <id>https://smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/</id>
+        <link href="https://smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/"/>
+        <updated>2022-03-16T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This fresh new design trend has been picking up steam with the rising popularity of colorful inflated 3D graphics in web illustrations and with the latest Virtual Reality projects like “Horizon Worlds”. Let’s see if there is room for Claymorphism on the UI, and how we can create this effect with CSS.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Get Last Element in List – How to Select the Last Item]]></title>
+        <id>62310fbac3e3d106805db8d1</id>
+        <link href="https://www.freecodecamp.org/news/python-get-last-element-in-list-how-to-select-the-last-item/"/>
+        <updated>2022-03-15T23:26:34.000Z</updated>
+        <summary type="html"><![CDATA[Lists are one of the built-in data types in Python. You use them to store multiple elements in one variable.  Lists enable us group similar data together, and we can also perform operations on these grouped elements at the same time. In this article, we will talk about how]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[React Hooks Fundamentals for Beginners]]></title>
         <id>62245d2ac4d0d306772f4e3a</id>
@@ -77,46 +127,6 @@ CSS-Tricks is joining DigitalOcean! originally published on CSS-Tricks. You shou
         <summary type="html"><![CDATA[In this article, you'll learn how to install plugins in Figma. You'll also get to know some really cool Figma plugins that every designer and developer should use.  Plugins help make your design process easier and smoother. From image assets to embedding maps into your designs, plugins are easy]]></summary>
         <author>
             <name>Ijelekhai Faith Olohijere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Remove All Docker Images – A Docker Cleanup Guide]]></title>
-        <id>622cecd663ded806bb9e8dfd</id>
-        <link href="https://www.freecodecamp.org/news/how-to-remove-all-docker-images-a-docker-cleanup-guide/"/>
-        <updated>2022-03-14T20:25:16.000Z</updated>
-        <summary type="html"><![CDATA[Containers are everywhere in today’s tech world. The most popular technology for container management is Docker [https://www.docker.com/]. It makes using containers easy and helps you easily get applications up and running.  Unfortunately, this can take a lot of disk space, and you will eventually end up with a full]]></summary>
-        <author>
-            <name>Sebastian Sigl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Perform CRUD Operations using Angular 13]]></title>
-        <id>622c9d4363ded806bb9e8a9f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-perform-crud-operations-using-angular-13/"/>
-        <updated>2022-03-14T19:49:03.000Z</updated>
-        <summary type="html"><![CDATA[Building a full-stack application can be tough. And the base of building such an application is learning how to perform CRUD operations – Create, Read, Update, and Delete.  It's by using these operations that we manage the data flow between the client application and the server. So, in this]]></summary>
-        <author>
-            <name>Nishant Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Music for Programming – Coding Music Playlists, Radio Stations, Videos, and Lives]]></title>
-        <id>622c7bf563ded806bb9e8a20</id>
-        <link href="https://www.freecodecamp.org/news/music-for-programming-youtube-channels-twitchtv-web-radios-and-more/"/>
-        <updated>2022-03-14T19:16:43.000Z</updated>
-        <summary type="html"><![CDATA[Do you like listening to music while you code? If so, you're in luck. This blog post is all about music for programming.  In this reference guide, I'll be sharing a variety of different playlists, radio stations, and videos that you can listen to while coding. Whether you're a]]></summary>
-        <author>
-            <name>Gaël Thomas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Compiler? Compilers in C Explained for Beginners]]></title>
-        <id>62239491c4d0d306772f4a00</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-compiler-in-c/"/>
-        <updated>2022-03-14T18:39:43.000Z</updated>
-        <summary type="html"><![CDATA[Did you know that it is thanks to compilers that software exists? Exactly – compilers are very important, and some form of a compiler exists in all programming languages. But, what is a compiler? What do they do exactly? This article will teach you:  1. What a compiler is]]></summary>
-        <author>
-            <name>Tiago Monteiro</name>
         </author>
     </entry>
     <entry>
@@ -477,26 +487,6 @@ Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine origin
         <summary type="html"><![CDATA[We all need a little inspiration boost every now and again. In this post, we collected inspiring resources from all across the web for you — beautiful eye candy, tips to challenge your skills, and useful tools that are bound to spark new ideas. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implications Of WordPress Joining The Block Protocol]]></title>
-        <id>https://smashingmagazine.com/2022/02/implications-wordpress-joining-block-protocol/</id>
-        <link href="https://smashingmagazine.com/2022/02/implications-wordpress-joining-block-protocol/"/>
-        <updated>2022-02-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Leonardo Losoviz discusses some potential consequences as well as positive outcomes of WordPress joining the Block Protocol.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything You Want To Know About Creating Voice User Interfaces]]></title>
-        <id>https://smashingmagazine.com/2022/02/voice-user-interfaces-guide/</id>
-        <link href="https://smashingmagazine.com/2022/02/voice-user-interfaces-guide/"/>
-        <updated>2022-02-14T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Voice is a powerful tool that we can use to communicate with each other. This article covers the most critical aspects of designing for voice user interfaces: designing the conversation and designing visual interfaces.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Nick Babich &amp; Gleb Kuznetsov)</name>
         </author>
     </entry>
 </feed>
