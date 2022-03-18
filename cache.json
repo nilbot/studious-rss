@@ -17,7 +17,7 @@
           "description": "Hey hey!\nI’ve got a big announcement to make here. (Where’s my gong? I feel like this really needs a good gong hit.)\nCSS-Tricks, this very website you’re looking at, has been acquired by DigitalOcean!\nYou can hear …\nCSS-Tricks is joining DigitalOcean! originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-tricks-is-joining-digitalocean/",
           "publishedOn": "2022-03-15T12:18:44.000Z",
-          "wordCount": 5555,
+          "wordCount": 5873,
           "title": "CSS-Tricks is joining DigitalOcean!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365042"
         },
@@ -174,7 +174,7 @@
           "description": "This fresh new design trend has been picking up steam with the rising popularity of colorful inflated 3D graphics in web illustrations and with the latest Virtual Reality projects like “Horizon Worlds”. Let’s see if there is room for Claymorphism on the UI, and how we can create this effect with CSS.",
           "link": "https://smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/",
           "publishedOn": "2022-03-16T11:00:00.000Z",
-          "wordCount": 2593,
+          "wordCount": 2590,
           "title": "Claymorphism: Will It Stick Around?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d6ceacdf-835e-497e-a1e0-be958d42ac76/claymorphism-css-ui-design-trend.jpg",
@@ -189,7 +189,7 @@
           "description": "Looking for ways to create a smooth CI/CD flow for your software? In this article, Tom Hastjarjanto shares some useful concepts that can be combined with GitHub Actions and NPM packages. With this setup, you will be able to release multiple times per hour with a fully documented trace managed by Git.",
           "link": "https://smashingmagazine.com/2022/03/improving-ci-cd-flow-application/",
           "publishedOn": "2022-03-14T12:30:00.000Z",
-          "wordCount": 1645,
+          "wordCount": 1627,
           "title": "Improving The CI/CD Flow For Your Application",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/48cfa0d0-3a69-4e42-bc6d-3c07df736343/improving-ci-cd-flow-application.jpg",
@@ -204,7 +204,7 @@
           "description": "Standing out among the millions of mobile apps can be challenging, but proper marketing can give you that crucial edge. This piece shares how to start your mobile app marketing strategy and improve it as you go while keeping up with the latest trends in the market.",
           "link": "https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/",
           "publishedOn": "2022-03-11T12:00:00.000Z",
-          "wordCount": 3803,
+          "wordCount": 3813,
           "title": "A Complete Guide To Mobile App Marketing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0defe765-5a21-40d6-a906-70edfad759ca/guide-mobile-app-marketing.jpg",
@@ -219,7 +219,7 @@
           "description": "In this article, Vivek Maskara introduces Amazon Web Services’ (AWS) Cloud Development Kit (CDK) which is increasingly becoming a popular tool for managing AWS-based infrastructure. We’ll take a closer look into CDK concepts, and then how to use the AWS CDK toolkit to deploy a sample application to an AWS account.",
           "link": "https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/",
           "publishedOn": "2022-03-10T18:00:00.000Z",
-          "wordCount": 3499,
+          "wordCount": 3494,
           "title": "An Introduction To AWS Cloud Development Kit (CDK)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/46a0c491-6562-46ba-a48d-41b4f97b0965/introduction-aws-cloud-development-kit.jpg",
@@ -234,7 +234,7 @@
           "description": "What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.",
           "link": "https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part2/",
           "publishedOn": "2022-03-09T13:00:00.000Z",
-          "wordCount": 4736,
+          "wordCount": 4724,
           "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d02916da-2e33-4aed-ac5e-f1107fa44e57/audio-visualization-javascript-gsap-part1.jpg",
@@ -249,7 +249,7 @@
           "description": "Using signals to deliver less, or different, content is a form of progressive enhancement (or graceful degradation depending on how you look at it), whereby extraneous content is only loaded when necessary, but the core functionality of the website still works. In this article, we’ll look at some of the signals that can be used for this.",
           "link": "https://smashingmagazine.com/2022/03/signals-customizing-website-user-experience/",
           "publishedOn": "2022-03-07T10:30:00.000Z",
-          "wordCount": 4386,
+          "wordCount": 4393,
           "title": "Performance Signals For Customizing Website UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6c2416bf-b3e1-4398-a1d9-fd2404eb678d/signals-customizing-website-user-experience.jpg",
@@ -264,7 +264,7 @@
           "description": "If users cannot find the answers to their questions or are not exposed to critical messaging, they will not act, and your website will fail. To prevent that from happening, you need an effective information architecture. In this article, Paul Boag provides you with a process to ensure you have precisely that.",
           "link": "https://smashingmagazine.com/2022/03/easy-information-architecture/",
           "publishedOn": "2022-03-04T10:30:00.000Z",
-          "wordCount": 2965,
+          "wordCount": 2959,
           "title": "How To Create An Information Architecture That Is Easy To Use",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/771aac3c-df07-49cb-a4b1-8558b39f9e2a/easy-information-architecture.jpg",
@@ -279,7 +279,7 @@
           "description": "Dual-screen devices are just the next evolution in responsive design. If you have a PWA or website, the APIs available make integrating into your existing code base seamless. This article explains why it’s an exciting time for layout on the web, and how dual screens provide an opportunity to get even more creative.",
           "link": "https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/",
           "publishedOn": "2022-03-03T10:30:00.000Z",
-          "wordCount": 3568,
+          "wordCount": 3566,
           "title": "Building Web Layouts For Dual-Screen And Foldable Devices",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f45e5695-4423-4581-862d-ce6c1f8b55ac/building-web-layouts-dual-screen-foldable-devices.jpg",
@@ -294,7 +294,7 @@
           "description": "What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.",
           "link": "https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/",
           "publishedOn": "2022-03-02T13:30:00.000Z",
-          "wordCount": 5072,
+          "wordCount": 5087,
           "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d02916da-2e33-4aed-ac5e-f1107fa44e57/audio-visualization-javascript-gsap-part1.jpg",
@@ -309,7 +309,7 @@
           "description": "2022 is shaping up to be a pretty great year for CSS, with a plethora of new features on the horizon. Some are already starting to land in browsers, others are likely to gain widespread browser support in 2022, while for one or two the process may be a little longer. In this article we’ll take a look at a few of them.",
           "link": "https://smashingmagazine.com/2022/03/new-css-features-2022/",
           "publishedOn": "2022-03-01T13:00:00.000Z",
-          "wordCount": 3252,
+          "wordCount": 3246,
           "title": "New CSS Features In 2022",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/14419af2-69ab-4150-8cf3-bca2cd2291ad/new-css-features-2022.jpg",
@@ -339,7 +339,7 @@
           "description": "Following our monthly tradition, artists and designers from across the globe challenged their creative skills and designed desktop wallpapers to welcome March. They come in versions with and without a calendar and can be downloaded for free.",
           "link": "https://smashingmagazine.com/2022/02/desktop-wallpaper-calendars-march-2022/",
           "publishedOn": "2022-02-28T09:30:00.000Z",
-          "wordCount": 2183,
+          "wordCount": 2187,
           "title": "March For Equality (2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/74ffb821-71d4-4625-8d1d-085de28b17ef/mar-22-spring-is-coming-preview-opt.png",
@@ -384,7 +384,7 @@
           "description": "If we want our WordPress plugins to offer a settings page that is fully powered by blocks, how can we do it? Since *Full Site Editing* doesn’t support this feature yet, we need to code a custom solution. In this article, we will learn how we can do it.",
           "link": "https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/",
           "publishedOn": "2022-02-23T10:30:00.000Z",
-          "wordCount": 3284,
+          "wordCount": 3289,
           "title": "Using The WordPress Editor And CPTs To Configure Plugins",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/854c1fe6-8061-4a9f-bf59-75f81a732114/wordpress-editor-cpts-configure-plugins.jpg",
@@ -429,7 +429,7 @@
           "description": "You don’t need to be a full DevOps engineer if you want to introduce a testing build routine. With the help of some testing frameworks and GitHub actions, Ramona Schwering gives a short kick-off to help you get on the right track.",
           "link": "https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/",
           "publishedOn": "2022-02-21T13:30:00.000Z",
-          "wordCount": 5665,
+          "wordCount": 5650,
           "title": "Testing Pipeline 101 For Frontend Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/96b8ad22-5da2-4bee-8696-2aa210727e4a/testing-pipeline-101-frontend-testing.jpg",
@@ -444,7 +444,7 @@
           "description": "Markdown in all its flavors, interpretations, and forks won’t go away. However, it’s important to look at emerging content formats that try to encompass modern needs. In this article, Knut shares his advice against Markdown by looking back on why it was introduced in the first place, and by going through some of the major developments of content on the web.",
           "link": "https://smashingmagazine.com/2022/02/thoughts-on-markdown/",
           "publishedOn": "2022-02-18T10:30:00.000Z",
-          "wordCount": 6399,
+          "wordCount": 6406,
           "title": "Thoughts On Markdown",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cddeff5f-3d06-4d4f-9f90-b5e55761bb12/thoughts-on-markdown.jpg",
@@ -452,21 +452,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cddeff5f-3d06-4d4f-9f90-b5e55761bb12/thoughts-on-markdown.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/inspiring-websites-tools/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "We all need a little inspiration boost every now and again. In this post, we collected inspiring resources from all across the web for you — beautiful eye candy, tips to challenge your skills, and useful tools that are bound to spark new ideas. Enjoy!",
-          "link": "https://smashingmagazine.com/2022/02/inspiring-websites-tools/",
-          "publishedOn": "2022-02-16T11:30:00.000Z",
-          "wordCount": 3525,
-          "title": "Falling In Love With The Web: Inspiring Websites And Tools",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/04bfe761-b62e-4717-89c3-9099cb0286bb/inspiring-websites-tools.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/04bfe761-b62e-4717-89c3-9099cb0286bb/inspiring-websites-tools.jpg"
         }
       ]
     },
@@ -476,12 +461,72 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "62322496cdcd57069ddfa225",
+          "author": "Beau Carnes",
+          "description": "WebGPU is the next-generation graphics API and future web standard for graphics and compute, aiming to provide modern 3D graphics and computation capabilities with the GPU acceleration. We just published a WebGPU course on the freeCodeCmap.org YouTube channel.  Dr. Jack Xu developed this course. Dr. Xu has over 25",
+          "link": "https://www.freecodecamp.org/news/learn-webgpu-a-next-generation-graphics-api-for-the-web/",
+          "publishedOn": "2022-03-17T21:33:19.000Z",
+          "wordCount": 14096,
+          "title": "Learn WebGPU – A next-generation graphics API for the web",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/webgpu.png"
+        },
+        {
+          "id": "62331abccdcd57069ddfa72f",
+          "author": "Zaira Hira",
+          "description": "Searching for files is relatively easy when you are using a GUI. But in certain environments like GUI-less servers, you need to search for files using the command line.  There is a powerful command in Linux that helps you search for files and folders called find. In this article,",
+          "link": "https://www.freecodecamp.org/news/how-to-search-for-files-from-the-linux-command-line/",
+          "publishedOn": "2022-03-17T19:55:40.000Z",
+          "wordCount": 1169,
+          "title": "How to Search for Files from the Linux Command Line",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Copy-of-remove-key-val.gif"
+        },
+        {
+          "id": "621d17ecc4d0d306772f1b2f",
+          "author": "Slimane Aguersif",
+          "description": "In this article I'm going to discuss some use cases of REM (Root EM) in CSS.  I will begin with some background knowledge about CSS properties and values, which I think is necessary. Then I'll discuss the differences between absolute length values and relative ones. REM is a relative",
+          "link": "https://www.freecodecamp.org/news/what-is-rem-in-css/",
+          "publishedOn": "2022-03-17T19:47:22.000Z",
+          "wordCount": 1943,
+          "title": "CSS REM – What is REM in CSS?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/rem-in-css-cover-image.jpeg"
+        },
+        {
+          "id": "623308b9cdcd57069ddfa696",
+          "author": "Kolade Chris",
+          "description": "While running a Python program, there might be times when you'd like to delay the execution of the program for some seconds. The Python time module has a built-in function called time.sleep() with which you can delay the execution of a program. With the sleep() function, you can get more",
+          "link": "https://www.freecodecamp.org/news/python-sleep-time-sleep-in-python/",
+          "publishedOn": "2022-03-17T17:22:29.000Z",
+          "wordCount": 686,
+          "title": "Python Sleep – time.sleep() in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/sleep.png"
+        },
+        {
+          "id": "6233481fcdcd57069ddfa86c",
+          "author": "Beau Carnes",
+          "description": "If you are looking for a web developer job it can be helpful to have a portfolio website. It can also be helpful to have projects you've created to show to potential employers. You can accomplish both tasks at once by creating your own portfolio website with HTML, CSS, &",
+          "link": "https://www.freecodecamp.org/news/create-a-portfolio-website-using-html-css-javascript/",
+          "publishedOn": "2022-03-17T14:49:23.000Z",
+          "wordCount": 24496,
+          "title": "Create a Portfolio Website Using HTML, CSS, & JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/portfoliojs.png"
+        },
+        {
+          "id": "6231a5b3c3e3d106805db9fc",
+          "author": "Ashutosh Krishna",
+          "description": "In this Python tutorial, we'll learn how to build a terminal application (CLI app) to manage our contact book.  We'll use Typer for building the CLI app, Rich for a colorized terminal output, and TinyDB for the database. Get your tools ready We'll be using a few external libraries",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-contact-book-application-in-python-using-rich-typer-and-tinydb/",
+          "publishedOn": "2022-03-17T00:15:43.000Z",
+          "wordCount": 1846,
+          "title": "How to Build a Contact Book Application in Python using Rich, Typer, and TinyDB",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/contact-book.png"
+        },
+        {
           "id": "62321616cdcd57069ddfa114",
           "author": "Germán Cocca",
           "description": "In this article we'll talk about what debugging is, how to debug your code, and how you can get better at it. Table of contents  * How Debugging Started  * Why Should You Learn About Debugging?  * How to Debug Your Code  * How to Get",
           "link": "https://www.freecodecamp.org/news/what-is-debugging-how-to-debug-code/",
           "publishedOn": "2022-03-16T21:31:29.000Z",
-          "wordCount": 5846,
+          "wordCount": 5855,
           "title": "What is Debugging? How to Debug Your Code for Beginners",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-mike-198101.jpg"
         },
@@ -514,66 +559,6 @@
           "wordCount": 843,
           "title": "Python Get Last Element in List – How to Select the Last Item",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/list.jpg"
-        },
-        {
-          "id": "62245d2ac4d0d306772f4e3a",
-          "author": "TAPAS ADHIKARY",
-          "description": "React.js is an open-source JavaScript-based user interface library. It is hugely popular for web and mobile app development.  React follows the principle of component-based architecture. A component in React is an isolated and reusable piece of code. The components can be of two types – class components and functional",
-          "link": "https://www.freecodecamp.org/news/react-hooks-fundamentals/",
-          "publishedOn": "2022-03-15T19:20:16.000Z",
-          "wordCount": 1220,
-          "title": "React Hooks Fundamentals for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/freeCodeCamp-Cover.png"
-        },
-        {
-          "id": "6213cb7d21bfb3068cf2c271",
-          "author": "Estefania Cassingena Navone",
-          "description": "Hi! If you speak Spanish and you want you learn React, you're in the right place. In this article, you will find a brief introduction to React. You will learn why it is so important for web development and why you should learn it.  Then, you will find a",
-          "link": "https://www.freecodecamp.org/news/learn-react-in-spanish-course-for-beginners/",
-          "publishedOn": "2022-03-15T15:41:39.000Z",
-          "wordCount": 1508,
-          "title": "Learn React in Spanish – Course for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/thumbnail-2.png"
-        },
-        {
-          "id": "6230acbbc3e3d106805db524",
-          "author": "Beau Carnes",
-          "description": "If you want your 3D animated characters to move in realistic-looking ways, you need to have a good understanding of skeletal animations. We just posted a full course on the freeCodeCamp.org YouTube channel well teach you how to do skeletal animations with OpenGL and the Assimp library. Etay Meiri created",
-          "link": "https://www.freecodecamp.org/news/advanced-opengl-animation-technique-skeletal-animations/",
-          "publishedOn": "2022-03-15T15:37:21.000Z",
-          "wordCount": 16524,
-          "title": "Advanced OpenGL Animation Technique – Skeletal Animations with Assimp",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/opengl.png"
-        },
-        {
-          "id": "622b887163ded806bb9e8566",
-          "author": "Ihechikara Vincent Abba",
-          "description": "Data structures help us organize and store collections of data. Python has built-in data structures like Lists, Sets, Tuples and Dictionaries.  Each of these structures have their own syntax and methods for interacting with the data stored.  In this article, we'll talk about Dictionaries, their features, and how",
-          "link": "https://www.freecodecamp.org/news/python-add-to-dictionary-adding-an-item-to-a-dict/",
-          "publishedOn": "2022-03-15T00:33:07.000Z",
-          "wordCount": 953,
-          "title": "Python Add to Dictionary – Adding an Item to a Dict",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/dictionaary.jpg"
-        },
-        {
-          "id": "622ce4df63ded806bb9e8dae",
-          "author": "Paul Akinyemi",
-          "description": "After you write your first couple of articles, a problem most technical writers face is: \"So, what do I write about next?\" It can be a frustrating question, so I wrote this article to help. In it, I will give you tips that will save you the headache the next",
-          "link": "https://www.freecodecamp.org/news/choose-a-topic-for-your-next-article/",
-          "publishedOn": "2022-03-14T23:52:03.000Z",
-          "wordCount": 1370,
-          "title": "How to Choose a Topic for Your Technical Article",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/topic_article_head.jpg"
-        },
-        {
-          "id": "622acecd63ded806bb9e8101",
-          "author": "Ijelekhai Faith Olohijere",
-          "description": "In this article, you'll learn how to install plugins in Figma. You'll also get to know some really cool Figma plugins that every designer and developer should use.  Plugins help make your design process easier and smoother. From image assets to embedding maps into your designs, plugins are easy",
-          "link": "https://www.freecodecamp.org/news/plugins-in-figma/",
-          "publishedOn": "2022-03-14T20:42:03.000Z",
-          "wordCount": 1124,
-          "title": "How to Use Plugins in Figma",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-picjumbocom-196645.jpg"
         }
       ]
     }
