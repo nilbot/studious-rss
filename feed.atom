@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-18T00:04:35.485Z</id>
+    <id>urn:2022-03-19T00:03:24.931Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-18T00:04:35.485Z</updated>
+    <updated>2022-03-19T00:03:24.931Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Optimizing SVG Patterns to Their Smallest Size]]></title>
+        <id>https://css-tricks.com/?p=364090</id>
+        <link href="https://css-tricks.com/optimizing-svg-patterns/"/>
+        <updated>2022-03-18T22:31:22.000Z</updated>
+        <summary type="html"><![CDATA[I recently created a brick wall pattern as part of my #PetitePatterns series, a challenge where I create organic-looking patterns or textures in SVG within 560 bytes (or approximately the size of two tweets). To fit this constraint, I have …
+Optimizing SVG Patterns to Their Smallest Size originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Bence Szabó</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Compare Strings – How to Check for String Equality]]></title>
+        <id>6233b95bcdcd57069ddfadb1</id>
+        <link href="https://www.freecodecamp.org/news/python-compare-strings-how-to-check-for-string-equality/"/>
+        <updated>2022-03-18T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When crafting the logic in your code, you may want to execute different commands depending on the similarities or differences between two or more strings.  In this article, we'll see various operators that can help us check if strings are equal or not. If two strings are equal, the]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frontend VS Backend – What's the Difference?]]></title>
+        <id>6228643563ded806bb9e6f77</id>
+        <link href="https://www.freecodecamp.org/news/frontend-vs-backend-whats-the-difference/"/>
+        <updated>2022-03-18T20:48:41.000Z</updated>
+        <summary type="html"><![CDATA[At the start of your web development journey, you will often hear about the frontend and the backend parts of an application. But what do these terms mean exactly? In this article, you will learn about the differences between the two by examining the frontend and backend separately. Here is]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Make A Drag-and-Drop File Uploader With Vue.js 3]]></title>
+        <id>https://smashingmagazine.com/2022/03/drag-drop-file-uploader-vuejs-3/</id>
+        <link href="https://smashingmagazine.com/2022/03/drag-drop-file-uploader-vuejs-3/"/>
+        <updated>2022-03-18T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Building on a previous article on How to Build a Drag-and-Drop File Uploader, we’ll be adding some new features, but more importantly (maybe), we’ll be learning how to build it in Vue 3 and learn some best practices for Vue along the way.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Joseph Zimmerman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python String to Int – Convert a String Example]]></title>
+        <id>62333a16cdcd57069ddfa7f3</id>
+        <link href="https://www.freecodecamp.org/news/python-string-to-int-convert-a-string-example/"/>
+        <updated>2022-03-17T23:53:39.000Z</updated>
+        <summary type="html"><![CDATA[When creating a program, you may need to get numerical input from users and perform various mathematical operations on the value.  Similarly, there are cases where you might want to perform mathematical operations on string values.  In both cases, the values returned are strings so we cannot perform]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn WebGPU – A next-generation graphics API for the web]]></title>
         <id>62322496cdcd57069ddfa225</id>
@@ -76,26 +127,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python Functions – How to Define and Call a Function]]></title>
-        <id>6231fec0cdcd57069ddfa05d</id>
-        <link href="https://www.freecodecamp.org/news/python-functions-define-and-call-a-function/"/>
-        <updated>2022-03-16T17:17:43.000Z</updated>
-        <summary type="html"><![CDATA[In programming, a function is a reusable block of code that executes a certain functionality when it is called. Functions are integral parts of every programming language because they help make your code more modular and reusable. In this article, I will show you how to define a function in]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Python Crash Course]]></title>
-        <id>623204d4cdcd57069ddfa080</id>
-        <link href="https://www.freecodecamp.org/news/free-python-crash-course/"/>
-        <updated>2022-03-16T15:46:45.000Z</updated>
-        <summary type="html"><![CDATA[Python is one of the most popular programming languages in the word. It is used everywhere from web development, to simple scripts, to machine learning and AI. We just published a Python tutorial on the freeCodeCamp.org YouTube channel that will teach you the basics of Python. Bobby Stearman developed this]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Claymorphism: Will It Stick Around?]]></title>
         <id>https://smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/</id>
         <link href="https://smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/"/>
@@ -103,16 +134,6 @@
         <summary type="html"><![CDATA[This fresh new design trend has been picking up steam with the rising popularity of colorful inflated 3D graphics in web illustrations and with the latest Virtual Reality projects like “Horizon Worlds”. Let’s see if there is room for Claymorphism on the UI, and how we can create this effect with CSS.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Get Last Element in List – How to Select the Last Item]]></title>
-        <id>62310fbac3e3d106805db8d1</id>
-        <link href="https://www.freecodecamp.org/news/python-get-last-element-in-list-how-to-select-the-last-item/"/>
-        <updated>2022-03-15T23:26:34.000Z</updated>
-        <summary type="html"><![CDATA[Lists are one of the built-in data types in Python. You use them to store multiple elements in one variable.  Lists enable us group similar data together, and we can also perform operations on these grouped elements at the same time. In this article, we will talk about how]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
         </author>
     </entry>
     <entry>
@@ -404,19 +425,6 @@ My white whale: A use case for will-change originally published on CSS-Tricks. Y
 Explain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Anand Chowdhary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine]]></title>
-        <id>https://css-tricks.com/?p=363526</id>
-        <link href="https://css-tricks.com/superior-image-optimization-an-ideal-solution-using-gatsby-imageengine/"/>
-        <updated>2022-02-24T15:31:49.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-In recent years, the Jamstack methodology for building websites has become increasingly popular. Performance, scalable, and secure, it’s easy to see why it’s becoming an attractive way to build websites for developers.
-GatsbyJS is …
-Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>ImageEngine</name>
         </author>
     </entry>
     <entry>
