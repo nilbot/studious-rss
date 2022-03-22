@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-21T00:04:07.863Z</id>
+    <id>urn:2022-03-22T00:03:35.045Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-21T00:04:07.863Z</updated>
+    <updated>2022-03-22T00:03:35.045Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[VS Code Extensions to Increase Developer Productivity]]></title>
+        <id>6238da58cdcd57069ddfc85e</id>
+        <link href="https://www.freecodecamp.org/news/vs-code-extensions-to-increase-developer-productivity/"/>
+        <updated>2022-03-21T20:23:21.000Z</updated>
+        <summary type="html"><![CDATA[Visual Studio Code is one of the most popular code editors used by software developers. While it has many great features built-in, there are a lot of extensions you can install to increase your productivity.  We just published a video on the freeCodeCamp.org YouTube channel that will teach you]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Write HTML, the HTML Way (Not the XHTML Way)]]></title>
+        <id>https://css-tricks.com/?p=363745</id>
+        <link href="https://css-tricks.com/write-html-the-html-way-not-the-xhtml-way/"/>
+        <updated>2022-03-21T20:08:38.000Z</updated>
+        <summary type="html"><![CDATA[You may not use XHTML (anymore), but when you write HTML, you may be more influenced by XHTML than you think. You are very likely writing HTML, the XHTML way.
+What is the XHTML way of writing HTML, and what …
+Write HTML, the HTML Way (Not the XHTML Way) originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Jens Oliver Meiert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Solve freeCodeCamp's Record Collection Challenge]]></title>
+        <id>6236cc8acdcd57069ddfba7a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-solve-the-record-collection-challenge/"/>
+        <updated>2022-03-21T18:14:42.000Z</updated>
+        <summary type="html"><![CDATA[freeCodeCamp's JavaScript certification [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/]  is filled with hundreds of interactive challenges. But one of the hardest ones to tackle for most beginners is the Record Collection [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection] . In this article, I will walk you through Record Collection [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-str]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chmod Command – How to Change File Permissions in Linux]]></title>
+        <id>62375a8dcdcd57069ddfbec1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-change-file-permissions-with-the-chmod-command-on-linux/"/>
+        <updated>2022-03-21T15:33:36.000Z</updated>
+        <summary type="html"><![CDATA[One of the first commands I learned on Linux was the touch command that creates a file using the command line.  If you ever try to create, for instance, a text file, all you have to do is type  touch filename.txt, press Enter, and the file is created]]></summary>
+        <author>
+            <name>Daniel Rosa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get the Current Time in Python with Datetime]]></title>
+        <id>6236e160cdcd57069ddfbbbf</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-the-current-time-in-python-with-datetime/"/>
+        <updated>2022-03-21T13:52:01.000Z</updated>
+        <summary type="html"><![CDATA[In your Python applications, you might want to work with time to add functionalities like timestamps, check the time of a user’s activity, and more. One of the modules that helps you work with date and time in Python is datetime. With the datetime module, you can get the current]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SyntaxError Unexpected EOF While Parsing Python Error [Solved]]]></title>
+        <id>6237b189cdcd57069ddfc248</id>
+        <link href="https://www.freecodecamp.org/news/syntaxerror-unexpected-eof-while-parsing-python-error-solved/"/>
+        <updated>2022-03-21T13:47:24.000Z</updated>
+        <summary type="html"><![CDATA[Error messages help us solve/fix problems in our code. But some error messages, when you first see them, may confuse you because they seem unclear.  One of these errors is the "SyntaxError: unexpected EOF while parsing" error you might get in Python. In this article, we'll see why this]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows High Contrast Mode, Forced Colors Mode And CSS Custom Properties]]></title>
+        <id>https://smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/</id>
+        <link href="https://smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/"/>
+        <updated>2022-03-21T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[CSS Custom Properties can be used for far more than just color, and their values update in realtime, both via display mode updates and JavaScript logic. This is powerful stuff. Eric explains how modern CSS is a powerful piece of assistive technology that can thread into it to create flexible, maintainable and adaptive digital experiences.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eric Bailey)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimizing SVG Patterns to Their Smallest Size]]></title>
         <id>https://css-tricks.com/?p=364090</id>
@@ -74,56 +146,6 @@ Optimizing SVG Patterns to Their Smallest Size originally published on CSS-Trick
         <summary type="html"><![CDATA[Searching for files is relatively easy when you are using a GUI. But in certain environments like GUI-less servers, you need to search for files using the command line.  There is a powerful command in Linux that helps you search for files and folders called find. In this article,]]></summary>
         <author>
             <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS REM – What is REM in CSS?]]></title>
-        <id>621d17ecc4d0d306772f1b2f</id>
-        <link href="https://www.freecodecamp.org/news/what-is-rem-in-css/"/>
-        <updated>2022-03-17T19:47:22.000Z</updated>
-        <summary type="html"><![CDATA[In this article I'm going to discuss some use cases of REM (Root EM) in CSS.  I will begin with some background knowledge about CSS properties and values, which I think is necessary. Then I'll discuss the differences between absolute length values and relative ones. REM is a relative]]></summary>
-        <author>
-            <name>Slimane Aguersif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Sleep – time.sleep() in Python]]></title>
-        <id>623308b9cdcd57069ddfa696</id>
-        <link href="https://www.freecodecamp.org/news/python-sleep-time-sleep-in-python/"/>
-        <updated>2022-03-17T17:22:29.000Z</updated>
-        <summary type="html"><![CDATA[While running a Python program, there might be times when you'd like to delay the execution of the program for some seconds. The Python time module has a built-in function called time.sleep() with which you can delay the execution of a program. With the sleep() function, you can get more]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a Portfolio Website Using HTML, CSS, & JavaScript]]></title>
-        <id>6233481fcdcd57069ddfa86c</id>
-        <link href="https://www.freecodecamp.org/news/create-a-portfolio-website-using-html-css-javascript/"/>
-        <updated>2022-03-17T14:49:23.000Z</updated>
-        <summary type="html"><![CDATA[If you are looking for a web developer job it can be helpful to have a portfolio website. It can also be helpful to have projects you've created to show to potential employers. You can accomplish both tasks at once by creating your own portfolio website with HTML, CSS, &]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Contact Book Application in Python using Rich, Typer, and TinyDB]]></title>
-        <id>6231a5b3c3e3d106805db9fc</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-contact-book-application-in-python-using-rich-typer-and-tinydb/"/>
-        <updated>2022-03-17T00:15:43.000Z</updated>
-        <summary type="html"><![CDATA[In this Python tutorial, we'll learn how to build a terminal application (CLI app) to manage our contact book.  We'll use Typer for building the CLI app, Rich for a colorized terminal output, and TinyDB for the database. Get your tools ready We'll be using a few external libraries]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Debugging? How to Debug Your Code for Beginners]]></title>
-        <id>62321616cdcd57069ddfa114</id>
-        <link href="https://www.freecodecamp.org/news/what-is-debugging-how-to-debug-code/"/>
-        <updated>2022-03-16T21:31:29.000Z</updated>
-        <summary type="html"><![CDATA[In this article we'll talk about what debugging is, how to debug your code, and how you can get better at it. Table of contents  * How Debugging Started  * Why Should You Learn About Debugging?  * How to Debug Your Code  * How to Get]]></summary>
-        <author>
-            <name>Germán Cocca</name>
         </author>
     </entry>
     <entry>
@@ -414,17 +436,6 @@ Manuel Matuzovic’s CSS Specificity Demo originally published on CSS-Tricks. Yo
 My white whale: A use case for will-change originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explain the First 10 Lines of Twitter’s Source Code to Me]]></title>
-        <id>https://css-tricks.com/?p=363553</id>
-        <link href="https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/"/>
-        <updated>2022-02-24T15:31:55.000Z</updated>
-        <summary type="html"><![CDATA[For the past few weeks, I’ve been hiring for a senior full-stack JavaScript engineer at my rental furniture company, Pabio. Since we’re a remote team, we conduct our interviews on Zoom, and I’ve observed that some developers are not …
-Explain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Anand Chowdhary</name>
         </author>
     </entry>
     <entry>
