@@ -169,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/03/design-is-all-about-good-timing/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "In this shorter series of articles, we highlight design patterns, techniques, and strategies to design better digital interfaces. You can also learn much more in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.",
+          "link": "https://smashingmagazine.com/2022/03/design-is-all-about-good-timing/",
+          "publishedOn": "2022-03-22T12:45:00.000Z",
+          "wordCount": 1272,
+          "title": "Good Design Is All About Good Timing",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/60369f5b-1fb5-4426-805e-50a21628b7cd/design-good-timing.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/60369f5b-1fb5-4426-805e-50a21628b7cd/design-good-timing.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/",
           "author": "hello@smashingmagazine.com (Eric Bailey)",
           "description": "CSS Custom Properties can be used for far more than just color, and their values update in realtime, both via display mode updates and JavaScript logic. This is powerful stuff. Eric explains how modern CSS is a powerful piece of assistive technology that can thread into it to create flexible, maintainable and adaptive digital experiences.",
           "link": "https://smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/",
           "publishedOn": "2022-03-21T12:30:00.000Z",
-          "wordCount": 2454,
+          "wordCount": 2460,
           "title": "Windows High Contrast Mode, Forced Colors Mode And CSS Custom Properties",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bbb1649b-2b93-4626-851d-5178033d0894/windows-high-contrast-colors-mode-css-custom-properties.jpg",
@@ -189,7 +204,7 @@
           "description": "Building on a previous article on How to Build a Drag-and-Drop File Uploader, we’ll be adding some new features, but more importantly (maybe), we’ll be learning how to build it in Vue 3 and learn some best practices for Vue along the way.",
           "link": "https://smashingmagazine.com/2022/03/drag-drop-file-uploader-vuejs-3/",
           "publishedOn": "2022-03-18T10:30:00.000Z",
-          "wordCount": 6388,
+          "wordCount": 6406,
           "title": "How To Make A Drag-and-Drop File Uploader With Vue.js 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5a9a0777-fd16-459e-b50d-20d5119f220d/drag-drop-file-uploader-vuejs-3.jpg",
@@ -204,7 +219,7 @@
           "description": "This fresh new design trend has been picking up steam with the rising popularity of colorful inflated 3D graphics in web illustrations and with the latest Virtual Reality projects like “Horizon Worlds”. Let’s see if there is room for Claymorphism on the UI, and how we can create this effect with CSS.",
           "link": "https://smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/",
           "publishedOn": "2022-03-16T11:00:00.000Z",
-          "wordCount": 2594,
+          "wordCount": 2590,
           "title": "Claymorphism: Will It Stick Around?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d6ceacdf-835e-497e-a1e0-be958d42ac76/claymorphism-css-ui-design-trend.jpg",
@@ -219,7 +234,7 @@
           "description": "Looking for ways to create a smooth CI/CD flow for your software? In this article, Tom Hastjarjanto shares some useful concepts that can be combined with GitHub Actions and NPM packages. With this setup, you will be able to release multiple times per hour with a fully documented trace managed by Git.",
           "link": "https://smashingmagazine.com/2022/03/improving-ci-cd-flow-application/",
           "publishedOn": "2022-03-14T12:30:00.000Z",
-          "wordCount": 1628,
+          "wordCount": 1626,
           "title": "Improving The CI/CD Flow For Your Application",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/48cfa0d0-3a69-4e42-bc6d-3c07df736343/improving-ci-cd-flow-application.jpg",
@@ -234,7 +249,7 @@
           "description": "Standing out among the millions of mobile apps can be challenging, but proper marketing can give you that crucial edge. This piece shares how to start your mobile app marketing strategy and improve it as you go while keeping up with the latest trends in the market.",
           "link": "https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/",
           "publishedOn": "2022-03-11T12:00:00.000Z",
-          "wordCount": 3807,
+          "wordCount": 3814,
           "title": "A Complete Guide To Mobile App Marketing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0defe765-5a21-40d6-a906-70edfad759ca/guide-mobile-app-marketing.jpg",
@@ -249,7 +264,7 @@
           "description": "In this article, Vivek Maskara introduces Amazon Web Services’ (AWS) Cloud Development Kit (CDK) which is increasingly becoming a popular tool for managing AWS-based infrastructure. We’ll take a closer look into CDK concepts, and then how to use the AWS CDK toolkit to deploy a sample application to an AWS account.",
           "link": "https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/",
           "publishedOn": "2022-03-10T18:00:00.000Z",
-          "wordCount": 3496,
+          "wordCount": 3493,
           "title": "An Introduction To AWS Cloud Development Kit (CDK)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/46a0c491-6562-46ba-a48d-41b4f97b0965/introduction-aws-cloud-development-kit.jpg",
@@ -279,7 +294,7 @@
           "description": "Using signals to deliver less, or different, content is a form of progressive enhancement (or graceful degradation depending on how you look at it), whereby extraneous content is only loaded when necessary, but the core functionality of the website still works. In this article, we’ll look at some of the signals that can be used for this.",
           "link": "https://smashingmagazine.com/2022/03/signals-customizing-website-user-experience/",
           "publishedOn": "2022-03-07T10:30:00.000Z",
-          "wordCount": 4377,
+          "wordCount": 4383,
           "title": "Performance Signals For Customizing Website UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6c2416bf-b3e1-4398-a1d9-fd2404eb678d/signals-customizing-website-user-experience.jpg",
@@ -294,7 +309,7 @@
           "description": "If users cannot find the answers to their questions or are not exposed to critical messaging, they will not act, and your website will fail. To prevent that from happening, you need an effective information architecture. In this article, Paul Boag provides you with a process to ensure you have precisely that.",
           "link": "https://smashingmagazine.com/2022/03/easy-information-architecture/",
           "publishedOn": "2022-03-04T10:30:00.000Z",
-          "wordCount": 2965,
+          "wordCount": 2962,
           "title": "How To Create An Information Architecture That Is Easy To Use",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/771aac3c-df07-49cb-a4b1-8558b39f9e2a/easy-information-architecture.jpg",
@@ -309,7 +324,7 @@
           "description": "Dual-screen devices are just the next evolution in responsive design. If you have a PWA or website, the APIs available make integrating into your existing code base seamless. This article explains why it’s an exciting time for layout on the web, and how dual screens provide an opportunity to get even more creative.",
           "link": "https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/",
           "publishedOn": "2022-03-03T10:30:00.000Z",
-          "wordCount": 3569,
+          "wordCount": 3570,
           "title": "Building Web Layouts For Dual-Screen And Foldable Devices",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f45e5695-4423-4581-862d-ce6c1f8b55ac/building-web-layouts-dual-screen-foldable-devices.jpg",
@@ -324,7 +339,7 @@
           "description": "What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.",
           "link": "https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/",
           "publishedOn": "2022-03-02T13:30:00.000Z",
-          "wordCount": 5071,
+          "wordCount": 5069,
           "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d02916da-2e33-4aed-ac5e-f1107fa44e57/audio-visualization-javascript-gsap-part1.jpg",
@@ -339,7 +354,7 @@
           "description": "2022 is shaping up to be a pretty great year for CSS, with a plethora of new features on the horizon. Some are already starting to land in browsers, others are likely to gain widespread browser support in 2022, while for one or two the process may be a little longer. In this article we’ll take a look at a few of them.",
           "link": "https://smashingmagazine.com/2022/03/new-css-features-2022/",
           "publishedOn": "2022-03-01T13:00:00.000Z",
-          "wordCount": 3248,
+          "wordCount": 3249,
           "title": "New CSS Features In 2022",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/14419af2-69ab-4150-8cf3-bca2cd2291ad/new-css-features-2022.jpg",
@@ -369,7 +384,7 @@
           "description": "Following our monthly tradition, artists and designers from across the globe challenged their creative skills and designed desktop wallpapers to welcome March. They come in versions with and without a calendar and can be downloaded for free.",
           "link": "https://smashingmagazine.com/2022/02/desktop-wallpaper-calendars-march-2022/",
           "publishedOn": "2022-02-28T09:30:00.000Z",
-          "wordCount": 2187,
+          "wordCount": 2177,
           "title": "March For Equality (2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/74ffb821-71d4-4625-8d1d-085de28b17ef/mar-22-spring-is-coming-preview-opt.png",
@@ -414,7 +429,7 @@
           "description": "If we want our WordPress plugins to offer a settings page that is fully powered by blocks, how can we do it? Since *Full Site Editing* doesn’t support this feature yet, we need to code a custom solution. In this article, we will learn how we can do it.",
           "link": "https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/",
           "publishedOn": "2022-02-23T10:30:00.000Z",
-          "wordCount": 3286,
+          "wordCount": 3281,
           "title": "Using The WordPress Editor And CPTs To Configure Plugins",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/854c1fe6-8061-4a9f-bf59-75f81a732114/wordpress-editor-cpts-configure-plugins.jpg",
@@ -429,7 +444,7 @@
           "description": "How do text typing and editing work on the web? Although this process might seem straightforward, there is a lot of technical nuance behind its apparent simplicity. This article looks at how typing on the web works.",
           "link": "https://smashingmagazine.com/2022/02/develop-text-editor-web/",
           "publishedOn": "2022-02-22T13:00:00.000Z",
-          "wordCount": 1996,
+          "wordCount": 1999,
           "title": "How To Develop A Text Editor For The Web",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e771d289-5725-48a4-b8b6-4ba30f2a2f44/develop-text-editor-web.jpg",
@@ -459,7 +474,7 @@
           "description": "You don’t need to be a full DevOps engineer if you want to introduce a testing build routine. With the help of some testing frameworks and GitHub actions, Ramona Schwering gives a short kick-off to help you get on the right track.",
           "link": "https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/",
           "publishedOn": "2022-02-21T13:30:00.000Z",
-          "wordCount": 5656,
+          "wordCount": 5653,
           "title": "Testing Pipeline 101 For Frontend Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/96b8ad22-5da2-4bee-8696-2aa210727e4a/testing-pipeline-101-frontend-testing.jpg",
@@ -475,6 +490,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "623848d7cdcd57069ddfc40d",
+          "author": "Zaira Hira",
+          "description": "When you're coding, you need to be able to check certain conditions and change the control of the program execution accordingly.  Python provides many conditional statements for decision making, and if-else is one of them. In this blog post, we will learn:  1. The default order of execution",
+          "link": "https://www.freecodecamp.org/news/else-if-in-python-python-if-statement-example-syntax/",
+          "publishedOn": "2022-03-22T20:41:35.000Z",
+          "wordCount": 1112,
+          "title": "Else-If in Python – Python If Statement Example Syntax",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Copy-of-pip--4-.png"
+        },
+        {
+          "id": "623a17b2cdcd57069ddfd0b3",
+          "author": "Beau Carnes",
+          "description": "The Go programming language is an open-source and compiled language designed by Google. Go is popular for cloud-based or server-side applications. We just published a course on the freeCodeCamp.org YouTube channel that will help you improve your Go skills by teaching you how to create eleven projects. Akhil Sharma developed",
+          "link": "https://www.freecodecamp.org/news/learn-go-by-building-11-projects/",
+          "publishedOn": "2022-03-22T18:50:22.000Z",
+          "wordCount": 409,
+          "title": "Learn Go Programming by Building 11 Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/goprojects.png"
+        },
+        {
+          "id": "62358f0ccdcd57069ddfb8b4",
+          "author": "Md. Fahim Bin Amin",
+          "description": "If you are using a Windows operating system, you have likely used the latest Windows PowerShell at least once.  Whenever you open the PowerShell, you get a text message inside the terminal which shows the terminal version, the link to download the latest PowerShell, and so on.  Sometimes",
+          "link": "https://www.freecodecamp.org/news/how-to-remove-starting-text-from-powershell/",
+          "publishedOn": "2022-03-22T17:18:05.000Z",
+          "wordCount": 601,
+          "title": "How to Remove the Start Text from PowerShell",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Artboard-1-1.jpg"
+        },
+        {
+          "id": "62346eeacdcd57069ddfae72",
+          "author": "Suchandra Datta",
+          "description": "Operators in any programming language are the basic building blocks using which we can construct powerful, complex statements for problem solving.  Python offers different types of operators, like arithmetic operators, logical operators, relational operators and so on. In this post, let's dive into logical operators in Python and learn",
+          "link": "https://www.freecodecamp.org/news/operators-in-python-how-to-use-logical-operators-in-python/",
+          "publishedOn": "2022-03-22T00:21:14.000Z",
+          "wordCount": 1458,
+          "title": "Python Operator – Logical Operators in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-pixabay-161154.jpg"
+        },
+        {
+          "id": "62376c2ecdcd57069ddfbf7f",
+          "author": "Germán Cocca",
+          "description": "Hi! In this article we'll take a look at the many ways you can manage state in a React app. We'll start by talking about what state is, and then go through the many tools you can use to manage it. We'll look at the simple useState hook and also",
+          "link": "https://www.freecodecamp.org/news/how-to-manage-state-in-a-react-app/",
+          "publishedOn": "2022-03-21T23:31:54.000Z",
+          "wordCount": 5607,
+          "title": "How to Manage State in a React App – With Hooks, Redux, and More",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/lautaro-andreani-UYsBCu9RP3Y-unsplash.jpg"
+        },
         {
           "id": "6238da58cdcd57069ddfc85e",
           "author": "Beau Carnes",
@@ -524,56 +589,6 @@
           "wordCount": 689,
           "title": "SyntaxError Unexpected EOF While Parsing Python Error [Solved]",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/solve.jpg"
-        },
-        {
-          "id": "6233b95bcdcd57069ddfadb1",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When crafting the logic in your code, you may want to execute different commands depending on the similarities or differences between two or more strings.  In this article, we'll see various operators that can help us check if strings are equal or not. If two strings are equal, the",
-          "link": "https://www.freecodecamp.org/news/python-compare-strings-how-to-check-for-string-equality/",
-          "publishedOn": "2022-03-18T22:00:00.000Z",
-          "wordCount": 955,
-          "title": "Python Compare Strings – How to Check for String Equality",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/compare1.jpg"
-        },
-        {
-          "id": "6228643563ded806bb9e6f77",
-          "author": "Dionysia Lemonaki",
-          "description": "At the start of your web development journey, you will often hear about the frontend and the backend parts of an application. But what do these terms mean exactly? In this article, you will learn about the differences between the two by examining the frontend and backend separately. Here is",
-          "link": "https://www.freecodecamp.org/news/frontend-vs-backend-whats-the-difference/",
-          "publishedOn": "2022-03-18T20:48:41.000Z",
-          "wordCount": 3147,
-          "title": "Frontend VS Backend – What's the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-christina-morillo-1181677.jpg"
-        },
-        {
-          "id": "62333a16cdcd57069ddfa7f3",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When creating a program, you may need to get numerical input from users and perform various mathematical operations on the value.  Similarly, there are cases where you might want to perform mathematical operations on string values.  In both cases, the values returned are strings so we cannot perform",
-          "link": "https://www.freecodecamp.org/news/python-string-to-int-convert-a-string-example/",
-          "publishedOn": "2022-03-17T23:53:39.000Z",
-          "wordCount": 743,
-          "title": "Python String to Int – Convert a String Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/integer.jpg"
-        },
-        {
-          "id": "62322496cdcd57069ddfa225",
-          "author": "Beau Carnes",
-          "description": "WebGPU is the next-generation graphics API and future web standard for graphics and compute, aiming to provide modern 3D graphics and computation capabilities with the GPU acceleration. We just published a WebGPU course on the freeCodeCmap.org YouTube channel.  Dr. Jack Xu developed this course. Dr. Xu has over 25",
-          "link": "https://www.freecodecamp.org/news/learn-webgpu-a-next-generation-graphics-api-for-the-web/",
-          "publishedOn": "2022-03-17T21:33:19.000Z",
-          "wordCount": 14096,
-          "title": "Learn WebGPU – A next-generation graphics API for the web",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/webgpu.png"
-        },
-        {
-          "id": "62331abccdcd57069ddfa72f",
-          "author": "Zaira Hira",
-          "description": "Searching for files is relatively easy when you are using a GUI. But in certain environments like GUI-less servers, you need to search for files using the command line.  There is a powerful command in Linux that helps you search for files and folders called find. In this article,",
-          "link": "https://www.freecodecamp.org/news/how-to-search-for-files-from-the-linux-command-line/",
-          "publishedOn": "2022-03-17T19:55:40.000Z",
-          "wordCount": 1169,
-          "title": "How to Search for Files from the Linux Command Line",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Copy-of-remove-key-val.gif"
         }
       ]
     }

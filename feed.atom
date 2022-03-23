@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-22T00:03:35.045Z</id>
+    <id>urn:2022-03-23T00:03:45.642Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-22T00:03:35.045Z</updated>
+    <updated>2022-03-23T00:03:45.643Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Else-If in Python – Python If Statement Example Syntax]]></title>
+        <id>623848d7cdcd57069ddfc40d</id>
+        <link href="https://www.freecodecamp.org/news/else-if-in-python-python-if-statement-example-syntax/"/>
+        <updated>2022-03-22T20:41:35.000Z</updated>
+        <summary type="html"><![CDATA[When you're coding, you need to be able to check certain conditions and change the control of the program execution accordingly.  Python provides many conditional statements for decision making, and if-else is one of them. In this blog post, we will learn:  1. The default order of execution]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Go Programming by Building 11 Projects]]></title>
+        <id>623a17b2cdcd57069ddfd0b3</id>
+        <link href="https://www.freecodecamp.org/news/learn-go-by-building-11-projects/"/>
+        <updated>2022-03-22T18:50:22.000Z</updated>
+        <summary type="html"><![CDATA[The Go programming language is an open-source and compiled language designed by Google. Go is popular for cloud-based or server-side applications. We just published a course on the freeCodeCamp.org YouTube channel that will help you improve your Go skills by teaching you how to create eleven projects. Akhil Sharma developed]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Remove the Start Text from PowerShell]]></title>
+        <id>62358f0ccdcd57069ddfb8b4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-remove-starting-text-from-powershell/"/>
+        <updated>2022-03-22T17:18:05.000Z</updated>
+        <summary type="html"><![CDATA[If you are using a Windows operating system, you have likely used the latest Windows PowerShell at least once.  Whenever you open the PowerShell, you get a text message inside the terminal which shows the terminal version, the link to download the latest PowerShell, and so on.  Sometimes]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good Design Is All About Good Timing]]></title>
+        <id>https://smashingmagazine.com/2022/03/design-is-all-about-good-timing/</id>
+        <link href="https://smashingmagazine.com/2022/03/design-is-all-about-good-timing/"/>
+        <updated>2022-03-22T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[In this shorter series of articles, we highlight design patterns, techniques, and strategies to design better digital interfaces. You can also learn much more in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Operator – Logical Operators in Python]]></title>
+        <id>62346eeacdcd57069ddfae72</id>
+        <link href="https://www.freecodecamp.org/news/operators-in-python-how-to-use-logical-operators-in-python/"/>
+        <updated>2022-03-22T00:21:14.000Z</updated>
+        <summary type="html"><![CDATA[Operators in any programming language are the basic building blocks using which we can construct powerful, complex statements for problem solving.  Python offers different types of operators, like arithmetic operators, logical operators, relational operators and so on. In this post, let's dive into logical operators in Python and learn]]></summary>
+        <author>
+            <name>Suchandra Datta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Manage State in a React App – With Hooks, Redux, and More]]></title>
+        <id>62376c2ecdcd57069ddfbf7f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-manage-state-in-a-react-app/"/>
+        <updated>2022-03-21T23:31:54.000Z</updated>
+        <summary type="html"><![CDATA[Hi! In this article we'll take a look at the many ways you can manage state in a React app. We'll start by talking about what state is, and then go through the many tools you can use to manage it. We'll look at the simple useState hook and also]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VS Code Extensions to Increase Developer Productivity]]></title>
         <id>6238da58cdcd57069ddfc85e</id>
@@ -89,26 +149,6 @@ Optimizing SVG Patterns to Their Smallest Size originally published on CSS-Trick
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python Compare Strings – How to Check for String Equality]]></title>
-        <id>6233b95bcdcd57069ddfadb1</id>
-        <link href="https://www.freecodecamp.org/news/python-compare-strings-how-to-check-for-string-equality/"/>
-        <updated>2022-03-18T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When crafting the logic in your code, you may want to execute different commands depending on the similarities or differences between two or more strings.  In this article, we'll see various operators that can help us check if strings are equal or not. If two strings are equal, the]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frontend VS Backend – What's the Difference?]]></title>
-        <id>6228643563ded806bb9e6f77</id>
-        <link href="https://www.freecodecamp.org/news/frontend-vs-backend-whats-the-difference/"/>
-        <updated>2022-03-18T20:48:41.000Z</updated>
-        <summary type="html"><![CDATA[At the start of your web development journey, you will often hear about the frontend and the backend parts of an application. But what do these terms mean exactly? In this article, you will learn about the differences between the two by examining the frontend and backend separately. Here is]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Make A Drag-and-Drop File Uploader With Vue.js 3]]></title>
         <id>https://smashingmagazine.com/2022/03/drag-drop-file-uploader-vuejs-3/</id>
         <link href="https://smashingmagazine.com/2022/03/drag-drop-file-uploader-vuejs-3/"/>
@@ -116,36 +156,6 @@ Optimizing SVG Patterns to Their Smallest Size originally published on CSS-Trick
         <summary type="html"><![CDATA[Building on a previous article on How to Build a Drag-and-Drop File Uploader, we’ll be adding some new features, but more importantly (maybe), we’ll be learning how to build it in Vue 3 and learn some best practices for Vue along the way.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joseph Zimmerman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python String to Int – Convert a String Example]]></title>
-        <id>62333a16cdcd57069ddfa7f3</id>
-        <link href="https://www.freecodecamp.org/news/python-string-to-int-convert-a-string-example/"/>
-        <updated>2022-03-17T23:53:39.000Z</updated>
-        <summary type="html"><![CDATA[When creating a program, you may need to get numerical input from users and perform various mathematical operations on the value.  Similarly, there are cases where you might want to perform mathematical operations on string values.  In both cases, the values returned are strings so we cannot perform]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn WebGPU – A next-generation graphics API for the web]]></title>
-        <id>62322496cdcd57069ddfa225</id>
-        <link href="https://www.freecodecamp.org/news/learn-webgpu-a-next-generation-graphics-api-for-the-web/"/>
-        <updated>2022-03-17T21:33:19.000Z</updated>
-        <summary type="html"><![CDATA[WebGPU is the next-generation graphics API and future web standard for graphics and compute, aiming to provide modern 3D graphics and computation capabilities with the GPU acceleration. We just published a WebGPU course on the freeCodeCmap.org YouTube channel.  Dr. Jack Xu developed this course. Dr. Xu has over 25]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Search for Files from the Linux Command Line]]></title>
-        <id>62331abccdcd57069ddfa72f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-search-for-files-from-the-linux-command-line/"/>
-        <updated>2022-03-17T19:55:40.000Z</updated>
-        <summary type="html"><![CDATA[Searching for files is relatively easy when you are using a GUI. But in certain environments like GUI-less servers, you need to search for files using the command line.  There is a powerful command in Linux that helps you search for files and folders called find. In this article,]]></summary>
-        <author>
-            <name>Zaira Hira</name>
         </author>
     </entry>
     <entry>
