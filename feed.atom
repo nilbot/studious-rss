@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-23T00:03:45.642Z</id>
+    <id>urn:2022-03-24T00:03:40.329Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-23T00:03:45.643Z</updated>
+    <updated>2022-03-24T00:03:40.329Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Create a List in Python – Lists in Python Syntax]]></title>
+        <id>623af0d3cdcd57069ddfd5bb</id>
+        <link href="https://www.freecodecamp.org/news/create-a-list-in-python-lists-in-python-syntax/"/>
+        <updated>2022-03-23T20:32:31.000Z</updated>
+        <summary type="html"><![CDATA[Lists are one of the core data structures in Python. We use them for storing any data type, whether it's an integer, string, boolean, or even an object. Because one list can store multiple types of data, lists are one of the most powerful and widely used tools for storing]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes Security – Common Vulnerabilities and Exposures for K8s Programs]]></title>
+        <id>6230d789c3e3d106805db72a</id>
+        <link href="https://www.freecodecamp.org/news/kubernetes-security-common-vulnerabilities-and-exposures/"/>
+        <updated>2022-03-23T19:06:43.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetes has become the go-to tool for orchestration, scaling, automated deployment, and management of containerized applications.  Simply put, Kubernetes is a system that maintains coordination between diverse applications across a group of machines. It is important to note that this system mostly deals with containerized applications, like Docker images.]]></summary>
+        <author>
+            <name>Prajwal Kulkarni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use *args and **kwargs in Python]]></title>
+        <id>623a9306cdcd57069ddfd494</id>
+        <link href="https://www.freecodecamp.org/news/args-and-kwargs-in-python/"/>
+        <updated>2022-03-23T18:55:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll discuss *args and **kwargs in Python along with their uses and some examples. When writing a function, we often need to pass values to the function. These values are called function arguments.  Problem with Function Arguments Let's define a function to add two numbers in]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add a MetaMask Login to Your Laravel Web Application]]></title>
+        <id>6238bd3dcdcd57069ddfc5ad</id>
+        <link href="https://www.freecodecamp.org/news/add-a-metamask-login-to-your-laravel-app/"/>
+        <updated>2022-03-23T18:38:03.000Z</updated>
+        <summary type="html"><![CDATA[Logging into a website via third parties is ubiquitous online. Almost every other member-based website allows you to log in with accounts like Facebook, Twitter, and Google. If you’ve ever visited NFT marketplaces like OpenSea or Rarible, you would have noticed they allow you to sign in with a crypto]]></summary>
+        <author>
+            <name>Darren Chowles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Those HTML Attributes You Never Use]]></title>
+        <id>https://smashingmagazine.com/2022/03/html-attributes-you-never-use/</id>
+        <link href="https://smashingmagazine.com/2022/03/html-attributes-you-never-use/"/>
+        <updated>2022-03-23T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Louis Lazaris describes and demonstrates some interesting HTML attributes that you may or may not have heard of and perhaps find useful enough to personally use in one of your projects.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Louis Lazaris)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taxes for Freelance Developers – How Much Tax You Should Pay as a Freelancer]]></title>
+        <id>6238d5a4cdcd57069ddfc7db</id>
+        <link href="https://www.freecodecamp.org/news/taxes-for-freelance-developers/"/>
+        <updated>2022-03-23T13:52:08.000Z</updated>
+        <summary type="html"><![CDATA[Disclaimer: This article should not be construed as advice for tax management or investment decisions.  Neither the author of this article, nor freeCodeCamp, are professionals in these areas. The discussion below is a matter of personal opinion only and you should discuss such matters with a licensed professional. If]]></summary>
+        <author>
+            <name>Luke Ciciliano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is WordPress a Code or No-code Tool?]]></title>
+        <id>6236e318cdcd57069ddfbc09</id>
+        <link href="https://www.freecodecamp.org/news/is-wordpress-a-code-or-no-code-tool/"/>
+        <updated>2022-03-23T01:56:34.000Z</updated>
+        <summary type="html"><![CDATA[WordPress is an open-source content management system (CMS) for building any kind of website – an eCommerce site, a portfolio, a forum, and many more. WordPress started out as a simple platform for creating blogs, but today WordPress powers over 43% of the total websites on earth, and that number]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Else-If in Python – Python If Statement Example Syntax]]></title>
         <id>623848d7cdcd57069ddfc40d</id>
@@ -56,26 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Manage State in a React App – With Hooks, Redux, and More]]></title>
-        <id>62376c2ecdcd57069ddfbf7f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-manage-state-in-a-react-app/"/>
-        <updated>2022-03-21T23:31:54.000Z</updated>
-        <summary type="html"><![CDATA[Hi! In this article we'll take a look at the many ways you can manage state in a React app. We'll start by talking about what state is, and then go through the many tools you can use to manage it. We'll look at the simple useState hook and also]]></summary>
-        <author>
-            <name>Germán Cocca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VS Code Extensions to Increase Developer Productivity]]></title>
-        <id>6238da58cdcd57069ddfc85e</id>
-        <link href="https://www.freecodecamp.org/news/vs-code-extensions-to-increase-developer-productivity/"/>
-        <updated>2022-03-21T20:23:21.000Z</updated>
-        <summary type="html"><![CDATA[Visual Studio Code is one of the most popular code editors used by software developers. While it has many great features built-in, there are a lot of extensions you can install to increase your productivity.  We just published a video on the freeCodeCamp.org YouTube channel that will teach you]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Write HTML, the HTML Way (Not the XHTML Way)]]></title>
         <id>https://css-tricks.com/?p=363745</id>
         <link href="https://css-tricks.com/write-html-the-html-way-not-the-xhtml-way/"/>
@@ -85,46 +135,6 @@ What is the XHTML way of writing HTML, and what …
 Write HTML, the HTML Way (Not the XHTML Way) originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Jens Oliver Meiert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Solve freeCodeCamp's Record Collection Challenge]]></title>
-        <id>6236cc8acdcd57069ddfba7a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-solve-the-record-collection-challenge/"/>
-        <updated>2022-03-21T18:14:42.000Z</updated>
-        <summary type="html"><![CDATA[freeCodeCamp's JavaScript certification [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/]  is filled with hundreds of interactive challenges. But one of the hardest ones to tackle for most beginners is the Record Collection [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection] . In this article, I will walk you through Record Collection [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-str]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chmod Command – How to Change File Permissions in Linux]]></title>
-        <id>62375a8dcdcd57069ddfbec1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-change-file-permissions-with-the-chmod-command-on-linux/"/>
-        <updated>2022-03-21T15:33:36.000Z</updated>
-        <summary type="html"><![CDATA[One of the first commands I learned on Linux was the touch command that creates a file using the command line.  If you ever try to create, for instance, a text file, all you have to do is type  touch filename.txt, press Enter, and the file is created]]></summary>
-        <author>
-            <name>Daniel Rosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get the Current Time in Python with Datetime]]></title>
-        <id>6236e160cdcd57069ddfbbbf</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-the-current-time-in-python-with-datetime/"/>
-        <updated>2022-03-21T13:52:01.000Z</updated>
-        <summary type="html"><![CDATA[In your Python applications, you might want to work with time to add functionalities like timestamps, check the time of a user’s activity, and more. One of the modules that helps you work with date and time in Python is datetime. With the datetime module, you can get the current]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SyntaxError Unexpected EOF While Parsing Python Error [Solved]]]></title>
-        <id>6237b189cdcd57069ddfc248</id>
-        <link href="https://www.freecodecamp.org/news/syntaxerror-unexpected-eof-while-parsing-python-error-solved/"/>
-        <updated>2022-03-21T13:47:24.000Z</updated>
-        <summary type="html"><![CDATA[Error messages help us solve/fix problems in our code. But some error messages, when you first see them, may confuse you because they seem unclear.  One of these errors is the "SyntaxError: unexpected EOF while parsing" error you might get in Python. In this article, we'll see why this]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
         </author>
     </entry>
     <entry>
@@ -476,26 +486,6 @@ My white whale: A use case for will-change originally published on CSS-Tricks. Y
         <summary type="html"><![CDATA[How do text typing and editing work on the web? Although this process might seem straightforward, there is a lot of technical nuance behind its apparent simplicity. This article looks at how typing on the web works.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ilya Medvedev)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 45 With Jeremy Wagner: What Is Responsible JavaScript?]]></title>
-        <id>https://smashingmagazine.com/2022/02/smashing-podcast-episode-45/</id>
-        <link href="https://smashingmagazine.com/2022/02/smashing-podcast-episode-45/"/>
-        <updated>2022-02-22T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about Responsible JavaScript. What does it mean for code to be responsible, and how should we approach projects differently? Drew McLellan talks to expert Jeremy Wagner to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testing Pipeline 101 For Frontend Testing]]></title>
-        <id>https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/</id>
-        <link href="https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/"/>
-        <updated>2022-02-21T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[You don’t need to be a full DevOps engineer if you want to introduce a testing build routine. With the help of some testing frameworks and GitHub actions, Ramona Schwering gives a short kick-off to help you get on the right track.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ramona Schwering)</name>
         </author>
     </entry>
 </feed>
