@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-24T00:03:40.329Z</id>
+    <id>urn:2022-03-25T00:03:55.782Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-24T00:03:40.329Z</updated>
+    <updated>2022-03-25T00:03:55.782Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to SSH into a Docker Container – Secure Shell vs Docker Attach]]></title>
+        <id>6234b763cdcd57069ddfb192</id>
+        <link href="https://www.freecodecamp.org/news/how-to-ssh-into-a-docker-container-secure-shell-vs-docker-attach/"/>
+        <updated>2022-03-24T19:47:16.000Z</updated>
+        <summary type="html"><![CDATA[Containers are the bread and butter for running applications today. And the most popular container technology is called Docker [https://www.docker.com/].  Knowing how to SSH into a container is essential to using, debugging, and operating containers on your local operating system or remote setup.  This article will describe different]]></summary>
+        <author>
+            <name>Sebastian Sigl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Int Object is Not Iterable – Python Error [Solved]]]></title>
+        <id>623c45ea138a19064b064195</id>
+        <link href="https://www.freecodecamp.org/news/int-object-is-not-iterable-python-error-solved/"/>
+        <updated>2022-03-24T16:46:42.000Z</updated>
+        <summary type="html"><![CDATA[If you are running your Python code and you see the error “TypeError: 'int' object is not iterable”, it means you are trying to loop through an integer or other data type that loops cannot work on. In Python, iterable data are lists, tuples, sets, dictionaries, and so on. In]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Microservices with FastAPI]]></title>
+        <id>623c9dd5138a19064b06449b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-microservices-with-fastapi/"/>
+        <updated>2022-03-24T16:43:34.000Z</updated>
+        <summary type="html"><![CDATA[FastAPI is a Web framework for developing RESTful APIs in Python. It is a great choice when you want to build an app based on microservices. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to develop microservices app using FastAPI. In this course,]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[indexOf in Java – How to Find the Index of a String in Java]]></title>
+        <id>62389b37cdcd57069ddfc5a0</id>
+        <link href="https://www.freecodecamp.org/news/indexof-in-java-how-to-find-the-index-of-a-string-in-java/"/>
+        <updated>2022-03-24T16:11:05.000Z</updated>
+        <summary type="html"><![CDATA[A string is a collection of characters nested in double quotes. The indexOf  method returns the index position of a specified character or substring in a string. In this article, we'll see the syntax for the different indexOf methods. We'll also look at some examples to help you understand]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use UISearchController in iOS Apps]]></title>
+        <id>62388dc7cdcd57069ddfc4d1</id>
+        <link href="https://www.freecodecamp.org/news/learn-to-use-uisearchcontroller-in-ios-apps/"/>
+        <updated>2022-03-24T15:55:58.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone! In this article we are going to learn how to use UISearchController in iOS Apps. What are we going to build? We are going to build a movie search application which uses the TMDB [https://www.themoviedb.org/] API to fetch movie info and display it using a UICollectionView based on]]></summary>
+        <author>
+            <name>Sai Balaji K</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Create a List in Python – Lists in Python Syntax]]></title>
         <id>623af0d3cdcd57069ddfd5bb</id>
@@ -66,46 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is WordPress a Code or No-code Tool?]]></title>
-        <id>6236e318cdcd57069ddfbc09</id>
-        <link href="https://www.freecodecamp.org/news/is-wordpress-a-code-or-no-code-tool/"/>
-        <updated>2022-03-23T01:56:34.000Z</updated>
-        <summary type="html"><![CDATA[WordPress is an open-source content management system (CMS) for building any kind of website – an eCommerce site, a portfolio, a forum, and many more. WordPress started out as a simple platform for creating blogs, but today WordPress powers over 43% of the total websites on earth, and that number]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Else-If in Python – Python If Statement Example Syntax]]></title>
-        <id>623848d7cdcd57069ddfc40d</id>
-        <link href="https://www.freecodecamp.org/news/else-if-in-python-python-if-statement-example-syntax/"/>
-        <updated>2022-03-22T20:41:35.000Z</updated>
-        <summary type="html"><![CDATA[When you're coding, you need to be able to check certain conditions and change the control of the program execution accordingly.  Python provides many conditional statements for decision making, and if-else is one of them. In this blog post, we will learn:  1. The default order of execution]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Go Programming by Building 11 Projects]]></title>
-        <id>623a17b2cdcd57069ddfd0b3</id>
-        <link href="https://www.freecodecamp.org/news/learn-go-by-building-11-projects/"/>
-        <updated>2022-03-22T18:50:22.000Z</updated>
-        <summary type="html"><![CDATA[The Go programming language is an open-source and compiled language designed by Google. Go is popular for cloud-based or server-side applications. We just published a course on the freeCodeCamp.org YouTube channel that will help you improve your Go skills by teaching you how to create eleven projects. Akhil Sharma developed]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Remove the Start Text from PowerShell]]></title>
-        <id>62358f0ccdcd57069ddfb8b4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-remove-starting-text-from-powershell/"/>
-        <updated>2022-03-22T17:18:05.000Z</updated>
-        <summary type="html"><![CDATA[If you are using a Windows operating system, you have likely used the latest Windows PowerShell at least once.  Whenever you open the PowerShell, you get a text message inside the terminal which shows the terminal version, the link to download the latest PowerShell, and so on.  Sometimes]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Good Design Is All About Good Timing]]></title>
         <id>https://smashingmagazine.com/2022/03/design-is-all-about-good-timing/</id>
         <link href="https://smashingmagazine.com/2022/03/design-is-all-about-good-timing/"/>
@@ -113,16 +123,6 @@
         <summary type="html"><![CDATA[In this shorter series of articles, we highlight design patterns, techniques, and strategies to design better digital interfaces. You can also learn much more in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Operator – Logical Operators in Python]]></title>
-        <id>62346eeacdcd57069ddfae72</id>
-        <link href="https://www.freecodecamp.org/news/operators-in-python-how-to-use-logical-operators-in-python/"/>
-        <updated>2022-03-22T00:21:14.000Z</updated>
-        <summary type="html"><![CDATA[Operators in any programming language are the basic building blocks using which we can construct powerful, complex statements for problem solving.  Python offers different types of operators, like arithmetic operators, logical operators, relational operators and so on. In this post, let's dive into logical operators in Python and learn]]></summary>
-        <author>
-            <name>Suchandra Datta</name>
         </author>
     </entry>
     <entry>
@@ -466,26 +466,6 @@ My white whale: A use case for will-change originally published on CSS-Tricks. Y
         <summary type="html"><![CDATA[Web Vitals are the new gold standard in performance due to their direct correlation with the user’s experience. In this article, you’ll learn what monitoring can do and how RayGun can help you sustain performance maintenance while scaling your app.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Átila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using The WordPress Editor And CPTs To Configure Plugins]]></title>
-        <id>https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/</id>
-        <link href="https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/"/>
-        <updated>2022-02-23T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[If we want our WordPress plugins to offer a settings page that is fully powered by blocks, how can we do it? Since *Full Site Editing* doesn’t support this feature yet, we need to code a custom solution. In this article, we will learn how we can do it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Develop A Text Editor For The Web]]></title>
-        <id>https://smashingmagazine.com/2022/02/develop-text-editor-web/</id>
-        <link href="https://smashingmagazine.com/2022/02/develop-text-editor-web/"/>
-        <updated>2022-02-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How do text typing and editing work on the web? Although this process might seem straightforward, there is a lot of technical nuance behind its apparent simplicity. This article looks at how typing on the web works.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ilya Medvedev)</name>
         </author>
     </entry>
 </feed>
