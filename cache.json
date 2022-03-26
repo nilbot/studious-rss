@@ -17,7 +17,7 @@
           "description": "You may not use XHTML (anymore), but when you write HTML, you may be more influenced by XHTML than you think. You are very likely writing HTML, the XHTML way.\nWhat is the XHTML way of writing HTML, and what …\nWrite HTML, the HTML Way (Not the XHTML Way) originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/write-html-the-html-way-not-the-xhtml-way/",
           "publishedOn": "2022-03-21T20:08:38.000Z",
-          "wordCount": 2046,
+          "wordCount": 2495,
           "title": "Write HTML, the HTML Way (Not the XHTML Way)",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363745"
         },
@@ -169,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/03/remix-routes-demystified/",
+          "author": "hello@smashingmagazine.com (Átila Fassina)",
+          "description": "In the past months, there have been lots of talks dedictaed to Remix. Routing is not only one of the things that sets it apart from other frameworks, but it also fuels great performance and improves the overall experience for developers. Let’s dig in to all  of the features that build up routing in this powerful framework.",
+          "link": "https://smashingmagazine.com/2022/03/remix-routes-demystified/",
+          "publishedOn": "2022-03-25T14:00:00.000Z",
+          "wordCount": 2842,
+          "title": "Remix Routes Demystified",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e1a0f7a2-9511-4911-9e94-5a4368b69c07/remix-routes-demystified.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e1a0f7a2-9511-4911-9e94-5a4368b69c07/remix-routes-demystified.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/03/html-attributes-you-never-use/",
           "author": "hello@smashingmagazine.com (Louis Lazaris)",
           "description": "In this article, Louis Lazaris describes and demonstrates some interesting HTML attributes that you may or may not have heard of and perhaps find useful enough to personally use in one of your projects.",
           "link": "https://smashingmagazine.com/2022/03/html-attributes-you-never-use/",
           "publishedOn": "2022-03-23T14:30:00.000Z",
-          "wordCount": 2804,
+          "wordCount": 2807,
           "title": "Those HTML Attributes You Never Use",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d94128cd-ff71-4c9a-8608-fc9c75fbea84/html-attributes-you-never-use.jpg",
@@ -189,7 +204,7 @@
           "description": "In this shorter series of articles, we highlight design patterns, techniques, and strategies to design better digital interfaces. You can also learn much more in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.",
           "link": "https://smashingmagazine.com/2022/03/design-is-all-about-good-timing/",
           "publishedOn": "2022-03-22T12:45:00.000Z",
-          "wordCount": 1269,
+          "wordCount": 1272,
           "title": "Good Design Is All About Good Timing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/60369f5b-1fb5-4426-805e-50a21628b7cd/design-good-timing.jpg",
@@ -204,7 +219,7 @@
           "description": "CSS Custom Properties can be used for far more than just color, and their values update in realtime, both via display mode updates and JavaScript logic. This is powerful stuff. Eric explains how modern CSS is a powerful piece of assistive technology that can thread into it to create flexible, maintainable and adaptive digital experiences.",
           "link": "https://smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/",
           "publishedOn": "2022-03-21T12:30:00.000Z",
-          "wordCount": 2454,
+          "wordCount": 2457,
           "title": "Windows High Contrast Mode, Forced Colors Mode And CSS Custom Properties",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bbb1649b-2b93-4626-851d-5178033d0894/windows-high-contrast-colors-mode-css-custom-properties.jpg",
@@ -234,7 +249,7 @@
           "description": "This fresh new design trend has been picking up steam with the rising popularity of colorful inflated 3D graphics in web illustrations and with the latest Virtual Reality projects like “Horizon Worlds”. Let’s see if there is room for Claymorphism on the UI, and how we can create this effect with CSS.",
           "link": "https://smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/",
           "publishedOn": "2022-03-16T11:00:00.000Z",
-          "wordCount": 2592,
+          "wordCount": 2589,
           "title": "Claymorphism: Will It Stick Around?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d6ceacdf-835e-497e-a1e0-be958d42ac76/claymorphism-css-ui-design-trend.jpg",
@@ -249,7 +264,7 @@
           "description": "Looking for ways to create a smooth CI/CD flow for your software? In this article, Tom Hastjarjanto shares some useful concepts that can be combined with GitHub Actions and NPM packages. With this setup, you will be able to release multiple times per hour with a fully documented trace managed by Git.",
           "link": "https://smashingmagazine.com/2022/03/improving-ci-cd-flow-application/",
           "publishedOn": "2022-03-14T12:30:00.000Z",
-          "wordCount": 1642,
+          "wordCount": 1632,
           "title": "Improving The CI/CD Flow For Your Application",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/48cfa0d0-3a69-4e42-bc6d-3c07df736343/improving-ci-cd-flow-application.jpg",
@@ -264,7 +279,7 @@
           "description": "Standing out among the millions of mobile apps can be challenging, but proper marketing can give you that crucial edge. This piece shares how to start your mobile app marketing strategy and improve it as you go while keeping up with the latest trends in the market.",
           "link": "https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/",
           "publishedOn": "2022-03-11T12:00:00.000Z",
-          "wordCount": 3809,
+          "wordCount": 3807,
           "title": "A Complete Guide To Mobile App Marketing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0defe765-5a21-40d6-a906-70edfad759ca/guide-mobile-app-marketing.jpg",
@@ -279,7 +294,7 @@
           "description": "In this article, Vivek Maskara introduces Amazon Web Services’ (AWS) Cloud Development Kit (CDK) which is increasingly becoming a popular tool for managing AWS-based infrastructure. We’ll take a closer look into CDK concepts, and then how to use the AWS CDK toolkit to deploy a sample application to an AWS account.",
           "link": "https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/",
           "publishedOn": "2022-03-10T18:00:00.000Z",
-          "wordCount": 3495,
+          "wordCount": 3499,
           "title": "An Introduction To AWS Cloud Development Kit (CDK)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/46a0c491-6562-46ba-a48d-41b4f97b0965/introduction-aws-cloud-development-kit.jpg",
@@ -294,7 +309,7 @@
           "description": "What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.",
           "link": "https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part2/",
           "publishedOn": "2022-03-09T13:00:00.000Z",
-          "wordCount": 4734,
+          "wordCount": 4719,
           "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d02916da-2e33-4aed-ac5e-f1107fa44e57/audio-visualization-javascript-gsap-part1.jpg",
@@ -309,7 +324,7 @@
           "description": "Using signals to deliver less, or different, content is a form of progressive enhancement (or graceful degradation depending on how you look at it), whereby extraneous content is only loaded when necessary, but the core functionality of the website still works. In this article, we’ll look at some of the signals that can be used for this.",
           "link": "https://smashingmagazine.com/2022/03/signals-customizing-website-user-experience/",
           "publishedOn": "2022-03-07T10:30:00.000Z",
-          "wordCount": 4386,
+          "wordCount": 4379,
           "title": "Performance Signals For Customizing Website UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6c2416bf-b3e1-4398-a1d9-fd2404eb678d/signals-customizing-website-user-experience.jpg",
@@ -339,7 +354,7 @@
           "description": "Dual-screen devices are just the next evolution in responsive design. If you have a PWA or website, the APIs available make integrating into your existing code base seamless. This article explains why it’s an exciting time for layout on the web, and how dual screens provide an opportunity to get even more creative.",
           "link": "https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/",
           "publishedOn": "2022-03-03T10:30:00.000Z",
-          "wordCount": 3567,
+          "wordCount": 3569,
           "title": "Building Web Layouts For Dual-Screen And Foldable Devices",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f45e5695-4423-4581-862d-ce6c1f8b55ac/building-web-layouts-dual-screen-foldable-devices.jpg",
@@ -354,7 +369,7 @@
           "description": "What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.",
           "link": "https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/",
           "publishedOn": "2022-03-02T13:30:00.000Z",
-          "wordCount": 5083,
+          "wordCount": 5086,
           "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d02916da-2e33-4aed-ac5e-f1107fa44e57/audio-visualization-javascript-gsap-part1.jpg",
@@ -399,7 +414,7 @@
           "description": "Following our monthly tradition, artists and designers from across the globe challenged their creative skills and designed desktop wallpapers to welcome March. They come in versions with and without a calendar and can be downloaded for free.",
           "link": "https://smashingmagazine.com/2022/02/desktop-wallpaper-calendars-march-2022/",
           "publishedOn": "2022-02-28T09:30:00.000Z",
-          "wordCount": 2184,
+          "wordCount": 2183,
           "title": "March For Equality (2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/74ffb821-71d4-4625-8d1d-085de28b17ef/mar-22-spring-is-coming-preview-opt.png",
@@ -422,21 +437,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77873ca3-a5cc-4a2f-82d9-0443c334ecba/design-systems-dev-backlight.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/benchmark-improve-web-vitals-real-user-metrics/",
-          "author": "hello@smashingmagazine.com (Átila Fassina)",
-          "description": "Web Vitals are the new gold standard in performance due to their direct correlation with the user’s experience. In this article, you’ll learn what monitoring can do and how RayGun can help you sustain performance maintenance while scaling your app.",
-          "link": "https://smashingmagazine.com/2022/02/benchmark-improve-web-vitals-real-user-metrics/",
-          "publishedOn": "2022-02-24T09:30:00.000Z",
-          "wordCount": 1562,
-          "title": "How To Benchmark And Improve Web Vitals With Real User Metrics",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4ed9b745-ad2b-425c-8ffc-d73feeea7cd7/benchmark-improve-web-vitals-real-user-metrics.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4ed9b745-ad2b-425c-8ffc-d73feeea7cd7/benchmark-improve-web-vitals-real-user-metrics.jpg"
         }
       ]
     },
@@ -445,6 +445,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "602b31e00a2838549dcc6253",
+          "author": "Natalie Pina",
+          "description": "I am currently a User Experience or UX Engineer for D2iQ. And lots of people ask me what exactly is a UX Engineer.  This question comes from designers and developers alike. So, I figured it was time to write about it to create awareness and demystify the role. This",
+          "link": "https://www.freecodecamp.org/news/what-is-a-ux-engineer/",
+          "publishedOn": "2022-03-25T21:47:17.000Z",
+          "wordCount": 1886,
+          "title": "What is a UX Engineer? User Experience Engineer Role Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Blog-Header-1200x600-px--1--1.png"
+        },
+        {
+          "id": "623c71ec138a19064b0642c4",
+          "author": "Ihechikara Vincent Abba",
+          "description": "An enumeration (enum for short) in Java is a special data type which contains a set of predefined constants.  You'll usually use an enum when dealing with values that aren't required to change, like days of the week, seasons of the year, colors, and so on. In this article,",
+          "link": "https://www.freecodecamp.org/news/java-enum-enumeration-in-java-example/",
+          "publishedOn": "2022-03-25T21:33:55.000Z",
+          "wordCount": 899,
+          "title": "Java Enum – Enumeration in Java Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/enum.jpg"
+        },
+        {
+          "id": "62351427cdcd57069ddfb5e4",
+          "author": "Ijelekhai Faith Olohijere",
+          "description": "In this article, we'll be learning how to create, edit, and use color and text styles in Figma. We'll also learn how to combine color and text styles and use them to create beautiful designs. Styles help you simplify your workflow, keep text and layers consistent, and save valuable time.",
+          "link": "https://www.freecodecamp.org/news/how-to-create-color-and-text-styles-in-figma/",
+          "publishedOn": "2022-03-25T21:24:53.000Z",
+          "wordCount": 961,
+          "title": "How to Create Color and Text Styles in Figma",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-sharon-mccutcheon-1212407.jpg"
+        },
+        {
+          "id": "6236afa1cdcd57069ddfb9e6",
+          "author": "Alan Luo",
+          "description": "Original Article: 脑瘫、面包店、志愿者——“编程让我变得更真实” [https://chinese.freecodecamp.org/news/cerebral-palsy-bakery-volunteer-programming-makes-me-real/] Original Author: Miya Liu [https://chinese.freecodecamp.org/news/author/miyaliu/] In 2019, the freeCodeCamp Chinese community launched the DevTalk interview program. We invited senior developers, Internet practitioners, and people with development backgrounds to share their experiences learning programming, working experiences, and other exciting stories.",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-student-started-business-teaches-kids-about-computers/",
+          "publishedOn": "2022-03-24T22:55:39.000Z",
+          "wordCount": 2676,
+          "title": "How a freeCodeCamp Student Started a Business and Teaches Kids to Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/WechatIMG3882.jpeg"
+        },
         {
           "id": "6234b763cdcd57069ddfb192",
           "author": "Sebastian Sigl",
@@ -504,46 +544,6 @@
           "wordCount": 1104,
           "title": "Create a List in Python – Lists in Python Syntax",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/list.png"
-        },
-        {
-          "id": "6230d789c3e3d106805db72a",
-          "author": "Prajwal Kulkarni",
-          "description": "Kubernetes has become the go-to tool for orchestration, scaling, automated deployment, and management of containerized applications.  Simply put, Kubernetes is a system that maintains coordination between diverse applications across a group of machines. It is important to note that this system mostly deals with containerized applications, like Docker images.",
-          "link": "https://www.freecodecamp.org/news/kubernetes-security-common-vulnerabilities-and-exposures/",
-          "publishedOn": "2022-03-23T19:06:43.000Z",
-          "wordCount": 1386,
-          "title": "Kubernetes Security – Common Vulnerabilities and Exposures for K8s Programs",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/jens-rademacher-kJOj4dU76mE-unsplash-1.jpg"
-        },
-        {
-          "id": "623a9306cdcd57069ddfd494",
-          "author": "Ashutosh Krishna",
-          "description": "In this article, we'll discuss *args and **kwargs in Python along with their uses and some examples. When writing a function, we often need to pass values to the function. These values are called function arguments.  Problem with Function Arguments Let's define a function to add two numbers in",
-          "link": "https://www.freecodecamp.org/news/args-and-kwargs-in-python/",
-          "publishedOn": "2022-03-23T18:55:00.000Z",
-          "wordCount": 846,
-          "title": "How to Use *args and **kwargs in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/args.png"
-        },
-        {
-          "id": "6238bd3dcdcd57069ddfc5ad",
-          "author": "Darren Chowles",
-          "description": "Logging into a website via third parties is ubiquitous online. Almost every other member-based website allows you to log in with accounts like Facebook, Twitter, and Google. If you’ve ever visited NFT marketplaces like OpenSea or Rarible, you would have noticed they allow you to sign in with a crypto",
-          "link": "https://www.freecodecamp.org/news/add-a-metamask-login-to-your-laravel-app/",
-          "publishedOn": "2022-03-23T18:38:03.000Z",
-          "wordCount": 1648,
-          "title": "How to Add a MetaMask Login to Your Laravel Web Application",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/photo.png"
-        },
-        {
-          "id": "6238d5a4cdcd57069ddfc7db",
-          "author": "Luke Ciciliano",
-          "description": "Disclaimer: This article should not be construed as advice for tax management or investment decisions.  Neither the author of this article, nor freeCodeCamp, are professionals in these areas. The discussion below is a matter of personal opinion only and you should discuss such matters with a licensed professional. If",
-          "link": "https://www.freecodecamp.org/news/taxes-for-freelance-developers/",
-          "publishedOn": "2022-03-23T13:52:08.000Z",
-          "wordCount": 11700,
-          "title": "Taxes for Freelance Developers – How Much Tax You Should Pay as a Freelancer",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/1040.jpg"
         }
       ]
     }
