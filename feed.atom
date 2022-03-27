@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-26T00:04:09.462Z</id>
+    <id>urn:2022-03-27T00:03:53.882Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-26T00:04:09.463Z</updated>
+    <updated>2022-03-27T00:03:53.882Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[HTML Starter Template – A Basic HTML5 Boilerplate for index.html]]></title>
+        <id>62310caec3e3d106805db8b3</id>
+        <link href="https://www.freecodecamp.org/news/html-starter-template-a-basic-html5-boilerplate-for-index-html/"/>
+        <updated>2022-03-25T23:18:46.000Z</updated>
+        <summary type="html"><![CDATA[HTML has different tags, some of which have semantic meanings. A basic boilerplate for an HTML file looks like this:]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a UX Engineer? User Experience Engineer Role Explained]]></title>
         <id>602b31e00a2838549dcc6253</id>
@@ -103,16 +113,6 @@
         <summary type="html"><![CDATA[Hello everyone! In this article we are going to learn how to use UISearchController in iOS Apps. What are we going to build? We are going to build a movie search application which uses the TMDB [https://www.themoviedb.org/] API to fetch movie info and display it using a UICollectionView based on]]></summary>
         <author>
             <name>Sai Balaji K</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a List in Python – Lists in Python Syntax]]></title>
-        <id>623af0d3cdcd57069ddfd5bb</id>
-        <link href="https://www.freecodecamp.org/news/create-a-list-in-python-lists-in-python-syntax/"/>
-        <updated>2022-03-23T20:32:31.000Z</updated>
-        <summary type="html"><![CDATA[Lists are one of the core data structures in Python. We use them for storing any data type, whether it's an integer, string, boolean, or even an object. Because one list can store multiple types of data, lists are one of the most powerful and widely used tools for storing]]></summary>
-        <author>
-            <name>Kolade Chris</name>
         </author>
     </entry>
     <entry>
@@ -451,19 +451,6 @@ When to Avoid the text-decoration Shorthand Property originally published on CSS
         <summary type="html"><![CDATA[If you’re looking for a primer on CSS specificity, we’ve got that. And if you’re trying to get ahead of the game, you should be aware of CSS Cascade Layers as well.
 One of the ways to help get …
 Manuel Matuzovic’s CSS Specificity Demo originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My white whale: A use case for will-change]]></title>
-        <id>https://css-tricks.com/?p=364138</id>
-        <link href="https://css-tricks.com/my-white-whale-a-use-case-for-will-change/"/>
-        <updated>2022-02-24T20:59:29.000Z</updated>
-        <summary type="html"><![CDATA[Nic Chan:
-[…] the will-change property landed in major browsers in August 2015, and I’ve been on the lookout for when to use it ever since. It might seem self-evident to apply it to commonly animated properties such 
-…
-My white whale: A use case for will-change originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
