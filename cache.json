@@ -120,36 +120,6 @@
           "wordCount": 2425,
           "title": "Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363929"
-        },
-        {
-          "id": "https://css-tricks.com/?p=364070",
-          "author": "Chris Coyier",
-          "description": "A fun deep dive from Zach. Do you have an opinion on which you should use?\n1) https://website.com/foo/\n2) https://websites.com/foo\nThe first option has a “trailing slash.” The second does not.\nI’ve always preferred this thinking: you use a trailing …\nTrailing Slashes on URLs: Contentious or Settled? originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/trailing-slashes-on-urls-contentious-or-settled/",
-          "publishedOn": "2022-02-25T21:13:08.000Z",
-          "wordCount": 963,
-          "title": "Trailing Slashes on URLs: Contentious or Settled?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364070"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363619",
-          "author": "Šime Vidas",
-          "description": "In my recent article about CSS underline bugs in Chrome, I discussed text-decoration-thickness and text-underline-offset, two relatively new and widely-supported CSS properties that give us more control over the styling of underlines.\nLet me demonstrate the usefulness of …\nWhen to Avoid the text-decoration Shorthand Property originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/when-to-avoid-css-text-decoration-shorthand/",
-          "publishedOn": "2022-02-25T15:28:33.000Z",
-          "wordCount": 1161,
-          "title": "When to Avoid the text-decoration Shorthand Property",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363619"
-        },
-        {
-          "id": "https://css-tricks.com/?p=364152",
-          "author": "Chris Coyier",
-          "description": "If you’re looking for a primer on CSS specificity, we’ve got that. And if you’re trying to get ahead of the game, you should be aware of CSS Cascade Layers as well.\nOne of the ways to help get …\nManuel Matuzovic’s CSS Specificity Demo originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/manuel-matuzovics-css-specificity-demo/",
-          "publishedOn": "2022-02-25T15:27:19.000Z",
-          "wordCount": 462,
-          "title": "Manuel Matuzovic’s CSS Specificity Demo",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364152"
         }
       ]
     },
@@ -164,7 +134,7 @@
           "description": "In the past months, there have been lots of talks dedictaed to Remix. Routing is not only one of the things that sets it apart from other frameworks, but it also fuels great performance and improves the overall experience for developers. Let’s dig in to all  of the features that build up routing in this powerful framework.",
           "link": "https://smashingmagazine.com/2022/03/remix-routes-demystified/",
           "publishedOn": "2022-03-25T14:00:00.000Z",
-          "wordCount": 2841,
+          "wordCount": 2843,
           "title": "Remix Routes Demystified",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e1a0f7a2-9511-4911-9e94-5a4368b69c07/remix-routes-demystified.jpg",
@@ -179,7 +149,7 @@
           "description": "In this article, Louis Lazaris describes and demonstrates some interesting HTML attributes that you may or may not have heard of and perhaps find useful enough to personally use in one of your projects.",
           "link": "https://smashingmagazine.com/2022/03/html-attributes-you-never-use/",
           "publishedOn": "2022-03-23T14:30:00.000Z",
-          "wordCount": 2812,
+          "wordCount": 2819,
           "title": "Those HTML Attributes You Never Use",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d94128cd-ff71-4c9a-8608-fc9c75fbea84/html-attributes-you-never-use.jpg",
@@ -194,7 +164,7 @@
           "description": "In this shorter series of articles, we highlight design patterns, techniques, and strategies to design better digital interfaces. You can also learn much more in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.",
           "link": "https://smashingmagazine.com/2022/03/design-is-all-about-good-timing/",
           "publishedOn": "2022-03-22T12:45:00.000Z",
-          "wordCount": 1272,
+          "wordCount": 1274,
           "title": "Good Design Is All About Good Timing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/60369f5b-1fb5-4426-805e-50a21628b7cd/design-good-timing.jpg",
@@ -239,7 +209,7 @@
           "description": "This fresh new design trend has been picking up steam with the rising popularity of colorful inflated 3D graphics in web illustrations and with the latest Virtual Reality projects like “Horizon Worlds”. Let’s see if there is room for Claymorphism on the UI, and how we can create this effect with CSS.",
           "link": "https://smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/",
           "publishedOn": "2022-03-16T11:00:00.000Z",
-          "wordCount": 2590,
+          "wordCount": 2592,
           "title": "Claymorphism: Will It Stick Around?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d6ceacdf-835e-497e-a1e0-be958d42ac76/claymorphism-css-ui-design-trend.jpg",
@@ -254,7 +224,7 @@
           "description": "Looking for ways to create a smooth CI/CD flow for your software? In this article, Tom Hastjarjanto shares some useful concepts that can be combined with GitHub Actions and NPM packages. With this setup, you will be able to release multiple times per hour with a fully documented trace managed by Git.",
           "link": "https://smashingmagazine.com/2022/03/improving-ci-cd-flow-application/",
           "publishedOn": "2022-03-14T12:30:00.000Z",
-          "wordCount": 1621,
+          "wordCount": 1629,
           "title": "Improving The CI/CD Flow For Your Application",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/48cfa0d0-3a69-4e42-bc6d-3c07df736343/improving-ci-cd-flow-application.jpg",
@@ -269,7 +239,7 @@
           "description": "Standing out among the millions of mobile apps can be challenging, but proper marketing can give you that crucial edge. This piece shares how to start your mobile app marketing strategy and improve it as you go while keeping up with the latest trends in the market.",
           "link": "https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/",
           "publishedOn": "2022-03-11T12:00:00.000Z",
-          "wordCount": 3812,
+          "wordCount": 3814,
           "title": "A Complete Guide To Mobile App Marketing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0defe765-5a21-40d6-a906-70edfad759ca/guide-mobile-app-marketing.jpg",
@@ -284,7 +254,7 @@
           "description": "In this article, Vivek Maskara introduces Amazon Web Services’ (AWS) Cloud Development Kit (CDK) which is increasingly becoming a popular tool for managing AWS-based infrastructure. We’ll take a closer look into CDK concepts, and then how to use the AWS CDK toolkit to deploy a sample application to an AWS account.",
           "link": "https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/",
           "publishedOn": "2022-03-10T18:00:00.000Z",
-          "wordCount": 3495,
+          "wordCount": 3496,
           "title": "An Introduction To AWS Cloud Development Kit (CDK)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/46a0c491-6562-46ba-a48d-41b4f97b0965/introduction-aws-cloud-development-kit.jpg",
@@ -299,7 +269,7 @@
           "description": "What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.",
           "link": "https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part2/",
           "publishedOn": "2022-03-09T13:00:00.000Z",
-          "wordCount": 4737,
+          "wordCount": 4727,
           "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d02916da-2e33-4aed-ac5e-f1107fa44e57/audio-visualization-javascript-gsap-part1.jpg",
@@ -314,7 +284,7 @@
           "description": "Using signals to deliver less, or different, content is a form of progressive enhancement (or graceful degradation depending on how you look at it), whereby extraneous content is only loaded when necessary, but the core functionality of the website still works. In this article, we’ll look at some of the signals that can be used for this.",
           "link": "https://smashingmagazine.com/2022/03/signals-customizing-website-user-experience/",
           "publishedOn": "2022-03-07T10:30:00.000Z",
-          "wordCount": 4386,
+          "wordCount": 4381,
           "title": "Performance Signals For Customizing Website UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6c2416bf-b3e1-4398-a1d9-fd2404eb678d/signals-customizing-website-user-experience.jpg",
@@ -329,7 +299,7 @@
           "description": "If users cannot find the answers to their questions or are not exposed to critical messaging, they will not act, and your website will fail. To prevent that from happening, you need an effective information architecture. In this article, Paul Boag provides you with a process to ensure you have precisely that.",
           "link": "https://smashingmagazine.com/2022/03/easy-information-architecture/",
           "publishedOn": "2022-03-04T10:30:00.000Z",
-          "wordCount": 2965,
+          "wordCount": 2964,
           "title": "How To Create An Information Architecture That Is Easy To Use",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/771aac3c-df07-49cb-a4b1-8558b39f9e2a/easy-information-architecture.jpg",
@@ -359,7 +329,7 @@
           "description": "What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.",
           "link": "https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/",
           "publishedOn": "2022-03-02T13:30:00.000Z",
-          "wordCount": 5069,
+          "wordCount": 5066,
           "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d02916da-2e33-4aed-ac5e-f1107fa44e57/audio-visualization-javascript-gsap-part1.jpg",
@@ -404,7 +374,7 @@
           "description": "Following our monthly tradition, artists and designers from across the globe challenged their creative skills and designed desktop wallpapers to welcome March. They come in versions with and without a calendar and can be downloaded for free.",
           "link": "https://smashingmagazine.com/2022/02/desktop-wallpaper-calendars-march-2022/",
           "publishedOn": "2022-02-28T09:30:00.000Z",
-          "wordCount": 2182,
+          "wordCount": 2195,
           "title": "March For Equality (2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/74ffb821-71d4-4625-8d1d-085de28b17ef/mar-22-spring-is-coming-preview-opt.png",
