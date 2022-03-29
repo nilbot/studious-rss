@@ -1,10 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-28T00:07:28.301Z</id>
+    <id>urn:2022-03-29T00:03:57.958Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-28T00:07:28.301Z</updated>
+    <updated>2022-03-29T00:03:57.958Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Docker Cache – How to Do a Clean Image Rebuild and Clear Docker's Cache]]></title>
+        <id>623ed24e138a19064b065a33</id>
+        <link href="https://www.freecodecamp.org/news/docker-cache-tutorial/"/>
+        <updated>2022-03-28T18:51:57.000Z</updated>
+        <summary type="html"><![CDATA[Containers enable you to package your application in a portable way that can run in many environments. The most popular container platform is Docker [https://www.docker.com/].  This tutorial will explain how to use the Docker build cache to your advantage. Docker Build Cache Building images should be fast, efficient, and]]></summary>
+        <author>
+            <name>Sebastian Sigl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSRF Protection Problem and How to Fix it]]></title>
+        <id>6230d0cfc3e3d106805db5c1</id>
+        <link href="https://www.freecodecamp.org/news/csrf-protection-problem-and-how-to-fix-it/"/>
+        <updated>2022-03-28T18:39:45.000Z</updated>
+        <summary type="html"><![CDATA[One day I was working on a feature at work. I had many branches created in JIRA tickets, so I wanted to open a bunch of PRs (Pull Requests) all at once in different tabs.  This is how I usually work – I have a lot of tabs open]]></summary>
+        <author>
+            <name>Jakub T. Jankiewicz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Useful Bookmarklets to Boost Web Development]]></title>
+        <id>https://css-tricks.com/?p=364118</id>
+        <link href="https://css-tricks.com/web-development-bookmarklets/"/>
+        <updated>2022-03-28T18:15:41.000Z</updated>
+        <summary type="html"><![CDATA[A bookmarklet is a JavaScript-based bookmark that adds to a web browser. I’d like to show you some awesome web browser hacks to aid your web development workflow and how to convert those hacks into time-saving bookmarklets.
+Activating design mode
+…
+6 Useful Bookmarklets to Boost Web Development originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roman Numerals – the Roman Numeral for 4, 6, 9, and Others]]></title>
+        <id>624145ac138a19064b066afd</id>
+        <link href="https://www.freecodecamp.org/news/roman-numerals-the-roman-numeral-for-4-6-9-and-others/"/>
+        <updated>2022-03-28T17:41:16.000Z</updated>
+        <summary type="html"><![CDATA[Roman numerals are a numerical system that originated in ancient Rome. They are used to represent numbers in the decimal system, but they are not used for mathematical operations. In this system, symbols are used to represent different numbers, with I representing 1, V representing 5, X representing 10, L]]></summary>
+        <author>
+            <name>Kris Koishigawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Hover And Pointer Media Queries]]></title>
+        <id>https://smashingmagazine.com/2022/03/guide-hover-pointer-media-queries/</id>
+        <link href="https://smashingmagazine.com/2022/03/guide-hover-pointer-media-queries/"/>
+        <updated>2022-03-28T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll talk about how to adapt our sites to the different scenarios of a device pointer: whether it has a pointer or not, or how accurate it is. To adapt our site to those devices’ needs we’ll talk about how to properly use media queries `hover`, `pointer`, `any-hover` and `any-pointer`.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cristian Díaz)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Skills for Résumé – Software Skill Proficiency Guide]]></title>
+        <id>62190ea1c4d0d306772efc9b</id>
+        <link href="https://www.freecodecamp.org/news/computer-skills-for-resume-software-skill-proficiency-guide/"/>
+        <updated>2022-03-28T15:15:56.000Z</updated>
+        <summary type="html"><![CDATA[Having strong computer skills is necessary for almost any job. That knowledge can set you apart from others who don't possess it. But what are the most necessary computer skills to have? And when you acquire those skills, how do you showcase them effectively to prospective employers? In this article,]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is it Like to Work as a Junior Developer?]]></title>
+        <id>6236efafcdcd57069ddfbd4f</id>
+        <link href="https://www.freecodecamp.org/news/what-does-a-junior-developer-do-on-the-job/"/>
+        <updated>2022-03-28T13:51:12.000Z</updated>
+        <summary type="html"><![CDATA[If you're studying to become a professional developer, you might be wondering what a junior developer does on the job. In this article, I will talk about the typical day of a junior developer and what to expect on the job. The Onboarding Process When you get started with a]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML Starter Template – A Basic HTML5 Boilerplate for index.html]]></title>
         <id>62310caec3e3d106805db8b3</id>
@@ -63,56 +136,6 @@
         <summary type="html"><![CDATA[Original Article: 脑瘫、面包店、志愿者——“编程让我变得更真实” [https://chinese.freecodecamp.org/news/cerebral-palsy-bakery-volunteer-programming-makes-me-real/] Original Author: Miya Liu [https://chinese.freecodecamp.org/news/author/miyaliu/] In 2019, the freeCodeCamp Chinese community launched the DevTalk interview program. We invited senior developers, Internet practitioners, and people with development backgrounds to share their experiences learning programming, working experiences, and other exciting stories.]]></summary>
         <author>
             <name>Alan Luo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to SSH into a Docker Container – Secure Shell vs Docker Attach]]></title>
-        <id>6234b763cdcd57069ddfb192</id>
-        <link href="https://www.freecodecamp.org/news/how-to-ssh-into-a-docker-container-secure-shell-vs-docker-attach/"/>
-        <updated>2022-03-24T19:47:16.000Z</updated>
-        <summary type="html"><![CDATA[Containers are the bread and butter for running applications today. And the most popular container technology is called Docker [https://www.docker.com/].  Knowing how to SSH into a container is essential to using, debugging, and operating containers on your local operating system or remote setup.  This article will describe different]]></summary>
-        <author>
-            <name>Sebastian Sigl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Int Object is Not Iterable – Python Error [Solved]]]></title>
-        <id>623c45ea138a19064b064195</id>
-        <link href="https://www.freecodecamp.org/news/int-object-is-not-iterable-python-error-solved/"/>
-        <updated>2022-03-24T16:46:42.000Z</updated>
-        <summary type="html"><![CDATA[If you are running your Python code and you see the error “TypeError: 'int' object is not iterable”, it means you are trying to loop through an integer or other data type that loops cannot work on. In Python, iterable data are lists, tuples, sets, dictionaries, and so on. In]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Microservices with FastAPI]]></title>
-        <id>623c9dd5138a19064b06449b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-microservices-with-fastapi/"/>
-        <updated>2022-03-24T16:43:34.000Z</updated>
-        <summary type="html"><![CDATA[FastAPI is a Web framework for developing RESTful APIs in Python. It is a great choice when you want to build an app based on microservices. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to develop microservices app using FastAPI. In this course,]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[indexOf in Java – How to Find the Index of a String in Java]]></title>
-        <id>62389b37cdcd57069ddfc5a0</id>
-        <link href="https://www.freecodecamp.org/news/indexof-in-java-how-to-find-the-index-of-a-string-in-java/"/>
-        <updated>2022-03-24T16:11:05.000Z</updated>
-        <summary type="html"><![CDATA[A string is a collection of characters nested in double quotes. The indexOf  method returns the index position of a specified character or substring in a string. In this article, we'll see the syntax for the different indexOf methods. We'll also look at some examples to help you understand]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use UISearchController in iOS Apps]]></title>
-        <id>62388dc7cdcd57069ddfc4d1</id>
-        <link href="https://www.freecodecamp.org/news/learn-to-use-uisearchcontroller-in-ios-apps/"/>
-        <updated>2022-03-24T15:55:58.000Z</updated>
-        <summary type="html"><![CDATA[Hello everyone! In this article we are going to learn how to use UISearchController in iOS Apps. What are we going to build? We are going to build a movie search application which uses the TMDB [https://www.themoviedb.org/] API to fetch movie info and display it using a UICollectionView based on]]></summary>
-        <author>
-            <name>Sai Balaji K</name>
         </author>
     </entry>
     <entry>
