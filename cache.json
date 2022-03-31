@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=364279",
+          "author": "Temani Afif",
+          "description": "We recently covered creating fancy borders with CSS mask properties, and now we are going to cut the corners with CSS mask and clip-path! A lot of techniques exist to cut different shapes from the corners of any element. …\nTricks to Cut Corners Using CSS Mask and Clip-Path Properties originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/cut-corners-using-css-mask-and-clip-path-properties/",
+          "publishedOn": "2022-03-30T16:35:08.000Z",
+          "wordCount": 3575,
+          "title": "Tricks to Cut Corners Using CSS Mask and Clip-Path Properties",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364279"
+        },
+        {
           "id": "https://css-tricks.com/?p=364118",
           "author": "Daniel Schwarz",
           "description": "A bookmarklet is a JavaScript-based bookmark that adds to a web browser. I’d like to show you some awesome web browser hacks to aid your web development workflow and how to convert those hacks into time-saving bookmarklets.\nActivating design mode\n…\n6 Useful Bookmarklets to Boost Web Development originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/web-development-bookmarklets/",
           "publishedOn": "2022-03-28T18:15:41.000Z",
-          "wordCount": 1541,
+          "wordCount": 2294,
           "title": "6 Useful Bookmarklets to Boost Web Development",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364118"
         },
@@ -27,7 +37,7 @@
           "description": "You may not use XHTML (anymore), but when you write HTML, you may be more influenced by XHTML than you think. You are very likely writing HTML, the XHTML way.\nWhat is the XHTML way of writing HTML, and what …\nWrite HTML, the HTML Way (Not the XHTML Way) originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/write-html-the-html-way-not-the-xhtml-way/",
           "publishedOn": "2022-03-21T20:08:38.000Z",
-          "wordCount": 2512,
+          "wordCount": 3092,
           "title": "Write HTML, the HTML Way (Not the XHTML Way)",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363745"
         },
@@ -47,7 +57,7 @@
           "description": "Hey hey!\nI’ve got a big announcement to make here. (Where’s my gong? I feel like this really needs a good gong hit.)\nCSS-Tricks, this very website you’re looking at, has been acquired by DigitalOcean!\nYou can hear …\nCSS-Tricks is joining DigitalOcean! originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-tricks-is-joining-digitalocean/",
           "publishedOn": "2022-03-15T12:18:44.000Z",
-          "wordCount": 6499,
+          "wordCount": 6613,
           "title": "CSS-Tricks is joining DigitalOcean!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365042"
         },
@@ -110,26 +120,6 @@
           "wordCount": 382,
           "title": "Ahmad Shadeed: Use Cases For CSS fit-content",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364351"
-        },
-        {
-          "id": "https://css-tricks.com/?p=364346",
-          "author": "Chris Coyier",
-          "description": "I enjoy articles like Hartley Charlton’s “Microsoft Edge Looks Set to Overtake Safari as World’s Second Most Popular Desktop Browser.” It’s juicy! We know these massive players in the browser market care very much about their market share, so when …\nIE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/ie-down-edge-up-global-browser-usage-stats-are-for-cocktail-parties-and-conference-slides/",
-          "publishedOn": "2022-02-28T23:14:29.000Z",
-          "wordCount": 901,
-          "title": "IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364346"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363929",
-          "author": "John Rhea",
-          "description": "We’ve discussed a lot about the internals of using CSS in this ongoing series on web components, but there are a few special pseudo-elements and pseudo-classes that, like good friends, willingly smell your possibly halitotic breath before you go …\nWeb Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/",
-          "publishedOn": "2022-02-28T15:37:23.000Z",
-          "wordCount": 2425,
-          "title": "Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363929"
         }
       ]
     },
@@ -139,19 +129,34 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/03/designing-better-infinite-scroll/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "In this series of articles, we highlight design patterns and techniques to design better interfaces. You can also find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.",
+          "link": "https://smashingmagazine.com/2022/03/designing-better-infinite-scroll/",
+          "publishedOn": "2022-03-30T13:30:00.000Z",
+          "wordCount": 2926,
+          "title": "Designing A Better Infinite Scroll",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/41704a7b-0bd6-4144-b13e-2b092a0ea3e1/designing-better-infinite-scroll.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/41704a7b-0bd6-4144-b13e-2b092a0ea3e1/designing-better-infinite-scroll.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/03/smashingconf-workshops-conferences-2022/",
           "author": "hello@smashingmagazine.com (Jarijn Nijkamp)",
-          "description": "After two years where almost everything moved online, 2022 marks the return of in-person conferences. In fact, [SmashingConf is back](https://smashingconf.com/conferences): coming to  San Francisco and Austin in June, Freiburg (Germany) in September, and New York in October.",
+          "description": "After two years when almost everything moved online, 2022 marks the return of in-person conferences. In fact, [SmashingConf is back](https://smashingconf.com/conferences): coming to  San Francisco and Austin in June, Freiburg (Germany) in September, and New York in October.",
           "link": "https://smashingmagazine.com/2022/03/smashingconf-workshops-conferences-2022/",
           "publishedOn": "2022-03-29T14:30:00.000Z",
           "wordCount": 800,
           "title": "SmashingConf Is Back In 2022",
           "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1e800ab6-32ca-4f42-a786-64de6971fb11/upcoming-smashingconfs-2022.jpg",
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3ccd449a-af31-4cb1-a417-827ca64c2f30/smashingconfs-back-2022.png",
             "length": "0",
-            "type": "image/jpg"
+            "type": "image/png"
           },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1e800ab6-32ca-4f42-a786-64de6971fb11/upcoming-smashingconfs-2022.jpg"
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3ccd449a-af31-4cb1-a417-827ca64c2f30/smashingconfs-back-2022.png"
         },
         {
           "id": "https://smashingmagazine.com/2022/03/jobs-designers-developers-war-ukraine/",
@@ -174,7 +179,7 @@
           "description": "In this article, we’ll talk about how to adapt our sites to the different scenarios of a device pointer: whether it has a pointer or not, or how accurate it is. To adapt our site to those devices’ needs we’ll talk about how to properly use media queries `hover`, `pointer`, `any-hover` and `any-pointer`.",
           "link": "https://smashingmagazine.com/2022/03/guide-hover-pointer-media-queries/",
           "publishedOn": "2022-03-28T17:00:00.000Z",
-          "wordCount": 4093,
+          "wordCount": 4090,
           "title": "A Guide To Hover And Pointer Media Queries",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e8282b7e-20d8-481e-8bd8-0261fd9c1cc0/guide-hover-pointer-media-queries.jpg",
@@ -189,7 +194,7 @@
           "description": "In the past months, there have been lots of talks dedictaed to Remix. Routing is not only one of the things that sets it apart from other frameworks, but it also fuels great performance and improves the overall experience for developers. Let’s dig in to all  of the features that build up routing in this powerful framework.",
           "link": "https://smashingmagazine.com/2022/03/remix-routes-demystified/",
           "publishedOn": "2022-03-25T14:00:00.000Z",
-          "wordCount": 2847,
+          "wordCount": 2839,
           "title": "Remix Routes Demystified",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e1a0f7a2-9511-4911-9e94-5a4368b69c07/remix-routes-demystified.jpg",
@@ -204,7 +209,7 @@
           "description": "In this article, Louis Lazaris describes and demonstrates some interesting HTML attributes that you may or may not have heard of and perhaps find useful enough to personally use in one of your projects.",
           "link": "https://smashingmagazine.com/2022/03/html-attributes-you-never-use/",
           "publishedOn": "2022-03-23T14:30:00.000Z",
-          "wordCount": 2809,
+          "wordCount": 2807,
           "title": "Those HTML Attributes You Never Use",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d94128cd-ff71-4c9a-8608-fc9c75fbea84/html-attributes-you-never-use.jpg",
@@ -219,7 +224,7 @@
           "description": "In this shorter series of articles, we highlight design patterns, techniques, and strategies to design better digital interfaces. You can also learn much more in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.",
           "link": "https://smashingmagazine.com/2022/03/design-is-all-about-good-timing/",
           "publishedOn": "2022-03-22T12:45:00.000Z",
-          "wordCount": 1274,
+          "wordCount": 1271,
           "title": "Good Design Is All About Good Timing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/60369f5b-1fb5-4426-805e-50a21628b7cd/design-good-timing.jpg",
@@ -249,7 +254,7 @@
           "description": "Building on a previous article on How to Build a Drag-and-Drop File Uploader, we’ll be adding some new features, but more importantly (maybe), we’ll be learning how to build it in Vue 3 and learn some best practices for Vue along the way.",
           "link": "https://smashingmagazine.com/2022/03/drag-drop-file-uploader-vuejs-3/",
           "publishedOn": "2022-03-18T10:30:00.000Z",
-          "wordCount": 6397,
+          "wordCount": 6387,
           "title": "How To Make A Drag-and-Drop File Uploader With Vue.js 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5a9a0777-fd16-459e-b50d-20d5119f220d/drag-drop-file-uploader-vuejs-3.jpg",
@@ -264,7 +269,7 @@
           "description": "This fresh new design trend has been picking up steam with the rising popularity of colorful inflated 3D graphics in web illustrations and with the latest Virtual Reality projects like “Horizon Worlds”. Let’s see if there is room for Claymorphism on the UI, and how we can create this effect with CSS.",
           "link": "https://smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/",
           "publishedOn": "2022-03-16T11:00:00.000Z",
-          "wordCount": 2590,
+          "wordCount": 2593,
           "title": "Claymorphism: Will It Stick Around?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d6ceacdf-835e-497e-a1e0-be958d42ac76/claymorphism-css-ui-design-trend.jpg",
@@ -279,7 +284,7 @@
           "description": "Looking for ways to create a smooth CI/CD flow for your software? In this article, Tom Hastjarjanto shares some useful concepts that can be combined with GitHub Actions and NPM packages. With this setup, you will be able to release multiple times per hour with a fully documented trace managed by Git.",
           "link": "https://smashingmagazine.com/2022/03/improving-ci-cd-flow-application/",
           "publishedOn": "2022-03-14T12:30:00.000Z",
-          "wordCount": 1642,
+          "wordCount": 1629,
           "title": "Improving The CI/CD Flow For Your Application",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/48cfa0d0-3a69-4e42-bc6d-3c07df736343/improving-ci-cd-flow-application.jpg",
@@ -294,7 +299,7 @@
           "description": "Standing out among the millions of mobile apps can be challenging, but proper marketing can give you that crucial edge. This piece shares how to start your mobile app marketing strategy and improve it as you go while keeping up with the latest trends in the market.",
           "link": "https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/",
           "publishedOn": "2022-03-11T12:00:00.000Z",
-          "wordCount": 3815,
+          "wordCount": 3821,
           "title": "A Complete Guide To Mobile App Marketing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0defe765-5a21-40d6-a906-70edfad759ca/guide-mobile-app-marketing.jpg",
@@ -309,7 +314,7 @@
           "description": "In this article, Vivek Maskara introduces Amazon Web Services’ (AWS) Cloud Development Kit (CDK) which is increasingly becoming a popular tool for managing AWS-based infrastructure. We’ll take a closer look into CDK concepts, and then how to use the AWS CDK toolkit to deploy a sample application to an AWS account.",
           "link": "https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/",
           "publishedOn": "2022-03-10T18:00:00.000Z",
-          "wordCount": 3500,
+          "wordCount": 3495,
           "title": "An Introduction To AWS Cloud Development Kit (CDK)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/46a0c491-6562-46ba-a48d-41b4f97b0965/introduction-aws-cloud-development-kit.jpg",
@@ -324,7 +329,7 @@
           "description": "What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.",
           "link": "https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part2/",
           "publishedOn": "2022-03-09T13:00:00.000Z",
-          "wordCount": 4740,
+          "wordCount": 4730,
           "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d02916da-2e33-4aed-ac5e-f1107fa44e57/audio-visualization-javascript-gsap-part1.jpg",
@@ -339,7 +344,7 @@
           "description": "Using signals to deliver less, or different, content is a form of progressive enhancement (or graceful degradation depending on how you look at it), whereby extraneous content is only loaded when necessary, but the core functionality of the website still works. In this article, we’ll look at some of the signals that can be used for this.",
           "link": "https://smashingmagazine.com/2022/03/signals-customizing-website-user-experience/",
           "publishedOn": "2022-03-07T10:30:00.000Z",
-          "wordCount": 4381,
+          "wordCount": 4385,
           "title": "Performance Signals For Customizing Website UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6c2416bf-b3e1-4398-a1d9-fd2404eb678d/signals-customizing-website-user-experience.jpg",
@@ -354,7 +359,7 @@
           "description": "If users cannot find the answers to their questions or are not exposed to critical messaging, they will not act, and your website will fail. To prevent that from happening, you need an effective information architecture. In this article, Paul Boag provides you with a process to ensure you have precisely that.",
           "link": "https://smashingmagazine.com/2022/03/easy-information-architecture/",
           "publishedOn": "2022-03-04T10:30:00.000Z",
-          "wordCount": 2964,
+          "wordCount": 2962,
           "title": "How To Create An Information Architecture That Is Easy To Use",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/771aac3c-df07-49cb-a4b1-8558b39f9e2a/easy-information-architecture.jpg",
@@ -369,7 +374,7 @@
           "description": "Dual-screen devices are just the next evolution in responsive design. If you have a PWA or website, the APIs available make integrating into your existing code base seamless. This article explains why it’s an exciting time for layout on the web, and how dual screens provide an opportunity to get even more creative.",
           "link": "https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/",
           "publishedOn": "2022-03-03T10:30:00.000Z",
-          "wordCount": 3569,
+          "wordCount": 3566,
           "title": "Building Web Layouts For Dual-Screen And Foldable Devices",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f45e5695-4423-4581-862d-ce6c1f8b55ac/building-web-layouts-dual-screen-foldable-devices.jpg",
@@ -384,7 +389,7 @@
           "description": "What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.",
           "link": "https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/",
           "publishedOn": "2022-03-02T13:30:00.000Z",
-          "wordCount": 5072,
+          "wordCount": 5066,
           "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d02916da-2e33-4aed-ac5e-f1107fa44e57/audio-visualization-javascript-gsap-part1.jpg",
@@ -399,7 +404,7 @@
           "description": "2022 is shaping up to be a pretty great year for CSS, with a plethora of new features on the horizon. Some are already starting to land in browsers, others are likely to gain widespread browser support in 2022, while for one or two the process may be a little longer. In this article we’ll take a look at a few of them.",
           "link": "https://smashingmagazine.com/2022/03/new-css-features-2022/",
           "publishedOn": "2022-03-01T13:00:00.000Z",
-          "wordCount": 3251,
+          "wordCount": 3252,
           "title": "New CSS Features In 2022",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/14419af2-69ab-4150-8cf3-bca2cd2291ad/new-css-features-2022.jpg",
@@ -407,21 +412,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/14419af2-69ab-4150-8cf3-bca2cd2291ad/new-css-features-2022.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/we-all-are-ukraine/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "As a design community, we all can’t be silent in these times. We need to be united in our fight against the war, for democracy, for those dreams that children are entitled to have when they are growing up. It’s our obligation to help as much as we can. **We are donating all proceeds** from \"Interface Design Checklists\" PDF to support Ukraine.",
-          "link": "https://smashingmagazine.com/2022/02/we-all-are-ukraine/",
-          "publishedOn": "2022-02-28T18:00:00.000Z",
-          "wordCount": 1200,
-          "title": "We All Are Ukraine 🇺🇦",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fbc9e281-74da-421b-b3ae-4882be4aee66/smashing-stands-with-ukraine.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fbc9e281-74da-421b-b3ae-4882be4aee66/smashing-stands-with-ukraine.jpg"
         }
       ]
     },
@@ -430,6 +420,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "62442bd2138a19064b06836a",
+          "author": "Kolade Chris",
+          "description": "Branching is an integral part of Git because it lets you work without tampering with code that's already in production. When you finish working with a branch other than main, you'll want to merge it with the main so the feature or bug fix you just integrated will be reflected.",
+          "link": "https://www.freecodecamp.org/news/git-undo-merge-how-to-revert-the-last-merge-commit-in-git/",
+          "publishedOn": "2022-03-30T17:40:00.000Z",
+          "wordCount": 711,
+          "title": "Git Undo Merge – How to Revert the Last Merge Commit in Git",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/puppy-g3ddb72a98_1920.jpg"
+        },
+        {
+          "id": "62418f22138a19064b066da1",
+          "author": "Dragos Ivanov",
+          "description": "I work on an app that removes the background of any image. The app will have a freemium plan, which means that I will offer a free number of credits to all users, and if they need more credits, they will need to buy more. My Android and iOS app",
+          "link": "https://www.freecodecamp.org/news/how-to-schedule-a-task-with-firebase-cloud-functions/",
+          "publishedOn": "2022-03-30T17:14:35.000Z",
+          "wordCount": 1211,
+          "title": "How to Schedule a Task With Firebase Scheduled Cloud Functions",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/how-to-schedule-a-task-with-firebase-cloud-functions-1.png"
+        },
+        {
+          "id": "623d7224138a19064b06490a",
+          "author": "Hillary Nyakundi",
+          "description": "In recent years, various tech companies and organizations have started supporting students who have an interest in and passion for tech. Many companies give their premium services to students for free, and others offer discounts on their products. If you're a student, basically all you need to take advantage of",
+          "link": "https://www.freecodecamp.org/news/top-benefits-of-student-email-address/",
+          "publishedOn": "2022-03-30T17:00:46.000Z",
+          "wordCount": 1522,
+          "title": "Top Benefits of a Student Email Address",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Creative-Business-Template-Presentation--1-.png"
+        },
         {
           "id": "62153d68c4d0d306772ee7ae",
           "author": "Ihechikara Vincent Abba",
@@ -446,7 +466,7 @@
           "description": "This article will teach you how to build a voting application that displays the poll results in real-time. Each time someone votes, the application updates automatically and shows the new results. Even though you will build a full-stack application, you will not write any backend code thanks to Hasura! The",
           "link": "https://www.freecodecamp.org/news/build-a-full-stack-real-time-voting-app-with-hasura-and-react/",
           "publishedOn": "2022-03-29T19:07:27.000Z",
-          "wordCount": 4053,
+          "wordCount": 4086,
           "title": "How to Build a Full-Stack Real-Time Voting App With Hasura and React",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-rodnae-productions-7581108.jpg"
         },
@@ -499,36 +519,6 @@
           "wordCount": 1465,
           "title": "Git diff Command – How to Compare Changes in Your Code",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/git-diff-1-1.png"
-        },
-        {
-          "id": "62431cce138a19064b067a32",
-          "author": "Beau Carnes",
-          "description": "Creating a portfolio website is a great way to improve your frontend development skills.  We just published a React tutorial that will teach you how to build a frontend portfolio with neat animations. Slobodan developed this course. He is an experienced developer who has created many popular courses.",
-          "link": "https://www.freecodecamp.org/news/create-a-portfolio-with-react-featuring-cool-animations/",
-          "publishedOn": "2022-03-29T15:13:26.000Z",
-          "wordCount": 459,
-          "title": "Create a Portfolio with React featuring Cool Animations",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/portfolioreact.png"
-        },
-        {
-          "id": "62356a07cdcd57069ddfb6f6",
-          "author": "Adwaith KS",
-          "description": "React.js is an open source JavaScript library for creating user interfaces. It was created by Facebook back in 2013.  Demand for React developers is skyrocketing, which means that having knowledge of this library is definitely going to be worth it! Some of the popular websites built using ReactJS include",
-          "link": "https://www.freecodecamp.org/news/reactjs-basics-dom-components-declarative-views/",
-          "publishedOn": "2022-03-29T09:12:00.000Z",
-          "wordCount": 1801,
-          "title": "React.js Basics – The DOM, Components, and Declarative Views Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/photo-1619410283995-43d9134e7656.jpeg"
-        },
-        {
-          "id": "623f3840138a19064b066060",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this article we'll talk about what Typescript is, why is it cool, and how can you use it. Table of Contents  * Intro  * About types * Strings     * Numbers     * Booleans     *",
-          "link": "https://www.freecodecamp.org/news/an-introduction-to-typescript/",
-          "publishedOn": "2022-03-29T01:28:31.000Z",
-          "wordCount": 3238,
-          "title": "How to Use TypeScript – Beginner-Friendly TS Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-hitarth-jadhav-220357.jpg"
         }
       ]
     }
