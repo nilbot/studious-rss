@@ -100,26 +100,6 @@
           "wordCount": 1248,
           "title": "How to Make a “Raise the Curtains” Effect in CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363882"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363724",
-          "author": "Patrick Brosset",
-          "description": "Styling ranges of text in software is a very useful thing to be able to do. Thankfully, we have the CSS Custom Highlight API to look forward to because it represents the future of styling text ranges on the web.…\nCSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-custom-highlight-api-early-loo/",
-          "publishedOn": "2022-03-01T17:41:13.000Z",
-          "wordCount": 2521,
-          "title": "CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363724"
-        },
-        {
-          "id": "https://css-tricks.com/?p=364351",
-          "author": "Chris Coyier",
-          "description": "Ahmad Shadeed covers the CSS fit-content sizing keyword. It’s useful! It just doesn’t come up super often. I find myself using min-content a lot more, like when setting up the height of a grid-template-row.\nThe fit-content keyword is actually …\nAhmad Shadeed: Use Cases For CSS fit-content originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/ahmad-shadeed-use-cases-for-css-fit-content/",
-          "publishedOn": "2022-03-01T15:41:16.000Z",
-          "wordCount": 382,
-          "title": "Ahmad Shadeed: Use Cases For CSS fit-content",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364351"
         }
       ]
     },
@@ -128,6 +108,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/03/desktop-wallpaper-calendars-april-2022/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s welcome the new month with some new wallpapers. Designed with love by artists and designers from across the globe, they are available in versions with and without a calendar for April 2022.",
+          "link": "https://smashingmagazine.com/2022/03/desktop-wallpaper-calendars-april-2022/",
+          "publishedOn": "2022-03-31T08:00:00.000Z",
+          "wordCount": 1972,
+          "title": "A Time For Reflection (April 2022 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5a643aa-d809-46c8-a329-689e866dc160/apr-22-blue-and-yellow-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5a643aa-d809-46c8-a329-689e866dc160/apr-22-blue-and-yellow-preview-opt.png"
+        },
         {
           "id": "https://smashingmagazine.com/2022/03/designing-better-infinite-scroll/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -179,7 +174,7 @@
           "description": "In this article, we’ll talk about how to adapt our sites to the different scenarios of a device pointer: whether it has a pointer or not, or how accurate it is. To adapt our site to those devices’ needs we’ll talk about how to properly use media queries `hover`, `pointer`, `any-hover` and `any-pointer`.",
           "link": "https://smashingmagazine.com/2022/03/guide-hover-pointer-media-queries/",
           "publishedOn": "2022-03-28T17:00:00.000Z",
-          "wordCount": 4090,
+          "wordCount": 4095,
           "title": "A Guide To Hover And Pointer Media Queries",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e8282b7e-20d8-481e-8bd8-0261fd9c1cc0/guide-hover-pointer-media-queries.jpg",
@@ -209,7 +204,7 @@
           "description": "In this article, Louis Lazaris describes and demonstrates some interesting HTML attributes that you may or may not have heard of and perhaps find useful enough to personally use in one of your projects.",
           "link": "https://smashingmagazine.com/2022/03/html-attributes-you-never-use/",
           "publishedOn": "2022-03-23T14:30:00.000Z",
-          "wordCount": 2807,
+          "wordCount": 2809,
           "title": "Those HTML Attributes You Never Use",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d94128cd-ff71-4c9a-8608-fc9c75fbea84/html-attributes-you-never-use.jpg",
@@ -224,7 +219,7 @@
           "description": "In this shorter series of articles, we highlight design patterns, techniques, and strategies to design better digital interfaces. You can also learn much more in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.",
           "link": "https://smashingmagazine.com/2022/03/design-is-all-about-good-timing/",
           "publishedOn": "2022-03-22T12:45:00.000Z",
-          "wordCount": 1271,
+          "wordCount": 1269,
           "title": "Good Design Is All About Good Timing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/60369f5b-1fb5-4426-805e-50a21628b7cd/design-good-timing.jpg",
@@ -254,7 +249,7 @@
           "description": "Building on a previous article on How to Build a Drag-and-Drop File Uploader, we’ll be adding some new features, but more importantly (maybe), we’ll be learning how to build it in Vue 3 and learn some best practices for Vue along the way.",
           "link": "https://smashingmagazine.com/2022/03/drag-drop-file-uploader-vuejs-3/",
           "publishedOn": "2022-03-18T10:30:00.000Z",
-          "wordCount": 6387,
+          "wordCount": 6394,
           "title": "How To Make A Drag-and-Drop File Uploader With Vue.js 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5a9a0777-fd16-459e-b50d-20d5119f220d/drag-drop-file-uploader-vuejs-3.jpg",
@@ -269,7 +264,7 @@
           "description": "This fresh new design trend has been picking up steam with the rising popularity of colorful inflated 3D graphics in web illustrations and with the latest Virtual Reality projects like “Horizon Worlds”. Let’s see if there is room for Claymorphism on the UI, and how we can create this effect with CSS.",
           "link": "https://smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/",
           "publishedOn": "2022-03-16T11:00:00.000Z",
-          "wordCount": 2593,
+          "wordCount": 2590,
           "title": "Claymorphism: Will It Stick Around?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d6ceacdf-835e-497e-a1e0-be958d42ac76/claymorphism-css-ui-design-trend.jpg",
@@ -284,7 +279,7 @@
           "description": "Looking for ways to create a smooth CI/CD flow for your software? In this article, Tom Hastjarjanto shares some useful concepts that can be combined with GitHub Actions and NPM packages. With this setup, you will be able to release multiple times per hour with a fully documented trace managed by Git.",
           "link": "https://smashingmagazine.com/2022/03/improving-ci-cd-flow-application/",
           "publishedOn": "2022-03-14T12:30:00.000Z",
-          "wordCount": 1629,
+          "wordCount": 1626,
           "title": "Improving The CI/CD Flow For Your Application",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/48cfa0d0-3a69-4e42-bc6d-3c07df736343/improving-ci-cd-flow-application.jpg",
@@ -299,7 +294,7 @@
           "description": "Standing out among the millions of mobile apps can be challenging, but proper marketing can give you that crucial edge. This piece shares how to start your mobile app marketing strategy and improve it as you go while keeping up with the latest trends in the market.",
           "link": "https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/",
           "publishedOn": "2022-03-11T12:00:00.000Z",
-          "wordCount": 3821,
+          "wordCount": 3812,
           "title": "A Complete Guide To Mobile App Marketing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0defe765-5a21-40d6-a906-70edfad759ca/guide-mobile-app-marketing.jpg",
@@ -314,7 +309,7 @@
           "description": "In this article, Vivek Maskara introduces Amazon Web Services’ (AWS) Cloud Development Kit (CDK) which is increasingly becoming a popular tool for managing AWS-based infrastructure. We’ll take a closer look into CDK concepts, and then how to use the AWS CDK toolkit to deploy a sample application to an AWS account.",
           "link": "https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/",
           "publishedOn": "2022-03-10T18:00:00.000Z",
-          "wordCount": 3495,
+          "wordCount": 3493,
           "title": "An Introduction To AWS Cloud Development Kit (CDK)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/46a0c491-6562-46ba-a48d-41b4f97b0965/introduction-aws-cloud-development-kit.jpg",
@@ -329,7 +324,7 @@
           "description": "What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.",
           "link": "https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part2/",
           "publishedOn": "2022-03-09T13:00:00.000Z",
-          "wordCount": 4730,
+          "wordCount": 4739,
           "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d02916da-2e33-4aed-ac5e-f1107fa44e57/audio-visualization-javascript-gsap-part1.jpg",
@@ -344,7 +339,7 @@
           "description": "Using signals to deliver less, or different, content is a form of progressive enhancement (or graceful degradation depending on how you look at it), whereby extraneous content is only loaded when necessary, but the core functionality of the website still works. In this article, we’ll look at some of the signals that can be used for this.",
           "link": "https://smashingmagazine.com/2022/03/signals-customizing-website-user-experience/",
           "publishedOn": "2022-03-07T10:30:00.000Z",
-          "wordCount": 4385,
+          "wordCount": 4375,
           "title": "Performance Signals For Customizing Website UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6c2416bf-b3e1-4398-a1d9-fd2404eb678d/signals-customizing-website-user-experience.jpg",
@@ -359,7 +354,7 @@
           "description": "If users cannot find the answers to their questions or are not exposed to critical messaging, they will not act, and your website will fail. To prevent that from happening, you need an effective information architecture. In this article, Paul Boag provides you with a process to ensure you have precisely that.",
           "link": "https://smashingmagazine.com/2022/03/easy-information-architecture/",
           "publishedOn": "2022-03-04T10:30:00.000Z",
-          "wordCount": 2962,
+          "wordCount": 2961,
           "title": "How To Create An Information Architecture That Is Easy To Use",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/771aac3c-df07-49cb-a4b1-8558b39f9e2a/easy-information-architecture.jpg",
@@ -374,7 +369,7 @@
           "description": "Dual-screen devices are just the next evolution in responsive design. If you have a PWA or website, the APIs available make integrating into your existing code base seamless. This article explains why it’s an exciting time for layout on the web, and how dual screens provide an opportunity to get even more creative.",
           "link": "https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/",
           "publishedOn": "2022-03-03T10:30:00.000Z",
-          "wordCount": 3566,
+          "wordCount": 3567,
           "title": "Building Web Layouts For Dual-Screen And Foldable Devices",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f45e5695-4423-4581-862d-ce6c1f8b55ac/building-web-layouts-dual-screen-foldable-devices.jpg",
@@ -389,7 +384,7 @@
           "description": "What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.",
           "link": "https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/",
           "publishedOn": "2022-03-02T13:30:00.000Z",
-          "wordCount": 5066,
+          "wordCount": 5069,
           "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d02916da-2e33-4aed-ac5e-f1107fa44e57/audio-visualization-javascript-gsap-part1.jpg",
@@ -397,21 +392,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d02916da-2e33-4aed-ac5e-f1107fa44e57/audio-visualization-javascript-gsap-part1.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/03/new-css-features-2022/",
-          "author": "hello@smashingmagazine.com (Michelle Barker)",
-          "description": "2022 is shaping up to be a pretty great year for CSS, with a plethora of new features on the horizon. Some are already starting to land in browsers, others are likely to gain widespread browser support in 2022, while for one or two the process may be a little longer. In this article we’ll take a look at a few of them.",
-          "link": "https://smashingmagazine.com/2022/03/new-css-features-2022/",
-          "publishedOn": "2022-03-01T13:00:00.000Z",
-          "wordCount": 3252,
-          "title": "New CSS Features In 2022",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/14419af2-69ab-4150-8cf3-bca2cd2291ad/new-css-features-2022.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/14419af2-69ab-4150-8cf3-bca2cd2291ad/new-css-features-2022.jpg"
         }
       ]
     },
@@ -420,6 +400,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "623cc7e0138a19064b06474d",
+          "author": "Zaira Hira",
+          "description": "Shell scripting is an important part of process automation in Linux. Scripting helps you write a sequence of commands in a file and then execute them.  This saves you time because you don't have to write certain commands again and again. You can perform daily tasks efficiently and even",
+          "link": "https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/",
+          "publishedOn": "2022-03-31T19:26:38.000Z",
+          "wordCount": 2165,
+          "title": "Shell Scripting for Beginners – How to Write Bash Scripts in Linux",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/remove-key-val.gif"
+        },
+        {
+          "id": "62421c54138a19064b0672c6",
+          "author": "Edan Ben-Atar",
+          "description": "Email automation is not something new in the e-commerce space. And it's a pretty simple and straightforward concept. Email automation is all about sending emails to customers based on events that occur on your website, like abandoned cart emails, order confirmation emails, shipping confirmation emails, and so on. The result?",
+          "link": "https://www.freecodecamp.org/news/shopify-email-automation/",
+          "publishedOn": "2022-03-31T17:00:18.000Z",
+          "wordCount": 1627,
+          "title": "Shopify Email Automation – How to Automatically Send Emails",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Shopify-Email-Automation.jpg"
+        },
+        {
+          "id": "6245d736138a19064b0698d9",
+          "author": "Beau Carnes",
+          "description": "Augmented reality is a technology that lets people superimpose digital content, such as images, sounds & text, over a real-world environment. We just published a 12-hour course on the freeCodeCamp.org YouTube channel that will teach you about augmented reality from a theoretical and practical perspective. Priyanshu Bhattaharjee developed this course.",
+          "link": "https://www.freecodecamp.org/news/augmented-reality-full-course/",
+          "publishedOn": "2022-03-31T16:40:02.000Z",
+          "wordCount": 526,
+          "title": "Augmented Reality Full Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/ar.png"
+        },
+        {
+          "id": "62445137138a19064b068407",
+          "author": "Ihechikara Vincent Abba",
+          "description": "The charAt() method in Java returns the char value of a character in a string at a given or specified index. In this article, we'll see how to use the charAt() method starting with it's syntax and then through a few examples/use cases.  How to Use the Java charAt()",
+          "link": "https://www.freecodecamp.org/news/charat-in-java-how-to-use-the-java-charat-method-2/",
+          "publishedOn": "2022-03-31T16:10:26.000Z",
+          "wordCount": 916,
+          "title": "charAt() in Java – How to Use the Java charAt() Method",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/charAt.png"
+        },
+        {
+          "id": "6245705d138a19064b068f59",
+          "author": "Kolade Chris",
+          "description": "Recently, I was able to convert some video files to a gif as I needed them in gif format for some of my articles. I decided to show you how I did it in 3 lines of code, so you can save yourself the extra effort of looking up a",
+          "link": "https://www.freecodecamp.org/news/how-to-convert-video-files-to-gif-in-python/",
+          "publishedOn": "2022-03-31T16:06:08.000Z",
+          "wordCount": 629,
+          "title": "How to Convert Video Files to a Gif in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/convert.png"
+        },
+        {
+          "id": "62418eca138a19064b066d98",
+          "author": "Zubair Idris Aweda",
+          "description": "Building modern web applications usually involves a lot of data. Managing these data (databases) during development and production can be a lot.  This is especially tru if there's more than one developer, and multiple environments where changes have to be manually implemented. Database migrations help developers manage these changes",
+          "link": "https://www.freecodecamp.org/news/easy-database-migrations-in-php-using-phinx/",
+          "publishedOn": "2022-03-30T23:59:31.000Z",
+          "wordCount": 2013,
+          "title": "How to Migrate a Database in PHP Using Phinx",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/0-ddWHLcHqIojSq_GO.png"
+        },
         {
           "id": "62442bd2138a19064b06836a",
           "author": "Kolade Chris",
@@ -459,66 +499,6 @@
           "wordCount": 1055,
           "title": "Solid Principles – Single Responsibility Principle and Object-Oriented Design Basics",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/solid.jpg"
-        },
-        {
-          "id": "62417eec138a19064b066d4f",
-          "author": "Catalin Pit",
-          "description": "This article will teach you how to build a voting application that displays the poll results in real-time. Each time someone votes, the application updates automatically and shows the new results. Even though you will build a full-stack application, you will not write any backend code thanks to Hasura! The",
-          "link": "https://www.freecodecamp.org/news/build-a-full-stack-real-time-voting-app-with-hasura-and-react/",
-          "publishedOn": "2022-03-29T19:07:27.000Z",
-          "wordCount": 4086,
-          "title": "How to Build a Full-Stack Real-Time Voting App With Hasura and React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-rodnae-productions-7581108.jpg"
-        },
-        {
-          "id": "60e4a8d6134ad707be00dec6",
-          "author": "Marko Denic",
-          "description": "Google is the most powerful tool in the world if you know how to use it properly. Let me show you how to get better at Googling. 1. Use Quotes for Exact-Match Search You can use quotes to force an exact-match search. This is super useful if you know exactly",
-          "link": "https://www.freecodecamp.org/news/use-google-search-tips/",
-          "publishedOn": "2022-03-29T18:21:41.000Z",
-          "wordCount": 720,
-          "title": "How to Use Google – Search Tips for Better Results",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-photomix-company-218717.jpg"
-        },
-        {
-          "id": "62409608138a19064b06686d",
-          "author": "Aman Mittal",
-          "description": "In React Native, you can use the FlatList component [https://reactnative.dev/docs/flatlist] to render a long list of data. It renders only the items shown on the screen in a scrolling list and not all the data at once. To render a scrollable list of items using FlatList, you need to pass",
-          "link": "https://www.freecodecamp.org/news/when-to-use-keyextractor-prop-in-react-natives-flatlist/",
-          "publishedOn": "2022-03-29T18:05:02.000Z",
-          "wordCount": 1146,
-          "title": "When to Use the keyExtractor Prop in React Native's FlatList",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/cover_image.png"
-        },
-        {
-          "id": "6242cbe5138a19064b06767e",
-          "author": "Kolade Chris",
-          "description": "Git is a version control system used by software developers to track changes in applications and collaborate on projects. One feature that makes Git more dynamic is branches. Developers working on a project can work in different branches before merging their changes with the original code or the main branch.",
-          "link": "https://www.freecodecamp.org/news/git-list-branches-how-to-show-all-remote-and-local-branch-names/",
-          "publishedOn": "2022-03-29T17:55:45.000Z",
-          "wordCount": 551,
-          "title": "Git List Branches – How to Show All Remote and Local Branch Names",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/magnolia-trees-gffa46356f_1920.jpg"
-        },
-        {
-          "id": "6242b0df138a19064b067633",
-          "author": "Kris Koishigawa",
-          "description": "A rational number is any number that can be written as a fraction, where both the numerator (the top number) and the denominator (the bottom number) are integers, and the denominator is not equal to zero. In other words, a rational number can be expressed as p/q, where p and",
-          "link": "https://www.freecodecamp.org/news/what-is-a-rational-number-definition-and-rational-number-example/",
-          "publishedOn": "2022-03-29T17:44:47.000Z",
-          "wordCount": 1094,
-          "title": "What is a Rational Number? Definition and Rational Number Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/markus-krisetya-Vkp9wg-VAsQ-unsplash.jpg"
-        },
-        {
-          "id": "623acc1dcdcd57069ddfd4fd",
-          "author": "Preethi⚡",
-          "description": "Hey friends, have you ever been working in Git and found yourself wondering if you're going to stage the correct changes?  Or maybe you want to see what changes you're going to commit compared to your last commit. Perhaps you want to see the differences between two branches, commits,",
-          "link": "https://www.freecodecamp.org/news/git-diff-command/",
-          "publishedOn": "2022-03-29T16:50:29.000Z",
-          "wordCount": 1465,
-          "title": "Git diff Command – How to Compare Changes in Your Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/git-diff-1-1.png"
         }
       ]
     }
