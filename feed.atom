@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-01T00:08:12.372Z</id>
+    <id>urn:2022-04-02T00:03:44.895Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-01T00:08:12.372Z</updated>
+    <updated>2022-04-02T00:03:44.895Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Pass Callback Functions to String.replace() in JavaScript]]></title>
+        <id>6246e84d138a19064b06a1c9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-pass-callback-functions-to-string-replace-javascript/"/>
+        <updated>2022-04-01T20:14:47.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that the string .replace() method accepts a callback function? I just discovered it today and thought I'd share. What do you need this function for? Why does it exist? I'll answer all these questions as you go through this article. The replace() Method The replace() string method]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Rate Limiter using Bucket4J and Redis]]></title>
+        <id>6245914c138a19064b0690bb</id>
+        <link href="https://www.freecodecamp.org/news/rate-limiting-with-bucket4j-and-redis/"/>
+        <updated>2022-04-01T19:05:04.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial we will learn how to implement rate limiting in a scaled service. We will use the Bucket4J [https://github.com/vladimir-bukhtoyarov/bucket4j]  library to implement it and we will use Redis [https://redis.io/] as a distributed cache. Why Use Rate Limiting? Let's get started with some basics to make sure we]]></summary>
+        <author>
+            <name>Abhinav Pandey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Full Stack Developer? 2022 Full Stack Engineer Guide]]></title>
+        <id>6228642863ded806bb9e6f73</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-full-stack-developer-full-stack-engineer-guide/"/>
+        <updated>2022-04-01T18:42:50.000Z</updated>
+        <summary type="html"><![CDATA[Full-stack developer roles are among the most highly sought after positions in the current job market. But what exactly is full-stack web development, and how do you become a full-stack developer? In this article, you will first learn what the term full-stack means. Then, you will see some suggested technologies]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL Inner Join – How to Join 3 Tables in SQL and MySQL]]></title>
+        <id>6164065d804854468fda843b</id>
+        <link href="https://www.freecodecamp.org/news/sql-inner-join-how-to-join-3-tables-in-sql-and-mysql/"/>
+        <updated>2022-04-01T18:19:05.000Z</updated>
+        <summary type="html"><![CDATA[When you're working with your database, you might need to put together data from a few different tables. This article will show you how. I have already written about SQL joins here [/news/sql-join-types-inner-join-vs-outer-join-example/] and here [/news/sql-left-join-example-join-statement-syntax/], but let's take a moment to review how a join works first, and particularly]]></summary>
+        <author>
+            <name>Ilenia Magoni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NextJS and HarperDB Tutorial –Build a Full Stack Productivity Timer App]]></title>
+        <id>6244a14e138a19064b0686c7</id>
+        <link href="https://www.freecodecamp.org/news/nextjs-and-harperdb-tutorial-build-a-full-stack-app/"/>
+        <updated>2022-04-01T16:25:42.000Z</updated>
+        <summary type="html"><![CDATA[Building full stack applications can be tough. You have to think about frontend, APIs, databases, authentication - and how all of these things work together. So, in this article, I'll show you how to do all of those things using NextJS and HarperDB. We'll be building a full stack task]]></summary>
+        <author>
+            <name>Danny Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The What, When, Why And How Of Next.js’ New Middleware Feature]]></title>
+        <id>https://smashingmagazine.com/2022/04/next-js-middleware-feature/</id>
+        <link href="https://smashingmagazine.com/2022/04/next-js-middleware-feature/"/>
+        <updated>2022-04-01T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Next.js’ recent 12.0 release included a new beta feature: middleware. For a detailed explanation, you can read all about it in Sam’s previous article, “[Next.js Wildcard Subdomains](https://www.smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/)”. This article, on the other hand, dives into the overall concept of middleware and how handy it can be in building things.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Sam Poder)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Apps with Firebase]]></title>
+        <id>6245d985138a19064b069946</id>
+        <link href="https://www.freecodecamp.org/news/create-apps-with-firebase/"/>
+        <updated>2022-04-01T00:10:02.000Z</updated>
+        <summary type="html"><![CDATA[Firebase is a platform developed by Google for creating mobile and web applications.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Firebase. This is the perfect course for beginners.  After learning the basics of Firebase, you will learn how]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shell Scripting for Beginners – How to Write Bash Scripts in Linux]]></title>
         <id>623cc7e0138a19064b06474d</id>
@@ -46,16 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Convert Video Files to a Gif in Python]]></title>
-        <id>6245705d138a19064b068f59</id>
-        <link href="https://www.freecodecamp.org/news/how-to-convert-video-files-to-gif-in-python/"/>
-        <updated>2022-03-31T16:06:08.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I was able to convert some video files to a gif as I needed them in gif format for some of my articles. I decided to show you how I did it in 3 lines of code, so you can save yourself the extra effort of looking up a]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Time For Reflection (April 2022 Desktop Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2022/03/desktop-wallpaper-calendars-april-2022/</id>
         <link href="https://smashingmagazine.com/2022/03/desktop-wallpaper-calendars-april-2022/"/>
@@ -63,46 +123,6 @@
         <summary type="html"><![CDATA[Let’s welcome the new month with some new wallpapers. Designed with love by artists and designers from across the globe, they are available in versions with and without a calendar for April 2022.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Migrate a Database in PHP Using Phinx]]></title>
-        <id>62418eca138a19064b066d98</id>
-        <link href="https://www.freecodecamp.org/news/easy-database-migrations-in-php-using-phinx/"/>
-        <updated>2022-03-30T23:59:31.000Z</updated>
-        <summary type="html"><![CDATA[Building modern web applications usually involves a lot of data. Managing these data (databases) during development and production can be a lot.  This is especially tru if there's more than one developer, and multiple environments where changes have to be manually implemented. Database migrations help developers manage these changes]]></summary>
-        <author>
-            <name>Zubair Idris Aweda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Undo Merge – How to Revert the Last Merge Commit in Git]]></title>
-        <id>62442bd2138a19064b06836a</id>
-        <link href="https://www.freecodecamp.org/news/git-undo-merge-how-to-revert-the-last-merge-commit-in-git/"/>
-        <updated>2022-03-30T17:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Branching is an integral part of Git because it lets you work without tampering with code that's already in production. When you finish working with a branch other than main, you'll want to merge it with the main so the feature or bug fix you just integrated will be reflected.]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Schedule a Task With Firebase Scheduled Cloud Functions]]></title>
-        <id>62418f22138a19064b066da1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-schedule-a-task-with-firebase-cloud-functions/"/>
-        <updated>2022-03-30T17:14:35.000Z</updated>
-        <summary type="html"><![CDATA[I work on an app that removes the background of any image. The app will have a freemium plan, which means that I will offer a free number of credits to all users, and if they need more credits, they will need to buy more. My Android and iOS app]]></summary>
-        <author>
-            <name>Dragos Ivanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Benefits of a Student Email Address]]></title>
-        <id>623d7224138a19064b06490a</id>
-        <link href="https://www.freecodecamp.org/news/top-benefits-of-student-email-address/"/>
-        <updated>2022-03-30T17:00:46.000Z</updated>
-        <summary type="html"><![CDATA[In recent years, various tech companies and organizations have started supporting students who have an interest in and passion for tech. Many companies give their premium services to students for free, and others offer discounts on their products. If you're a student, basically all you need to take advantage of]]></summary>
-        <author>
-            <name>Hillary Nyakundi</name>
         </author>
     </entry>
     <entry>
@@ -124,16 +144,6 @@ Tricks to Cut Corners Using CSS Mask and Clip-Path Properties originally publish
         <summary type="html"><![CDATA[In this series of articles, we highlight design patterns and techniques to design better interfaces. You can also find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solid Principles – Single Responsibility Principle and Object-Oriented Design Basics]]></title>
-        <id>62153d68c4d0d306772ee7ae</id>
-        <link href="https://www.freecodecamp.org/news/solid-principles-single-responsibility-principle-explained/"/>
-        <updated>2022-03-29T21:16:23.000Z</updated>
-        <summary type="html"><![CDATA[The SOLID design principles help us create maintainable, reusable, and flexible software designs. Each letter in the acronym SOLID stands for a specific principle.  Here is what each letter in the acronym stands for:  * S: Single responsibility principle.  * O: Open–closed principle.  * L: Liskov]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
         </author>
     </entry>
     <entry>
@@ -357,52 +367,6 @@ What would your business be like if you sold memberships? It might be more than 
 Build Membership Businesses with Memberful originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Web Layouts For Dual-Screen And Foldable Devices]]></title>
-        <id>https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/</id>
-        <link href="https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/"/>
-        <updated>2022-03-03T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Dual-screen devices are just the next evolution in responsive design. If you have a PWA or website, the APIs available make integrating into your existing code base seamless. This article explains why it’s an exciting time for layout on the web, and how dual screens provide an opportunity to get even more creative.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Stimac)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Fresh Links on Performance For March 2022]]></title>
-        <id>https://css-tricks.com/?p=364350</id>
-        <link href="https://css-tricks.com/performance-links-february-2022/"/>
-        <updated>2022-03-02T21:26:50.000Z</updated>
-        <summary type="html"><![CDATA[I have a handful of good links to articles about performance that are burning a hole in my bookmarks folder, and wanna drop them here to share.
-The new WebPageTest website design
-From fonts to SVG: an icon migration strategy
-…
-7 Fresh Links on Performance For March 2022 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a “Raise the Curtains” Effect in CSS]]></title>
-        <id>https://css-tricks.com/?p=363882</id>
-        <link href="https://css-tricks.com/css-raise-the-curtains-effect/"/>
-        <updated>2022-03-02T15:57:32.000Z</updated>
-        <summary type="html"><![CDATA[“Raise the curtains” is what I call an effect where the background goes from dark to light on scroll, and the content on top also goes from light to dark while in a sticky position.
-Here’s an example where I …
-How to Make a “Raise the Curtains” Effect in CSS originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Silvestar Bistrović</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Audio Visualization With JavaScript And GSAP (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/</id>
-        <link href="https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/"/>
-        <updated>2022-03-02T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
         </author>
     </entry>
 </feed>
