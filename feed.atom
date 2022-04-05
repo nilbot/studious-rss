@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-04T00:07:22.292Z</id>
+    <id>urn:2022-04-05T00:03:40.014Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-04T00:07:22.292Z</updated>
+    <updated>2022-04-05T00:03:40.015Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Adding CDN Caching to a Vite Build]]></title>
+        <id>https://css-tricks.com/?p=364166</id>
+        <link href="https://css-tricks.com/adding-cdn-caching-to-a-vite-build/"/>
+        <updated>2022-04-04T18:25:23.000Z</updated>
+        <summary type="html"><![CDATA[Content delivery networks, or CDNs, allow you to improve the delivery of your website’s static resources, most notably, with CDN caching. They do this by serving your content from edge locations, which are located all over the world. When a …
+Adding CDN Caching to a Vite Build originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientific Computing in Golang with the Gonum Package]]></title>
+        <id>624515df138a19064b068e7c</id>
+        <link href="https://www.freecodecamp.org/news/scientific-computing-in-golang-using-gonum/"/>
+        <updated>2022-04-04T15:49:21.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll introduce you to Gonum, a package you can use to perform scientific computations in the Go programming language. Here's what we'll cover in this intermediate tutorial:  * What is Gonum?  * Why use Gonum  * How to install and set up Gonum]]></summary>
+        <author>
+            <name>Ukeje Chukwuemeriwo Goodness</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The freeCodeCamp World Translation Summit 2022 – Join the Translation Effort]]></title>
+        <id>6244b25c138a19064b0686d0</id>
+        <link href="https://www.freecodecamp.org/news/the-freecodecamp-world-translation-summit-2022-join-the-translation-effort/"/>
+        <updated>2022-04-04T14:23:26.000Z</updated>
+        <summary type="html"><![CDATA[Translation is a powerful tool that can change lives. Everyone should have access to free learning resources in their native language.  To achieve this, freeCodeCamp has started translating our curriculum into dozens of world languages, with the help of thousands of volunteers around the world. To honor our translators]]></summary>
+        <author>
+            <name>Estefania Cassingena Navone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ExamPro Cloud Developer Environment Certification — Pass the Exam with This 12 Hour Course]]></title>
+        <id>623f380c138a19064b06605b</id>
+        <link href="https://www.freecodecamp.org/news/exampro-cloud-developer-environment-certification-gitpod-course/"/>
+        <updated>2022-04-04T13:14:49.000Z</updated>
+        <summary type="html"><![CDATA[If you are a web-application developer looking to learn how to leverage the cloud or want to become a cloud developer, the ExamPro Cloud Development Environment (EXP-CDE-01) is the first step. What is a Cloud Developer Environment?  A Cloud Developer Environment (CDE) is a:  *  code editor]]></summary>
+        <author>
+            <name>Andrew Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build A Progressively Enhanced, Accessible, Filterable And Paginated List]]></title>
+        <id>https://smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/</id>
+        <link href="https://smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/"/>
+        <updated>2022-04-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ever wondered how to build a paginated list that works with and without JavaScript? In this article, Manuel explains how you can leverage the power of Progressive Enhancement and do just that with Eleventy and Alpine.js.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Manuel Matuzović)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Pass Callback Functions to String.replace() in JavaScript]]></title>
         <id>6246e84d138a19064b06a1c9</id>
@@ -83,36 +134,6 @@
         <summary type="html"><![CDATA[Shell scripting is an important part of process automation in Linux. Scripting helps you write a sequence of commands in a file and then execute them.  This saves you time because you don't have to write certain commands again and again. You can perform daily tasks efficiently and even]]></summary>
         <author>
             <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shopify Email Automation – How to Automatically Send Emails]]></title>
-        <id>62421c54138a19064b0672c6</id>
-        <link href="https://www.freecodecamp.org/news/shopify-email-automation/"/>
-        <updated>2022-03-31T17:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Email automation is not something new in the e-commerce space. And it's a pretty simple and straightforward concept. Email automation is all about sending emails to customers based on events that occur on your website, like abandoned cart emails, order confirmation emails, shipping confirmation emails, and so on. The result?]]></summary>
-        <author>
-            <name>Edan Ben-Atar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Augmented Reality Full Course]]></title>
-        <id>6245d736138a19064b0698d9</id>
-        <link href="https://www.freecodecamp.org/news/augmented-reality-full-course/"/>
-        <updated>2022-03-31T16:40:02.000Z</updated>
-        <summary type="html"><![CDATA[Augmented reality is a technology that lets people superimpose digital content, such as images, sounds & text, over a real-world environment. We just published a 12-hour course on the freeCodeCamp.org YouTube channel that will teach you about augmented reality from a theoretical and practical perspective. Priyanshu Bhattaharjee developed this course.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[charAt() in Java – How to Use the Java charAt() Method]]></title>
-        <id>62445137138a19064b068407</id>
-        <link href="https://www.freecodecamp.org/news/charat-in-java-how-to-use-the-java-charat-method-2/"/>
-        <updated>2022-03-31T16:10:26.000Z</updated>
-        <summary type="html"><![CDATA[The charAt() method in Java returns the char value of a character in a string at a given or specified index. In this article, we'll see how to use the charAt() method starting with it's syntax and then through a few examples/use cases.  How to Use the Java charAt()]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
         </author>
     </entry>
     <entry>
