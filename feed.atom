@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-05T00:03:40.014Z</id>
+    <id>urn:2022-04-06T00:03:57.854Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-05T00:03:40.015Z</updated>
+    <updated>2022-04-06T00:03:57.854Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Command Line for Beginners – How to Use the Terminal Like a Pro]]></title>
+        <id>6244f93a138a19064b068b9e</id>
+        <link href="https://www.freecodecamp.org/news/command-line-for-beginners/"/>
+        <updated>2022-04-05T16:45:18.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article we'll take a good look at the command line (also known as the CLI, console, terminal or shell). The command line is one of the most useful and efficient tools we have as developers and as computer users in general. But using it can feel]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Get Work Done: Wrangling Stakeholders And Overcoming Obstacles]]></title>
+        <id>https://smashingmagazine.com/2022/04/stakeholders-overcoming-obstacles/</id>
+        <link href="https://smashingmagazine.com/2022/04/stakeholders-overcoming-obstacles/"/>
+        <updated>2022-04-05T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether you work in-house or for an external agency, we all share one challenge — dealing with stakeholders, be they your boss, colleagues, or clients. In this post, veteran web designer Paul Boag shares his approach to getting things done in even the most challenging organizations.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Package Manager – Complete Guide to NPM and Yarn]]></title>
+        <id>624b0547ac55f60686c2d2e1</id>
+        <link href="https://www.freecodecamp.org/news/javascript-package-manager-npm-and-yarn/"/>
+        <updated>2022-04-05T00:08:08.000Z</updated>
+        <summary type="html"><![CDATA[A package manager is a tool developers use to automate finding, downloading, installing, configuring, upgrading, and removing a system's packages. This article will show you all you need to get started with package managers like NPM and Yarn. But why exactly do we need a package manager in our development]]></summary>
+        <author>
+            <name>Oluwatobi Sofela</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Beginner's Guide to Sass]]></title>
+        <id>6233c160cdcd57069ddfadb8</id>
+        <link href="https://www.freecodecamp.org/news/the-beginners-guide-to-sass/"/>
+        <updated>2022-04-04T23:39:31.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered what SASS stands for? Or perhaps you already know what it is but haven't taken the time to study and use it. Whether you're learning about it for the first time, or want to brush up on your knowledge of the subject, this is the article]]></summary>
+        <author>
+            <name>Israel Mitolu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Types of Hard Drives – SATA, PATA, SCSI, and SSD]]></title>
+        <id>624ad0f4ac55f60686c2d118</id>
+        <link href="https://www.freecodecamp.org/news/types-of-hard-drives-sata-pata-scsi-and-more-2/"/>
+        <updated>2022-04-04T23:17:35.000Z</updated>
+        <summary type="html"><![CDATA[A hard drive is a non-volatile hardware component on a computer that acts as the storage for all digital content. It holds program files, documents, pictures, videos, music, and more. The non-volatile nature of hard drives means they don’t lose data, even if power is lost. Due to this, they]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make an Image Search App in React using the Unsplash API]]></title>
+        <id>6249d59dac55f60686c2ce11</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-an-image-search-app-in-react/"/>
+        <updated>2022-04-04T22:19:13.000Z</updated>
+        <summary type="html"><![CDATA[Unsplash is a site where you can download free and unlicensed images and use them as you see fit. In this tutorial, we will make an Image Search App using the Unsplash API to get access to its enormous collection of images and also download them. Before starting the development]]></summary>
+        <author>
+            <name>Ateev Duggal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Project – How to Build a Wordle Clone using Python and Rich]]></title>
+        <id>624a520eac55f60686c2cfa0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-wordle-clone-using-python-and-rich/"/>
+        <updated>2022-04-04T20:21:41.000Z</updated>
+        <summary type="html"><![CDATA[Wordle is a popular game where you guess a five-letter word in six tries. After each guess, the color of the tiles will change to show how close your guess was to the word.  It is similar to the Hangman game [https://ireadblog.com/posts/124/hangman-game-using-python] which I've already shown you how to]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker Mount Volume – How To Mount a Local Directory]]></title>
+        <id>62402130138a19064b0666c6</id>
+        <link href="https://www.freecodecamp.org/news/docker-mount-volume-guide-how-to-mount-a-local-directory/"/>
+        <updated>2022-04-04T20:08:50.000Z</updated>
+        <summary type="html"><![CDATA[Containers make software engineering easier and more efficient, and Docker [https://www.docker.com/] containers are popular and easy to use.  Containers are essential for local development. They let you test-run your applications in local environments and start building out the required infrastructure. Docker containers are immutable by nature. This means that]]></summary>
+        <author>
+            <name>Sebastian Sigl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thunder Client – An Alternative Way to Test Restful APIs]]></title>
+        <id>623646bccdcd57069ddfb98f</id>
+        <link href="https://www.freecodecamp.org/news/thunder-client-for-vscode/"/>
+        <updated>2022-04-04T19:09:46.000Z</updated>
+        <summary type="html"><![CDATA[This article will teach you an alternative approach to testing client APIs using Thunder Client, an open-source extension available on VS Code marketplace [https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client] .  You will not need to download any tools to do this, since you can get it done right within VS Code. The article covers]]></summary>
+        <author>
+            <name>Sule-Balogun Olanrewaju Ganiu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adding CDN Caching to a Vite Build]]></title>
         <id>https://css-tricks.com/?p=364166</id>
@@ -37,16 +127,6 @@ Adding CDN Caching to a Vite Build originally published on CSS-Tricks. You shoul
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ExamPro Cloud Developer Environment Certification — Pass the Exam with This 12 Hour Course]]></title>
-        <id>623f380c138a19064b06605b</id>
-        <link href="https://www.freecodecamp.org/news/exampro-cloud-developer-environment-certification-gitpod-course/"/>
-        <updated>2022-04-04T13:14:49.000Z</updated>
-        <summary type="html"><![CDATA[If you are a web-application developer looking to learn how to leverage the cloud or want to become a cloud developer, the ExamPro Cloud Development Environment (EXP-CDE-01) is the first step. What is a Cloud Developer Environment?  A Cloud Developer Environment (CDE) is a:  *  code editor]]></summary>
-        <author>
-            <name>Andrew Brown</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Build A Progressively Enhanced, Accessible, Filterable And Paginated List]]></title>
         <id>https://smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/</id>
         <link href="https://smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/"/>
@@ -57,56 +137,6 @@ Adding CDN Caching to a Vite Build originally published on CSS-Tricks. You shoul
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Pass Callback Functions to String.replace() in JavaScript]]></title>
-        <id>6246e84d138a19064b06a1c9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-pass-callback-functions-to-string-replace-javascript/"/>
-        <updated>2022-04-01T20:14:47.000Z</updated>
-        <summary type="html"><![CDATA[Did you know that the string .replace() method accepts a callback function? I just discovered it today and thought I'd share. What do you need this function for? Why does it exist? I'll answer all these questions as you go through this article. The replace() Method The replace() string method]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Rate Limiter using Bucket4J and Redis]]></title>
-        <id>6245914c138a19064b0690bb</id>
-        <link href="https://www.freecodecamp.org/news/rate-limiting-with-bucket4j-and-redis/"/>
-        <updated>2022-04-01T19:05:04.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial we will learn how to implement rate limiting in a scaled service. We will use the Bucket4J [https://github.com/vladimir-bukhtoyarov/bucket4j]  library to implement it and we will use Redis [https://redis.io/] as a distributed cache. Why Use Rate Limiting? Let's get started with some basics to make sure we]]></summary>
-        <author>
-            <name>Abhinav Pandey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Full Stack Developer? 2022 Full Stack Engineer Guide]]></title>
-        <id>6228642863ded806bb9e6f73</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-full-stack-developer-full-stack-engineer-guide/"/>
-        <updated>2022-04-01T18:42:50.000Z</updated>
-        <summary type="html"><![CDATA[Full-stack developer roles are among the most highly sought after positions in the current job market. But what exactly is full-stack web development, and how do you become a full-stack developer? In this article, you will first learn what the term full-stack means. Then, you will see some suggested technologies]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Inner Join – How to Join 3 Tables in SQL and MySQL]]></title>
-        <id>6164065d804854468fda843b</id>
-        <link href="https://www.freecodecamp.org/news/sql-inner-join-how-to-join-3-tables-in-sql-and-mysql/"/>
-        <updated>2022-04-01T18:19:05.000Z</updated>
-        <summary type="html"><![CDATA[When you're working with your database, you might need to put together data from a few different tables. This article will show you how. I have already written about SQL joins here [/news/sql-join-types-inner-join-vs-outer-join-example/] and here [/news/sql-left-join-example-join-statement-syntax/], but let's take a moment to review how a join works first, and particularly]]></summary>
-        <author>
-            <name>Ilenia Magoni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NextJS and HarperDB Tutorial –Build a Full Stack Productivity Timer App]]></title>
-        <id>6244a14e138a19064b0686c7</id>
-        <link href="https://www.freecodecamp.org/news/nextjs-and-harperdb-tutorial-build-a-full-stack-app/"/>
-        <updated>2022-04-01T16:25:42.000Z</updated>
-        <summary type="html"><![CDATA[Building full stack applications can be tough. You have to think about frontend, APIs, databases, authentication - and how all of these things work together. So, in this article, I'll show you how to do all of those things using NextJS and HarperDB. We'll be building a full stack task]]></summary>
-        <author>
-            <name>Danny Adams</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The What, When, Why And How Of Next.js’ New Middleware Feature]]></title>
         <id>https://smashingmagazine.com/2022/04/next-js-middleware-feature/</id>
         <link href="https://smashingmagazine.com/2022/04/next-js-middleware-feature/"/>
@@ -114,26 +144,6 @@ Adding CDN Caching to a Vite Build originally published on CSS-Tricks. You shoul
         <summary type="html"><![CDATA[Next.js’ recent 12.0 release included a new beta feature: middleware. For a detailed explanation, you can read all about it in Sam’s previous article, “[Next.js Wildcard Subdomains](https://www.smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/)”. This article, on the other hand, dives into the overall concept of middleware and how handy it can be in building things.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Sam Poder)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Apps with Firebase]]></title>
-        <id>6245d985138a19064b069946</id>
-        <link href="https://www.freecodecamp.org/news/create-apps-with-firebase/"/>
-        <updated>2022-04-01T00:10:02.000Z</updated>
-        <summary type="html"><![CDATA[Firebase is a platform developed by Google for creating mobile and web applications.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Firebase. This is the perfect course for beginners.  After learning the basics of Firebase, you will learn how]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shell Scripting for Beginners – How to Write Bash Scripts in Linux]]></title>
-        <id>623cc7e0138a19064b06474d</id>
-        <link href="https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/"/>
-        <updated>2022-03-31T19:26:38.000Z</updated>
-        <summary type="html"><![CDATA[Shell scripting is an important part of process automation in Linux. Scripting helps you write a sequence of commands in a file and then execute them.  This saves you time because you don't have to write certain commands again and again. You can perform daily tasks efficiently and even]]></summary>
-        <author>
-            <name>Zaira Hira</name>
         </author>
     </entry>
     <entry>
@@ -345,16 +355,6 @@ CSS-Tricks is joining DigitalOcean! originally published on CSS-Tricks. You shou
         <summary type="html"><![CDATA[What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Performance Signals For Customizing Website UX]]></title>
-        <id>https://smashingmagazine.com/2022/03/signals-customizing-website-user-experience/</id>
-        <link href="https://smashingmagazine.com/2022/03/signals-customizing-website-user-experience/"/>
-        <updated>2022-03-07T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Using signals to deliver less, or different, content is a form of progressive enhancement (or graceful degradation depending on how you look at it), whereby extraneous content is only loaded when necessary, but the core functionality of the website still works. In this article, we’ll look at some of the signals that can be used for this.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Barry Pollard)</name>
         </author>
     </entry>
 </feed>
