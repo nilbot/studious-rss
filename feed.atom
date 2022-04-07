@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-06T00:03:57.854Z</id>
+    <id>urn:2022-04-07T00:03:44.693Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-06T00:03:57.854Z</updated>
+    <updated>2022-04-07T00:03:44.693Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Designing Better Breadcrumbs]]></title>
+        <id>https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/</id>
+        <link href="https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/"/>
+        <updated>2022-04-06T14:20:00.000Z</updated>
+        <summary type="html"><![CDATA[In this series of articles, we highlight design patterns and techniques to design better interfaces. You can also find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devs For Ukraine, A Free Online Charity Conference 🇺🇦]]></title>
+        <id>https://smashingmagazine.com/2022/04/devs-for-ukraine/</id>
+        <link href="https://smashingmagazine.com/2022/04/devs-for-ukraine/"/>
+        <updated>2022-04-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[Devs For Ukraine](https://www.devsforukraine.io/) is a free online charity conference organized by the lovely people at Remote. Two days filled with talks from engineering leaders around the globe, in support of Ukraine. April 25–26.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Command Line for Beginners – How to Use the Terminal Like a Pro]]></title>
         <id>6244f93a138a19064b068b9e</id>
