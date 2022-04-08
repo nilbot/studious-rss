@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-07T00:03:44.693Z</id>
+    <id>urn:2022-04-08T00:04:17.243Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-07T00:03:44.693Z</updated>
+    <updated>2022-04-08T00:04:17.243Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Design a Scalable Mobile App With Figma Variants]]></title>
+        <id>624ca9a4ac55f60686c2e7f9</id>
+        <link href="https://www.freecodecamp.org/news/design-a-scalable-mobile-app-with-figma-variants/"/>
+        <updated>2022-04-07T12:15:32.000Z</updated>
+        <summary type="html"><![CDATA[Figma is a popular graphics editor and prototyping tool. Figma variants can streamline your frontend design process by allowing you to group and organize similar components into a single container. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn how to use Figma variants]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[flushdns – How to Flush DNS with the Windows ipconfig /flushdns Command]]></title>
+        <id>624bfc9bac55f60686c2e0ff</id>
+        <link href="https://www.freecodecamp.org/news/flushdns-how-to-flush-dns-with-the-windows-ipconfig-flushdns-command/"/>
+        <updated>2022-04-07T03:41:13.000Z</updated>
+        <summary type="html"><![CDATA[You've probably noticed that, after visiting a website for the first time, the website loads much quicker the next time you visit. This is because your operating system, or browser in the case of Google Chrome, cache IP addresses and DNS (Domain Name System) information of any website you visit.]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IAM – Policy, Access Roles, Resources Explained, and Why They're Useful]]></title>
+        <id>62435e6e138a19064b068027</id>
+        <link href="https://www.freecodecamp.org/news/the-introduction-to-iam-i-wish-i-had/"/>
+        <updated>2022-04-07T02:50:41.000Z</updated>
+        <summary type="html"><![CDATA[IAM, or Identity and Access Management, is one of the most common terms you'll hear in cloud-native environments. But what does it do? And if you're already familiar with IAM, how long did it take you to fully understand it? I will explain the main concepts behind this massive family]]></summary>
+        <author>
+            <name>Periklis Gkolias</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Designing Better Breadcrumbs]]></title>
         <id>https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/</id>
@@ -106,16 +136,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thunder Client – An Alternative Way to Test Restful APIs]]></title>
-        <id>623646bccdcd57069ddfb98f</id>
-        <link href="https://www.freecodecamp.org/news/thunder-client-for-vscode/"/>
-        <updated>2022-04-04T19:09:46.000Z</updated>
-        <summary type="html"><![CDATA[This article will teach you an alternative approach to testing client APIs using Thunder Client, an open-source extension available on VS Code marketplace [https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client] .  You will not need to download any tools to do this, since you can get it done right within VS Code. The article covers]]></summary>
-        <author>
-            <name>Sule-Balogun Olanrewaju Ganiu</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Adding CDN Caching to a Vite Build]]></title>
         <id>https://css-tricks.com/?p=364166</id>
         <link href="https://css-tricks.com/adding-cdn-caching-to-a-vite-build/"/>
@@ -124,26 +144,6 @@
 Adding CDN Caching to a Vite Build originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Adam Rackis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientific Computing in Golang with the Gonum Package]]></title>
-        <id>624515df138a19064b068e7c</id>
-        <link href="https://www.freecodecamp.org/news/scientific-computing-in-golang-using-gonum/"/>
-        <updated>2022-04-04T15:49:21.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll introduce you to Gonum, a package you can use to perform scientific computations in the Go programming language. Here's what we'll cover in this intermediate tutorial:  * What is Gonum?  * Why use Gonum  * How to install and set up Gonum]]></summary>
-        <author>
-            <name>Ukeje Chukwuemeriwo Goodness</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The freeCodeCamp World Translation Summit 2022 – Join the Translation Effort]]></title>
-        <id>6244b25c138a19064b0686d0</id>
-        <link href="https://www.freecodecamp.org/news/the-freecodecamp-world-translation-summit-2022-join-the-translation-effort/"/>
-        <updated>2022-04-04T14:23:26.000Z</updated>
-        <summary type="html"><![CDATA[Translation is a powerful tool that can change lives. Everyone should have access to free learning resources in their native language.  To achieve this, freeCodeCamp has started translating our curriculum into dozens of world languages, with the help of thousands of volunteers around the world. To honor our translators]]></summary>
-        <author>
-            <name>Estefania Cassingena Navone</name>
         </author>
     </entry>
     <entry>
@@ -192,7 +192,7 @@ Tricks to Cut Corners Using CSS Mask and Clip-Path Properties originally publish
         <id>https://smashingmagazine.com/2022/03/designing-better-infinite-scroll/</id>
         <link href="https://smashingmagazine.com/2022/03/designing-better-infinite-scroll/"/>
         <updated>2022-03-30T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this series of articles, we highlight design patterns and techniques to design better interfaces. You can also find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.]]></summary>
+        <summary type="html"><![CDATA[Best practices and guidelines to improve the UX of infinite scroll with bookmarks, footer reveal and pagination.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
