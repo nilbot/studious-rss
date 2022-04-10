@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-09T00:03:47.843Z</id>
+    <id>urn:2022-04-10T00:06:40.027Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-09T00:03:47.843Z</updated>
+    <updated>2022-04-10T00:06:40.027Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -36,6 +36,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What is a DNS Server? DNS Servers Explained]]></title>
+        <id>6251f9feac55f60686c30c4e</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-dns-server/"/>
+        <updated>2022-04-07T21:49:00.000Z</updated>
+        <summary type="html"><![CDATA[The web would not work at all without DNS servers. They are responsible for translating domain names into IP addresses. Then computers use those IP addresses to locate and connect to web servers, and send users to the right websites. Many people first learned about the DNS system in October]]></summary>
+        <author>
+            <name>Alex Garcia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Margin VS Padding – What is the Difference? [Solved]]]></title>
+        <id>6251f744ac55f60686c30bf9</id>
+        <link href="https://www.freecodecamp.org/news/css-margin-vs-padding-what-is-the-difference/"/>
+        <updated>2022-04-07T21:25:00.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to CSS, there are a lot of properties that control the spacing of elements on a page. Two of the most common properties are margin and padding. Both margin and padding control the amount of space around an element, but they do it in different ways. This]]></summary>
+        <author>
+            <name>Alex Garcia</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Figma Variants – Design a Scalable Mobile App [Full UX Course]]]></title>
         <id>624ca9a4ac55f60686c2e7f9</id>
         <link href="https://www.freecodecamp.org/news/design-a-scalable-mobile-app-with-figma-variants/"/>
@@ -66,6 +86,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to do a Hanging Indent in Google Docs]]></title>
+        <id>6250a2faac55f60686c2ff69</id>
+        <link href="https://www.freecodecamp.org/news/how-to-do-a-hanging-indent-in-google-docs/"/>
+        <updated>2022-04-06T21:02:00.000Z</updated>
+        <summary type="html"><![CDATA[A hanging indent is an easy way to make your documents look more professional. Google Docs has built in functionality to create this. What is a Hanging Indent? A hanging indent is a type of indentation where the first line of a paragraph is not indented, but subsequent lines in]]></summary>
+        <author>
+            <name>Alex Garcia</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Designing Better Breadcrumbs]]></title>
         <id>https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/</id>
         <link href="https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/"/>
@@ -86,6 +116,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What is PMP Certification? And How to Get PMP Exam Training]]></title>
+        <id>6251eef6ac55f60686c30b11</id>
+        <link href="https://www.freecodecamp.org/news/what-is-pmp-certification-pmp-training/"/>
+        <updated>2022-04-06T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PMP certification is type of a project management certification offered by the Project Management Institute (PMI). It is globally recognized. Many experts in the project management field consider PMP certification to be a "gold standard". PMP stands for Project Management Professional. It's a designation awarded by PMI to people who]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Command Line for Beginners – How to Use the Terminal Like a Pro [Full Handbook]]]></title>
         <id>6244f93a138a19064b068b9e</id>
         <link href="https://www.freecodecamp.org/news/command-line-for-beginners/"/>
@@ -103,46 +143,6 @@
         <summary type="html"><![CDATA[Whether you work in-house or for an external agency, we all share one challenge — dealing with stakeholders, be they your boss, colleagues, or clients. In this post, veteran web designer Paul Boag shares his approach to getting things done in even the most challenging organizations.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Package Manager – Complete Guide to NPM and Yarn]]></title>
-        <id>624b0547ac55f60686c2d2e1</id>
-        <link href="https://www.freecodecamp.org/news/javascript-package-manager-npm-and-yarn/"/>
-        <updated>2022-04-05T00:08:08.000Z</updated>
-        <summary type="html"><![CDATA[A package manager is a tool developers use to automate finding, downloading, installing, configuring, upgrading, and removing a system's packages. This article will show you all you need to get started with package managers like NPM and Yarn. But why exactly do we need a package manager in our development]]></summary>
-        <author>
-            <name>Oluwatobi Sofela</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Beginner's Guide to Sass]]></title>
-        <id>6233c160cdcd57069ddfadb8</id>
-        <link href="https://www.freecodecamp.org/news/the-beginners-guide-to-sass/"/>
-        <updated>2022-04-04T23:39:31.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered what SASS stands for? Or perhaps you already know what it is but haven't taken the time to study and use it. Whether you're learning about it for the first time, or want to brush up on your knowledge of the subject, this is the article]]></summary>
-        <author>
-            <name>Israel Mitolu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Types of Hard Drives – SATA, PATA, SCSI, and SSD]]></title>
-        <id>624ad0f4ac55f60686c2d118</id>
-        <link href="https://www.freecodecamp.org/news/types-of-hard-drives-sata-pata-scsi-and-more-2/"/>
-        <updated>2022-04-04T23:17:35.000Z</updated>
-        <summary type="html"><![CDATA[A hard drive is a non-volatile hardware component on a computer that acts as the storage for all digital content. It holds program files, documents, pictures, videos, music, and more. The non-volatile nature of hard drives means they don’t lose data, even if power is lost. Due to this, they]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make an Image Search App in React using the Unsplash API]]></title>
-        <id>6249d59dac55f60686c2ce11</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-an-image-search-app-in-react/"/>
-        <updated>2022-04-04T22:19:13.000Z</updated>
-        <summary type="html"><![CDATA[Unsplash is a site where you can download free and unlicensed images and use them as you see fit. In this tutorial, we will make an Image Search App using the Unsplash API to get access to its enormous collection of images and also download them. Before starting the development]]></summary>
-        <author>
-            <name>Ateev Duggal</name>
         </author>
     </entry>
     <entry>
@@ -355,26 +355,6 @@ CSS-Tricks is joining DigitalOcean! originally published on CSS-Tricks. You shou
         <summary type="html"><![CDATA[Looking for ways to create a smooth CI/CD flow for your software? In this article, Tom Hastjarjanto shares some useful concepts that can be combined with GitHub Actions and NPM packages. With this setup, you will be able to release multiple times per hour with a fully documented trace managed by Git.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Tom Hastjarjanto)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Complete Guide To Mobile App Marketing]]></title>
-        <id>https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/</id>
-        <link href="https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/"/>
-        <updated>2022-03-11T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Standing out among the millions of mobile apps can be challenging, but proper marketing can give you that crucial edge. This piece shares how to start your mobile app marketing strategy and improve it as you go while keeping up with the latest trends in the market.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Sona Dabaghyan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Introduction To AWS Cloud Development Kit (CDK)]]></title>
-        <id>https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/</id>
-        <link href="https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/"/>
-        <updated>2022-03-10T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Vivek Maskara introduces Amazon Web Services’ (AWS) Cloud Development Kit (CDK) which is increasingly becoming a popular tool for managing AWS-based infrastructure. We’ll take a closer look into CDK concepts, and then how to use the AWS CDK toolkit to deploy a sample application to an AWS account.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vivek Maskara)</name>
         </author>
     </entry>
 </feed>
