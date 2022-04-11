@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-10T00:06:40.027Z</id>
+    <id>urn:2022-04-11T00:06:00.882Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-10T00:06:40.027Z</updated>
+    <updated>2022-04-11T00:06:00.882Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Python If-Else Statement Example]]></title>
+        <id>62530365ac55f60686c316e5</id>
+        <link href="https://www.freecodecamp.org/news/python-if-else-statement-example/"/>
+        <updated>2022-04-10T17:05:36.000Z</updated>
+        <summary type="html"><![CDATA[If-Else statements – AKA conditional logic – are the bedrock of programming. And Python has these in spades. Python offers several options for evaluating variables, their states, and whether specific conditions are met:  * Vanilla if-else statements  * if statements without the else part  * nested if-else]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PMP Certification Cost – 2022 Exam Fees, Degree Requirements, and Years of Experience]]></title>
+        <id>6252eea7ac55f60686c315af</id>
+        <link href="https://www.freecodecamp.org/news/pmp-certification-cost-degree-experience/"/>
+        <updated>2022-04-10T15:44:12.000Z</updated>
+        <summary type="html"><![CDATA[The Project Management Professional (PMP) is widely seen by project managers as the "gold standard" credential. Many senior PM roles now require you to be PMP certified. So if you have been working as a PM for a few years, this guide will show you how you can take the]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Image File Types – The .jpeg, .svg, and .png Picture Format Extensions Explained]]></title>
+        <id>62518273ac55f60686c30623</id>
+        <link href="https://www.freecodecamp.org/news/image-file-types-picture-format-extensions-jpeg-gif-png-svg-tiff/"/>
+        <updated>2022-04-09T22:26:12.000Z</updated>
+        <summary type="html"><![CDATA[When you’re working with images, it’s important to understand the different file types. Which format is best for what application? In this tutorial, we’re going to explain the most common image file types, and when you should use them. Note that this is a short, non-technical article. If you want]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dynamic Data-Fetching In An Authenticated Next.js App]]></title>
         <id>https://smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/</id>
@@ -36,13 +66,23 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[List to String Python – join() Syntax Example]]></title>
+        <id>625208b3ac55f60686c30de0</id>
+        <link href="https://www.freecodecamp.org/news/python-list-to-string-join-example/"/>
+        <updated>2022-04-07T23:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes you want to convert your Python lists into strings. This tutorial will show you an example of how you can do this. But first, let's explore the difference between the Python list data structure and the Python string data structure. What is a List in Python? In Python, a]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What is a DNS Server? DNS Servers Explained]]></title>
         <id>6251f9feac55f60686c30c4e</id>
         <link href="https://www.freecodecamp.org/news/what-is-a-dns-server/"/>
         <updated>2022-04-07T21:49:00.000Z</updated>
         <summary type="html"><![CDATA[The web would not work at all without DNS servers. They are responsible for translating domain names into IP addresses. Then computers use those IP addresses to locate and connect to web servers, and send users to the right websites. Many people first learned about the DNS system in October]]></summary>
         <author>
-            <name>Alex Garcia</name>
+            <name>Quincy Larson</name>
         </author>
     </entry>
     <entry>
@@ -52,7 +92,7 @@
         <updated>2022-04-07T21:25:00.000Z</updated>
         <summary type="html"><![CDATA[When it comes to CSS, there are a lot of properties that control the spacing of elements on a page. Two of the most common properties are margin and padding. Both margin and padding control the amount of space around an element, but they do it in different ways. This]]></summary>
         <author>
-            <name>Alex Garcia</name>
+            <name>Quincy Larson</name>
         </author>
     </entry>
     <entry>
@@ -76,26 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS IAM – Policy, Access Roles, Resources Explained, and Why They're Useful]]></title>
-        <id>62435e6e138a19064b068027</id>
-        <link href="https://www.freecodecamp.org/news/the-introduction-to-iam-i-wish-i-had/"/>
-        <updated>2022-04-07T02:50:41.000Z</updated>
-        <summary type="html"><![CDATA[IAM, or Identity and Access Management, is one of the most common terms you'll hear in cloud-native environments. But what does it do? And if you're already familiar with IAM, how long did it take you to fully understand it? I will explain the main concepts behind this massive family]]></summary>
-        <author>
-            <name>Periklis Gkolias</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to do a Hanging Indent in Google Docs]]></title>
-        <id>6250a2faac55f60686c2ff69</id>
-        <link href="https://www.freecodecamp.org/news/how-to-do-a-hanging-indent-in-google-docs/"/>
-        <updated>2022-04-06T21:02:00.000Z</updated>
-        <summary type="html"><![CDATA[A hanging indent is an easy way to make your documents look more professional. Google Docs has built in functionality to create this. What is a Hanging Indent? A hanging indent is a type of indentation where the first line of a paragraph is not indented, but subsequent lines in]]></summary>
-        <author>
-            <name>Alex Garcia</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Designing Better Breadcrumbs]]></title>
         <id>https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/</id>
         <link href="https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/"/>
@@ -113,26 +133,6 @@
         <summary type="html"><![CDATA[[Devs For Ukraine](https://www.devsforukraine.io/) is a free online charity conference organized by the lovely people at Remote. Two days filled with talks from engineering leaders around the globe, in support of Ukraine. April 25–26.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is PMP Certification? And How to Get PMP Exam Training]]></title>
-        <id>6251eef6ac55f60686c30b11</id>
-        <link href="https://www.freecodecamp.org/news/what-is-pmp-certification-pmp-training/"/>
-        <updated>2022-04-06T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[PMP certification is type of a project management certification offered by the Project Management Institute (PMI). It is globally recognized. Many experts in the project management field consider PMP certification to be a "gold standard". PMP stands for Project Management Professional. It's a designation awarded by PMI to people who]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Command Line for Beginners – How to Use the Terminal Like a Pro [Full Handbook]]]></title>
-        <id>6244f93a138a19064b068b9e</id>
-        <link href="https://www.freecodecamp.org/news/command-line-for-beginners/"/>
-        <updated>2022-04-05T16:45:18.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone! In this article we'll take a good look at the command line (also known as the CLI, console, terminal or shell). The command line is one of the most useful and efficient tools we have as developers and as computer users in general. But using it can feel]]></summary>
-        <author>
-            <name>Germán Cocca</name>
         </author>
     </entry>
     <entry>

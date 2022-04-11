@@ -84,7 +84,7 @@
           "description": "Data is among the most important things that make up a web application or a conventional native app. We need data to be able to see and perhaps understand the purpose of an application. In this article, we’ll look at another approach to obtaining data in an application that requires authentication or authorization using Next.js.",
           "link": "https://smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/",
           "publishedOn": "2022-04-08T12:00:00.000Z",
-          "wordCount": 1933,
+          "wordCount": 1931,
           "title": "Dynamic Data-Fetching In An Authenticated Next.js App",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/929fd32f-838d-44e8-88f1-2392555f6c44/dynamic-data-fetching-authenticated-nextjs-app.jpg",
@@ -99,7 +99,7 @@
           "description": "In this series of articles, we highlight design patterns and techniques to design better interfaces. You can also find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.",
           "link": "https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/",
           "publishedOn": "2022-04-06T14:20:00.000Z",
-          "wordCount": 6905,
+          "wordCount": 6902,
           "title": "Designing Better Breadcrumbs",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83a5c72a-37d0-4c2c-9ce8-1ebc22b913f3/designing-better-breadcrumbs-navigation.jpg",
@@ -129,7 +129,7 @@
           "description": "Whether you work in-house or for an external agency, we all share one challenge — dealing with stakeholders, be they your boss, colleagues, or clients. In this post, veteran web designer Paul Boag shares his approach to getting things done in even the most challenging organizations.",
           "link": "https://smashingmagazine.com/2022/04/stakeholders-overcoming-obstacles/",
           "publishedOn": "2022-04-05T13:00:00.000Z",
-          "wordCount": 2409,
+          "wordCount": 2420,
           "title": "How To Get Work Done: Wrangling Stakeholders And Overcoming Obstacles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/29128d44-8712-417e-8bca-ba367e4fd283/stakeholders-overcoming-obstacles.jpg",
@@ -159,7 +159,7 @@
           "description": "Next.js’ recent 12.0 release included a new beta feature: middleware. For a detailed explanation, you can read all about it in Sam’s previous article, “[Next.js Wildcard Subdomains](https://www.smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/)”. This article, on the other hand, dives into the overall concept of middleware and how handy it can be in building things.",
           "link": "https://smashingmagazine.com/2022/04/next-js-middleware-feature/",
           "publishedOn": "2022-04-01T10:30:00.000Z",
-          "wordCount": 1942,
+          "wordCount": 1941,
           "title": "The What, When, Why And How Of Next.js’ New Middleware Feature",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b614fa99-6432-4f8f-bb7a-234b9e0c082e/next-js-middleware-feature.jpg",
@@ -174,7 +174,7 @@
           "description": "Let’s welcome the new month with some new wallpapers. Designed with love by artists and designers from across the globe, they are available in versions with and without a calendar for April 2022.",
           "link": "https://smashingmagazine.com/2022/03/desktop-wallpaper-calendars-april-2022/",
           "publishedOn": "2022-03-31T08:00:00.000Z",
-          "wordCount": 1982,
+          "wordCount": 1985,
           "title": "A Time For Reflection (April 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5a643aa-d809-46c8-a329-689e866dc160/apr-22-blue-and-yellow-preview-opt.png",
@@ -189,7 +189,7 @@
           "description": "Best practices and guidelines to improve the UX of infinite scroll with bookmarks, footer reveal and pagination.",
           "link": "https://smashingmagazine.com/2022/03/designing-better-infinite-scroll/",
           "publishedOn": "2022-03-30T13:30:00.000Z",
-          "wordCount": 2927,
+          "wordCount": 2929,
           "title": "Designing A Better Infinite Scroll",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/41704a7b-0bd6-4144-b13e-2b092a0ea3e1/designing-better-infinite-scroll.jpg",
@@ -234,7 +234,7 @@
           "description": "In this article, we’ll talk about how to adapt our sites to the different scenarios of a device pointer: whether it has a pointer or not, or how accurate it is. To adapt our site to those devices’ needs we’ll talk about how to properly use media queries `hover`, `pointer`, `any-hover` and `any-pointer`.",
           "link": "https://smashingmagazine.com/2022/03/guide-hover-pointer-media-queries/",
           "publishedOn": "2022-03-28T17:00:00.000Z",
-          "wordCount": 4093,
+          "wordCount": 4095,
           "title": "A Guide To Hover And Pointer Media Queries",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e8282b7e-20d8-481e-8bd8-0261fd9c1cc0/guide-hover-pointer-media-queries.jpg",
@@ -249,7 +249,7 @@
           "description": "In the past months, there have been lots of talks dedictaed to Remix. Routing is not only one of the things that sets it apart from other frameworks, but it also fuels great performance and improves the overall experience for developers. Let’s dig in to all  of the features that build up routing in this powerful framework.",
           "link": "https://smashingmagazine.com/2022/03/remix-routes-demystified/",
           "publishedOn": "2022-03-25T14:00:00.000Z",
-          "wordCount": 2848,
+          "wordCount": 2843,
           "title": "Remix Routes Demystified",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e1a0f7a2-9511-4911-9e94-5a4368b69c07/remix-routes-demystified.jpg",
@@ -264,7 +264,7 @@
           "description": "In this article, Louis Lazaris describes and demonstrates some interesting HTML attributes that you may or may not have heard of and perhaps find useful enough to personally use in one of your projects.",
           "link": "https://smashingmagazine.com/2022/03/html-attributes-you-never-use/",
           "publishedOn": "2022-03-23T14:30:00.000Z",
-          "wordCount": 2813,
+          "wordCount": 2825,
           "title": "Those HTML Attributes You Never Use",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d94128cd-ff71-4c9a-8608-fc9c75fbea84/html-attributes-you-never-use.jpg",
@@ -279,7 +279,7 @@
           "description": "In this shorter series of articles, we highlight design patterns, techniques, and strategies to design better digital interfaces. You can also learn much more in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.",
           "link": "https://smashingmagazine.com/2022/03/design-is-all-about-good-timing/",
           "publishedOn": "2022-03-22T12:45:00.000Z",
-          "wordCount": 1275,
+          "wordCount": 1272,
           "title": "Good Design Is All About Good Timing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/60369f5b-1fb5-4426-805e-50a21628b7cd/design-good-timing.jpg",
@@ -294,7 +294,7 @@
           "description": "CSS Custom Properties can be used for far more than just color, and their values update in realtime, both via display mode updates and JavaScript logic. This is powerful stuff. Eric explains how modern CSS is a powerful piece of assistive technology that can thread into it to create flexible, maintainable and adaptive digital experiences.",
           "link": "https://smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/",
           "publishedOn": "2022-03-21T12:30:00.000Z",
-          "wordCount": 2459,
+          "wordCount": 2460,
           "title": "Windows High Contrast Mode, Forced Colors Mode And CSS Custom Properties",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bbb1649b-2b93-4626-851d-5178033d0894/windows-high-contrast-colors-mode-css-custom-properties.jpg",
@@ -309,7 +309,7 @@
           "description": "Building on a previous article on How to Build a Drag-and-Drop File Uploader, we’ll be adding some new features, but more importantly (maybe), we’ll be learning how to build it in Vue 3 and learn some best practices for Vue along the way.",
           "link": "https://smashingmagazine.com/2022/03/drag-drop-file-uploader-vuejs-3/",
           "publishedOn": "2022-03-18T10:30:00.000Z",
-          "wordCount": 6395,
+          "wordCount": 6399,
           "title": "How To Make A Drag-and-Drop File Uploader With Vue.js 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5a9a0777-fd16-459e-b50d-20d5119f220d/drag-drop-file-uploader-vuejs-3.jpg",
@@ -324,7 +324,7 @@
           "description": "This fresh new design trend has been picking up steam with the rising popularity of colorful inflated 3D graphics in web illustrations and with the latest Virtual Reality projects like “Horizon Worlds”. Let’s see if there is room for Claymorphism on the UI, and how we can create this effect with CSS.",
           "link": "https://smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/",
           "publishedOn": "2022-03-16T11:00:00.000Z",
-          "wordCount": 2595,
+          "wordCount": 2596,
           "title": "Claymorphism: Will It Stick Around?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d6ceacdf-835e-497e-a1e0-be958d42ac76/claymorphism-css-ui-design-trend.jpg",
@@ -339,7 +339,7 @@
           "description": "Looking for ways to create a smooth CI/CD flow for your software? In this article, Tom Hastjarjanto shares some useful concepts that can be combined with GitHub Actions and NPM packages. With this setup, you will be able to release multiple times per hour with a fully documented trace managed by Git.",
           "link": "https://smashingmagazine.com/2022/03/improving-ci-cd-flow-application/",
           "publishedOn": "2022-03-14T12:30:00.000Z",
-          "wordCount": 1633,
+          "wordCount": 1625,
           "title": "Improving The CI/CD Flow For Your Application",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/48cfa0d0-3a69-4e42-bc6d-3c07df736343/improving-ci-cd-flow-application.jpg",
@@ -355,6 +355,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "62530365ac55f60686c316e5",
+          "author": "Quincy Larson",
+          "description": "If-Else statements – AKA conditional logic – are the bedrock of programming. And Python has these in spades. Python offers several options for evaluating variables, their states, and whether specific conditions are met:  * Vanilla if-else statements  * if statements without the else part  * nested if-else",
+          "link": "https://www.freecodecamp.org/news/python-if-else-statement-example/",
+          "publishedOn": "2022-04-10T17:05:36.000Z",
+          "wordCount": 1222,
+          "title": "Python If-Else Statement Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/rosie-steggles-h1OhvEIIcxs-unsplash.jpg"
+        },
+        {
+          "id": "6252eea7ac55f60686c315af",
+          "author": "Quincy Larson",
+          "description": "The Project Management Professional (PMP) is widely seen by project managers as the \"gold standard\" credential. Many senior PM roles now require you to be PMP certified. So if you have been working as a PM for a few years, this guide will show you how you can take the",
+          "link": "https://www.freecodecamp.org/news/pmp-certification-cost-degree-experience/",
+          "publishedOn": "2022-04-10T15:44:12.000Z",
+          "wordCount": 1099,
+          "title": "PMP Certification Cost – 2022 Exam Fees, Degree Requirements, and Years of Experience",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/adetola-afolabi-W6Xfv9Rq1j0-unsplash.jpg"
+        },
+        {
+          "id": "62518273ac55f60686c30623",
+          "author": "Quincy Larson",
+          "description": "When you’re working with images, it’s important to understand the different file types. Which format is best for what application? In this tutorial, we’re going to explain the most common image file types, and when you should use them. Note that this is a short, non-technical article. If you want",
+          "link": "https://www.freecodecamp.org/news/image-file-types-picture-format-extensions-jpeg-gif-png-svg-tiff/",
+          "publishedOn": "2022-04-09T22:26:12.000Z",
+          "wordCount": 1299,
+          "title": "Image File Types – The .jpeg, .svg, and .png Picture Format Extensions Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/timon-klauser-3MAmj1ZKSZA-unsplash.jpg"
+        },
         {
           "id": "624c24d2ac55f60686c2e356",
           "author": "Kolade Chris",
@@ -376,22 +406,32 @@
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/os-loader--1-.png"
         },
         {
+          "id": "625208b3ac55f60686c30de0",
+          "author": "Quincy Larson",
+          "description": "Sometimes you want to convert your Python lists into strings. This tutorial will show you an example of how you can do this. But first, let's explore the difference between the Python list data structure and the Python string data structure. What is a List in Python? In Python, a",
+          "link": "https://www.freecodecamp.org/news/python-list-to-string-join-example/",
+          "publishedOn": "2022-04-07T23:24:00.000Z",
+          "wordCount": 984,
+          "title": "List to String Python – join() Syntax Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/david-clode-5uU8HSpfwkI-unsplash.jpg"
+        },
+        {
           "id": "6251f9feac55f60686c30c4e",
-          "author": "Alex Garcia",
+          "author": "Quincy Larson",
           "description": "The web would not work at all without DNS servers. They are responsible for translating domain names into IP addresses. Then computers use those IP addresses to locate and connect to web servers, and send users to the right websites. Many people first learned about the DNS system in October",
           "link": "https://www.freecodecamp.org/news/what-is-a-dns-server/",
           "publishedOn": "2022-04-07T21:49:00.000Z",
-          "wordCount": 929,
+          "wordCount": 1144,
           "title": "What is a DNS Server? DNS Servers Explained",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/christina-wocintechchat-com-glRqyWJgUeY-unsplash--1-.jpg"
         },
         {
           "id": "6251f744ac55f60686c30bf9",
-          "author": "Alex Garcia",
+          "author": "Quincy Larson",
           "description": "When it comes to CSS, there are a lot of properties that control the spacing of elements on a page. Two of the most common properties are margin and padding. Both margin and padding control the amount of space around an element, but they do it in different ways. This",
           "link": "https://www.freecodecamp.org/news/css-margin-vs-padding-what-is-the-difference/",
           "publishedOn": "2022-04-07T21:25:00.000Z",
-          "wordCount": 530,
+          "wordCount": 532,
           "title": "CSS Margin VS Padding – What is the Difference? [Solved]",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/simona-sergi-OfjOuw_prPg-unsplash.jpg"
         },
@@ -414,46 +454,6 @@
           "wordCount": 754,
           "title": "flushdns – How to Flush DNS with the Windows ipconfig /flushdns Command",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/domain-names-1772240_1920.png"
-        },
-        {
-          "id": "62435e6e138a19064b068027",
-          "author": "Periklis Gkolias",
-          "description": "IAM, or Identity and Access Management, is one of the most common terms you'll hear in cloud-native environments. But what does it do? And if you're already familiar with IAM, how long did it take you to fully understand it? I will explain the main concepts behind this massive family",
-          "link": "https://www.freecodecamp.org/news/the-introduction-to-iam-i-wish-i-had/",
-          "publishedOn": "2022-04-07T02:50:41.000Z",
-          "wordCount": 1463,
-          "title": "AWS IAM – Policy, Access Roles, Resources Explained, and Why They're Useful",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/g7In5Xr-2.jpg"
-        },
-        {
-          "id": "6250a2faac55f60686c2ff69",
-          "author": "Alex Garcia",
-          "description": "A hanging indent is an easy way to make your documents look more professional. Google Docs has built in functionality to create this. What is a Hanging Indent? A hanging indent is a type of indentation where the first line of a paragraph is not indented, but subsequent lines in",
-          "link": "https://www.freecodecamp.org/news/how-to-do-a-hanging-indent-in-google-docs/",
-          "publishedOn": "2022-04-06T21:02:00.000Z",
-          "wordCount": 471,
-          "title": "How to do a Hanging Indent in Google Docs",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/luca-bravo-K-HMCiChjag-unsplash.jpg"
-        },
-        {
-          "id": "6251eef6ac55f60686c30b11",
-          "author": "Quincy Larson",
-          "description": "PMP certification is type of a project management certification offered by the Project Management Institute (PMI). It is globally recognized. Many experts in the project management field consider PMP certification to be a \"gold standard\". PMP stands for Project Management Professional. It's a designation awarded by PMI to people who",
-          "link": "https://www.freecodecamp.org/news/what-is-pmp-certification-pmp-training/",
-          "publishedOn": "2022-04-06T04:00:00.000Z",
-          "wordCount": 1135,
-          "title": "What is PMP Certification? And How to Get PMP Exam Training",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/sven-mieke-fteR0e2BzKo-unsplash.jpg"
-        },
-        {
-          "id": "6244f93a138a19064b068b9e",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this article we'll take a good look at the command line (also known as the CLI, console, terminal or shell). The command line is one of the most useful and efficient tools we have as developers and as computer users in general. But using it can feel",
-          "link": "https://www.freecodecamp.org/news/command-line-for-beginners/",
-          "publishedOn": "2022-04-05T16:45:18.000Z",
-          "wordCount": 5637,
-          "title": "Command Line for Beginners – How to Use the Terminal Like a Pro [Full Handbook]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-pixabay-207580.jpg"
         }
       ]
     }
