@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-11T00:06:00.882Z</id>
+    <id>urn:2022-04-12T00:03:56.782Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-11T00:06:00.882Z</updated>
+    <updated>2022-04-12T00:03:56.782Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up a Virtual Environment in Python – And Why It's Useful]]></title>
+        <id>6250c642ac55f60686c3023c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/"/>
+        <updated>2022-04-11T20:46:19.000Z</updated>
+        <summary type="html"><![CDATA[When developing software with Python, a basic approach is to install Python on your machine, install all your required libraries via the terminal, write all your code in a single .py file or notebook, and run your Python program in the terminal. This is a common approach for a lot]]></summary>
+        <author>
+            <name>Stephen Sanwo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Sandbox Tutorial – How to Enable Sandbox On Windows]]></title>
+        <id>62515952ac55f60686c304b7</id>
+        <link href="https://www.freecodecamp.org/news/how-to-enable-sandbox-on-windows/"/>
+        <updated>2022-04-11T20:13:55.000Z</updated>
+        <summary type="html"><![CDATA[Windows Sandbox is a temporary lightweight desktop environment that you can use to safely run Windows applications in an isolated space.  The software or applications that you install inside the Windows sandbox environment remain "sandboxed", and they all run separately from the host machine. So whatever happens in the]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Learn the C++ Programming Language]]></title>
+        <id>624447b2138a19064b0683f8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-learn-the-c-programming-language/"/>
+        <updated>2022-04-11T17:10:10.000Z</updated>
+        <summary type="html"><![CDATA[In the early days of computer programming, programmers had to write individual instructions in the Assembly language one by one.  Later on programming languages like FORTRAN and COBOL were created. The problem with these languages was that they were targeted at a certain group of people – FORTRAN for]]></summary>
+        <author>
+            <name>Farhan Hasin Chowdhury</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DNS Server Not Responding – Service Unavailable DNS Failure [Solved]]]></title>
+        <id>624e9e37ac55f60686c2f16b</id>
+        <link href="https://www.freecodecamp.org/news/dns-server-not-responding-service-unavailable-dns-failure-solved/"/>
+        <updated>2022-04-11T15:59:55.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes, you might suddenly discover that you can’t access the internet on your computer because of the error “DNS server not responding”. If you run a troubleshooter for the issue, you'll get a message like the below: In your Chrome browser, you might also get an error like the one]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create and Upload Your First Python Package to PyPI]]></title>
+        <id>624da2d3ac55f60686c2eb3c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-and-upload-your-first-python-package-to-pypi/"/>
+        <updated>2022-04-11T15:40:44.000Z</updated>
+        <summary type="html"><![CDATA[A few weeks ago, I wanted to learn how to build my first Python package, and I was trying to figure out where to start.  Well, I got confused and a bit stressed trying to find a simple and easy tutorial I could use to get started. For this]]></summary>
+        <author>
+            <name>Rochdi Khalid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Git Stash Command]]></title>
+        <id>62459f78138a19064b069268</id>
+        <link href="https://www.freecodecamp.org/news/git-stash-commands/"/>
+        <updated>2022-04-11T15:05:10.000Z</updated>
+        <summary type="html"><![CDATA[Let's say you're working on a serious feature of a branch in Git – like revamping the hero section of your marketing page. You'll want to start doing experiments in your Revamp/Marketing-page-hero-section branch without screwing up master or main branch. Then suddenly you get call from your coworker to fix]]></summary>
+        <author>
+            <name>Preethi⚡</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boost Resource Loading With fetchpriority, a New Priority Hint]]></title>
+        <id>https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/</id>
+        <link href="https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/"/>
+        <updated>2022-04-11T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This new attribute will enable us to fine-tune relative resource priority, improve LCP performance, deprioritize JavaScript fetch calls, and much more. Let’s check out fetchpriority and explore some potential use cases.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python If-Else Statement Example]]></title>
         <id>62530365ac55f60686c316e5</id>
@@ -51,66 +121,6 @@
         <link href="https://www.freecodecamp.org/news/how-to-force-delete-a-file-windows-command-prompt-cmd-delete/"/>
         <updated>2022-04-08T07:11:26.000Z</updated>
         <summary type="html"><![CDATA[On a Windows computer, you might want to delete files to free up disk space, or because you don't want the file(s) on your computer anymore. But sometimes, it seems impossible to delete a file for various reasons. These include the file being open in another program, lack of write]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Break The Code 2.0: A Browser Game Where You Solve Missions Using Coding Skills]]></title>
-        <id>624f8558ac55f60686c2f79a</id>
-        <link href="https://www.freecodecamp.org/news/break-the-code-2-game/"/>
-        <updated>2022-04-08T03:38:54.000Z</updated>
-        <summary type="html"><![CDATA[Break The Code 2.0 is a new browser game that sends you back in time to the year 1999. You complete codebreaking missions using your programming knowledge and your puzzle-solving intuition. The game is spread across 4 drives worth of missions:  * The /g1/ drive – "BoxOfChocolates"  *]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[List to String Python – join() Syntax Example]]></title>
-        <id>625208b3ac55f60686c30de0</id>
-        <link href="https://www.freecodecamp.org/news/python-list-to-string-join-example/"/>
-        <updated>2022-04-07T23:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes you want to convert your Python lists into strings. This tutorial will show you an example of how you can do this. But first, let's explore the difference between the Python list data structure and the Python string data structure. What is a List in Python? In Python, a]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a DNS Server? DNS Servers Explained]]></title>
-        <id>6251f9feac55f60686c30c4e</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-dns-server/"/>
-        <updated>2022-04-07T21:49:00.000Z</updated>
-        <summary type="html"><![CDATA[The web would not work at all without DNS servers. They are responsible for translating domain names into IP addresses. Then computers use those IP addresses to locate and connect to web servers, and send users to the right websites. Many people first learned about the DNS system in October]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Margin VS Padding – What is the Difference? [Solved]]]></title>
-        <id>6251f744ac55f60686c30bf9</id>
-        <link href="https://www.freecodecamp.org/news/css-margin-vs-padding-what-is-the-difference/"/>
-        <updated>2022-04-07T21:25:00.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to CSS, there are a lot of properties that control the spacing of elements on a page. Two of the most common properties are margin and padding. Both margin and padding control the amount of space around an element, but they do it in different ways. This]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Figma Variants – Design a Scalable Mobile App [Full UX Course]]]></title>
-        <id>624ca9a4ac55f60686c2e7f9</id>
-        <link href="https://www.freecodecamp.org/news/design-a-scalable-mobile-app-with-figma-variants/"/>
-        <updated>2022-04-07T12:15:32.000Z</updated>
-        <summary type="html"><![CDATA[Figma is a popular graphics editor and prototyping tool. Figma variants can streamline your frontend design process by allowing you to group and organize similar components into a single container. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn how to use Figma variants]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[flushdns – How to Flush DNS with the Windows ipconfig /flushdns Command]]></title>
-        <id>624bfc9bac55f60686c2e0ff</id>
-        <link href="https://www.freecodecamp.org/news/flushdns-how-to-flush-dns-with-the-windows-ipconfig-flushdns-command/"/>
-        <updated>2022-04-07T03:41:13.000Z</updated>
-        <summary type="html"><![CDATA[You've probably noticed that, after visiting a website for the first time, the website loads much quicker the next time you visit. This is because your operating system, or browser in the case of Google Chrome, cache IP addresses and DNS (Domain Name System) information of any website you visit.]]></summary>
         <author>
             <name>Kolade Chris</name>
         </author>
