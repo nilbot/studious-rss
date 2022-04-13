@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=364385",
+          "author": "Shimin Zhang",
+          "description": "I’m a big fan of movies by J.J. Abrams. I enjoy their tight plots, quippy dialog, and of course: anamorphic lens flares. Filmmakers like Abrams use lens flare to add a dash of ‘homemade’ realism to their movies, …\nAdd a CSS Lens Flare to Photos for a Bright Touch originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/add-a-css-lens-flare-to-photos-for-a-bright-touch/",
+          "publishedOn": "2022-04-12T17:10:13.000Z",
+          "wordCount": 1552,
+          "title": "Add a CSS Lens Flare to Photos for a Bright Touch",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364385"
+        },
+        {
           "id": "https://css-tricks.com/?p=364166",
           "author": "Adam Rackis",
           "description": "Content delivery networks, or CDNs, allow you to improve the delivery of your website’s static resources, most notably, with CDN caching. They do this by serving your content from edge locations, which are located all over the world. When a …\nAdding CDN Caching to a Vite Build originally published on CSS-Tricks. You should get the newsletter.",
@@ -79,12 +89,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/04/artifacts-design-systems/",
+          "author": "hello@smashingmagazine.com (Dan Donald)",
+          "description": "Like many things, a design system isn’t ever a finished thing — it’s a journey. How we go about that journey can affect the things we produce along the way. Before diving in and starting to plan anything out, be clear about where the benefits and the risks might lie.",
+          "link": "https://smashingmagazine.com/2022/04/artifacts-design-systems/",
+          "publishedOn": "2022-04-12T12:00:00.000Z",
+          "wordCount": 4133,
+          "title": "Around The Artifacts Of Design Systems (Case Study)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/170611c4-1cfa-4f09-8ba0-2999839a2679/artifacts-design-systems.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/170611c4-1cfa-4f09-8ba0-2999839a2679/artifacts-design-systems.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/",
           "author": "hello@smashingmagazine.com (Adrian Bece)",
           "description": "This new attribute will enable us to fine-tune relative resource priority, improve LCP performance, deprioritize JavaScript fetch calls, and much more. Let’s check out fetchpriority and explore some potential use cases.",
           "link": "https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/",
           "publishedOn": "2022-04-11T09:30:00.000Z",
-          "wordCount": 2320,
+          "wordCount": 2314,
           "title": "Boost Resource Loading With fetchpriority, a New Priority Hint",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/619a484f-276c-46b3-9f4e-ce788aef7fef/boost-resource-loading-new-priority-hint-fetchpriority.jpg",
@@ -99,7 +124,7 @@
           "description": "Data is among the most important things that make up a web application or a conventional native app. We need data to be able to see and perhaps understand the purpose of an application. In this article, we’ll look at another approach to obtaining data in an application that requires authentication or authorization using Next.js.",
           "link": "https://smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/",
           "publishedOn": "2022-04-08T12:00:00.000Z",
-          "wordCount": 1939,
+          "wordCount": 1931,
           "title": "Dynamic Data-Fetching In An Authenticated Next.js App",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/929fd32f-838d-44e8-88f1-2392555f6c44/dynamic-data-fetching-authenticated-nextjs-app.jpg",
@@ -114,7 +139,7 @@
           "description": "In this series of articles, we highlight design patterns and techniques to design better interfaces. You can also find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.",
           "link": "https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/",
           "publishedOn": "2022-04-06T14:20:00.000Z",
-          "wordCount": 6905,
+          "wordCount": 6903,
           "title": "Designing Better Breadcrumbs",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83a5c72a-37d0-4c2c-9ce8-1ebc22b913f3/designing-better-breadcrumbs-navigation.jpg",
@@ -144,7 +169,7 @@
           "description": "Whether you work in-house or for an external agency, we all share one challenge — dealing with stakeholders, be they your boss, colleagues, or clients. In this post, veteran web designer Paul Boag shares his approach to getting things done in even the most challenging organizations.",
           "link": "https://smashingmagazine.com/2022/04/stakeholders-overcoming-obstacles/",
           "publishedOn": "2022-04-05T13:00:00.000Z",
-          "wordCount": 2417,
+          "wordCount": 2406,
           "title": "How To Get Work Done: Wrangling Stakeholders And Overcoming Obstacles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/29128d44-8712-417e-8bca-ba367e4fd283/stakeholders-overcoming-obstacles.jpg",
@@ -159,7 +184,7 @@
           "description": "Ever wondered how to build a paginated list that works with and without JavaScript? In this article, Manuel explains how you can leverage the power of Progressive Enhancement and do just that with Eleventy and Alpine.js.",
           "link": "https://smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/",
           "publishedOn": "2022-04-04T10:00:00.000Z",
-          "wordCount": 4564,
+          "wordCount": 4559,
           "title": "How To Build A Progressively Enhanced, Accessible, Filterable And Paginated List",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/247c8c69-4797-4922-9c3b-75cfa3362051/accessible-filterable-paginated-list-11ty-alpinejs.jpg",
@@ -174,7 +199,7 @@
           "description": "Next.js’ recent 12.0 release included a new beta feature: middleware. For a detailed explanation, you can read all about it in Sam’s previous article, “[Next.js Wildcard Subdomains](https://www.smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/)”. This article, on the other hand, dives into the overall concept of middleware and how handy it can be in building things.",
           "link": "https://smashingmagazine.com/2022/04/next-js-middleware-feature/",
           "publishedOn": "2022-04-01T10:30:00.000Z",
-          "wordCount": 1945,
+          "wordCount": 1950,
           "title": "The What, When, Why And How Of Next.js’ New Middleware Feature",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b614fa99-6432-4f8f-bb7a-234b9e0c082e/next-js-middleware-feature.jpg",
@@ -189,7 +214,7 @@
           "description": "Let’s welcome the new month with some new wallpapers. Designed with love by artists and designers from across the globe, they are available in versions with and without a calendar for April 2022.",
           "link": "https://smashingmagazine.com/2022/03/desktop-wallpaper-calendars-april-2022/",
           "publishedOn": "2022-03-31T08:00:00.000Z",
-          "wordCount": 1984,
+          "wordCount": 1975,
           "title": "A Time For Reflection (April 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5a643aa-d809-46c8-a329-689e866dc160/apr-22-blue-and-yellow-preview-opt.png",
@@ -204,7 +229,7 @@
           "description": "Best practices and guidelines to improve the UX of infinite scroll with bookmarks, footer reveal and pagination.",
           "link": "https://smashingmagazine.com/2022/03/designing-better-infinite-scroll/",
           "publishedOn": "2022-03-30T13:30:00.000Z",
-          "wordCount": 2926,
+          "wordCount": 2928,
           "title": "Designing A Better Infinite Scroll",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/41704a7b-0bd6-4144-b13e-2b092a0ea3e1/designing-better-infinite-scroll.jpg",
@@ -264,7 +289,7 @@
           "description": "In the past months, there have been lots of talks dedictaed to Remix. Routing is not only one of the things that sets it apart from other frameworks, but it also fuels great performance and improves the overall experience for developers. Let’s dig in to all  of the features that build up routing in this powerful framework.",
           "link": "https://smashingmagazine.com/2022/03/remix-routes-demystified/",
           "publishedOn": "2022-03-25T14:00:00.000Z",
-          "wordCount": 2839,
+          "wordCount": 2837,
           "title": "Remix Routes Demystified",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e1a0f7a2-9511-4911-9e94-5a4368b69c07/remix-routes-demystified.jpg",
@@ -279,7 +304,7 @@
           "description": "In this article, Louis Lazaris describes and demonstrates some interesting HTML attributes that you may or may not have heard of and perhaps find useful enough to personally use in one of your projects.",
           "link": "https://smashingmagazine.com/2022/03/html-attributes-you-never-use/",
           "publishedOn": "2022-03-23T14:30:00.000Z",
-          "wordCount": 2816,
+          "wordCount": 2813,
           "title": "Those HTML Attributes You Never Use",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d94128cd-ff71-4c9a-8608-fc9c75fbea84/html-attributes-you-never-use.jpg",
@@ -324,7 +349,7 @@
           "description": "Building on a previous article on How to Build a Drag-and-Drop File Uploader, we’ll be adding some new features, but more importantly (maybe), we’ll be learning how to build it in Vue 3 and learn some best practices for Vue along the way.",
           "link": "https://smashingmagazine.com/2022/03/drag-drop-file-uploader-vuejs-3/",
           "publishedOn": "2022-03-18T10:30:00.000Z",
-          "wordCount": 6394,
+          "wordCount": 6395,
           "title": "How To Make A Drag-and-Drop File Uploader With Vue.js 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5a9a0777-fd16-459e-b50d-20d5119f220d/drag-drop-file-uploader-vuejs-3.jpg",
@@ -339,7 +364,7 @@
           "description": "This fresh new design trend has been picking up steam with the rising popularity of colorful inflated 3D graphics in web illustrations and with the latest Virtual Reality projects like “Horizon Worlds”. Let’s see if there is room for Claymorphism on the UI, and how we can create this effect with CSS.",
           "link": "https://smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/",
           "publishedOn": "2022-03-16T11:00:00.000Z",
-          "wordCount": 2592,
+          "wordCount": 2590,
           "title": "Claymorphism: Will It Stick Around?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d6ceacdf-835e-497e-a1e0-be958d42ac76/claymorphism-css-ui-design-trend.jpg",
@@ -354,7 +379,7 @@
           "description": "Looking for ways to create a smooth CI/CD flow for your software? In this article, Tom Hastjarjanto shares some useful concepts that can be combined with GitHub Actions and NPM packages. With this setup, you will be able to release multiple times per hour with a fully documented trace managed by Git.",
           "link": "https://smashingmagazine.com/2022/03/improving-ci-cd-flow-application/",
           "publishedOn": "2022-03-14T12:30:00.000Z",
-          "wordCount": 1628,
+          "wordCount": 1643,
           "title": "Improving The CI/CD Flow For Your Application",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/48cfa0d0-3a69-4e42-bc6d-3c07df736343/improving-ci-cd-flow-application.jpg",
@@ -371,104 +396,104 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
-          "id": "6250c642ac55f60686c3023c",
-          "author": "Stephen Sanwo",
-          "description": "When developing software with Python, a basic approach is to install Python on your machine, install all your required libraries via the terminal, write all your code in a single .py file or notebook, and run your Python program in the terminal. This is a common approach for a lot",
-          "link": "https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/",
-          "publishedOn": "2022-04-11T20:46:19.000Z",
-          "wordCount": 1608,
-          "title": "How to Set Up a Virtual Environment in Python – And Why It's Useful",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/virtual-env-python.png"
+          "id": "622e87c6c3e3d106805daa1f",
+          "author": "Dillion Megida",
+          "description": "Node is a runtime environment that allows developers to execute JavaScript code outside the browser, on the server-side. NPM, on the other hand, is a package manager for publishing JavaScript packages (also known as Node modules) to the npm registry [https://www.npmjs.com/]. You can also use it to install packages to",
+          "link": "https://www.freecodecamp.org/news/how-to-update-node-and-npm-to-the-latest-version/",
+          "publishedOn": "2022-04-12T20:28:40.000Z",
+          "wordCount": 909,
+          "title": "How to Update Node and NPM to the Latest Version",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-markus-winkler-4052195.jpg"
         },
         {
-          "id": "62515952ac55f60686c304b7",
-          "author": "Md. Fahim Bin Amin",
-          "description": "Windows Sandbox is a temporary lightweight desktop environment that you can use to safely run Windows applications in an isolated space.  The software or applications that you install inside the Windows sandbox environment remain \"sandboxed\", and they all run separately from the host machine. So whatever happens in the",
-          "link": "https://www.freecodecamp.org/news/how-to-enable-sandbox-on-windows/",
-          "publishedOn": "2022-04-11T20:13:55.000Z",
-          "wordCount": 1538,
-          "title": "Windows Sandbox Tutorial – How to Enable Sandbox On Windows",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/close-up-image-programer-working-his-desk-office.jpg"
+          "id": "624eee4fac55f60686c2f457",
+          "author": "Ihechikara Vincent Abba",
+          "description": "While surfing the internet, we are able to interact with web servers through HyperText Transfer Protocol (HTTP) requests. These requests are sent from the client (our browsers) to the server before we get a response.  HTTP status codes allows us know if our request to the server was successful",
+          "link": "https://www.freecodecamp.org/news/http-error-504-gateway-timeout-status-code-explained/",
+          "publishedOn": "2022-04-12T20:21:09.000Z",
+          "wordCount": 974,
+          "title": "HTTP Error 504 – 504 Gateway Timeout Status Code Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/error.jpg"
         },
         {
-          "id": "624447b2138a19064b0683f8",
+          "id": "624aff1fac55f60686c2d22b",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In this article I'm going to give a brief introduction to operating systems and compare the three main OSs that are out there nowadays. First we're going to review what an OS is and little history about them. Then, we'll review the main features and differences of the",
+          "link": "https://www.freecodecamp.org/news/an-introduction-to-operating-systems/",
+          "publishedOn": "2022-04-12T20:14:34.000Z",
+          "wordCount": 4350,
+          "title": "Windows vs MacOS vs Linux – Operating System Handbook",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/artiom-vallat-mx9axbKqKW8-unsplash.jpg"
+        },
+        {
+          "id": "6255d209ac55f60686c33156",
+          "author": "Beau Carnes",
+          "description": "Terraform is an open-source infrastructure as code software tool that makes it easy to programmatically to set up infrastructure on a variety of cloud service providers. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Terraform and AWS to setup a development",
+          "link": "https://www.freecodecamp.org/news/learn-terraform-and-aws-by-building-a-dev-environment/",
+          "publishedOn": "2022-04-12T19:32:38.000Z",
+          "wordCount": 521,
+          "title": "Learn Terraform and AWS by Building a Dev Environment",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/terraform.png"
+        },
+        {
+          "id": "62552a7eac55f60686c32a7f",
           "author": "Farhan Hasin Chowdhury",
-          "description": "In the early days of computer programming, programmers had to write individual instructions in the Assembly language one by one.  Later on programming languages like FORTRAN and COBOL were created. The problem with these languages was that they were targeted at a certain group of people – FORTRAN for",
-          "link": "https://www.freecodecamp.org/news/how-to-learn-the-c-programming-language/",
-          "publishedOn": "2022-04-11T17:10:10.000Z",
-          "wordCount": 2866,
-          "title": "How to Learn the C++ Programming Language",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/How-to-Learn-the-C---Programming-Language.png"
+          "description": "Much of your experience as a developer will depend on what program you've chosen to write your code in. A good integrated development environment (IDE) or Code Editor can really boost your productivity. The problem with popular languages like Python is that every IDE or code editor under the sun",
+          "link": "https://www.freecodecamp.org/news/python-ide-best-ides-and-editors-for-python/",
+          "publishedOn": "2022-04-12T19:28:47.000Z",
+          "wordCount": 1581,
+          "title": "Python IDE – Best IDEs and Editors for Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-pixabay-45246.jpg"
         },
         {
-          "id": "624e9e37ac55f60686c2f16b",
+          "id": "62557467ac55f60686c32c28",
           "author": "Kolade Chris",
-          "description": "Sometimes, you might suddenly discover that you can’t access the internet on your computer because of the error “DNS server not responding”. If you run a troubleshooter for the issue, you'll get a message like the below: In your Chrome browser, you might also get an error like the one",
-          "link": "https://www.freecodecamp.org/news/dns-server-not-responding-service-unavailable-dns-failure-solved/",
-          "publishedOn": "2022-04-11T15:59:55.000Z",
-          "wordCount": 1548,
-          "title": "DNS Server Not Responding – Service Unavailable DNS Failure [Solved]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/binary-g3068c576e_1920.jpg"
+          "description": "If you take a look at your keyboard, you'll see that there’s no key for typing a checkmark. You could decide to copy the checkmark symbol from the internet and paste it directly into your HTML code, but an easier way to do it is to use the appropriate Unicode",
+          "link": "https://www.freecodecamp.org/news/checkmark-symbol-html-for-checkmark-unicode/",
+          "publishedOn": "2022-04-12T19:17:04.000Z",
+          "wordCount": 724,
+          "title": "Checkmark Symbol – HTML for Checkmark Unicode",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/checkmark.png"
         },
         {
-          "id": "624da2d3ac55f60686c2eb3c",
-          "author": "Rochdi Khalid",
-          "description": "A few weeks ago, I wanted to learn how to build my first Python package, and I was trying to figure out where to start.  Well, I got confused and a bit stressed trying to find a simple and easy tutorial I could use to get started. For this",
-          "link": "https://www.freecodecamp.org/news/how-to-create-and-upload-your-first-python-package-to-pypi/",
-          "publishedOn": "2022-04-11T15:40:44.000Z",
-          "wordCount": 3034,
-          "title": "How to Create and Upload Your First Python Package to PyPI",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/cover-image-python-packaging-blog-1.jpg"
+          "id": "623e2e30138a19064b065122",
+          "author": "Natalie Pina",
+          "description": "Engineers spend a good portion of their day writing code in their integrated development environment, or IDE for short. And Visual Studio Code [https://code.visualstudio.com/] is one of the best free IDE's on the market.  I find that personalizing my IDE helps me enjoy the time I spend using it",
+          "link": "https://www.freecodecamp.org/news/best-colorful-vscode-extensions-for-productivity/",
+          "publishedOn": "2022-04-12T18:19:17.000Z",
+          "wordCount": 830,
+          "title": "Best Colorful VSCode Extensions – How to Personalize Your Editor",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Cover.png"
         },
         {
-          "id": "62459f78138a19064b069268",
-          "author": "Preethi⚡",
-          "description": "Let's say you're working on a serious feature of a branch in Git – like revamping the hero section of your marketing page. You'll want to start doing experiments in your Revamp/Marketing-page-hero-section branch without screwing up master or main branch. Then suddenly you get call from your coworker to fix",
-          "link": "https://www.freecodecamp.org/news/git-stash-commands/",
-          "publishedOn": "2022-04-11T15:05:10.000Z",
-          "wordCount": 1405,
-          "title": "How to Use the Git Stash Command",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/stahs-1.png"
+          "id": "6248ec02ac55f60686c2c9f8",
+          "author": "Maybell Obadoni",
+          "description": "Imagine that you just bought a new home theater system and you go to set it up. What do you do first? Thank goodness you have a handy device manual to help you out. You just need to follow the steps detailed in the manual, and voilà! Your home theater",
+          "link": "https://www.freecodecamp.org/news/how-to-write-api-documentation-like-a-pro/",
+          "publishedOn": "2022-04-12T02:30:15.000Z",
+          "wordCount": 3015,
+          "title": "How to Write Good API Documentation",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/nick-morrison-FHnnjk1Yj7Y-unsplash-1.jpg"
         },
         {
-          "id": "62530365ac55f60686c316e5",
-          "author": "Quincy Larson",
-          "description": "If-Else statements – AKA conditional logic – are the bedrock of programming. And Python has these in spades. Python offers several options for evaluating variables, their states, and whether specific conditions are met:  * Vanilla if-else statements  * if statements without the else part  * nested if-else",
-          "link": "https://www.freecodecamp.org/news/python-if-else-statement-example/",
-          "publishedOn": "2022-04-10T17:05:36.000Z",
-          "wordCount": 1222,
-          "title": "Python If-Else Statement Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/rosie-steggles-h1OhvEIIcxs-unsplash.jpg"
+          "id": "6252cd94ac55f60686c312e0",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When creating a class in Python, you'll usually create attributes that may be shared across every object of a class or attributes that will be unique to each object of the class. In this article, we'll see the difference between class attributes and instance attributes in Python with examples. Before",
+          "link": "https://www.freecodecamp.org/news/python-attributes-class-and-instance-attribute-examples/",
+          "publishedOn": "2022-04-12T02:17:19.000Z",
+          "wordCount": 847,
+          "title": "Python Attributes – Class and Instance Attribute Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pyAttributes.jpg"
         },
         {
-          "id": "6252eea7ac55f60686c315af",
-          "author": "Quincy Larson",
-          "description": "The Project Management Professional (PMP) is widely seen by project managers as the \"gold standard\" credential. Many senior PM roles now require you to be PMP certified. So if you have been working as a PM for a few years, this guide will show you how you can take the",
-          "link": "https://www.freecodecamp.org/news/pmp-certification-cost-degree-experience/",
-          "publishedOn": "2022-04-10T15:44:12.000Z",
-          "wordCount": 1106,
-          "title": "PMP Certification Cost – 2022 Exam Fees, Degree Requirements, and Years of Experience",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/adetola-afolabi-W6Xfv9Rq1j0-unsplash.jpg"
-        },
-        {
-          "id": "62518273ac55f60686c30623",
-          "author": "Quincy Larson",
-          "description": "When you’re working with images, it’s important to understand the different file types. Which format is best for what application? In this tutorial, we’re going to explain the most common image file types, and when you should use them. Note that this is a short, non-technical article. If you want",
-          "link": "https://www.freecodecamp.org/news/image-file-types-picture-format-extensions-jpeg-gif-png-svg-tiff/",
-          "publishedOn": "2022-04-09T22:26:12.000Z",
-          "wordCount": 1299,
-          "title": "Image File Types – The .jpeg, .svg, and .png Picture Format Extensions Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/timon-klauser-3MAmj1ZKSZA-unsplash.jpg"
-        },
-        {
-          "id": "624c24d2ac55f60686c2e356",
-          "author": "Kolade Chris",
-          "description": "On a Windows computer, you might want to delete files to free up disk space, or because you don't want the file(s) on your computer anymore. But sometimes, it seems impossible to delete a file for various reasons. These include the file being open in another program, lack of write",
-          "link": "https://www.freecodecamp.org/news/how-to-force-delete-a-file-windows-command-prompt-cmd-delete/",
-          "publishedOn": "2022-04-08T07:11:26.000Z",
-          "wordCount": 582,
-          "title": "How to Force Delete a File – Windows Command Prompt cmd delete",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/trash-97586_1280.png"
+          "id": "624bed98ac55f60686c2e0f3",
+          "author": "Dionysia Lemonaki",
+          "description": "HTML is one of the fundamental technologies you can learn when starting out in web development. HTML code is present in every single webpage online. Once you have a good grasp of the fundamental concepts of the language, you will be well equipped to move on to the two other",
+          "link": "https://www.freecodecamp.org/news/what-is-html-what-does-html-stand-for-solved/",
+          "publishedOn": "2022-04-12T01:27:51.000Z",
+          "wordCount": 3464,
+          "title": "What is HTML? What Does HTML Stand For? [Solved]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-pixabay-270404.jpg"
         }
       ]
     }
