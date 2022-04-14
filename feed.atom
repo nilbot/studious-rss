@@ -1,10 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-13T00:03:48.190Z</id>
+    <id>urn:2022-04-14T00:03:56.817Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-13T00:03:48.190Z</updated>
+    <updated>2022-04-14T00:03:56.817Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Get Started with PysonDB]]></title>
+        <id>62552369ac55f60686c329f4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-started-with-pysondb/"/>
+        <updated>2022-04-13T19:30:13.000Z</updated>
+        <summary type="html"><![CDATA[We often need to store some data while working on our personal projects. We can use a SQL or NoSQL database with a server, but that would require us to do a bit of setup.  In one of my previous articles, we saw a solution to this problem with]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the slice() and splice() JavaScript Array Methods]]></title>
+        <id>625664b6ac55f60686c33732</id>
+        <link href="https://www.freecodecamp.org/news/javascript-slice-and-splice-how-to-use-the-slice-and-splice-js-array-methods/"/>
+        <updated>2022-04-13T19:17:33.000Z</updated>
+        <summary type="html"><![CDATA[When you are first learning JavaScript, it might be difficult to know the difference between the slice() and splice() array methods.  In this article, I will walk you through how to use the slice() and splice()  array methods using code examples.  How to use the slice() JavaScript]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Closure in JavaScript – Explained with Examples]]></title>
+        <id>62527fd2ac55f60686c30fd4</id>
+        <link href="https://www.freecodecamp.org/news/javascript-closures-explained-with-example/"/>
+        <updated>2022-04-13T18:57:03.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we are going to talk about closures in JavaScript. I'll walk you through the definition of a closure, a simple day-to-day fetch utility closure example, and some of the advantages and disadvantages of using closures.  Table of Contents  * Prerequisites   * What are]]></summary>
+        <author>
+            <name>Keyur Paralkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python .zip() – Zip Function in Python]]></title>
+        <id>624f2d28ac55f60686c2f644</id>
+        <link href="https://www.freecodecamp.org/news/python-zip-zip-function-in-python/"/>
+        <updated>2022-04-13T18:28:32.000Z</updated>
+        <summary type="html"><![CDATA[When you use the zip() function in Python, it takes two or more data sets and "zips" them together. This returns an object containing pairs of items derived from the data sets. It groups these items in the order of their indexes.  Let me break it down a bit]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn CRUD Operations in JavaScript by Building TODO APP]]></title>
+        <id>62508fa3ac55f60686c2feff</id>
+        <link href="https://www.freecodecamp.org/news/learn-crud-operations-in-javascript-by-building-todo-app/"/>
+        <updated>2022-04-13T17:57:32.000Z</updated>
+        <summary type="html"><![CDATA[Today we're gonna learn how to do CRUD Operations in JavaScript by making a Todo App. Let's get started 🔥 This is the app we're making today:  * Live preview [https://crud-application-al9am9v2v-joyshaheb.vercel.app/]  * GitHub Repository [https://github.com/JoyShaheb/CRUD-Application] You can watch this tutorial on YouTube as well if you like 🎥]]></summary>
+        <author>
+            <name>Joy Shaheb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing A Better Carousel UX]]></title>
+        <id>https://smashingmagazine.com/2022/04/designing-better-carousel-ux/</id>
+        <link href="https://smashingmagazine.com/2022/04/designing-better-carousel-ux/"/>
+        <updated>2022-04-13T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Carousels don’t have a good reputation, and rightfully so. But we can make them more useful. **Best practices and guidelines** to improve the carousel design with honest scrolling direction, labels, thumbnails and grouped prev/next-buttons.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use TypeScript with GraphQL using TypeGraphQL]]></title>
+        <id>624cb56dac55f60686c2e839</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-typescript-with-graphql/"/>
+        <updated>2022-04-13T00:18:19.000Z</updated>
+        <summary type="html"><![CDATA[What is TypeScript? TypeScript is a superset of JavaScript that compiles to JavaScript for production. It's like JavaScript, but with powers – type powers. TypeScript helps you build typed applications that help you avoid static type errors in those apps and make predictable code. Without TypeScript, a function declared to]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Glassmorphism? How to Create a Glass Card in Figma]]></title>
+        <id>624640c4138a19064b06a073</id>
+        <link href="https://www.freecodecamp.org/news/glassmorphism-how-to-create-a-glass-card-in-figma/"/>
+        <updated>2022-04-13T00:04:19.000Z</updated>
+        <summary type="html"><![CDATA[Glassmorphism is a growing trend in user interface design. It makes your designs look modern and elegant. ‌‌‌‌In this article, we'll be learning about what glassmorphism means, how accessible it is, and how to design a simple glass card.‌‌ What is Glassmorphism? Glassmorphism is a style which, as the name]]></summary>
+        <author>
+            <name>Ijelekhai Faith Olohijere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Animated Landing Page with GSAP and TailwindCSS]]></title>
+        <id>624fec14ac55f60686c2fa12</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-animated-landing-page-with-gsap-and-tailwindcss/"/>
+        <updated>2022-04-12T23:56:31.000Z</updated>
+        <summary type="html"><![CDATA[Animations are a crucial part of any great website. Why? When done well, animations vastly improve the user experience of any site, as they help make sites fun and intuitive to use. This article will show you how to build an animated landing page with the help of a JavaScript]]></summary>
+        <author>
+            <name>Paul Akinyemi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Started With React – A Beginner's Guide]]></title>
+        <id>6250281aac55f60686c2fbcb</id>
+        <link href="https://www.freecodecamp.org/news/get-started-with-react-for-beginners/"/>
+        <updated>2022-04-12T23:13:08.000Z</updated>
+        <summary type="html"><![CDATA[React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript framework for creating UI components-based user interfaces.  React is maintained by Meta (previously Facebook) and a community of individual developers and organizations. According to the 2021 Stack Overflow’s developer’s survey [https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-web-frameworks] , React.js surpassed jQuery]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Update Node and NPM to the Latest Version]]></title>
         <id>622e87c6c3e3d106805daa1f</id>
@@ -13,66 +113,6 @@
         <summary type="html"><![CDATA[Node is a runtime environment that allows developers to execute JavaScript code outside the browser, on the server-side. NPM, on the other hand, is a package manager for publishing JavaScript packages (also known as Node modules) to the npm registry [https://www.npmjs.com/]. You can also use it to install packages to]]></summary>
         <author>
             <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTTP Error 504 – 504 Gateway Timeout Status Code Explained]]></title>
-        <id>624eee4fac55f60686c2f457</id>
-        <link href="https://www.freecodecamp.org/news/http-error-504-gateway-timeout-status-code-explained/"/>
-        <updated>2022-04-12T20:21:09.000Z</updated>
-        <summary type="html"><![CDATA[While surfing the internet, we are able to interact with web servers through HyperText Transfer Protocol (HTTP) requests. These requests are sent from the client (our browsers) to the server before we get a response.  HTTP status codes allows us know if our request to the server was successful]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows vs MacOS vs Linux – Operating System Handbook]]></title>
-        <id>624aff1fac55f60686c2d22b</id>
-        <link href="https://www.freecodecamp.org/news/an-introduction-to-operating-systems/"/>
-        <updated>2022-04-12T20:14:34.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone! In this article I'm going to give a brief introduction to operating systems and compare the three main OSs that are out there nowadays. First we're going to review what an OS is and little history about them. Then, we'll review the main features and differences of the]]></summary>
-        <author>
-            <name>Germán Cocca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Terraform and AWS by Building a Dev Environment]]></title>
-        <id>6255d209ac55f60686c33156</id>
-        <link href="https://www.freecodecamp.org/news/learn-terraform-and-aws-by-building-a-dev-environment/"/>
-        <updated>2022-04-12T19:32:38.000Z</updated>
-        <summary type="html"><![CDATA[Terraform is an open-source infrastructure as code software tool that makes it easy to programmatically to set up infrastructure on a variety of cloud service providers. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Terraform and AWS to setup a development]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python IDE – Best IDEs and Editors for Python]]></title>
-        <id>62552a7eac55f60686c32a7f</id>
-        <link href="https://www.freecodecamp.org/news/python-ide-best-ides-and-editors-for-python/"/>
-        <updated>2022-04-12T19:28:47.000Z</updated>
-        <summary type="html"><![CDATA[Much of your experience as a developer will depend on what program you've chosen to write your code in. A good integrated development environment (IDE) or Code Editor can really boost your productivity. The problem with popular languages like Python is that every IDE or code editor under the sun]]></summary>
-        <author>
-            <name>Farhan Hasin Chowdhury</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Checkmark Symbol – HTML for Checkmark Unicode]]></title>
-        <id>62557467ac55f60686c32c28</id>
-        <link href="https://www.freecodecamp.org/news/checkmark-symbol-html-for-checkmark-unicode/"/>
-        <updated>2022-04-12T19:17:04.000Z</updated>
-        <summary type="html"><![CDATA[If you take a look at your keyboard, you'll see that there’s no key for typing a checkmark. You could decide to copy the checkmark symbol from the internet and paste it directly into your HTML code, but an easier way to do it is to use the appropriate Unicode]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Colorful VSCode Extensions – How to Personalize Your Editor]]></title>
-        <id>623e2e30138a19064b065122</id>
-        <link href="https://www.freecodecamp.org/news/best-colorful-vscode-extensions-for-productivity/"/>
-        <updated>2022-04-12T18:19:17.000Z</updated>
-        <summary type="html"><![CDATA[Engineers spend a good portion of their day writing code in their integrated development environment, or IDE for short. And Visual Studio Code [https://code.visualstudio.com/] is one of the best free IDE's on the market.  I find that personalizing my IDE helps me enjoy the time I spend using it]]></summary>
-        <author>
-            <name>Natalie Pina</name>
         </author>
     </entry>
     <entry>
@@ -94,36 +134,6 @@ Add a CSS Lens Flare to Photos for a Bright Touch originally published on CSS-Tr
         <summary type="html"><![CDATA[Like many things, a design system isn’t ever a finished thing — it’s a journey. How we go about that journey can affect the things we produce along the way. Before diving in and starting to plan anything out, be clear about where the benefits and the risks might lie.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Dan Donald)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write Good API Documentation]]></title>
-        <id>6248ec02ac55f60686c2c9f8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-api-documentation-like-a-pro/"/>
-        <updated>2022-04-12T02:30:15.000Z</updated>
-        <summary type="html"><![CDATA[Imagine that you just bought a new home theater system and you go to set it up. What do you do first? Thank goodness you have a handy device manual to help you out. You just need to follow the steps detailed in the manual, and voilà! Your home theater]]></summary>
-        <author>
-            <name>Maybell Obadoni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Attributes – Class and Instance Attribute Examples]]></title>
-        <id>6252cd94ac55f60686c312e0</id>
-        <link href="https://www.freecodecamp.org/news/python-attributes-class-and-instance-attribute-examples/"/>
-        <updated>2022-04-12T02:17:19.000Z</updated>
-        <summary type="html"><![CDATA[When creating a class in Python, you'll usually create attributes that may be shared across every object of a class or attributes that will be unique to each object of the class. In this article, we'll see the difference between class attributes and instance attributes in Python with examples. Before]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is HTML? What Does HTML Stand For? [Solved]]]></title>
-        <id>624bed98ac55f60686c2e0f3</id>
-        <link href="https://www.freecodecamp.org/news/what-is-html-what-does-html-stand-for-solved/"/>
-        <updated>2022-04-12T01:27:51.000Z</updated>
-        <summary type="html"><![CDATA[HTML is one of the fundamental technologies you can learn when starting out in web development. HTML code is present in every single webpage online. Once you have a good grasp of the fundamental concepts of the language, you will be well equipped to move on to the two other]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
         </author>
     </entry>
     <entry>
@@ -376,16 +386,6 @@ You can hear …
 CSS-Tricks is joining DigitalOcean! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving The CI/CD Flow For Your Application]]></title>
-        <id>https://smashingmagazine.com/2022/03/improving-ci-cd-flow-application/</id>
-        <link href="https://smashingmagazine.com/2022/03/improving-ci-cd-flow-application/"/>
-        <updated>2022-03-14T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking for ways to create a smooth CI/CD flow for your software? In this article, Tom Hastjarjanto shares some useful concepts that can be combined with GitHub Actions and NPM packages. With this setup, you will be able to release multiple times per hour with a fully documented trace managed by Git.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Tom Hastjarjanto)</name>
         </author>
     </entry>
 </feed>

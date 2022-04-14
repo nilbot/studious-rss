@@ -89,12 +89,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/04/designing-better-carousel-ux/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Carousels don’t have a good reputation, and rightfully so. But we can make them more useful. **Best practices and guidelines** to improve the carousel design with honest scrolling direction, labels, thumbnails and grouped prev/next-buttons.",
+          "link": "https://smashingmagazine.com/2022/04/designing-better-carousel-ux/",
+          "publishedOn": "2022-04-13T12:00:00.000Z",
+          "wordCount": 7258,
+          "title": "Designing A Better Carousel UX",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/729433dc-4cea-4eed-9128-0e9e6dbfe6db/designing-better-carousel-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/729433dc-4cea-4eed-9128-0e9e6dbfe6db/designing-better-carousel-ux.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/04/artifacts-design-systems/",
           "author": "hello@smashingmagazine.com (Dan Donald)",
           "description": "Like many things, a design system isn’t ever a finished thing — it’s a journey. How we go about that journey can affect the things we produce along the way. Before diving in and starting to plan anything out, be clear about where the benefits and the risks might lie.",
           "link": "https://smashingmagazine.com/2022/04/artifacts-design-systems/",
           "publishedOn": "2022-04-12T12:00:00.000Z",
-          "wordCount": 4133,
+          "wordCount": 4130,
           "title": "Around The Artifacts Of Design Systems (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/170611c4-1cfa-4f09-8ba0-2999839a2679/artifacts-design-systems.jpg",
@@ -124,7 +139,7 @@
           "description": "Data is among the most important things that make up a web application or a conventional native app. We need data to be able to see and perhaps understand the purpose of an application. In this article, we’ll look at another approach to obtaining data in an application that requires authentication or authorization using Next.js.",
           "link": "https://smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/",
           "publishedOn": "2022-04-08T12:00:00.000Z",
-          "wordCount": 1931,
+          "wordCount": 1939,
           "title": "Dynamic Data-Fetching In An Authenticated Next.js App",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/929fd32f-838d-44e8-88f1-2392555f6c44/dynamic-data-fetching-authenticated-nextjs-app.jpg",
@@ -139,7 +154,7 @@
           "description": "In this series of articles, we highlight design patterns and techniques to design better interfaces. You can also find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.",
           "link": "https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/",
           "publishedOn": "2022-04-06T14:20:00.000Z",
-          "wordCount": 6903,
+          "wordCount": 6899,
           "title": "Designing Better Breadcrumbs",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83a5c72a-37d0-4c2c-9ce8-1ebc22b913f3/designing-better-breadcrumbs-navigation.jpg",
@@ -169,7 +184,7 @@
           "description": "Whether you work in-house or for an external agency, we all share one challenge — dealing with stakeholders, be they your boss, colleagues, or clients. In this post, veteran web designer Paul Boag shares his approach to getting things done in even the most challenging organizations.",
           "link": "https://smashingmagazine.com/2022/04/stakeholders-overcoming-obstacles/",
           "publishedOn": "2022-04-05T13:00:00.000Z",
-          "wordCount": 2406,
+          "wordCount": 2417,
           "title": "How To Get Work Done: Wrangling Stakeholders And Overcoming Obstacles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/29128d44-8712-417e-8bca-ba367e4fd283/stakeholders-overcoming-obstacles.jpg",
@@ -184,7 +199,7 @@
           "description": "Ever wondered how to build a paginated list that works with and without JavaScript? In this article, Manuel explains how you can leverage the power of Progressive Enhancement and do just that with Eleventy and Alpine.js.",
           "link": "https://smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/",
           "publishedOn": "2022-04-04T10:00:00.000Z",
-          "wordCount": 4559,
+          "wordCount": 4558,
           "title": "How To Build A Progressively Enhanced, Accessible, Filterable And Paginated List",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/247c8c69-4797-4922-9c3b-75cfa3362051/accessible-filterable-paginated-list-11ty-alpinejs.jpg",
@@ -199,7 +214,7 @@
           "description": "Next.js’ recent 12.0 release included a new beta feature: middleware. For a detailed explanation, you can read all about it in Sam’s previous article, “[Next.js Wildcard Subdomains](https://www.smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/)”. This article, on the other hand, dives into the overall concept of middleware and how handy it can be in building things.",
           "link": "https://smashingmagazine.com/2022/04/next-js-middleware-feature/",
           "publishedOn": "2022-04-01T10:30:00.000Z",
-          "wordCount": 1950,
+          "wordCount": 1943,
           "title": "The What, When, Why And How Of Next.js’ New Middleware Feature",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b614fa99-6432-4f8f-bb7a-234b9e0c082e/next-js-middleware-feature.jpg",
@@ -214,7 +229,7 @@
           "description": "Let’s welcome the new month with some new wallpapers. Designed with love by artists and designers from across the globe, they are available in versions with and without a calendar for April 2022.",
           "link": "https://smashingmagazine.com/2022/03/desktop-wallpaper-calendars-april-2022/",
           "publishedOn": "2022-03-31T08:00:00.000Z",
-          "wordCount": 1975,
+          "wordCount": 1992,
           "title": "A Time For Reflection (April 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5a643aa-d809-46c8-a329-689e866dc160/apr-22-blue-and-yellow-preview-opt.png",
@@ -229,7 +244,7 @@
           "description": "Best practices and guidelines to improve the UX of infinite scroll with bookmarks, footer reveal and pagination.",
           "link": "https://smashingmagazine.com/2022/03/designing-better-infinite-scroll/",
           "publishedOn": "2022-03-30T13:30:00.000Z",
-          "wordCount": 2928,
+          "wordCount": 2930,
           "title": "Designing A Better Infinite Scroll",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/41704a7b-0bd6-4144-b13e-2b092a0ea3e1/designing-better-infinite-scroll.jpg",
@@ -274,7 +289,7 @@
           "description": "In this article, we’ll talk about how to adapt our sites to the different scenarios of a device pointer: whether it has a pointer or not, or how accurate it is. To adapt our site to those devices’ needs we’ll talk about how to properly use media queries `hover`, `pointer`, `any-hover` and `any-pointer`.",
           "link": "https://smashingmagazine.com/2022/03/guide-hover-pointer-media-queries/",
           "publishedOn": "2022-03-28T17:00:00.000Z",
-          "wordCount": 4096,
+          "wordCount": 4100,
           "title": "A Guide To Hover And Pointer Media Queries",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e8282b7e-20d8-481e-8bd8-0261fd9c1cc0/guide-hover-pointer-media-queries.jpg",
@@ -289,7 +304,7 @@
           "description": "In the past months, there have been lots of talks dedictaed to Remix. Routing is not only one of the things that sets it apart from other frameworks, but it also fuels great performance and improves the overall experience for developers. Let’s dig in to all  of the features that build up routing in this powerful framework.",
           "link": "https://smashingmagazine.com/2022/03/remix-routes-demystified/",
           "publishedOn": "2022-03-25T14:00:00.000Z",
-          "wordCount": 2837,
+          "wordCount": 2843,
           "title": "Remix Routes Demystified",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e1a0f7a2-9511-4911-9e94-5a4368b69c07/remix-routes-demystified.jpg",
@@ -304,7 +319,7 @@
           "description": "In this article, Louis Lazaris describes and demonstrates some interesting HTML attributes that you may or may not have heard of and perhaps find useful enough to personally use in one of your projects.",
           "link": "https://smashingmagazine.com/2022/03/html-attributes-you-never-use/",
           "publishedOn": "2022-03-23T14:30:00.000Z",
-          "wordCount": 2813,
+          "wordCount": 2808,
           "title": "Those HTML Attributes You Never Use",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d94128cd-ff71-4c9a-8608-fc9c75fbea84/html-attributes-you-never-use.jpg",
@@ -334,7 +349,7 @@
           "description": "CSS Custom Properties can be used for far more than just color, and their values update in realtime, both via display mode updates and JavaScript logic. This is powerful stuff. Eric explains how modern CSS is a powerful piece of assistive technology that can thread into it to create flexible, maintainable and adaptive digital experiences.",
           "link": "https://smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/",
           "publishedOn": "2022-03-21T12:30:00.000Z",
-          "wordCount": 2460,
+          "wordCount": 2459,
           "title": "Windows High Contrast Mode, Forced Colors Mode And CSS Custom Properties",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bbb1649b-2b93-4626-851d-5178033d0894/windows-high-contrast-colors-mode-css-custom-properties.jpg",
@@ -349,7 +364,7 @@
           "description": "Building on a previous article on How to Build a Drag-and-Drop File Uploader, we’ll be adding some new features, but more importantly (maybe), we’ll be learning how to build it in Vue 3 and learn some best practices for Vue along the way.",
           "link": "https://smashingmagazine.com/2022/03/drag-drop-file-uploader-vuejs-3/",
           "publishedOn": "2022-03-18T10:30:00.000Z",
-          "wordCount": 6395,
+          "wordCount": 6397,
           "title": "How To Make A Drag-and-Drop File Uploader With Vue.js 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5a9a0777-fd16-459e-b50d-20d5119f220d/drag-drop-file-uploader-vuejs-3.jpg",
@@ -364,7 +379,7 @@
           "description": "This fresh new design trend has been picking up steam with the rising popularity of colorful inflated 3D graphics in web illustrations and with the latest Virtual Reality projects like “Horizon Worlds”. Let’s see if there is room for Claymorphism on the UI, and how we can create this effect with CSS.",
           "link": "https://smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/",
           "publishedOn": "2022-03-16T11:00:00.000Z",
-          "wordCount": 2590,
+          "wordCount": 2594,
           "title": "Claymorphism: Will It Stick Around?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d6ceacdf-835e-497e-a1e0-be958d42ac76/claymorphism-css-ui-design-trend.jpg",
@@ -372,21 +387,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d6ceacdf-835e-497e-a1e0-be958d42ac76/claymorphism-css-ui-design-trend.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/03/improving-ci-cd-flow-application/",
-          "author": "hello@smashingmagazine.com (Tom Hastjarjanto)",
-          "description": "Looking for ways to create a smooth CI/CD flow for your software? In this article, Tom Hastjarjanto shares some useful concepts that can be combined with GitHub Actions and NPM packages. With this setup, you will be able to release multiple times per hour with a fully documented trace managed by Git.",
-          "link": "https://smashingmagazine.com/2022/03/improving-ci-cd-flow-application/",
-          "publishedOn": "2022-03-14T12:30:00.000Z",
-          "wordCount": 1643,
-          "title": "Improving The CI/CD Flow For Your Application",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/48cfa0d0-3a69-4e42-bc6d-3c07df736343/improving-ci-cd-flow-application.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/48cfa0d0-3a69-4e42-bc6d-3c07df736343/improving-ci-cd-flow-application.jpg"
         }
       ]
     },
@@ -396,6 +396,96 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "62552369ac55f60686c329f4",
+          "author": "Ashutosh Krishna",
+          "description": "We often need to store some data while working on our personal projects. We can use a SQL or NoSQL database with a server, but that would require us to do a bit of setup.  In one of my previous articles, we saw a solution to this problem with",
+          "link": "https://www.freecodecamp.org/news/how-to-get-started-with-pysondb/",
+          "publishedOn": "2022-04-13T19:30:13.000Z",
+          "wordCount": 2055,
+          "title": "How to Get Started with PysonDB",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pysondb.png"
+        },
+        {
+          "id": "625664b6ac55f60686c33732",
+          "author": "Jessica Wilkins",
+          "description": "When you are first learning JavaScript, it might be difficult to know the difference between the slice() and splice() array methods.  In this article, I will walk you through how to use the slice() and splice()  array methods using code examples.  How to use the slice() JavaScript",
+          "link": "https://www.freecodecamp.org/news/javascript-slice-and-splice-how-to-use-the-slice-and-splice-js-array-methods/",
+          "publishedOn": "2022-04-13T19:17:33.000Z",
+          "wordCount": 1132,
+          "title": "How to Use the slice() and splice() JavaScript Array Methods",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pankaj-patel-1IW4HQuauSU-unsplash.jpg"
+        },
+        {
+          "id": "62527fd2ac55f60686c30fd4",
+          "author": "Keyur Paralkar",
+          "description": "In this article, we are going to talk about closures in JavaScript. I'll walk you through the definition of a closure, a simple day-to-day fetch utility closure example, and some of the advantages and disadvantages of using closures.  Table of Contents  * Prerequisites   * What are",
+          "link": "https://www.freecodecamp.org/news/javascript-closures-explained-with-example/",
+          "publishedOn": "2022-04-13T18:57:03.000Z",
+          "wordCount": 1526,
+          "title": "Closure in JavaScript – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/safar-safarov-LKsHwgzyk7c-unsplash-2.jpg"
+        },
+        {
+          "id": "624f2d28ac55f60686c2f644",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When you use the zip() function in Python, it takes two or more data sets and \"zips\" them together. This returns an object containing pairs of items derived from the data sets. It groups these items in the order of their indexes.  Let me break it down a bit",
+          "link": "https://www.freecodecamp.org/news/python-zip-zip-function-in-python/",
+          "publishedOn": "2022-04-13T18:28:32.000Z",
+          "wordCount": 714,
+          "title": "Python .zip() – Zip Function in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/zip.jpg"
+        },
+        {
+          "id": "62508fa3ac55f60686c2feff",
+          "author": "Joy Shaheb",
+          "description": "Today we're gonna learn how to do CRUD Operations in JavaScript by making a Todo App. Let's get started 🔥 This is the app we're making today:  * Live preview [https://crud-application-al9am9v2v-joyshaheb.vercel.app/]  * GitHub Repository [https://github.com/JoyShaheb/CRUD-Application] You can watch this tutorial on YouTube as well if you like 🎥",
+          "link": "https://www.freecodecamp.org/news/learn-crud-operations-in-javascript-by-building-todo-app/",
+          "publishedOn": "2022-04-13T17:57:32.000Z",
+          "wordCount": 2971,
+          "title": "Learn CRUD Operations in JavaScript by Building TODO APP",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Frame-12--2-.png"
+        },
+        {
+          "id": "624cb56dac55f60686c2e839",
+          "author": "Dillion Megida",
+          "description": "What is TypeScript? TypeScript is a superset of JavaScript that compiles to JavaScript for production. It's like JavaScript, but with powers – type powers. TypeScript helps you build typed applications that help you avoid static type errors in those apps and make predictable code. Without TypeScript, a function declared to",
+          "link": "https://www.freecodecamp.org/news/how-to-use-typescript-with-graphql/",
+          "publishedOn": "2022-04-13T00:18:19.000Z",
+          "wordCount": 2366,
+          "title": "How to Use TypeScript with GraphQL using TypeGraphQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-reagan-787642.jpg"
+        },
+        {
+          "id": "624640c4138a19064b06a073",
+          "author": "Ijelekhai Faith Olohijere",
+          "description": "Glassmorphism is a growing trend in user interface design. It makes your designs look modern and elegant. ‌‌‌‌In this article, we'll be learning about what glassmorphism means, how accessible it is, and how to design a simple glass card.‌‌ What is Glassmorphism? Glassmorphism is a style which, as the name",
+          "link": "https://www.freecodecamp.org/news/glassmorphism-how-to-create-a-glass-card-in-figma/",
+          "publishedOn": "2022-04-13T00:04:19.000Z",
+          "wordCount": 1182,
+          "title": "What is Glassmorphism? How to Create a Glass Card in Figma",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Glass-Card.png"
+        },
+        {
+          "id": "624fec14ac55f60686c2fa12",
+          "author": "Paul Akinyemi",
+          "description": "Animations are a crucial part of any great website. Why? When done well, animations vastly improve the user experience of any site, as they help make sites fun and intuitive to use. This article will show you how to build an animated landing page with the help of a JavaScript",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-animated-landing-page-with-gsap-and-tailwindcss/",
+          "publishedOn": "2022-04-12T23:56:31.000Z",
+          "wordCount": 3192,
+          "title": "How to Build an Animated Landing Page with GSAP and TailwindCSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/gsap-gears.jpg"
+        },
+        {
+          "id": "6250281aac55f60686c2fbcb",
+          "author": "Joel Olawanle",
+          "description": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript framework for creating UI components-based user interfaces.  React is maintained by Meta (previously Facebook) and a community of individual developers and organizations. According to the 2021 Stack Overflow’s developer’s survey [https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-web-frameworks] , React.js surpassed jQuery",
+          "link": "https://www.freecodecamp.org/news/get-started-with-react-for-beginners/",
+          "publishedOn": "2022-04-12T23:13:08.000Z",
+          "wordCount": 2181,
+          "title": "How to Get Started With React – A Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/cover-template.png"
+        },
+        {
           "id": "622e87c6c3e3d106805daa1f",
           "author": "Dillion Megida",
           "description": "Node is a runtime environment that allows developers to execute JavaScript code outside the browser, on the server-side. NPM, on the other hand, is a package manager for publishing JavaScript packages (also known as Node modules) to the npm registry [https://www.npmjs.com/]. You can also use it to install packages to",
@@ -404,96 +494,6 @@
           "wordCount": 909,
           "title": "How to Update Node and NPM to the Latest Version",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-markus-winkler-4052195.jpg"
-        },
-        {
-          "id": "624eee4fac55f60686c2f457",
-          "author": "Ihechikara Vincent Abba",
-          "description": "While surfing the internet, we are able to interact with web servers through HyperText Transfer Protocol (HTTP) requests. These requests are sent from the client (our browsers) to the server before we get a response.  HTTP status codes allows us know if our request to the server was successful",
-          "link": "https://www.freecodecamp.org/news/http-error-504-gateway-timeout-status-code-explained/",
-          "publishedOn": "2022-04-12T20:21:09.000Z",
-          "wordCount": 974,
-          "title": "HTTP Error 504 – 504 Gateway Timeout Status Code Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/error.jpg"
-        },
-        {
-          "id": "624aff1fac55f60686c2d22b",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this article I'm going to give a brief introduction to operating systems and compare the three main OSs that are out there nowadays. First we're going to review what an OS is and little history about them. Then, we'll review the main features and differences of the",
-          "link": "https://www.freecodecamp.org/news/an-introduction-to-operating-systems/",
-          "publishedOn": "2022-04-12T20:14:34.000Z",
-          "wordCount": 4350,
-          "title": "Windows vs MacOS vs Linux – Operating System Handbook",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/artiom-vallat-mx9axbKqKW8-unsplash.jpg"
-        },
-        {
-          "id": "6255d209ac55f60686c33156",
-          "author": "Beau Carnes",
-          "description": "Terraform is an open-source infrastructure as code software tool that makes it easy to programmatically to set up infrastructure on a variety of cloud service providers. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Terraform and AWS to setup a development",
-          "link": "https://www.freecodecamp.org/news/learn-terraform-and-aws-by-building-a-dev-environment/",
-          "publishedOn": "2022-04-12T19:32:38.000Z",
-          "wordCount": 521,
-          "title": "Learn Terraform and AWS by Building a Dev Environment",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/terraform.png"
-        },
-        {
-          "id": "62552a7eac55f60686c32a7f",
-          "author": "Farhan Hasin Chowdhury",
-          "description": "Much of your experience as a developer will depend on what program you've chosen to write your code in. A good integrated development environment (IDE) or Code Editor can really boost your productivity. The problem with popular languages like Python is that every IDE or code editor under the sun",
-          "link": "https://www.freecodecamp.org/news/python-ide-best-ides-and-editors-for-python/",
-          "publishedOn": "2022-04-12T19:28:47.000Z",
-          "wordCount": 1581,
-          "title": "Python IDE – Best IDEs and Editors for Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-pixabay-45246.jpg"
-        },
-        {
-          "id": "62557467ac55f60686c32c28",
-          "author": "Kolade Chris",
-          "description": "If you take a look at your keyboard, you'll see that there’s no key for typing a checkmark. You could decide to copy the checkmark symbol from the internet and paste it directly into your HTML code, but an easier way to do it is to use the appropriate Unicode",
-          "link": "https://www.freecodecamp.org/news/checkmark-symbol-html-for-checkmark-unicode/",
-          "publishedOn": "2022-04-12T19:17:04.000Z",
-          "wordCount": 724,
-          "title": "Checkmark Symbol – HTML for Checkmark Unicode",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/checkmark.png"
-        },
-        {
-          "id": "623e2e30138a19064b065122",
-          "author": "Natalie Pina",
-          "description": "Engineers spend a good portion of their day writing code in their integrated development environment, or IDE for short. And Visual Studio Code [https://code.visualstudio.com/] is one of the best free IDE's on the market.  I find that personalizing my IDE helps me enjoy the time I spend using it",
-          "link": "https://www.freecodecamp.org/news/best-colorful-vscode-extensions-for-productivity/",
-          "publishedOn": "2022-04-12T18:19:17.000Z",
-          "wordCount": 830,
-          "title": "Best Colorful VSCode Extensions – How to Personalize Your Editor",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Cover.png"
-        },
-        {
-          "id": "6248ec02ac55f60686c2c9f8",
-          "author": "Maybell Obadoni",
-          "description": "Imagine that you just bought a new home theater system and you go to set it up. What do you do first? Thank goodness you have a handy device manual to help you out. You just need to follow the steps detailed in the manual, and voilà! Your home theater",
-          "link": "https://www.freecodecamp.org/news/how-to-write-api-documentation-like-a-pro/",
-          "publishedOn": "2022-04-12T02:30:15.000Z",
-          "wordCount": 3015,
-          "title": "How to Write Good API Documentation",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/nick-morrison-FHnnjk1Yj7Y-unsplash-1.jpg"
-        },
-        {
-          "id": "6252cd94ac55f60686c312e0",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When creating a class in Python, you'll usually create attributes that may be shared across every object of a class or attributes that will be unique to each object of the class. In this article, we'll see the difference between class attributes and instance attributes in Python with examples. Before",
-          "link": "https://www.freecodecamp.org/news/python-attributes-class-and-instance-attribute-examples/",
-          "publishedOn": "2022-04-12T02:17:19.000Z",
-          "wordCount": 847,
-          "title": "Python Attributes – Class and Instance Attribute Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pyAttributes.jpg"
-        },
-        {
-          "id": "624bed98ac55f60686c2e0f3",
-          "author": "Dionysia Lemonaki",
-          "description": "HTML is one of the fundamental technologies you can learn when starting out in web development. HTML code is present in every single webpage online. Once you have a good grasp of the fundamental concepts of the language, you will be well equipped to move on to the two other",
-          "link": "https://www.freecodecamp.org/news/what-is-html-what-does-html-stand-for-solved/",
-          "publishedOn": "2022-04-12T01:27:51.000Z",
-          "wordCount": 3464,
-          "title": "What is HTML? What Does HTML Stand For? [Solved]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-pixabay-270404.jpg"
         }
       ]
     }
