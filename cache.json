@@ -70,16 +70,6 @@
           "wordCount": 3001,
           "title": "Optimizing SVG Patterns to Their Smallest Size",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364090"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365042",
-          "author": "Chris Coyier",
-          "description": "Hey hey!\nI’ve got a big announcement to make here. (Where’s my gong? I feel like this really needs a good gong hit.)\nCSS-Tricks, this very website you’re looking at, has been acquired by DigitalOcean!\nYou can hear …\nCSS-Tricks is joining DigitalOcean! originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-tricks-is-joining-digitalocean/",
-          "publishedOn": "2022-03-15T12:18:44.000Z",
-          "wordCount": 6633,
-          "title": "CSS-Tricks is joining DigitalOcean!",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365042"
         }
       ]
     },
@@ -89,12 +79,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/04/upwork-freelancers-organization/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "Whether you work in-house or run a digital agency, there are occasions when you will consider hiring freelancers to supplement your team. Today, we’ll take a look into a platform known as [Upwork](https://upwork.pxf.io/c/1221738/1245573/13634) and the best ways in finding the the right freelancers as well as integrating them into your team.",
+          "link": "https://smashingmagazine.com/2022/04/upwork-freelancers-organization/",
+          "publishedOn": "2022-04-14T11:00:00.000Z",
+          "wordCount": 2445,
+          "title": "When And How To Use Freelancers In Your Organization",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cb70d8d4-8f9b-449e-86a7-1da3045fea9f/upwork-freelancers-organization.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cb70d8d4-8f9b-449e-86a7-1da3045fea9f/upwork-freelancers-organization.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/04/designing-better-carousel-ux/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "Carousels don’t have a good reputation, and rightfully so. But we can make them more useful. **Best practices and guidelines** to improve the carousel design with honest scrolling direction, labels, thumbnails and grouped prev/next-buttons.",
           "link": "https://smashingmagazine.com/2022/04/designing-better-carousel-ux/",
           "publishedOn": "2022-04-13T12:00:00.000Z",
-          "wordCount": 7258,
+          "wordCount": 7262,
           "title": "Designing A Better Carousel UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/729433dc-4cea-4eed-9128-0e9e6dbfe6db/designing-better-carousel-ux.jpg",
@@ -109,7 +114,7 @@
           "description": "Like many things, a design system isn’t ever a finished thing — it’s a journey. How we go about that journey can affect the things we produce along the way. Before diving in and starting to plan anything out, be clear about where the benefits and the risks might lie.",
           "link": "https://smashingmagazine.com/2022/04/artifacts-design-systems/",
           "publishedOn": "2022-04-12T12:00:00.000Z",
-          "wordCount": 4130,
+          "wordCount": 4133,
           "title": "Around The Artifacts Of Design Systems (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/170611c4-1cfa-4f09-8ba0-2999839a2679/artifacts-design-systems.jpg",
@@ -124,7 +129,7 @@
           "description": "This new attribute will enable us to fine-tune relative resource priority, improve LCP performance, deprioritize JavaScript fetch calls, and much more. Let’s check out fetchpriority and explore some potential use cases.",
           "link": "https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/",
           "publishedOn": "2022-04-11T09:30:00.000Z",
-          "wordCount": 2314,
+          "wordCount": 2327,
           "title": "Boost Resource Loading With fetchpriority, a New Priority Hint",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/619a484f-276c-46b3-9f4e-ce788aef7fef/boost-resource-loading-new-priority-hint-fetchpriority.jpg",
@@ -139,7 +144,7 @@
           "description": "Data is among the most important things that make up a web application or a conventional native app. We need data to be able to see and perhaps understand the purpose of an application. In this article, we’ll look at another approach to obtaining data in an application that requires authentication or authorization using Next.js.",
           "link": "https://smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/",
           "publishedOn": "2022-04-08T12:00:00.000Z",
-          "wordCount": 1939,
+          "wordCount": 1942,
           "title": "Dynamic Data-Fetching In An Authenticated Next.js App",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/929fd32f-838d-44e8-88f1-2392555f6c44/dynamic-data-fetching-authenticated-nextjs-app.jpg",
@@ -154,7 +159,7 @@
           "description": "In this series of articles, we highlight design patterns and techniques to design better interfaces. You can also find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.",
           "link": "https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/",
           "publishedOn": "2022-04-06T14:20:00.000Z",
-          "wordCount": 6899,
+          "wordCount": 6901,
           "title": "Designing Better Breadcrumbs",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83a5c72a-37d0-4c2c-9ce8-1ebc22b913f3/designing-better-breadcrumbs-navigation.jpg",
@@ -184,7 +189,7 @@
           "description": "Whether you work in-house or for an external agency, we all share one challenge — dealing with stakeholders, be they your boss, colleagues, or clients. In this post, veteran web designer Paul Boag shares his approach to getting things done in even the most challenging organizations.",
           "link": "https://smashingmagazine.com/2022/04/stakeholders-overcoming-obstacles/",
           "publishedOn": "2022-04-05T13:00:00.000Z",
-          "wordCount": 2417,
+          "wordCount": 2410,
           "title": "How To Get Work Done: Wrangling Stakeholders And Overcoming Obstacles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/29128d44-8712-417e-8bca-ba367e4fd283/stakeholders-overcoming-obstacles.jpg",
@@ -199,7 +204,7 @@
           "description": "Ever wondered how to build a paginated list that works with and without JavaScript? In this article, Manuel explains how you can leverage the power of Progressive Enhancement and do just that with Eleventy and Alpine.js.",
           "link": "https://smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/",
           "publishedOn": "2022-04-04T10:00:00.000Z",
-          "wordCount": 4558,
+          "wordCount": 4563,
           "title": "How To Build A Progressively Enhanced, Accessible, Filterable And Paginated List",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/247c8c69-4797-4922-9c3b-75cfa3362051/accessible-filterable-paginated-list-11ty-alpinejs.jpg",
@@ -214,7 +219,7 @@
           "description": "Next.js’ recent 12.0 release included a new beta feature: middleware. For a detailed explanation, you can read all about it in Sam’s previous article, “[Next.js Wildcard Subdomains](https://www.smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/)”. This article, on the other hand, dives into the overall concept of middleware and how handy it can be in building things.",
           "link": "https://smashingmagazine.com/2022/04/next-js-middleware-feature/",
           "publishedOn": "2022-04-01T10:30:00.000Z",
-          "wordCount": 1943,
+          "wordCount": 1941,
           "title": "The What, When, Why And How Of Next.js’ New Middleware Feature",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b614fa99-6432-4f8f-bb7a-234b9e0c082e/next-js-middleware-feature.jpg",
@@ -229,7 +234,7 @@
           "description": "Let’s welcome the new month with some new wallpapers. Designed with love by artists and designers from across the globe, they are available in versions with and without a calendar for April 2022.",
           "link": "https://smashingmagazine.com/2022/03/desktop-wallpaper-calendars-april-2022/",
           "publishedOn": "2022-03-31T08:00:00.000Z",
-          "wordCount": 1992,
+          "wordCount": 1991,
           "title": "A Time For Reflection (April 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5a643aa-d809-46c8-a329-689e866dc160/apr-22-blue-and-yellow-preview-opt.png",
@@ -289,7 +294,7 @@
           "description": "In this article, we’ll talk about how to adapt our sites to the different scenarios of a device pointer: whether it has a pointer or not, or how accurate it is. To adapt our site to those devices’ needs we’ll talk about how to properly use media queries `hover`, `pointer`, `any-hover` and `any-pointer`.",
           "link": "https://smashingmagazine.com/2022/03/guide-hover-pointer-media-queries/",
           "publishedOn": "2022-03-28T17:00:00.000Z",
-          "wordCount": 4100,
+          "wordCount": 4099,
           "title": "A Guide To Hover And Pointer Media Queries",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e8282b7e-20d8-481e-8bd8-0261fd9c1cc0/guide-hover-pointer-media-queries.jpg",
@@ -304,7 +309,7 @@
           "description": "In the past months, there have been lots of talks dedictaed to Remix. Routing is not only one of the things that sets it apart from other frameworks, but it also fuels great performance and improves the overall experience for developers. Let’s dig in to all  of the features that build up routing in this powerful framework.",
           "link": "https://smashingmagazine.com/2022/03/remix-routes-demystified/",
           "publishedOn": "2022-03-25T14:00:00.000Z",
-          "wordCount": 2843,
+          "wordCount": 2842,
           "title": "Remix Routes Demystified",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e1a0f7a2-9511-4911-9e94-5a4368b69c07/remix-routes-demystified.jpg",
@@ -319,7 +324,7 @@
           "description": "In this article, Louis Lazaris describes and demonstrates some interesting HTML attributes that you may or may not have heard of and perhaps find useful enough to personally use in one of your projects.",
           "link": "https://smashingmagazine.com/2022/03/html-attributes-you-never-use/",
           "publishedOn": "2022-03-23T14:30:00.000Z",
-          "wordCount": 2808,
+          "wordCount": 2814,
           "title": "Those HTML Attributes You Never Use",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d94128cd-ff71-4c9a-8608-fc9c75fbea84/html-attributes-you-never-use.jpg",
@@ -334,7 +339,7 @@
           "description": "In this shorter series of articles, we highlight design patterns, techniques, and strategies to design better digital interfaces. You can also learn much more in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.",
           "link": "https://smashingmagazine.com/2022/03/design-is-all-about-good-timing/",
           "publishedOn": "2022-03-22T12:45:00.000Z",
-          "wordCount": 1273,
+          "wordCount": 1276,
           "title": "Good Design Is All About Good Timing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/60369f5b-1fb5-4426-805e-50a21628b7cd/design-good-timing.jpg",
@@ -349,7 +354,7 @@
           "description": "CSS Custom Properties can be used for far more than just color, and their values update in realtime, both via display mode updates and JavaScript logic. This is powerful stuff. Eric explains how modern CSS is a powerful piece of assistive technology that can thread into it to create flexible, maintainable and adaptive digital experiences.",
           "link": "https://smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/",
           "publishedOn": "2022-03-21T12:30:00.000Z",
-          "wordCount": 2459,
+          "wordCount": 2457,
           "title": "Windows High Contrast Mode, Forced Colors Mode And CSS Custom Properties",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bbb1649b-2b93-4626-851d-5178033d0894/windows-high-contrast-colors-mode-css-custom-properties.jpg",
@@ -364,7 +369,7 @@
           "description": "Building on a previous article on How to Build a Drag-and-Drop File Uploader, we’ll be adding some new features, but more importantly (maybe), we’ll be learning how to build it in Vue 3 and learn some best practices for Vue along the way.",
           "link": "https://smashingmagazine.com/2022/03/drag-drop-file-uploader-vuejs-3/",
           "publishedOn": "2022-03-18T10:30:00.000Z",
-          "wordCount": 6397,
+          "wordCount": 6388,
           "title": "How To Make A Drag-and-Drop File Uploader With Vue.js 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5a9a0777-fd16-459e-b50d-20d5119f220d/drag-drop-file-uploader-vuejs-3.jpg",
@@ -372,21 +377,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5a9a0777-fd16-459e-b50d-20d5119f220d/drag-drop-file-uploader-vuejs-3.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "This fresh new design trend has been picking up steam with the rising popularity of colorful inflated 3D graphics in web illustrations and with the latest Virtual Reality projects like “Horizon Worlds”. Let’s see if there is room for Claymorphism on the UI, and how we can create this effect with CSS.",
-          "link": "https://smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/",
-          "publishedOn": "2022-03-16T11:00:00.000Z",
-          "wordCount": 2594,
-          "title": "Claymorphism: Will It Stick Around?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d6ceacdf-835e-497e-a1e0-be958d42ac76/claymorphism-css-ui-design-trend.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d6ceacdf-835e-497e-a1e0-be958d42ac76/claymorphism-css-ui-design-trend.jpg"
         }
       ]
     },
@@ -395,6 +385,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6257f4fcac55f60686c34755",
+          "author": "Zaira Hira",
+          "description": "Lists are one of the most useful and versatile data types available in Python. Lists are a collection of arbitrary objects, just like arrays in other programming languages. In this tutorial you will learn:  * An overview of lists and how they are defined.  * Methods to insert",
+          "link": "https://www.freecodecamp.org/news/python-list-append-how-to-add-an-item-to-a-list-in-python/",
+          "publishedOn": "2022-04-14T20:03:38.000Z",
+          "wordCount": 1639,
+          "title": "Python List .append() – How to Add an Item to a List in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/python-append--1-.png"
+        },
+        {
+          "id": "62563320ac55f60686c3361f",
+          "author": "Saransh Kataria",
+          "description": "Over the past few months, I've found a new use for the pictures that I've taken while hiking. I started using them as Zoom virtual backgrounds.  If you are anything like me and take a lot of pictures, it can be hard to decide which one looks good. And",
+          "link": "https://www.freecodecamp.org/news/how-to-write-a-script-to-change-zoom-background/",
+          "publishedOn": "2022-04-14T18:05:20.000Z",
+          "wordCount": 996,
+          "title": "How to Write a Script to Change Your Zoom Background Every Day",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/zoom-background-article-image.png"
+        },
+        {
+          "id": "6256dd0eac55f60686c33b09",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When you're writing, sometimes you might want to strike through certain text. This means adding a horizontal line that runs through a piece of text.  Here is what it looks like: you are an awesome person.  These are various use cases for strikethroughs:  * To indicate that",
+          "link": "https://www.freecodecamp.org/news/google-docs-strikethrough-how-to-cross-out-text-in-google-docs/",
+          "publishedOn": "2022-04-14T17:49:37.000Z",
+          "wordCount": 625,
+          "title": "Google Docs Strikethrough – How to Cross Out Text in Google Docs",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/siriwan-arunsiriwattana-gs0coXLmjdI-unsplash.jpg"
+        },
+        {
+          "id": "62496868ac55f60686c2ccbc",
+          "author": "TAPAS ADHIKARY",
+          "description": "A few months back, I was invited to talk to a group of engineering students of a renowned college in India. I was supposed to interact with them, motivate them, and finally tell them, \"What does the industry (the \"job\" world) look like?\", \"How can you get ready for it?\"",
+          "link": "https://www.freecodecamp.org/news/how-to-get-ready-for-a-job-in-tech/",
+          "publishedOn": "2022-04-14T17:05:57.000Z",
+          "wordCount": 2367,
+          "title": "How to Get Ready for a Job in Tech – Tips for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/1.png"
+        },
+        {
+          "id": "62560533ac55f60686c33336",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In this article we're going to take a look at modules in JavaScript. Modules are a technique heavily used in today's software design/architecture. First we're going to learn what they are and the different types of modules that exist. Then we're going to discuss why modules are useful.",
+          "link": "https://www.freecodecamp.org/news/modules-in-javascript/",
+          "publishedOn": "2022-04-14T01:17:29.000Z",
+          "wordCount": 2952,
+          "title": "Modules in JavaScript – CommonJS and ESmodules Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/carson-arias-7Z03R1wOdmI-unsplash.jpg"
+        },
+        {
+          "id": "62577335ac55f60686c342d8",
+          "author": "Beau Carnes",
+          "description": "Low-code is a software development approach that requires little coding in order to build applications. It is made possible through a low-code platform. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use the Appsmith Low-Code platform.  Ania Kubów created this course.",
+          "link": "https://www.freecodecamp.org/news/low-code-for-freelance-developers-startups/",
+          "publishedOn": "2022-04-14T01:17:01.000Z",
+          "wordCount": 518,
+          "title": "Low-Code for Freelance Developers & Startups",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/lowcode.png"
+        },
+        {
+          "id": "6256c1d7ac55f60686c33a90",
+          "author": "Kolade Chris",
+          "description": "In your HTML documents, you'll often need to make a list of items. And you can use bullet points for this purpose. You can show bullet points with the Unicode character (or entity) for bullet points. In this article, I will show you the Unicode and HTML entities for showing",
+          "link": "https://www.freecodecamp.org/news/dot-symbol-bullet-point-in-html-unicode/",
+          "publishedOn": "2022-04-14T00:45:10.000Z",
+          "wordCount": 550,
+          "title": "Dot Symbol – Bullet Point in HTML Unicode",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/bullet.png"
+        },
+        {
+          "id": "6257472dac55f60686c341a4",
+          "author": "Shruti Kapoor",
+          "description": "React 18 was released in March 2022. This release focuses on performance improvements and updating the rendering engine.  React 18 sets the foundation for concurrent rendering APIs that future React features will be built on top of.  In this feature, I will give a quick guide of the",
+          "link": "https://www.freecodecamp.org/news/react-18-new-features/",
+          "publishedOn": "2022-04-13T21:58:00.000Z",
+          "wordCount": 1992,
+          "title": "React 18 New Features – Concurrent Rendering, Automatic Batching, and More",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/featured.jpg"
+        },
         {
           "id": "62552369ac55f60686c329f4",
           "author": "Ashutosh Krishna",
@@ -414,86 +484,6 @@
           "wordCount": 1132,
           "title": "How to Use the slice() and splice() JavaScript Array Methods",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pankaj-patel-1IW4HQuauSU-unsplash.jpg"
-        },
-        {
-          "id": "62527fd2ac55f60686c30fd4",
-          "author": "Keyur Paralkar",
-          "description": "In this article, we are going to talk about closures in JavaScript. I'll walk you through the definition of a closure, a simple day-to-day fetch utility closure example, and some of the advantages and disadvantages of using closures.  Table of Contents  * Prerequisites   * What are",
-          "link": "https://www.freecodecamp.org/news/javascript-closures-explained-with-example/",
-          "publishedOn": "2022-04-13T18:57:03.000Z",
-          "wordCount": 1526,
-          "title": "Closure in JavaScript – Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/safar-safarov-LKsHwgzyk7c-unsplash-2.jpg"
-        },
-        {
-          "id": "624f2d28ac55f60686c2f644",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When you use the zip() function in Python, it takes two or more data sets and \"zips\" them together. This returns an object containing pairs of items derived from the data sets. It groups these items in the order of their indexes.  Let me break it down a bit",
-          "link": "https://www.freecodecamp.org/news/python-zip-zip-function-in-python/",
-          "publishedOn": "2022-04-13T18:28:32.000Z",
-          "wordCount": 714,
-          "title": "Python .zip() – Zip Function in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/zip.jpg"
-        },
-        {
-          "id": "62508fa3ac55f60686c2feff",
-          "author": "Joy Shaheb",
-          "description": "Today we're gonna learn how to do CRUD Operations in JavaScript by making a Todo App. Let's get started 🔥 This is the app we're making today:  * Live preview [https://crud-application-al9am9v2v-joyshaheb.vercel.app/]  * GitHub Repository [https://github.com/JoyShaheb/CRUD-Application] You can watch this tutorial on YouTube as well if you like 🎥",
-          "link": "https://www.freecodecamp.org/news/learn-crud-operations-in-javascript-by-building-todo-app/",
-          "publishedOn": "2022-04-13T17:57:32.000Z",
-          "wordCount": 2971,
-          "title": "Learn CRUD Operations in JavaScript by Building TODO APP",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Frame-12--2-.png"
-        },
-        {
-          "id": "624cb56dac55f60686c2e839",
-          "author": "Dillion Megida",
-          "description": "What is TypeScript? TypeScript is a superset of JavaScript that compiles to JavaScript for production. It's like JavaScript, but with powers – type powers. TypeScript helps you build typed applications that help you avoid static type errors in those apps and make predictable code. Without TypeScript, a function declared to",
-          "link": "https://www.freecodecamp.org/news/how-to-use-typescript-with-graphql/",
-          "publishedOn": "2022-04-13T00:18:19.000Z",
-          "wordCount": 2366,
-          "title": "How to Use TypeScript with GraphQL using TypeGraphQL",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-reagan-787642.jpg"
-        },
-        {
-          "id": "624640c4138a19064b06a073",
-          "author": "Ijelekhai Faith Olohijere",
-          "description": "Glassmorphism is a growing trend in user interface design. It makes your designs look modern and elegant. ‌‌‌‌In this article, we'll be learning about what glassmorphism means, how accessible it is, and how to design a simple glass card.‌‌ What is Glassmorphism? Glassmorphism is a style which, as the name",
-          "link": "https://www.freecodecamp.org/news/glassmorphism-how-to-create-a-glass-card-in-figma/",
-          "publishedOn": "2022-04-13T00:04:19.000Z",
-          "wordCount": 1182,
-          "title": "What is Glassmorphism? How to Create a Glass Card in Figma",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Glass-Card.png"
-        },
-        {
-          "id": "624fec14ac55f60686c2fa12",
-          "author": "Paul Akinyemi",
-          "description": "Animations are a crucial part of any great website. Why? When done well, animations vastly improve the user experience of any site, as they help make sites fun and intuitive to use. This article will show you how to build an animated landing page with the help of a JavaScript",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-animated-landing-page-with-gsap-and-tailwindcss/",
-          "publishedOn": "2022-04-12T23:56:31.000Z",
-          "wordCount": 3192,
-          "title": "How to Build an Animated Landing Page with GSAP and TailwindCSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/gsap-gears.jpg"
-        },
-        {
-          "id": "6250281aac55f60686c2fbcb",
-          "author": "Joel Olawanle",
-          "description": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript framework for creating UI components-based user interfaces.  React is maintained by Meta (previously Facebook) and a community of individual developers and organizations. According to the 2021 Stack Overflow’s developer’s survey [https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-web-frameworks] , React.js surpassed jQuery",
-          "link": "https://www.freecodecamp.org/news/get-started-with-react-for-beginners/",
-          "publishedOn": "2022-04-12T23:13:08.000Z",
-          "wordCount": 2181,
-          "title": "How to Get Started With React – A Beginner's Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/cover-template.png"
-        },
-        {
-          "id": "622e87c6c3e3d106805daa1f",
-          "author": "Dillion Megida",
-          "description": "Node is a runtime environment that allows developers to execute JavaScript code outside the browser, on the server-side. NPM, on the other hand, is a package manager for publishing JavaScript packages (also known as Node modules) to the npm registry [https://www.npmjs.com/]. You can also use it to install packages to",
-          "link": "https://www.freecodecamp.org/news/how-to-update-node-and-npm-to-the-latest-version/",
-          "publishedOn": "2022-04-12T20:28:40.000Z",
-          "wordCount": 909,
-          "title": "How to Update Node and NPM to the Latest Version",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-markus-winkler-4052195.jpg"
         }
       ]
     }

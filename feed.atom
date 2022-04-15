@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-14T00:03:56.817Z</id>
+    <id>urn:2022-04-15T00:04:11.673Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-14T00:03:56.817Z</updated>
+    <updated>2022-04-15T00:04:11.673Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Python List .append() – How to Add an Item to a List in Python]]></title>
+        <id>6257f4fcac55f60686c34755</id>
+        <link href="https://www.freecodecamp.org/news/python-list-append-how-to-add-an-item-to-a-list-in-python/"/>
+        <updated>2022-04-14T20:03:38.000Z</updated>
+        <summary type="html"><![CDATA[Lists are one of the most useful and versatile data types available in Python. Lists are a collection of arbitrary objects, just like arrays in other programming languages. In this tutorial you will learn:  * An overview of lists and how they are defined.  * Methods to insert]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write a Script to Change Your Zoom Background Every Day]]></title>
+        <id>62563320ac55f60686c3361f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-a-script-to-change-zoom-background/"/>
+        <updated>2022-04-14T18:05:20.000Z</updated>
+        <summary type="html"><![CDATA[Over the past few months, I've found a new use for the pictures that I've taken while hiking. I started using them as Zoom virtual backgrounds.  If you are anything like me and take a lot of pictures, it can be hard to decide which one looks good. And]]></summary>
+        <author>
+            <name>Saransh Kataria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Docs Strikethrough – How to Cross Out Text in Google Docs]]></title>
+        <id>6256dd0eac55f60686c33b09</id>
+        <link href="https://www.freecodecamp.org/news/google-docs-strikethrough-how-to-cross-out-text-in-google-docs/"/>
+        <updated>2022-04-14T17:49:37.000Z</updated>
+        <summary type="html"><![CDATA[When you're writing, sometimes you might want to strike through certain text. This means adding a horizontal line that runs through a piece of text.  Here is what it looks like: you are an awesome person.  These are various use cases for strikethroughs:  * To indicate that]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Ready for a Job in Tech – Tips for Beginners]]></title>
+        <id>62496868ac55f60686c2ccbc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-ready-for-a-job-in-tech/"/>
+        <updated>2022-04-14T17:05:57.000Z</updated>
+        <summary type="html"><![CDATA[A few months back, I was invited to talk to a group of engineering students of a renowned college in India. I was supposed to interact with them, motivate them, and finally tell them, "What does the industry (the "job" world) look like?", "How can you get ready for it?"]]></summary>
+        <author>
+            <name>TAPAS ADHIKARY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When And How To Use Freelancers In Your Organization]]></title>
+        <id>https://smashingmagazine.com/2022/04/upwork-freelancers-organization/</id>
+        <link href="https://smashingmagazine.com/2022/04/upwork-freelancers-organization/"/>
+        <updated>2022-04-14T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether you work in-house or run a digital agency, there are occasions when you will consider hiring freelancers to supplement your team. Today, we’ll take a look into a platform known as [Upwork](https://upwork.pxf.io/c/1221738/1245573/13634) and the best ways in finding the the right freelancers as well as integrating them into your team.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modules in JavaScript – CommonJS and ESmodules Explained]]></title>
+        <id>62560533ac55f60686c33336</id>
+        <link href="https://www.freecodecamp.org/news/modules-in-javascript/"/>
+        <updated>2022-04-14T01:17:29.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article we're going to take a look at modules in JavaScript. Modules are a technique heavily used in today's software design/architecture. First we're going to learn what they are and the different types of modules that exist. Then we're going to discuss why modules are useful.]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low-Code for Freelance Developers & Startups]]></title>
+        <id>62577335ac55f60686c342d8</id>
+        <link href="https://www.freecodecamp.org/news/low-code-for-freelance-developers-startups/"/>
+        <updated>2022-04-14T01:17:01.000Z</updated>
+        <summary type="html"><![CDATA[Low-code is a software development approach that requires little coding in order to build applications. It is made possible through a low-code platform. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use the Appsmith Low-Code platform.  Ania Kubów created this course.]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dot Symbol – Bullet Point in HTML Unicode]]></title>
+        <id>6256c1d7ac55f60686c33a90</id>
+        <link href="https://www.freecodecamp.org/news/dot-symbol-bullet-point-in-html-unicode/"/>
+        <updated>2022-04-14T00:45:10.000Z</updated>
+        <summary type="html"><![CDATA[In your HTML documents, you'll often need to make a list of items. And you can use bullet points for this purpose. You can show bullet points with the Unicode character (or entity) for bullet points. In this article, I will show you the Unicode and HTML entities for showing]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React 18 New Features – Concurrent Rendering, Automatic Batching, and More]]></title>
+        <id>6257472dac55f60686c341a4</id>
+        <link href="https://www.freecodecamp.org/news/react-18-new-features/"/>
+        <updated>2022-04-13T21:58:00.000Z</updated>
+        <summary type="html"><![CDATA[React 18 was released in March 2022. This release focuses on performance improvements and updating the rendering engine.  React 18 sets the foundation for concurrent rendering APIs that future React features will be built on top of.  In this feature, I will give a quick guide of the]]></summary>
+        <author>
+            <name>Shruti Kapoor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Get Started with PysonDB]]></title>
         <id>62552369ac55f60686c329f4</id>
@@ -26,36 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Closure in JavaScript – Explained with Examples]]></title>
-        <id>62527fd2ac55f60686c30fd4</id>
-        <link href="https://www.freecodecamp.org/news/javascript-closures-explained-with-example/"/>
-        <updated>2022-04-13T18:57:03.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we are going to talk about closures in JavaScript. I'll walk you through the definition of a closure, a simple day-to-day fetch utility closure example, and some of the advantages and disadvantages of using closures.  Table of Contents  * Prerequisites   * What are]]></summary>
-        <author>
-            <name>Keyur Paralkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python .zip() – Zip Function in Python]]></title>
-        <id>624f2d28ac55f60686c2f644</id>
-        <link href="https://www.freecodecamp.org/news/python-zip-zip-function-in-python/"/>
-        <updated>2022-04-13T18:28:32.000Z</updated>
-        <summary type="html"><![CDATA[When you use the zip() function in Python, it takes two or more data sets and "zips" them together. This returns an object containing pairs of items derived from the data sets. It groups these items in the order of their indexes.  Let me break it down a bit]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn CRUD Operations in JavaScript by Building TODO APP]]></title>
-        <id>62508fa3ac55f60686c2feff</id>
-        <link href="https://www.freecodecamp.org/news/learn-crud-operations-in-javascript-by-building-todo-app/"/>
-        <updated>2022-04-13T17:57:32.000Z</updated>
-        <summary type="html"><![CDATA[Today we're gonna learn how to do CRUD Operations in JavaScript by making a Todo App. Let's get started 🔥 This is the app we're making today:  * Live preview [https://crud-application-al9am9v2v-joyshaheb.vercel.app/]  * GitHub Repository [https://github.com/JoyShaheb/CRUD-Application] You can watch this tutorial on YouTube as well if you like 🎥]]></summary>
-        <author>
-            <name>Joy Shaheb</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Designing A Better Carousel UX]]></title>
         <id>https://smashingmagazine.com/2022/04/designing-better-carousel-ux/</id>
         <link href="https://smashingmagazine.com/2022/04/designing-better-carousel-ux/"/>
@@ -63,56 +123,6 @@
         <summary type="html"><![CDATA[Carousels don’t have a good reputation, and rightfully so. But we can make them more useful. **Best practices and guidelines** to improve the carousel design with honest scrolling direction, labels, thumbnails and grouped prev/next-buttons.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use TypeScript with GraphQL using TypeGraphQL]]></title>
-        <id>624cb56dac55f60686c2e839</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-typescript-with-graphql/"/>
-        <updated>2022-04-13T00:18:19.000Z</updated>
-        <summary type="html"><![CDATA[What is TypeScript? TypeScript is a superset of JavaScript that compiles to JavaScript for production. It's like JavaScript, but with powers – type powers. TypeScript helps you build typed applications that help you avoid static type errors in those apps and make predictable code. Without TypeScript, a function declared to]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Glassmorphism? How to Create a Glass Card in Figma]]></title>
-        <id>624640c4138a19064b06a073</id>
-        <link href="https://www.freecodecamp.org/news/glassmorphism-how-to-create-a-glass-card-in-figma/"/>
-        <updated>2022-04-13T00:04:19.000Z</updated>
-        <summary type="html"><![CDATA[Glassmorphism is a growing trend in user interface design. It makes your designs look modern and elegant. ‌‌‌‌In this article, we'll be learning about what glassmorphism means, how accessible it is, and how to design a simple glass card.‌‌ What is Glassmorphism? Glassmorphism is a style which, as the name]]></summary>
-        <author>
-            <name>Ijelekhai Faith Olohijere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Animated Landing Page with GSAP and TailwindCSS]]></title>
-        <id>624fec14ac55f60686c2fa12</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-animated-landing-page-with-gsap-and-tailwindcss/"/>
-        <updated>2022-04-12T23:56:31.000Z</updated>
-        <summary type="html"><![CDATA[Animations are a crucial part of any great website. Why? When done well, animations vastly improve the user experience of any site, as they help make sites fun and intuitive to use. This article will show you how to build an animated landing page with the help of a JavaScript]]></summary>
-        <author>
-            <name>Paul Akinyemi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Started With React – A Beginner's Guide]]></title>
-        <id>6250281aac55f60686c2fbcb</id>
-        <link href="https://www.freecodecamp.org/news/get-started-with-react-for-beginners/"/>
-        <updated>2022-04-12T23:13:08.000Z</updated>
-        <summary type="html"><![CDATA[React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript framework for creating UI components-based user interfaces.  React is maintained by Meta (previously Facebook) and a community of individual developers and organizations. According to the 2021 Stack Overflow’s developer’s survey [https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-web-frameworks] , React.js surpassed jQuery]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Update Node and NPM to the Latest Version]]></title>
-        <id>622e87c6c3e3d106805daa1f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-update-node-and-npm-to-the-latest-version/"/>
-        <updated>2022-04-12T20:28:40.000Z</updated>
-        <summary type="html"><![CDATA[Node is a runtime environment that allows developers to execute JavaScript code outside the browser, on the server-side. NPM, on the other hand, is a package manager for publishing JavaScript packages (also known as Node modules) to the npm registry [https://www.npmjs.com/]. You can also use it to install packages to]]></summary>
-        <author>
-            <name>Dillion Megida</name>
         </author>
     </entry>
     <entry>
@@ -362,30 +372,6 @@ Optimizing SVG Patterns to Their Smallest Size originally published on CSS-Trick
         <summary type="html"><![CDATA[Building on a previous article on How to Build a Drag-and-Drop File Uploader, we’ll be adding some new features, but more importantly (maybe), we’ll be learning how to build it in Vue 3 and learn some best practices for Vue along the way.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joseph Zimmerman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claymorphism: Will It Stick Around?]]></title>
-        <id>https://smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/</id>
-        <link href="https://smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/"/>
-        <updated>2022-03-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This fresh new design trend has been picking up steam with the rising popularity of colorful inflated 3D graphics in web illustrations and with the latest Virtual Reality projects like “Horizon Worlds”. Let’s see if there is room for Claymorphism on the UI, and how we can create this effect with CSS.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS-Tricks is joining DigitalOcean!]]></title>
-        <id>https://css-tricks.com/?p=365042</id>
-        <link href="https://css-tricks.com/css-tricks-is-joining-digitalocean/"/>
-        <updated>2022-03-15T12:18:44.000Z</updated>
-        <summary type="html"><![CDATA[Hey hey!
-I’ve got a big announcement to make here. (Where’s my gong? I feel like this really needs a good gong hit.)
-CSS-Tricks, this very website you’re looking at, has been acquired by DigitalOcean!
-You can hear …
-CSS-Tricks is joining DigitalOcean! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>
