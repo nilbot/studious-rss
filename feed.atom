@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-17T00:04:07.390Z</id>
+    <id>urn:2022-04-18T00:04:03.059Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-17T00:04:07.390Z</updated>
+    <updated>2022-04-18T00:04:03.059Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -361,17 +361,6 @@ Write HTML, the HTML Way (Not the XHTML Way) originally published on CSS-Tricks.
         <summary type="html"><![CDATA[CSS Custom Properties can be used for far more than just color, and their values update in realtime, both via display mode updates and JavaScript logic. This is powerful stuff. Eric explains how modern CSS is a powerful piece of assistive technology that can thread into it to create flexible, maintainable and adaptive digital experiences.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eric Bailey)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing SVG Patterns to Their Smallest Size]]></title>
-        <id>https://css-tricks.com/?p=364090</id>
-        <link href="https://css-tricks.com/optimizing-svg-patterns/"/>
-        <updated>2022-03-18T22:31:22.000Z</updated>
-        <summary type="html"><![CDATA[I recently created a brick wall pattern as part of my #PetitePatterns series, a challenge where I create organic-looking patterns or textures in SVG within 560 bytes (or approximately the size of two tweets). To fit this constraint, I have …
-Optimizing SVG Patterns to Their Smallest Size originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Bence Szabó</name>
         </author>
     </entry>
 </feed>
