@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=364908",
+          "author": "Paul Esch-Laurent",
+          "description": "Mermaid diagrams and flowcharts have been gaining traction, especially with GitHub’s announcement that they are natively supported in Markdown. Let’s take a look at what they are, how to use them, and just as importantly: why.\nJust like you …\nMaking Mermaid Diagrams in Markdown originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/making-mermaid-diagrams-in-markdown/",
+          "publishedOn": "2022-04-18T16:01:08.000Z",
+          "wordCount": 1277,
+          "title": "Making Mermaid Diagrams in Markdown",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364908"
+        },
+        {
           "id": "https://css-tricks.com/?p=364385",
           "author": "Shimin Zhang",
           "description": "I’m a big fan of movies by J.J. Abrams. I enjoy their tight plots, quippy dialog, and of course: anamorphic lens flares. Filmmakers like Abrams use lens flare to add a dash of ‘homemade’ realism to their movies, …\nAdd a CSS Lens Flare to Photos for a Bright Touch originally published on CSS-Tricks. You should get the newsletter.",
@@ -69,12 +79,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/04/guide-push-notifications-developers/",
+          "author": "hello@smashingmagazine.com (Lee Munroe)",
+          "description": "What are the benefits of using push notifications and what can you use them for? In this article, Lee Munroe explains how to implement them and which practices are best to follow.",
+          "link": "https://smashingmagazine.com/2022/04/guide-push-notifications-developers/",
+          "publishedOn": "2022-04-18T11:30:00.000Z",
+          "wordCount": 2507,
+          "title": "The Ultimate Guide To Push Notifications For Developers",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bebe6c69-2f6e-4523-aede-2ac46114a952/guide-push-notifications-developers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bebe6c69-2f6e-4523-aede-2ac46114a952/guide-push-notifications-developers.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/04/use-storytelling-ux/",
           "author": "hello@smashingmagazine.com (Marli Mesibov)",
           "description": "Storytelling is a powerful tool for any UX designer. It helps create a product and understand the people who use it. In this article, Marli Mesibov takes a real-life example of an app she helped to build in 2017 and explains five steps you can use to help you build a story into your user experience.",
           "link": "https://smashingmagazine.com/2022/04/use-storytelling-ux/",
           "publishedOn": "2022-04-15T14:00:00.000Z",
-          "wordCount": 3757,
+          "wordCount": 3756,
           "title": "How To Use Storytelling In UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fedf0602-27ae-4516-bcd0-df371fd0048b/use-storytelling-ux.jpg",
@@ -104,7 +129,7 @@
           "description": "Carousels don’t have a good reputation, and rightfully so. But we can make them more useful. **Best practices and guidelines** to improve the carousel design with honest scrolling direction, labels, thumbnails and grouped prev/next-buttons.",
           "link": "https://smashingmagazine.com/2022/04/designing-better-carousel-ux/",
           "publishedOn": "2022-04-13T12:00:00.000Z",
-          "wordCount": 7263,
+          "wordCount": 7265,
           "title": "Designing A Better Carousel UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/729433dc-4cea-4eed-9128-0e9e6dbfe6db/designing-better-carousel-ux.jpg",
@@ -119,7 +144,7 @@
           "description": "Like many things, a design system isn’t ever a finished thing — it’s a journey. How we go about that journey can affect the things we produce along the way. Before diving in and starting to plan anything out, be clear about where the benefits and the risks might lie.",
           "link": "https://smashingmagazine.com/2022/04/artifacts-design-systems/",
           "publishedOn": "2022-04-12T12:00:00.000Z",
-          "wordCount": 4124,
+          "wordCount": 4130,
           "title": "Around The Artifacts Of Design Systems (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/170611c4-1cfa-4f09-8ba0-2999839a2679/artifacts-design-systems.jpg",
@@ -134,7 +159,7 @@
           "description": "This new attribute will enable us to fine-tune relative resource priority, improve LCP performance, deprioritize JavaScript fetch calls, and much more. Let’s check out fetchpriority and explore some potential use cases.",
           "link": "https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/",
           "publishedOn": "2022-04-11T09:30:00.000Z",
-          "wordCount": 2320,
+          "wordCount": 2324,
           "title": "Boost Resource Loading With fetchpriority, a New Priority Hint",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/619a484f-276c-46b3-9f4e-ce788aef7fef/boost-resource-loading-new-priority-hint-fetchpriority.jpg",
@@ -149,7 +174,7 @@
           "description": "Data is among the most important things that make up a web application or a conventional native app. We need data to be able to see and perhaps understand the purpose of an application. In this article, we’ll look at another approach to obtaining data in an application that requires authentication or authorization using Next.js.",
           "link": "https://smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/",
           "publishedOn": "2022-04-08T12:00:00.000Z",
-          "wordCount": 1941,
+          "wordCount": 1930,
           "title": "Dynamic Data-Fetching In An Authenticated Next.js App",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/929fd32f-838d-44e8-88f1-2392555f6c44/dynamic-data-fetching-authenticated-nextjs-app.jpg",
@@ -164,7 +189,7 @@
           "description": "In this series of articles, we highlight design patterns and techniques to design better interfaces. You can also find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.",
           "link": "https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/",
           "publishedOn": "2022-04-06T14:20:00.000Z",
-          "wordCount": 6898,
+          "wordCount": 6902,
           "title": "Designing Better Breadcrumbs",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83a5c72a-37d0-4c2c-9ce8-1ebc22b913f3/designing-better-breadcrumbs-navigation.jpg",
@@ -194,7 +219,7 @@
           "description": "Whether you work in-house or for an external agency, we all share one challenge — dealing with stakeholders, be they your boss, colleagues, or clients. In this post, veteran web designer Paul Boag shares his approach to getting things done in even the most challenging organizations.",
           "link": "https://smashingmagazine.com/2022/04/stakeholders-overcoming-obstacles/",
           "publishedOn": "2022-04-05T13:00:00.000Z",
-          "wordCount": 2409,
+          "wordCount": 2416,
           "title": "How To Get Work Done: Wrangling Stakeholders And Overcoming Obstacles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/29128d44-8712-417e-8bca-ba367e4fd283/stakeholders-overcoming-obstacles.jpg",
@@ -209,7 +234,7 @@
           "description": "Ever wondered how to build a paginated list that works with and without JavaScript? In this article, Manuel explains how you can leverage the power of Progressive Enhancement and do just that with Eleventy and Alpine.js.",
           "link": "https://smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/",
           "publishedOn": "2022-04-04T10:00:00.000Z",
-          "wordCount": 4559,
+          "wordCount": 4562,
           "title": "How To Build A Progressively Enhanced, Accessible, Filterable And Paginated List",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/247c8c69-4797-4922-9c3b-75cfa3362051/accessible-filterable-paginated-list-11ty-alpinejs.jpg",
@@ -224,7 +249,7 @@
           "description": "Next.js’ recent 12.0 release included a new beta feature: middleware. For a detailed explanation, you can read all about it in Sam’s previous article, “[Next.js Wildcard Subdomains](https://www.smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/)”. This article, on the other hand, dives into the overall concept of middleware and how handy it can be in building things.",
           "link": "https://smashingmagazine.com/2022/04/next-js-middleware-feature/",
           "publishedOn": "2022-04-01T10:30:00.000Z",
-          "wordCount": 1943,
+          "wordCount": 1956,
           "title": "The What, When, Why And How Of Next.js’ New Middleware Feature",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b614fa99-6432-4f8f-bb7a-234b9e0c082e/next-js-middleware-feature.jpg",
@@ -239,7 +264,7 @@
           "description": "Let’s welcome the new month with some new wallpapers. Designed with love by artists and designers from across the globe, they are available in versions with and without a calendar for April 2022.",
           "link": "https://smashingmagazine.com/2022/03/desktop-wallpaper-calendars-april-2022/",
           "publishedOn": "2022-03-31T08:00:00.000Z",
-          "wordCount": 1977,
+          "wordCount": 1981,
           "title": "A Time For Reflection (April 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5a643aa-d809-46c8-a329-689e866dc160/apr-22-blue-and-yellow-preview-opt.png",
@@ -254,7 +279,7 @@
           "description": "Best practices and guidelines to improve the UX of infinite scroll with bookmarks, footer reveal and pagination.",
           "link": "https://smashingmagazine.com/2022/03/designing-better-infinite-scroll/",
           "publishedOn": "2022-03-30T13:30:00.000Z",
-          "wordCount": 2930,
+          "wordCount": 2923,
           "title": "Designing A Better Infinite Scroll",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/41704a7b-0bd6-4144-b13e-2b092a0ea3e1/designing-better-infinite-scroll.jpg",
@@ -299,7 +324,7 @@
           "description": "In this article, we’ll talk about how to adapt our sites to the different scenarios of a device pointer: whether it has a pointer or not, or how accurate it is. To adapt our site to those devices’ needs we’ll talk about how to properly use media queries `hover`, `pointer`, `any-hover` and `any-pointer`.",
           "link": "https://smashingmagazine.com/2022/03/guide-hover-pointer-media-queries/",
           "publishedOn": "2022-03-28T17:00:00.000Z",
-          "wordCount": 4096,
+          "wordCount": 4095,
           "title": "A Guide To Hover And Pointer Media Queries",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e8282b7e-20d8-481e-8bd8-0261fd9c1cc0/guide-hover-pointer-media-queries.jpg",
@@ -314,7 +339,7 @@
           "description": "In the past months, there have been lots of talks dedictaed to Remix. Routing is not only one of the things that sets it apart from other frameworks, but it also fuels great performance and improves the overall experience for developers. Let’s dig in to all  of the features that build up routing in this powerful framework.",
           "link": "https://smashingmagazine.com/2022/03/remix-routes-demystified/",
           "publishedOn": "2022-03-25T14:00:00.000Z",
-          "wordCount": 2839,
+          "wordCount": 2852,
           "title": "Remix Routes Demystified",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e1a0f7a2-9511-4911-9e94-5a4368b69c07/remix-routes-demystified.jpg",
@@ -329,7 +354,7 @@
           "description": "In this article, Louis Lazaris describes and demonstrates some interesting HTML attributes that you may or may not have heard of and perhaps find useful enough to personally use in one of your projects.",
           "link": "https://smashingmagazine.com/2022/03/html-attributes-you-never-use/",
           "publishedOn": "2022-03-23T14:30:00.000Z",
-          "wordCount": 2812,
+          "wordCount": 2811,
           "title": "Those HTML Attributes You Never Use",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d94128cd-ff71-4c9a-8608-fc9c75fbea84/html-attributes-you-never-use.jpg",
@@ -344,7 +369,7 @@
           "description": "In this shorter series of articles, we highlight design patterns, techniques, and strategies to design better digital interfaces. You can also learn much more in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.",
           "link": "https://smashingmagazine.com/2022/03/design-is-all-about-good-timing/",
           "publishedOn": "2022-03-22T12:45:00.000Z",
-          "wordCount": 1273,
+          "wordCount": 1274,
           "title": "Good Design Is All About Good Timing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/60369f5b-1fb5-4426-805e-50a21628b7cd/design-good-timing.jpg",
@@ -359,7 +384,7 @@
           "description": "CSS Custom Properties can be used for far more than just color, and their values update in realtime, both via display mode updates and JavaScript logic. This is powerful stuff. Eric explains how modern CSS is a powerful piece of assistive technology that can thread into it to create flexible, maintainable and adaptive digital experiences.",
           "link": "https://smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/",
           "publishedOn": "2022-03-21T12:30:00.000Z",
-          "wordCount": 2456,
+          "wordCount": 2461,
           "title": "Windows High Contrast Mode, Forced Colors Mode And CSS Custom Properties",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bbb1649b-2b93-4626-851d-5178033d0894/windows-high-contrast-colors-mode-css-custom-properties.jpg",
@@ -375,6 +400,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "625dbd15ac55f60686c37860",
+          "author": "Beau Carnes",
+          "description": "Improve your Python programming skills by coding everyone's favorite Windows 3.1 game: Minesweeper. We just published a Python course on the freeCodeCamp.org YouTube channel that will teach you how to code Minesweeper using the tkinter library. Jim from JimShapedCoding developed this course. He has published many popular programming courses both",
+          "link": "https://www.freecodecamp.org/news/object-oriented-programming-with-python-code-a-minesweeper-game/",
+          "publishedOn": "2022-04-18T19:46:59.000Z",
+          "wordCount": 410,
+          "title": "Object Oriented Programming with Python – Code a Minesweeper Game",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/minsweeper.png"
+        },
+        {
+          "id": "624bed78ac55f60686c2e0eb",
+          "author": "Dionysia Lemonaki",
+          "description": "This article is an overview of relational and non-relational databases. Besides learning the fundamental differences between the two types of databases, you will also learn how to decide which one to use for your next project by going over their strengths and weaknesses. Here is what we'll cover:  1.",
+          "link": "https://www.freecodecamp.org/news/relational-vs-nonrelational-databases-difference-between-sql-db-and-nosql-db/",
+          "publishedOn": "2022-04-18T17:56:26.000Z",
+          "wordCount": 2989,
+          "title": "Relational VS Nonrelational Databases – the Difference Between a SQL DB and a NoSQL DB",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/valeriia-svitlini-5w0ZbF8P5-4-unsplash.jpg"
+        },
+        {
+          "id": "625aba3aac55f60686c36423",
+          "author": "Idris Olubisi",
+          "description": "Two of the most fundamental image editing functions are resizing and cropping. But you should do these carefully because they have the potential to degrade image quality. Cropping always includes removing a portion of the original image, resulting in the loss of some pixels. This post will teach you how",
+          "link": "https://www.freecodecamp.org/news/how-to-upload-crop-resize-images-in-the-browser-in-nextjs/",
+          "publishedOn": "2022-04-18T17:19:23.000Z",
+          "wordCount": 1932,
+          "title": "Next.js Image Tutorial – How to Upload, Crop, and Resize Images in the Browser in Next",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-cottonbro-5083407.jpg"
+        },
+        {
+          "id": "622394b8c4d0d306772f4a08",
+          "author": "Tiago Monteiro",
+          "description": "I was recently reading J. Martin's book Systems Engineering Guidebook – A Process for Developing Systems and Products. From it, I learned that systems engineering reduces manufacturing costs by 40% – did you know that? Neither did I. Even after taking a class where one of the topics was systems",
+          "link": "https://www.freecodecamp.org/news/what-is-systems-engineering/",
+          "publishedOn": "2022-04-18T15:18:31.000Z",
+          "wordCount": 1461,
+          "title": "What is Systems Engineering? A Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/tt.jpeg"
+        },
         {
           "id": "62585158ac55f60686c34d0a",
           "author": "Md. Fahim Bin Amin",
@@ -434,46 +499,6 @@
           "wordCount": 1992,
           "title": "React 18 New Features – Concurrent Rendering, Automatic Batching, and More",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/featured.jpg"
-        },
-        {
-          "id": "6257f4fcac55f60686c34755",
-          "author": "Zaira Hira",
-          "description": "Lists are one of the most useful and versatile data types available in Python. Lists are a collection of arbitrary objects, just like arrays in other programming languages. In this tutorial you will learn:  * An overview of lists and how they are defined.  * Methods to insert",
-          "link": "https://www.freecodecamp.org/news/python-list-append-how-to-add-an-item-to-a-list-in-python/",
-          "publishedOn": "2022-04-14T20:03:38.000Z",
-          "wordCount": 1639,
-          "title": "Python List .append() – How to Add an Item to a List in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/python-append--1-.png"
-        },
-        {
-          "id": "62563320ac55f60686c3361f",
-          "author": "Saransh Kataria",
-          "description": "Over the past few months, I've found a new use for the pictures that I've taken while hiking. I started using them as Zoom virtual backgrounds.  If you are anything like me and take a lot of pictures, it can be hard to decide which one looks good. And",
-          "link": "https://www.freecodecamp.org/news/how-to-write-a-script-to-change-zoom-background/",
-          "publishedOn": "2022-04-14T18:05:20.000Z",
-          "wordCount": 996,
-          "title": "How to Write a Script to Change Your Zoom Background Every Day",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/zoom-background-article-image.png"
-        },
-        {
-          "id": "6256dd0eac55f60686c33b09",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When you're writing, sometimes you might want to strike through certain text. This means adding a horizontal line that runs through a piece of text.  Here is what it looks like: you are an awesome person.  These are various use cases for strikethroughs:  * To indicate that",
-          "link": "https://www.freecodecamp.org/news/google-docs-strikethrough-how-to-cross-out-text-in-google-docs/",
-          "publishedOn": "2022-04-14T17:49:37.000Z",
-          "wordCount": 625,
-          "title": "Google Docs Strikethrough – How to Cross Out Text in Google Docs",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/siriwan-arunsiriwattana-gs0coXLmjdI-unsplash.jpg"
-        },
-        {
-          "id": "62496868ac55f60686c2ccbc",
-          "author": "TAPAS ADHIKARY",
-          "description": "A few months back, I was invited to talk to a group of engineering students of a renowned college in India. I was supposed to interact with them, motivate them, and finally tell them, \"What does the industry (the \"job\" world) look like?\", \"How can you get ready for it?\"",
-          "link": "https://www.freecodecamp.org/news/how-to-get-ready-for-a-job-in-tech/",
-          "publishedOn": "2022-04-14T17:05:57.000Z",
-          "wordCount": 2367,
-          "title": "How to Get Ready for a Job in Tech – Tips for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/1.png"
         }
       ]
     }

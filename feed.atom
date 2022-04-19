@@ -1,10 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-18T00:04:03.059Z</id>
+    <id>urn:2022-04-19T00:03:52.843Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-18T00:04:03.059Z</updated>
+    <updated>2022-04-19T00:03:52.843Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Object Oriented Programming with Python – Code a Minesweeper Game]]></title>
+        <id>625dbd15ac55f60686c37860</id>
+        <link href="https://www.freecodecamp.org/news/object-oriented-programming-with-python-code-a-minesweeper-game/"/>
+        <updated>2022-04-18T19:46:59.000Z</updated>
+        <summary type="html"><![CDATA[Improve your Python programming skills by coding everyone's favorite Windows 3.1 game: Minesweeper. We just published a Python course on the freeCodeCamp.org YouTube channel that will teach you how to code Minesweeper using the tkinter library. Jim from JimShapedCoding developed this course. He has published many popular programming courses both]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Relational VS Nonrelational Databases – the Difference Between a SQL DB and a NoSQL DB]]></title>
+        <id>624bed78ac55f60686c2e0eb</id>
+        <link href="https://www.freecodecamp.org/news/relational-vs-nonrelational-databases-difference-between-sql-db-and-nosql-db/"/>
+        <updated>2022-04-18T17:56:26.000Z</updated>
+        <summary type="html"><![CDATA[This article is an overview of relational and non-relational databases. Besides learning the fundamental differences between the two types of databases, you will also learn how to decide which one to use for your next project by going over their strengths and weaknesses. Here is what we'll cover:  1.]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js Image Tutorial – How to Upload, Crop, and Resize Images in the Browser in Next]]></title>
+        <id>625aba3aac55f60686c36423</id>
+        <link href="https://www.freecodecamp.org/news/how-to-upload-crop-resize-images-in-the-browser-in-nextjs/"/>
+        <updated>2022-04-18T17:19:23.000Z</updated>
+        <summary type="html"><![CDATA[Two of the most fundamental image editing functions are resizing and cropping. But you should do these carefully because they have the potential to degrade image quality. Cropping always includes removing a portion of the original image, resulting in the loss of some pixels. This post will teach you how]]></summary>
+        <author>
+            <name>Idris Olubisi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Mermaid Diagrams in Markdown]]></title>
+        <id>https://css-tricks.com/?p=364908</id>
+        <link href="https://css-tricks.com/making-mermaid-diagrams-in-markdown/"/>
+        <updated>2022-04-18T16:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Mermaid diagrams and flowcharts have been gaining traction, especially with GitHub’s announcement that they are natively supported in Markdown. Let’s take a look at what they are, how to use them, and just as importantly: why.
+Just like you …
+Making Mermaid Diagrams in Markdown originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Paul Esch-Laurent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Systems Engineering? A Beginner's Guide]]></title>
+        <id>622394b8c4d0d306772f4a08</id>
+        <link href="https://www.freecodecamp.org/news/what-is-systems-engineering/"/>
+        <updated>2022-04-18T15:18:31.000Z</updated>
+        <summary type="html"><![CDATA[I was recently reading J. Martin's book Systems Engineering Guidebook – A Process for Developing Systems and Products. From it, I learned that systems engineering reduces manufacturing costs by 40% – did you know that? Neither did I. Even after taking a class where one of the topics was systems]]></summary>
+        <author>
+            <name>Tiago Monteiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate Guide To Push Notifications For Developers]]></title>
+        <id>https://smashingmagazine.com/2022/04/guide-push-notifications-developers/</id>
+        <link href="https://smashingmagazine.com/2022/04/guide-push-notifications-developers/"/>
+        <updated>2022-04-18T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What are the benefits of using push notifications and what can you use them for? In this article, Lee Munroe explains how to implement them and which practices are best to follow.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Lee Munroe)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Fix the "Item Not Found" Windows Error When Deleting a File or Folder]]></title>
         <id>62585158ac55f60686c34d0a</id>
@@ -73,46 +135,6 @@
         <summary type="html"><![CDATA[React 18 was released in March 2022. This release focuses on performance improvements and updating the rendering engine.  React 18 sets the foundation for concurrent rendering APIs that future React features will be built on top of.  In this tutorial, I will give a quick guide of the]]></summary>
         <author>
             <name>Shruti Kapoor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python List .append() – How to Add an Item to a List in Python]]></title>
-        <id>6257f4fcac55f60686c34755</id>
-        <link href="https://www.freecodecamp.org/news/python-list-append-how-to-add-an-item-to-a-list-in-python/"/>
-        <updated>2022-04-14T20:03:38.000Z</updated>
-        <summary type="html"><![CDATA[Lists are one of the most useful and versatile data types available in Python. Lists are a collection of arbitrary objects, just like arrays in other programming languages. In this tutorial you will learn:  * An overview of lists and how they are defined.  * Methods to insert]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write a Script to Change Your Zoom Background Every Day]]></title>
-        <id>62563320ac55f60686c3361f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-a-script-to-change-zoom-background/"/>
-        <updated>2022-04-14T18:05:20.000Z</updated>
-        <summary type="html"><![CDATA[Over the past few months, I've found a new use for the pictures that I've taken while hiking. I started using them as Zoom virtual backgrounds.  If you are anything like me and take a lot of pictures, it can be hard to decide which one looks good. And]]></summary>
-        <author>
-            <name>Saransh Kataria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Docs Strikethrough – How to Cross Out Text in Google Docs]]></title>
-        <id>6256dd0eac55f60686c33b09</id>
-        <link href="https://www.freecodecamp.org/news/google-docs-strikethrough-how-to-cross-out-text-in-google-docs/"/>
-        <updated>2022-04-14T17:49:37.000Z</updated>
-        <summary type="html"><![CDATA[When you're writing, sometimes you might want to strike through certain text. This means adding a horizontal line that runs through a piece of text.  Here is what it looks like: you are an awesome person.  These are various use cases for strikethroughs:  * To indicate that]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Ready for a Job in Tech – Tips for Beginners]]></title>
-        <id>62496868ac55f60686c2ccbc</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-ready-for-a-job-in-tech/"/>
-        <updated>2022-04-14T17:05:57.000Z</updated>
-        <summary type="html"><![CDATA[A few months back, I was invited to talk to a group of engineering students of a renowned college in India. I was supposed to interact with them, motivate them, and finally tell them, "What does the industry (the "job" world) look like?", "How can you get ready for it?"]]></summary>
-        <author>
-            <name>TAPAS ADHIKARY</name>
         </author>
     </entry>
     <entry>
