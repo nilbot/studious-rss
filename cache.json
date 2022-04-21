@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=364880",
+          "author": "Greg Sullivan",
+          "description": "In the 15 or so years since I started making WordPress websites, nothing has had more of an impact on my productivity — and my ability to enjoy front-end development — than adding Tailwind CSS to my workflow (and it …\nAdding Tailwind CSS to New and Existing WordPress Themes originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/adding-tailwind-css-to-wordpress-themes/",
+          "publishedOn": "2022-04-20T15:30:29.000Z",
+          "wordCount": 2462,
+          "title": "Adding Tailwind CSS to New and Existing WordPress Themes",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364880"
+        },
+        {
           "id": "https://css-tricks.com/?p=364908",
           "author": "Paul Esch-Laurent",
           "description": "Mermaid diagrams and flowcharts have been gaining traction, especially with GitHub’s announcement that they are natively supported in Markdown. Let’s take a look at what they are, how to use them, and just as importantly: why.\nJust like you …\nMaking Mermaid Diagrams in Markdown originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/making-mermaid-diagrams-in-markdown/",
           "publishedOn": "2022-04-18T16:01:08.000Z",
-          "wordCount": 1277,
+          "wordCount": 1419,
           "title": "Making Mermaid Diagrams in Markdown",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364908"
         },
@@ -60,16 +70,6 @@
           "wordCount": 2508,
           "title": "6 Useful Bookmarklets to Boost Web Development",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364118"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363745",
-          "author": "Jens Oliver Meiert",
-          "description": "You may not use XHTML (anymore), but when you write HTML, you may be more influenced by XHTML than you think. You are very likely writing HTML, the XHTML way.\nWhat is the XHTML way of writing HTML, and what …\nWrite HTML, the HTML Way (Not the XHTML Way) originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/write-html-the-html-way-not-the-xhtml-way/",
-          "publishedOn": "2022-03-21T20:08:38.000Z",
-          "wordCount": 3275,
-          "title": "Write HTML, the HTML Way (Not the XHTML Way)",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363745"
         }
       ]
     },
@@ -79,12 +79,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/04/productivity-tips-tools/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Who doesn’t love a good timesaver? In this post, we compiled useful productivity tips and tools that help you speed up routine tasks, enhance your development workflow, and stay organized.",
+          "link": "https://smashingmagazine.com/2022/04/productivity-tips-tools/",
+          "publishedOn": "2022-04-20T11:30:00.000Z",
+          "wordCount": 5055,
+          "title": "Productivity Tips And Tools For A More Efficient Workflow",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c0a83218-4f7e-4650-9380-72895a5936b3/productivity-tips-tools.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c0a83218-4f7e-4650-9380-72895a5936b3/productivity-tips-tools.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution/",
           "author": "hello@smashingmagazine.com (Ekene Eze)",
           "description": "In this article, Ekene Eze shares his thoughts about the direction of the web in 2022, and what solutions we can expect to see come up in the ecosystem to significantly improve the Jamstack experience.",
           "link": "https://smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution/",
           "publishedOn": "2022-04-19T09:00:00.000Z",
-          "wordCount": 1686,
+          "wordCount": 1708,
           "title": "Jamstack Rendering Patterns: The Evolution",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/86e9ff96-97fd-42f7-aa79-9fe5527e1408/jamstack-rendering-patterns-evolution.jpg",
@@ -99,7 +114,7 @@
           "description": "What are the benefits of using push notifications and what can you use them for? In this article, Lee Munroe explains how to implement them and which practices are best to follow.",
           "link": "https://smashingmagazine.com/2022/04/guide-push-notifications-developers/",
           "publishedOn": "2022-04-18T11:30:00.000Z",
-          "wordCount": 2515,
+          "wordCount": 2513,
           "title": "The Ultimate Guide To Push Notifications For Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bebe6c69-2f6e-4523-aede-2ac46114a952/guide-push-notifications-developers.jpg",
@@ -114,7 +129,7 @@
           "description": "Storytelling is a powerful tool for any UX designer. It helps create a product and understand the people who use it. In this article, Marli Mesibov takes a real-life example of an app she helped to build in 2017 and explains five steps you can use to help you build a story into your user experience.",
           "link": "https://smashingmagazine.com/2022/04/use-storytelling-ux/",
           "publishedOn": "2022-04-15T14:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 3761,
           "title": "How To Use Storytelling In UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fedf0602-27ae-4516-bcd0-df371fd0048b/use-storytelling-ux.jpg",
@@ -129,7 +144,7 @@
           "description": "Whether you work in-house or run a digital agency, there are occasions when you will consider hiring freelancers to supplement your team. Today, we’ll take a look into a platform known as [Upwork](https://upwork.pxf.io/c/1221738/1245573/13634) and the best ways in finding the the right freelancers as well as integrating them into your team.",
           "link": "https://smashingmagazine.com/2022/04/upwork-freelancers-organization/",
           "publishedOn": "2022-04-14T11:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2445,
           "title": "When And How To Use Freelancers In Your Organization",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cb70d8d4-8f9b-449e-86a7-1da3045fea9f/upwork-freelancers-organization.jpg",
@@ -144,7 +159,7 @@
           "description": "Carousels don’t have a good reputation, and rightfully so. But we can make them more useful. **Best practices and guidelines** to improve the carousel design with honest scrolling direction, labels, thumbnails and grouped prev/next-buttons.",
           "link": "https://smashingmagazine.com/2022/04/designing-better-carousel-ux/",
           "publishedOn": "2022-04-13T12:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 7258,
           "title": "Designing A Better Carousel UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/729433dc-4cea-4eed-9128-0e9e6dbfe6db/designing-better-carousel-ux.jpg",
@@ -159,7 +174,7 @@
           "description": "Like many things, a design system isn’t ever a finished thing — it’s a journey. How we go about that journey can affect the things we produce along the way. Before diving in and starting to plan anything out, be clear about where the benefits and the risks might lie.",
           "link": "https://smashingmagazine.com/2022/04/artifacts-design-systems/",
           "publishedOn": "2022-04-12T12:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4129,
           "title": "Around The Artifacts Of Design Systems (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/170611c4-1cfa-4f09-8ba0-2999839a2679/artifacts-design-systems.jpg",
@@ -174,7 +189,7 @@
           "description": "This new attribute will enable us to fine-tune relative resource priority, improve LCP performance, deprioritize JavaScript fetch calls, and much more. Let’s check out fetchpriority and explore some potential use cases.",
           "link": "https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/",
           "publishedOn": "2022-04-11T09:30:00.000Z",
-          "wordCount": null,
+          "wordCount": 2336,
           "title": "Boost Resource Loading With fetchpriority, a New Priority Hint",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/619a484f-276c-46b3-9f4e-ce788aef7fef/boost-resource-loading-new-priority-hint-fetchpriority.jpg",
@@ -189,7 +204,7 @@
           "description": "Data is among the most important things that make up a web application or a conventional native app. We need data to be able to see and perhaps understand the purpose of an application. In this article, we’ll look at another approach to obtaining data in an application that requires authentication or authorization using Next.js.",
           "link": "https://smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/",
           "publishedOn": "2022-04-08T12:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 1937,
           "title": "Dynamic Data-Fetching In An Authenticated Next.js App",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/929fd32f-838d-44e8-88f1-2392555f6c44/dynamic-data-fetching-authenticated-nextjs-app.jpg",
@@ -204,7 +219,7 @@
           "description": "In this series of articles, we highlight design patterns and techniques to design better interfaces. You can also find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.",
           "link": "https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/",
           "publishedOn": "2022-04-06T14:20:00.000Z",
-          "wordCount": null,
+          "wordCount": 6903,
           "title": "Designing Better Breadcrumbs",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83a5c72a-37d0-4c2c-9ce8-1ebc22b913f3/designing-better-breadcrumbs-navigation.jpg",
@@ -219,7 +234,7 @@
           "description": "[Devs For Ukraine](https://www.devsforukraine.io/) is a free online charity conference organized by the lovely people at Remote. Two days filled with talks from engineering leaders around the globe, in support of Ukraine. April 25–26.",
           "link": "https://smashingmagazine.com/2022/04/devs-for-ukraine/",
           "publishedOn": "2022-04-06T11:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 448,
           "title": "Devs For Ukraine, A Free Online Charity Conference 🇺🇦",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/591a294a-c48b-437b-abe5-98cf7416edad/devs-for-ukraine-large-opt.png",
@@ -234,7 +249,7 @@
           "description": "Whether you work in-house or for an external agency, we all share one challenge — dealing with stakeholders, be they your boss, colleagues, or clients. In this post, veteran web designer Paul Boag shares his approach to getting things done in even the most challenging organizations.",
           "link": "https://smashingmagazine.com/2022/04/stakeholders-overcoming-obstacles/",
           "publishedOn": "2022-04-05T13:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2417,
           "title": "How To Get Work Done: Wrangling Stakeholders And Overcoming Obstacles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/29128d44-8712-417e-8bca-ba367e4fd283/stakeholders-overcoming-obstacles.jpg",
@@ -249,7 +264,7 @@
           "description": "Ever wondered how to build a paginated list that works with and without JavaScript? In this article, Manuel explains how you can leverage the power of Progressive Enhancement and do just that with Eleventy and Alpine.js.",
           "link": "https://smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/",
           "publishedOn": "2022-04-04T10:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4560,
           "title": "How To Build A Progressively Enhanced, Accessible, Filterable And Paginated List",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/247c8c69-4797-4922-9c3b-75cfa3362051/accessible-filterable-paginated-list-11ty-alpinejs.jpg",
@@ -264,7 +279,7 @@
           "description": "Next.js’ recent 12.0 release included a new beta feature: middleware. For a detailed explanation, you can read all about it in Sam’s previous article, “[Next.js Wildcard Subdomains](https://www.smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/)”. This article, on the other hand, dives into the overall concept of middleware and how handy it can be in building things.",
           "link": "https://smashingmagazine.com/2022/04/next-js-middleware-feature/",
           "publishedOn": "2022-04-01T10:30:00.000Z",
-          "wordCount": null,
+          "wordCount": 1947,
           "title": "The What, When, Why And How Of Next.js’ New Middleware Feature",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b614fa99-6432-4f8f-bb7a-234b9e0c082e/next-js-middleware-feature.jpg",
@@ -279,7 +294,7 @@
           "description": "Let’s welcome the new month with some new wallpapers. Designed with love by artists and designers from across the globe, they are available in versions with and without a calendar for April 2022.",
           "link": "https://smashingmagazine.com/2022/03/desktop-wallpaper-calendars-april-2022/",
           "publishedOn": "2022-03-31T08:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 1982,
           "title": "A Time For Reflection (April 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5a643aa-d809-46c8-a329-689e866dc160/apr-22-blue-and-yellow-preview-opt.png",
@@ -294,7 +309,7 @@
           "description": "Best practices and guidelines to improve the UX of infinite scroll with bookmarks, footer reveal and pagination.",
           "link": "https://smashingmagazine.com/2022/03/designing-better-infinite-scroll/",
           "publishedOn": "2022-03-30T13:30:00.000Z",
-          "wordCount": null,
+          "wordCount": 2928,
           "title": "Designing A Better Infinite Scroll",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/41704a7b-0bd6-4144-b13e-2b092a0ea3e1/designing-better-infinite-scroll.jpg",
@@ -309,7 +324,7 @@
           "description": "After two years when almost everything moved online, 2022 marks the return of in-person conferences. In fact, [SmashingConf is back](https://smashingconf.com/conferences): coming to  San Francisco and Austin in June, Freiburg (Germany) in September, and New York in October.",
           "link": "https://smashingmagazine.com/2022/03/smashingconf-workshops-conferences-2022/",
           "publishedOn": "2022-03-29T14:30:00.000Z",
-          "wordCount": null,
+          "wordCount": 800,
           "title": "SmashingConf Is Back In 2022",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3ccd449a-af31-4cb1-a417-827ca64c2f30/smashingconfs-back-2022.png",
@@ -324,7 +339,7 @@
           "description": "Are you a designer or developer affected by the war in Ukraine? Here are some options to consider if you’re looking for a design or tech job.",
           "link": "https://smashingmagazine.com/2022/03/jobs-designers-developers-war-ukraine/",
           "publishedOn": "2022-03-29T11:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 923,
           "title": "Jobs For Designers And Developers Affected By The War In Ukraine 🇺🇦",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/09918dee-32d3-430b-9824-f481a5cda385/jobs-ukrainian-refugees.jpg",
@@ -339,7 +354,7 @@
           "description": "In this article, we’ll talk about how to adapt our sites to the different scenarios of a device pointer: whether it has a pointer or not, or how accurate it is. To adapt our site to those devices’ needs we’ll talk about how to properly use media queries `hover`, `pointer`, `any-hover` and `any-pointer`.",
           "link": "https://smashingmagazine.com/2022/03/guide-hover-pointer-media-queries/",
           "publishedOn": "2022-03-28T17:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4097,
           "title": "A Guide To Hover And Pointer Media Queries",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e8282b7e-20d8-481e-8bd8-0261fd9c1cc0/guide-hover-pointer-media-queries.jpg",
@@ -354,7 +369,7 @@
           "description": "In the past months, there have been lots of talks dedictaed to Remix. Routing is not only one of the things that sets it apart from other frameworks, but it also fuels great performance and improves the overall experience for developers. Let’s dig in to all  of the features that build up routing in this powerful framework.",
           "link": "https://smashingmagazine.com/2022/03/remix-routes-demystified/",
           "publishedOn": "2022-03-25T14:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2839,
           "title": "Remix Routes Demystified",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e1a0f7a2-9511-4911-9e94-5a4368b69c07/remix-routes-demystified.jpg",
@@ -369,7 +384,7 @@
           "description": "In this article, Louis Lazaris describes and demonstrates some interesting HTML attributes that you may or may not have heard of and perhaps find useful enough to personally use in one of your projects.",
           "link": "https://smashingmagazine.com/2022/03/html-attributes-you-never-use/",
           "publishedOn": "2022-03-23T14:30:00.000Z",
-          "wordCount": null,
+          "wordCount": 2812,
           "title": "Those HTML Attributes You Never Use",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d94128cd-ff71-4c9a-8608-fc9c75fbea84/html-attributes-you-never-use.jpg",
@@ -384,7 +399,7 @@
           "description": "In this shorter series of articles, we highlight design patterns, techniques, and strategies to design better digital interfaces. You can also learn much more in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.",
           "link": "https://smashingmagazine.com/2022/03/design-is-all-about-good-timing/",
           "publishedOn": "2022-03-22T12:45:00.000Z",
-          "wordCount": null,
+          "wordCount": 1274,
           "title": "Good Design Is All About Good Timing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/60369f5b-1fb5-4426-805e-50a21628b7cd/design-good-timing.jpg",
@@ -392,21 +407,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/60369f5b-1fb5-4426-805e-50a21628b7cd/design-good-timing.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/",
-          "author": "hello@smashingmagazine.com (Eric Bailey)",
-          "description": "CSS Custom Properties can be used for far more than just color, and their values update in realtime, both via display mode updates and JavaScript logic. This is powerful stuff. Eric explains how modern CSS is a powerful piece of assistive technology that can thread into it to create flexible, maintainable and adaptive digital experiences.",
-          "link": "https://smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/",
-          "publishedOn": "2022-03-21T12:30:00.000Z",
-          "wordCount": null,
-          "title": "Windows High Contrast Mode, Forced Colors Mode And CSS Custom Properties",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bbb1649b-2b93-4626-851d-5178033d0894/windows-high-contrast-colors-mode-css-custom-properties.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bbb1649b-2b93-4626-851d-5178033d0894/windows-high-contrast-colors-mode-css-custom-properties.jpg"
         }
       ]
     },
@@ -415,6 +415,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "625fe437ac55f60686c38f04",
+          "author": "Kolade Chris",
+          "description": "If you are a regular Google Chrome user, then you might have encountered the error “dns_probe_finished_nxdomain” before. It is usually accompanied by “This site can’t be reached”. This error is associated with the Domain Name System (DNS) server and can occur due to misconfiguration in the DNS server, an unresponsive",
+          "link": "https://www.freecodecamp.org/news/dns_probe_finished_nxdomain-error-solved/",
+          "publishedOn": "2022-04-20T15:39:02.000Z",
+          "wordCount": 1292,
+          "title": "dns_probe_finished_nxdomain Error [Solved]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/earth-931552_1920.jpg"
+        },
+        {
+          "id": "626007e4ac55f60686c3924f",
+          "author": "Beau Carnes",
+          "description": "Redux Toolkit is an opinionated toolset for efficient Redux development created by the Redux team. It is the the standard and recommended way to write Redux logic and manage state in your JavaScript applications. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how",
+          "link": "https://www.freecodecamp.org/news/learn-redux-toolkit-the-recommended-way-to-use-redux/",
+          "publishedOn": "2022-04-20T13:33:54.000Z",
+          "wordCount": 492,
+          "title": "Learn Redux Toolkit – The Recommended Way to Use Redux",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/reduxtoolkit.png"
+        },
         {
           "id": "625c8890ac55f60686c37088",
           "author": "Zaira Hira",
@@ -494,26 +514,6 @@
           "wordCount": 2426,
           "title": "Learn CSS radial-gradient by Building Background Patterns",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pattern-header.png"
-        },
-        {
-          "id": "625c80fcac55f60686c37035",
-          "author": "Jose Vicente Nunez",
-          "description": "In a previous article [/news/wireless-security-using-raspberry-pi-4-kismet-and-python/], I showed you how to secure your wireless home network using Kismet [https://www.kismetwireless.net/]. Kismet is perfect for detecting anomalies and certain types of attack – but what if I want to analyze the traffic and look for abnormal patterns or patterns that could indicate an",
-          "link": "https://www.freecodecamp.org/news/home-network-security-with-suricata-raspberrypi4-python/",
-          "publishedOn": "2022-04-19T00:23:10.000Z",
-          "wordCount": 3301,
-          "title": "Home Network Security – How to Use Suricata, RaspberryPI4, and Python to Make Your Network Safe",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-george-becker-333837.jpg"
-        },
-        {
-          "id": "601e56cc0a2838549dcbf3d6",
-          "author": "Patrick Cyubahiro",
-          "description": "Hi, folks! Today we are going to talk about object-oriented programming in Java. This article will help give you a thorough understanding of the underlying principles of object-oriented programming and its concepts.  Once you understand these concepts, you should have the confidence and ability to develop basic problem-solving applications",
-          "link": "https://www.freecodecamp.org/news/object-oriented-programming-concepts-java/",
-          "publishedOn": "2022-04-18T22:03:31.000Z",
-          "wordCount": 4000,
-          "title": "Object-Oriented Programming in Java – A Beginner's Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/01/ian-dooley-DJ7bWa-Gwks-unsplash-2-2.jpg"
         }
       ]
     }
