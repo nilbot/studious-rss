@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=364218",
+          "author": "Mark Noonan",
+          "description": "Automated front-end tests are awesome. We can write a test with code to visit a page — or load up just a single component — and have that test code click on things or type text like a user would, …\nWriting Strong Front-end Test Element Locators originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/front-end-test-element-locators/",
+          "publishedOn": "2022-04-22T18:45:38.000Z",
+          "wordCount": 4459,
+          "title": "Writing Strong Front-end Test Element Locators",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364218"
+        },
+        {
           "id": "https://css-tricks.com/?p=364880",
           "author": "Greg Sullivan",
           "description": "In the 15 or so years since I started making WordPress websites, nothing has had more of an impact on my productivity — and my ability to enjoy front-end development — than adding Tailwind CSS to my workflow (and it …\nAdding Tailwind CSS to New and Existing WordPress Themes originally published on CSS-Tricks. You should get the newsletter.",
@@ -37,7 +47,7 @@
           "description": "I’m a big fan of movies by J.J. Abrams. I enjoy their tight plots, quippy dialog, and of course: anamorphic lens flares. Filmmakers like Abrams use lens flare to add a dash of ‘homemade’ realism to their movies, …\nAdd a CSS Lens Flare to Photos for a Bright Touch originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/add-a-css-lens-flare-to-photos-for-a-bright-touch/",
           "publishedOn": "2022-04-12T17:10:13.000Z",
-          "wordCount": 1540,
+          "wordCount": 1570,
           "title": "Add a CSS Lens Flare to Photos for a Bright Touch",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364385"
         },
@@ -79,6 +89,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/04/testing-cli-way-people-use-it/",
+          "author": "hello@smashingmagazine.com (Georgy Marchuk)",
+          "description": "Have you ever wondered, why do people write CLI tools? When is a good time to think about yours? Today we’ll touch on these questions, along with some tips to remember when creating one. However, all of this serves as a prelude to the real topic: end-to-end testing of CLI tools.",
+          "link": "https://smashingmagazine.com/2022/04/testing-cli-way-people-use-it/",
+          "publishedOn": "2022-04-22T09:30:00.000Z",
+          "wordCount": 4168,
+          "title": "Testing The CLI The Way People Use It",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e6d3ba7a-2c86-4e64-b8e8-6d58adaafdba/testing-cli-way-people-use-it.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e6d3ba7a-2c86-4e64-b8e8-6d58adaafdba/testing-cli-way-people-use-it.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/04/designing-better-navigation-ux-queries/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "In UX, we can use navigation queries, evaluation journeys, A-Z index and tap-ahead autocomplete to help users get where they want to be, faster. Let’s find out how.",
@@ -94,7 +119,7 @@
           "description": "Who doesn’t love a good timesaver? In this post, we compiled useful productivity tips and tools that help you speed up routine tasks, enhance your development workflow, and stay organized.",
           "link": "https://smashingmagazine.com/2022/04/productivity-tips-tools/",
           "publishedOn": "2022-04-20T11:30:00.000Z",
-          "wordCount": 5062,
+          "wordCount": 5057,
           "title": "Productivity Tips And Tools For A More Efficient Workflow",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c0a83218-4f7e-4650-9380-72895a5936b3/productivity-tips-tools.jpg",
@@ -109,7 +134,7 @@
           "description": "In this article, Ekene Eze shares his thoughts about the direction of the web in 2022, and what solutions we can expect to see come up in the ecosystem to significantly improve the Jamstack experience.",
           "link": "https://smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution/",
           "publishedOn": "2022-04-19T09:00:00.000Z",
-          "wordCount": 1692,
+          "wordCount": 1704,
           "title": "Jamstack Rendering Patterns: The Evolution",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/86e9ff96-97fd-42f7-aa79-9fe5527e1408/jamstack-rendering-patterns-evolution.jpg",
@@ -124,7 +149,7 @@
           "description": "What are the benefits of using push notifications and what can you use them for? In this article, Lee Munroe explains how to implement them and which practices are best to follow.",
           "link": "https://smashingmagazine.com/2022/04/guide-push-notifications-developers/",
           "publishedOn": "2022-04-18T11:30:00.000Z",
-          "wordCount": 2507,
+          "wordCount": 2512,
           "title": "The Ultimate Guide To Push Notifications For Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bebe6c69-2f6e-4523-aede-2ac46114a952/guide-push-notifications-developers.jpg",
@@ -139,7 +164,7 @@
           "description": "Storytelling is a powerful tool for any UX designer. It helps create a product and understand the people who use it. In this article, Marli Mesibov takes a real-life example of an app she helped to build in 2017 and explains five steps you can use to help you build a story into your user experience.",
           "link": "https://smashingmagazine.com/2022/04/use-storytelling-ux/",
           "publishedOn": "2022-04-15T14:00:00.000Z",
-          "wordCount": 3761,
+          "wordCount": 3754,
           "title": "How To Use Storytelling In UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fedf0602-27ae-4516-bcd0-df371fd0048b/use-storytelling-ux.jpg",
@@ -169,7 +194,7 @@
           "description": "Carousels don’t have a good reputation, and rightfully so. But we can make them more useful. **Best practices and guidelines** to improve the carousel design with honest scrolling direction, labels, thumbnails and grouped prev/next-buttons.",
           "link": "https://smashingmagazine.com/2022/04/designing-better-carousel-ux/",
           "publishedOn": "2022-04-13T12:00:00.000Z",
-          "wordCount": 7265,
+          "wordCount": 7262,
           "title": "Designing A Better Carousel UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/729433dc-4cea-4eed-9128-0e9e6dbfe6db/designing-better-carousel-ux.jpg",
@@ -184,7 +209,7 @@
           "description": "Like many things, a design system isn’t ever a finished thing — it’s a journey. How we go about that journey can affect the things we produce along the way. Before diving in and starting to plan anything out, be clear about where the benefits and the risks might lie.",
           "link": "https://smashingmagazine.com/2022/04/artifacts-design-systems/",
           "publishedOn": "2022-04-12T12:00:00.000Z",
-          "wordCount": 4133,
+          "wordCount": 4128,
           "title": "Around The Artifacts Of Design Systems (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/170611c4-1cfa-4f09-8ba0-2999839a2679/artifacts-design-systems.jpg",
@@ -199,8 +224,8 @@
           "description": "This new attribute will enable us to fine-tune relative resource priority, improve LCP performance, deprioritize JavaScript fetch calls, and much more. Let’s check out fetchpriority and explore some potential use cases.",
           "link": "https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/",
           "publishedOn": "2022-04-11T09:30:00.000Z",
-          "wordCount": 2321,
-          "title": "Boost Resource Loading With fetchpriority, a New Priority Hint",
+          "wordCount": 2322,
+          "title": "Boost Resource Loading With fetchpriority, A New Priority Hint",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/619a484f-276c-46b3-9f4e-ce788aef7fef/boost-resource-loading-new-priority-hint-fetchpriority.jpg",
             "length": "0",
@@ -229,7 +254,7 @@
           "description": "In this series of articles, we highlight design patterns and techniques to design better interfaces. You can also find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.",
           "link": "https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/",
           "publishedOn": "2022-04-06T14:20:00.000Z",
-          "wordCount": 6902,
+          "wordCount": 6903,
           "title": "Designing Better Breadcrumbs",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83a5c72a-37d0-4c2c-9ce8-1ebc22b913f3/designing-better-breadcrumbs-navigation.jpg",
@@ -259,7 +284,7 @@
           "description": "Whether you work in-house or for an external agency, we all share one challenge — dealing with stakeholders, be they your boss, colleagues, or clients. In this post, veteran web designer Paul Boag shares his approach to getting things done in even the most challenging organizations.",
           "link": "https://smashingmagazine.com/2022/04/stakeholders-overcoming-obstacles/",
           "publishedOn": "2022-04-05T13:00:00.000Z",
-          "wordCount": 2417,
+          "wordCount": 2427,
           "title": "How To Get Work Done: Wrangling Stakeholders And Overcoming Obstacles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/29128d44-8712-417e-8bca-ba367e4fd283/stakeholders-overcoming-obstacles.jpg",
@@ -304,7 +329,7 @@
           "description": "Let’s welcome the new month with some new wallpapers. Designed with love by artists and designers from across the globe, they are available in versions with and without a calendar for April 2022.",
           "link": "https://smashingmagazine.com/2022/03/desktop-wallpaper-calendars-april-2022/",
           "publishedOn": "2022-03-31T08:00:00.000Z",
-          "wordCount": 1982,
+          "wordCount": 1976,
           "title": "A Time For Reflection (April 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5a643aa-d809-46c8-a329-689e866dc160/apr-22-blue-and-yellow-preview-opt.png",
@@ -319,7 +344,7 @@
           "description": "Best practices and guidelines to improve the UX of infinite scroll with bookmarks, footer reveal and pagination.",
           "link": "https://smashingmagazine.com/2022/03/designing-better-infinite-scroll/",
           "publishedOn": "2022-03-30T13:30:00.000Z",
-          "wordCount": 2927,
+          "wordCount": 2923,
           "title": "Designing A Better Infinite Scroll",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/41704a7b-0bd6-4144-b13e-2b092a0ea3e1/designing-better-infinite-scroll.jpg",
@@ -364,7 +389,7 @@
           "description": "In this article, we’ll talk about how to adapt our sites to the different scenarios of a device pointer: whether it has a pointer or not, or how accurate it is. To adapt our site to those devices’ needs we’ll talk about how to properly use media queries `hover`, `pointer`, `any-hover` and `any-pointer`.",
           "link": "https://smashingmagazine.com/2022/03/guide-hover-pointer-media-queries/",
           "publishedOn": "2022-03-28T17:00:00.000Z",
-          "wordCount": 4100,
+          "wordCount": 4097,
           "title": "A Guide To Hover And Pointer Media Queries",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e8282b7e-20d8-481e-8bd8-0261fd9c1cc0/guide-hover-pointer-media-queries.jpg",
@@ -387,21 +412,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e1a0f7a2-9511-4911-9e94-5a4368b69c07/remix-routes-demystified.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/03/html-attributes-you-never-use/",
-          "author": "hello@smashingmagazine.com (Louis Lazaris)",
-          "description": "In this article, Louis Lazaris describes and demonstrates some interesting HTML attributes that you may or may not have heard of and perhaps find useful enough to personally use in one of your projects.",
-          "link": "https://smashingmagazine.com/2022/03/html-attributes-you-never-use/",
-          "publishedOn": "2022-03-23T14:30:00.000Z",
-          "wordCount": 2824,
-          "title": "Those HTML Attributes You Never Use",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d94128cd-ff71-4c9a-8608-fc9c75fbea84/html-attributes-you-never-use.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d94128cd-ff71-4c9a-8608-fc9c75fbea84/html-attributes-you-never-use.jpg"
         }
       ]
     },
@@ -411,12 +421,62 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "62615f82ac55f60686c39ef9",
+          "author": "Kolade Chris",
+          "description": "You can get a 502 bad gateway error when there's a problem with the server of the website you are trying to connect to. In more technical terms, the “502” in the error is an HTTP status code which indicates that one server received an invalid response from another server.",
+          "link": "https://www.freecodecamp.org/news/502-bad-gateway-error-solved/",
+          "publishedOn": "2022-04-22T00:45:26.000Z",
+          "wordCount": 1155,
+          "title": "502 Bad Gateway Error [Solved]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/502.png"
+        },
+        {
+          "id": "62616030ac55f60686c39f0f",
+          "author": "Amy Haddad",
+          "description": "Many programmers are missing out on a simple way to improve their programming progress.  Just think of athletes, entrepreneurs, students, health-nuts, and travelers. They’re among the diverse groups of people who use a planner. Planners are often used to give productivity a boost in order to stay organized and",
+          "link": "https://www.freecodecamp.org/news/how-to-become-a-better-programmer-use-a-skill-building-planner/",
+          "publishedOn": "2022-04-22T00:23:21.000Z",
+          "wordCount": 2226,
+          "title": "How to Become a Better Programmer – Use a Skill-Building Planner",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/image-1.jpg"
+        },
+        {
+          "id": "625e8cfaac55f60686c37f21",
+          "author": "Samuel A. Olubiyo",
+          "description": "I had the idea for this tutorial while browsing the official iPhone website. Apple is known for its great products and impeccable design, and if you spend enough time checking out its website, you can learn a thing or two about branding and great design.  One of the things",
+          "link": "https://www.freecodecamp.org/news/learn-javascript-arrays-by-building-product-page/",
+          "publishedOn": "2022-04-22T00:10:02.000Z",
+          "wordCount": 1884,
+          "title": "Learn How to Use JavaScript Arrays by Building an iPhone Product Page",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-caleb-oquendo-9667337-min-1--1.jpg"
+        },
+        {
+          "id": "624e7b3eac55f60686c2f0b8",
+          "author": "Ankita Tripathi",
+          "description": "If you've been considering contributing to an open source project, you might be weighing the pros and cons of doing so. You might hear things like open-source projects won't help you grow. Or they can't change your career trajectory. And that your contributions definitely won’t add to your portfolio. If",
+          "link": "https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects/",
+          "publishedOn": "2022-04-21T23:38:34.000Z",
+          "wordCount": 2122,
+          "title": "How to Contribute to Open-Source Projects – A Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/open-source-contributions.jpeg"
+        },
+        {
+          "id": "623422f3cdcd57069ddfade9",
+          "author": "Davis David",
+          "description": "The term cloud computing refers to software and services that run on the internet instead of locally on your on-site server or computer. Adopting the cloud can help you and your team cut costs and ensure that your data and systems are available to your customers anywhere and at any",
+          "link": "https://www.freecodecamp.org/news/advantages-of-cloud-computing/",
+          "publishedOn": "2022-04-21T22:27:23.000Z",
+          "wordCount": 2037,
+          "title": "Why Should You Move to the Cloud? Advantages of Cloud Computing Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/CloudComplianceExplained4KeysforSuccess_Final-700x400.jpg.optimal.jpg"
+        },
+        {
           "id": "625df1a2ac55f60686c37b2d",
           "author": "Ed Pratowski",
           "description": "The Google Colaboratory (“Colab”) is a notebook (like a Jupyter Notebook) where you can run Python code in your Google Drive.  You can write text, write code, run that code, and see the output – all in line in the same notebook.  Benefits of Google Colab Sharing notebooks",
           "link": "https://www.freecodecamp.org/news/google-colaboratory-python-code-in-your-google-drive/",
           "publishedOn": "2022-04-21T19:56:02.000Z",
-          "wordCount": 757,
+          "wordCount": 746,
           "title": "Google Colaboratory – How to Run Python Code in Your Google Drive",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/image--2-.png"
         },
@@ -426,7 +486,7 @@
           "description": "Did you know that firmware is literally everywhere? It might be strange to think about – but it's just as common as hardware and software. In fact, it is thanks to firmware that:  * Printers work  * Defibrillators work  * Car radios works  * and more",
           "link": "https://www.freecodecamp.org/news/what-is-firmware/",
           "publishedOn": "2022-04-21T18:40:08.000Z",
-          "wordCount": 993,
+          "wordCount": 986,
           "title": "What is Firmware? Definition and Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/postimage.png"
         },
@@ -436,7 +496,7 @@
           "description": "There are two ways to remove a property from a JavaScript object. There's the mutable way of doing it using the delete operator, and the immutable way of doing it using object restructuring.  Let's go through each of these methods in this tutorial. Remove a Property from a JS",
           "link": "https://www.freecodecamp.org/news/how-to-remove-a-property-from-a-javascript-object/",
           "publishedOn": "2022-04-21T17:48:33.000Z",
-          "wordCount": 577,
+          "wordCount": 570,
           "title": "How to Remove a Property from a JavaScript Object",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/remove-property-from-js-object.jpeg"
         },
@@ -446,7 +506,7 @@
           "description": "When I decided to build my blog, I found many tools out there that were readily available. I looked at Gastby [https://www.gatsbyjs.com/] along with content management systems like Ghost [https://ghost.org/], Contentful [https://www.contentful.com/], Sanity dot io [https://www.sanity.io/], and HUGO [https://gohugo.io/].  But I needed something that I could have total control",
           "link": "https://www.freecodecamp.org/news/how-to-build-your-own-blog-with-next-js-and-mdx/",
           "publishedOn": "2022-04-21T02:28:29.000Z",
-          "wordCount": 4190,
+          "wordCount": 4183,
           "title": "How to Build Your Own Blog with Next.js and MDX",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/thoughts.jpg"
         },
@@ -456,59 +516,9 @@
           "description": "FTP stands for File Transfer Protocol. This is a network/communication protocol for transferring files between computers over a TCP/IP (Transmission Control Protocol/Internet Protocol) network.  Examples of TCP/IP networks are:  * HTTP (Hypertext Transfer Protocol).  * HTTPS (Hypertext Transfer Protocol Secure).  * FTP (File Transfer Protocol). How",
           "link": "https://www.freecodecamp.org/news/what-is-ftp-file-transfer-protocol-and-ftp-server-meaning/",
           "publishedOn": "2022-04-21T01:01:16.000Z",
-          "wordCount": 940,
+          "wordCount": 933,
           "title": "What is FTP? File Transfer Protocol and FTP Server Meaning",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/thisisengineering-raeng-zBLtU0zbJcU-unsplash--1-.jpg"
-        },
-        {
-          "id": "624beda6ac55f60686c2e0f7",
-          "author": "Dionysia Lemonaki",
-          "description": "In this tutorial, you will learn why flushing your DNS cache is important, and how you can clear the cache on your local system. Here is what we'll discuss in this guide:  1. What is DNS cache? 1. Why flushing DNS cache is important",
-          "link": "https://www.freecodecamp.org/news/how-to-flush-dns-on-mac-macos-clear-dns-cache/",
-          "publishedOn": "2022-04-21T00:15:54.000Z",
-          "wordCount": 1355,
-          "title": "How to Flush DNS on Mac – MacOS Clear DNS Cache",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg"
-        },
-        {
-          "id": "625d0d69ac55f60686c37241",
-          "author": "Farhan Hasin Chowdhury",
-          "description": "The extern keyword in C and C++ extends the visibility of variables and functions across multiple source files.  In the case of functions, the extern keyword is used implicitly. But with variables, you have to use the keyword explicitly. I believe a simple code example can explain things better",
-          "link": "https://www.freecodecamp.org/news/extern-keyword-function-tutorial/",
-          "publishedOn": "2022-04-21T00:08:58.000Z",
-          "wordCount": 1216,
-          "title": "Extern – C and C++ Extern Keyword Function Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Extern---C-and-C---Extern-Keyword-Function-Tutorial.png"
-        },
-        {
-          "id": "6255cce5ac55f60686c330c4",
-          "author": "Rohit Jacob Mathew",
-          "description": "Most of us are used to logging into different accounts using a password. For years this has been the norm, but passwords also face security issues:  * They are extremely annoying when we don’t remember them and even harder to    reset  * They can be",
-          "link": "https://www.freecodecamp.org/news/intro-to-webauthn/",
-          "publishedOn": "2022-04-20T23:45:39.000Z",
-          "wordCount": 1675,
-          "title": "How WebAuthn Authenticates Users Without a Password",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/webauthn.jpeg"
-        },
-        {
-          "id": "625fe437ac55f60686c38f04",
-          "author": "Kolade Chris",
-          "description": "If you are a regular Google Chrome user, then you might have encountered the error “dns_probe_finished_nxdomain” before. It is usually accompanied by “This site can’t be reached”. This error is associated with the Domain Name System (DNS) server and can occur due to misconfiguration in the DNS server, an unresponsive",
-          "link": "https://www.freecodecamp.org/news/dns_probe_finished_nxdomain-error-solved/",
-          "publishedOn": "2022-04-20T15:39:02.000Z",
-          "wordCount": 1292,
-          "title": "dns_probe_finished_nxdomain Error [Solved]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/earth-931552_1920.jpg"
-        },
-        {
-          "id": "626007e4ac55f60686c3924f",
-          "author": "Beau Carnes",
-          "description": "Redux Toolkit is an opinionated toolset for efficient Redux development created by the Redux team. It is the the standard and recommended way to write Redux logic and manage state in your JavaScript applications. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how",
-          "link": "https://www.freecodecamp.org/news/learn-redux-toolkit-the-recommended-way-to-use-redux/",
-          "publishedOn": "2022-04-20T13:33:54.000Z",
-          "wordCount": 492,
-          "title": "Learn Redux Toolkit – The Recommended Way to Use Redux",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/reduxtoolkit.png"
         }
       ]
     }
