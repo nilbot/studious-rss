@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-24T00:04:21.744Z</id>
+    <id>urn:2022-04-25T00:04:19.356Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-24T00:04:21.744Z</updated>
+    <updated>2022-04-25T00:04:19.356Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -393,16 +393,6 @@ Activating design mode
         <summary type="html"><![CDATA[In this article, we’ll talk about how to adapt our sites to the different scenarios of a device pointer: whether it has a pointer or not, or how accurate it is. To adapt our site to those devices’ needs we’ll talk about how to properly use media queries `hover`, `pointer`, `any-hover` and `any-pointer`.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cristian Díaz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remix Routes Demystified]]></title>
-        <id>https://smashingmagazine.com/2022/03/remix-routes-demystified/</id>
-        <link href="https://smashingmagazine.com/2022/03/remix-routes-demystified/"/>
-        <updated>2022-03-25T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the past months, there have been lots of talks dedictaed to Remix. Routing is not only one of the things that sets it apart from other frameworks, but it also fuels great performance and improves the overall experience for developers. Let’s dig in to all  of the features that build up routing in this powerful framework.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
         </author>
     </entry>
 </feed>
