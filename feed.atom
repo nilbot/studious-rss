@@ -1,10 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-25T00:04:19.356Z</id>
+    <id>urn:2022-04-26T00:04:35.559Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-25T00:04:19.356Z</updated>
+    <updated>2022-04-26T00:04:35.559Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[module.exports – How to Export in Node.js and JavaScript]]></title>
+        <id>6260ad0dac55f60686c39a04</id>
+        <link href="https://www.freecodecamp.org/news/module-exports-how-to-export-in-node-js-and-javascript/"/>
+        <updated>2022-04-25T21:03:11.000Z</updated>
+        <summary type="html"><![CDATA[In programming, modules are components of a program with one or more functions or values. These values can also be shared across the entire program and can be used in different ways. In this article, I will show you how to share functions and values by exporting and importing modules]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Analysis in Go – How to Use the Gota Package]]></title>
+        <id>6255f46dac55f60686c332f7</id>
+        <link href="https://www.freecodecamp.org/news/exploratory-data-analysis-in-go-with-gota/"/>
+        <updated>2022-04-25T20:52:01.000Z</updated>
+        <summary type="html"><![CDATA[Data analysis is the process of filtering, manipulating, and processing raw data and datasets to get insights from them. Python and R are usually the go-to languages for data analysis. But these days Go is becoming more and more popular for this purpose.  In this tutorial, we will be]]></summary>
+        <author>
+            <name>Ukeje Chukwuemeriwo Goodness</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Speed Up Your Lambda Functions]]></title>
+        <id>6262c8c9ac55f60686c3aec7</id>
+        <link href="https://www.freecodecamp.org/news/how-to-speed-up-lambda-functions/"/>
+        <updated>2022-04-25T19:43:19.000Z</updated>
+        <summary type="html"><![CDATA[Lambda has gained massive popularity over the past few years. It has various use cases, from running simple scripts to gluing flows and processes within a serverless architecture or when running microservices. Still, if you've just started working in a new environment or organisation, you might feel cautious about using]]></summary>
+        <author>
+            <name>Ali Haydar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Check if a Property Exists in a JavaScript Object]]></title>
+        <id>62649b7dac55f60686c3b738</id>
+        <link href="https://www.freecodecamp.org/news/how-to-check-if-a-property-exists-in-a-javascript-object/"/>
+        <updated>2022-04-25T17:53:36.000Z</updated>
+        <summary type="html"><![CDATA[When you are working with objects in JavaScript, you might need to check if a specific property exists or not.  In this article, I will show you three ways to check if a property exists in a JavaScript object.  How to Use the hasOwnProperty() Method in JavaScript The]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Test Your Apps using Jest, Testing Library, Cypress, and Supertest]]></title>
+        <id>62588c4bac55f60686c352c0</id>
+        <link href="https://www.freecodecamp.org/news/test-a-react-app-with-jest-testing-library-and-cypress/"/>
+        <updated>2022-04-25T17:13:36.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article we're going to talk about testing. I'll give you a good overview of what testing is and an introduction of how you can implement it on your JavaScript projects. We'll use four very popular tools – Jest, Testing library, Cypress and Supertest. First we're going]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Train an IA to Play a Snake Game Using Python]]></title>
+        <id>6266ced1ac55f60686c3c620</id>
+        <link href="https://www.freecodecamp.org/news/train-an-ia-to-play-a-snake-game-using-python/"/>
+        <updated>2022-04-25T16:48:40.000Z</updated>
+        <summary type="html"><![CDATA[Why waste time playing video games when you can train an AI to do it for you? Ok, maybe playing yourself is more fun but training an AI can be more educational. We just published a course on the freeCodeCamp.org YouTube channel that will teach you the basics of reinforcement]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Manage State in Flutter Apps]]></title>
+        <id>6261bb97ac55f60686c3a424</id>
+        <link href="https://www.freecodecamp.org/news/manage-state-in-flutter-apps/"/>
+        <updated>2022-04-25T14:11:47.000Z</updated>
+        <summary type="html"><![CDATA[Managing state is something most developers need to deal with when working on applications.  You might be familiar with the model-view-viewmodel (MVVM) pattern, where the ViewModel is the one responsible for a view’s state. But in Flutter, things are a bit different.  If you are reading this, then]]></summary>
+        <author>
+            <name>Tomer Ben Rachel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skeleton Loader Example – How to Build a Skeleton Screen with CSS for Better UX]]></title>
+        <id>625fb4c7ac55f60686c38c36</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-skeleton-screens-using-css-for-better-user-experience/"/>
+        <updated>2022-04-25T13:49:34.000Z</updated>
+        <summary type="html"><![CDATA[Content loaders, skeleton screens, ghost elements, and content placeholders. These are the names given to the effect we'll be exploring today. Many companies, such as Linkedin, Facebook, Youtube and Slack, use this effect in their apps and websites, as you may have noticed. As much as we developers want our]]></summary>
+        <author>
+            <name>Israel Mitolu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use REST APIs – A Complete Beginner's Guide]]></title>
+        <id>622eddb2c3e3d106805daaba</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-rest-api/"/>
+        <updated>2022-04-25T13:49:22.000Z</updated>
+        <summary type="html"><![CDATA[Application programming interfaces – or APIs – are an important programming concept to understand. And if you invest the time to learn more about these interfaces, it can help make your tasks more manageable. One of the common types of APIs is a REST API. If you’ve ever considered getting]]></summary>
+        <author>
+            <name>Alex Husar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What If Our Sliders Actually Slid?]]></title>
+        <id>https://smashingmagazine.com/2022/04/what-if-sliders-actually-slid-html-element-input-range/</id>
+        <link href="https://smashingmagazine.com/2022/04/what-if-sliders-actually-slid-html-element-input-range/"/>
+        <updated>2022-04-25T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Jhey Tompkins explores one of GreenSocks’ newest plugins alongside React to create an impractical whimsical spin on a well-known native element: ``.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Writing Strong Front-end Test Element Locators]]></title>
         <id>https://css-tricks.com/?p=364218</id>
@@ -37,76 +137,6 @@ Writing Strong Front-end Test Element Locators originally published on CSS-Trick
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Become a Better Programmer – Use a Skill-Building Planner]]></title>
-        <id>62616030ac55f60686c39f0f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-become-a-better-programmer-use-a-skill-building-planner/"/>
-        <updated>2022-04-22T00:23:21.000Z</updated>
-        <summary type="html"><![CDATA[Many programmers are missing out on a simple way to improve their programming progress.  Just think of athletes, entrepreneurs, students, health-nuts, and travelers. They’re among the diverse groups of people who use a planner. Planners are often used to give productivity a boost in order to stay organized and]]></summary>
-        <author>
-            <name>Amy Haddad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn How to Use JavaScript Arrays by Building an iPhone Product Page]]></title>
-        <id>625e8cfaac55f60686c37f21</id>
-        <link href="https://www.freecodecamp.org/news/learn-javascript-arrays-by-building-product-page/"/>
-        <updated>2022-04-22T00:10:02.000Z</updated>
-        <summary type="html"><![CDATA[I had the idea for this tutorial while browsing the official iPhone website. Apple is known for its great products and impeccable design, and if you spend enough time checking out its website, you can learn a thing or two about branding and great design.  One of the things]]></summary>
-        <author>
-            <name>Samuel A. Olubiyo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Contribute to Open-Source Projects – A Beginner's Guide]]></title>
-        <id>624e7b3eac55f60686c2f0b8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects/"/>
-        <updated>2022-04-21T23:38:34.000Z</updated>
-        <summary type="html"><![CDATA[If you've been considering contributing to an open source project, you might be weighing the pros and cons of doing so. You might hear things like open-source projects won't help you grow. Or they can't change your career trajectory. And that your contributions definitely won’t add to your portfolio. If]]></summary>
-        <author>
-            <name>Ankita Tripathi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Should You Move to the Cloud? Advantages of Cloud Computing Explained]]></title>
-        <id>623422f3cdcd57069ddfade9</id>
-        <link href="https://www.freecodecamp.org/news/advantages-of-cloud-computing/"/>
-        <updated>2022-04-21T22:27:23.000Z</updated>
-        <summary type="html"><![CDATA[The term cloud computing refers to software and services that run on the internet instead of locally on your on-site server or computer. Adopting the cloud can help you and your team cut costs and ensure that your data and systems are available to your customers anywhere and at any]]></summary>
-        <author>
-            <name>Davis David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Colaboratory – How to Run Python Code in Your Google Drive]]></title>
-        <id>625df1a2ac55f60686c37b2d</id>
-        <link href="https://www.freecodecamp.org/news/google-colaboratory-python-code-in-your-google-drive/"/>
-        <updated>2022-04-21T19:56:02.000Z</updated>
-        <summary type="html"><![CDATA[The Google Colaboratory (“Colab”) is a notebook (like a Jupyter Notebook) where you can run Python code in your Google Drive.  You can write text, write code, run that code, and see the output – all in line in the same notebook.  Benefits of Google Colab Sharing notebooks]]></summary>
-        <author>
-            <name>Ed Pratowski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Firmware? Definition and Examples]]></title>
-        <id>6223b106c4d0d306772f4b41</id>
-        <link href="https://www.freecodecamp.org/news/what-is-firmware/"/>
-        <updated>2022-04-21T18:40:08.000Z</updated>
-        <summary type="html"><![CDATA[Did you know that firmware is literally everywhere? It might be strange to think about – but it's just as common as hardware and software. In fact, it is thanks to firmware that:  * Printers work  * Defibrillators work  * Car radios works  * and more]]></summary>
-        <author>
-            <name>Tiago Monteiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Remove a Property from a JavaScript Object]]></title>
-        <id>6260bd7bac55f60686c39b14</id>
-        <link href="https://www.freecodecamp.org/news/how-to-remove-a-property-from-a-javascript-object/"/>
-        <updated>2022-04-21T17:48:33.000Z</updated>
-        <summary type="html"><![CDATA[There are two ways to remove a property from a JavaScript object. There's the mutable way of doing it using the delete operator, and the immutable way of doing it using object restructuring.  Let's go through each of these methods in this tutorial. Remove a Property from a JS]]></summary>
-        <author>
-            <name>Saransh Kataria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Designing Better Navigation With Navigation Queries]]></title>
         <id>https://smashingmagazine.com/2022/04/designing-better-navigation-ux-queries/</id>
         <link href="https://smashingmagazine.com/2022/04/designing-better-navigation-ux-queries/"/>
@@ -114,26 +144,6 @@ Writing Strong Front-end Test Element Locators originally published on CSS-Trick
         <summary type="html"><![CDATA[In UX, we can use navigation queries, evaluation journeys, A-Z index and tap-ahead autocomplete to help users get where they want to be, faster. Let’s find out how.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your Own Blog with Next.js and MDX]]></title>
-        <id>625b6643ac55f60686c36806</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-your-own-blog-with-next-js-and-mdx/"/>
-        <updated>2022-04-21T02:28:29.000Z</updated>
-        <summary type="html"><![CDATA[When I decided to build my blog, I found many tools out there that were readily available. I looked at Gastby [https://www.gatsbyjs.com/] along with content management systems like Ghost [https://ghost.org/], Contentful [https://www.contentful.com/], Sanity dot io [https://www.sanity.io/], and HUGO [https://gohugo.io/].  But I needed something that I could have total control]]></summary>
-        <author>
-            <name>Caleb Olojo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is FTP? File Transfer Protocol and FTP Server Meaning]]></title>
-        <id>625eae40ac55f60686c381d2</id>
-        <link href="https://www.freecodecamp.org/news/what-is-ftp-file-transfer-protocol-and-ftp-server-meaning/"/>
-        <updated>2022-04-21T01:01:16.000Z</updated>
-        <summary type="html"><![CDATA[FTP stands for File Transfer Protocol. This is a network/communication protocol for transferring files between computers over a TCP/IP (Transmission Control Protocol/Internet Protocol) network.  Examples of TCP/IP networks are:  * HTTP (Hypertext Transfer Protocol).  * HTTPS (Hypertext Transfer Protocol Secure).  * FTP (File Transfer Protocol). How]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
         </author>
     </entry>
     <entry>
