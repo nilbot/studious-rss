@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365383",
+          "author": "Temani Afif",
+          "description": "A while ago, Geoff wrote an article about a cool hover effect. The effect relies on a combination of CSS pseudo-elements, transforms, and transitions. A lot of comments have shown that the same effect can be done using background …\nCool Hover Effects That Use Background Properties originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/cool-hover-effects-using-background-properties/",
+          "publishedOn": "2022-04-27T14:20:07.000Z",
+          "wordCount": 3530,
+          "title": "Cool Hover Effects That Use Background Properties",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365383"
+        },
+        {
           "id": "https://css-tricks.com/?p=365359",
           "author": "Dan Christofi",
           "description": "When creating a component-based, front-end infrastructure, one of the biggest pain points I’ve personally encountered is making components that are both reusable and responsive when there are nested components within components.\nTake the following “call to action” (<CTA />…\nAvoiding the Pitfalls of Nested Components in a Design System originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/nested-components-in-a-design-system/",
           "publishedOn": "2022-04-26T14:30:20.000Z",
-          "wordCount": 2057,
+          "wordCount": 2476,
           "title": "Avoiding the Pitfalls of Nested Components in a Design System",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365359"
         },
@@ -37,7 +47,7 @@
           "description": "In the 15 or so years since I started making WordPress websites, nothing has had more of an impact on my productivity — and my ability to enjoy front-end development — than adding Tailwind CSS to my workflow (and it …\nAdding Tailwind CSS to New and Existing WordPress Themes originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/adding-tailwind-css-to-wordpress-themes/",
           "publishedOn": "2022-04-20T15:30:29.000Z",
-          "wordCount": 3302,
+          "wordCount": 3652,
           "title": "Adding Tailwind CSS to New and Existing WordPress Themes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364880"
         },
@@ -80,16 +90,6 @@
           "wordCount": 3542,
           "title": "Tricks to Cut Corners Using CSS Mask and Clip-Path Properties",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364279"
-        },
-        {
-          "id": "https://css-tricks.com/?p=364118",
-          "author": "Daniel Schwarz",
-          "description": "A bookmarklet is a JavaScript-based bookmark that adds to a web browser. I’d like to show you some awesome web browser hacks to aid your web development workflow and how to convert those hacks into time-saving bookmarklets.\nActivating design mode\n…\n6 Useful Bookmarklets to Boost Web Development originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/web-development-bookmarklets/",
-          "publishedOn": "2022-03-28T18:15:41.000Z",
-          "wordCount": 2932,
-          "title": "6 Useful Bookmarklets to Boost Web Development",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364118"
         }
       ]
     },
@@ -98,6 +98,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/04/boosting-ux-with-design-kpis/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "We should be able to measure how well a particular design solves a particular problem. Let’s explore design KPIs that capture user’s experience, how to measure them and how to keep both users and business stakeholders happy, over time.",
+          "link": "https://smashingmagazine.com/2022/04/boosting-ux-with-design-kpis/",
+          "publishedOn": "2022-04-27T08:30:00.000Z",
+          "wordCount": 1531,
+          "title": "Boosting UX With Design KPIs",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1021a1ce-ec58-4b8f-837f-e7d4aa3f8448/boosting-ux-with-design-kpis.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1021a1ce-ec58-4b8f-837f-e7d4aa3f8448/boosting-ux-with-design-kpis.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/04/ux-integrated-design-workflows/",
           "author": "hello@smashingmagazine.com (Ceara Crawshaw)",
@@ -119,7 +134,7 @@
           "description": "In this article, Jhey Tompkins explores one of GreenSocks’ newest plugins alongside React to create an impractical whimsical spin on a well-known native element: ``.",
           "link": "https://smashingmagazine.com/2022/04/what-if-sliders-actually-slid-html-element-input-range/",
           "publishedOn": "2022-04-25T09:30:00.000Z",
-          "wordCount": 3385,
+          "wordCount": 3393,
           "title": "What If Our Sliders Actually Slid?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9d1d14c-98fc-463e-82b5-df98f5556b72/what-if-sliders-actually-slid-html-element-input-range.jpg",
@@ -134,7 +149,7 @@
           "description": "Have you ever wondered, why do people write CLI tools? When is a good time to think about yours? Today we’ll touch on these questions, along with some tips to remember when creating one. However, all of this serves as a prelude to the real topic: end-to-end testing of CLI tools.",
           "link": "https://smashingmagazine.com/2022/04/testing-cli-way-people-use-it/",
           "publishedOn": "2022-04-22T09:30:00.000Z",
-          "wordCount": 4166,
+          "wordCount": 4173,
           "title": "Testing The CLI The Way People Use It",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e6d3ba7a-2c86-4e64-b8e8-6d58adaafdba/testing-cli-way-people-use-it.jpg",
@@ -149,7 +164,7 @@
           "description": "In UX, we can use navigation queries, evaluation journeys, A-Z index and tap-ahead autocomplete to help users get where they want to be, faster. Let’s find out how.",
           "link": "https://smashingmagazine.com/2022/04/designing-better-navigation-ux-queries/",
           "publishedOn": "2022-04-21T10:00:00.000Z",
-          "wordCount": 3304,
+          "wordCount": 3305,
           "title": "Designing Better Navigation With Navigation Queries",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3b9b874c-9208-47da-b69b-b46d90988b11/designing-better-navigation-ux-queries.jpg",
@@ -179,7 +194,7 @@
           "description": "In this article, Ekene Eze shares his thoughts about the direction of the web in 2022, and what solutions we can expect to see come up in the ecosystem to significantly improve the Jamstack experience.",
           "link": "https://smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution/",
           "publishedOn": "2022-04-19T09:00:00.000Z",
-          "wordCount": 1695,
+          "wordCount": 1693,
           "title": "Jamstack Rendering Patterns: The Evolution",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/86e9ff96-97fd-42f7-aa79-9fe5527e1408/jamstack-rendering-patterns-evolution.jpg",
@@ -194,7 +209,7 @@
           "description": "What are the benefits of using push notifications and what can you use them for? In this article, Lee Munroe explains how to implement them and which practices are best to follow.",
           "link": "https://smashingmagazine.com/2022/04/guide-push-notifications-developers/",
           "publishedOn": "2022-04-18T11:30:00.000Z",
-          "wordCount": 2510,
+          "wordCount": 2512,
           "title": "The Ultimate Guide To Push Notifications For Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bebe6c69-2f6e-4523-aede-2ac46114a952/guide-push-notifications-developers.jpg",
@@ -239,7 +254,7 @@
           "description": "Carousels don’t have a good reputation, and rightfully so. But we can make them more useful. **Best practices and guidelines** to improve the carousel design with honest scrolling direction, labels, thumbnails and grouped prev/next-buttons.",
           "link": "https://smashingmagazine.com/2022/04/designing-better-carousel-ux/",
           "publishedOn": "2022-04-13T12:00:00.000Z",
-          "wordCount": 7262,
+          "wordCount": 7258,
           "title": "Designing A Better Carousel UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/729433dc-4cea-4eed-9128-0e9e6dbfe6db/designing-better-carousel-ux.jpg",
@@ -254,7 +269,7 @@
           "description": "Like many things, a design system isn’t ever a finished thing — it’s a journey. How we go about that journey can affect the things we produce along the way. Before diving in and starting to plan anything out, be clear about where the benefits and the risks might lie.",
           "link": "https://smashingmagazine.com/2022/04/artifacts-design-systems/",
           "publishedOn": "2022-04-12T12:00:00.000Z",
-          "wordCount": 4134,
+          "wordCount": 4142,
           "title": "Around The Artifacts Of Design Systems (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/170611c4-1cfa-4f09-8ba0-2999839a2679/artifacts-design-systems.jpg",
@@ -269,7 +284,7 @@
           "description": "This new attribute will enable us to fine-tune relative resource priority, improve LCP performance, deprioritize JavaScript fetch calls, and much more. Let’s check out fetchpriority and explore some potential use cases.",
           "link": "https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/",
           "publishedOn": "2022-04-11T09:30:00.000Z",
-          "wordCount": 2322,
+          "wordCount": 2318,
           "title": "Boost Resource Loading With fetchpriority, A New Priority Hint",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/619a484f-276c-46b3-9f4e-ce788aef7fef/boost-resource-loading-new-priority-hint-fetchpriority.jpg",
@@ -284,7 +299,7 @@
           "description": "Data is among the most important things that make up a web application or a conventional native app. We need data to be able to see and perhaps understand the purpose of an application. In this article, we’ll look at another approach to obtaining data in an application that requires authentication or authorization using Next.js.",
           "link": "https://smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/",
           "publishedOn": "2022-04-08T12:00:00.000Z",
-          "wordCount": 1942,
+          "wordCount": 1931,
           "title": "Dynamic Data-Fetching In An Authenticated Next.js App",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/929fd32f-838d-44e8-88f1-2392555f6c44/dynamic-data-fetching-authenticated-nextjs-app.jpg",
@@ -299,7 +314,7 @@
           "description": "In this series of articles, we highlight design patterns and techniques to design better interfaces. You can also find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.",
           "link": "https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/",
           "publishedOn": "2022-04-06T14:20:00.000Z",
-          "wordCount": 6902,
+          "wordCount": 6899,
           "title": "Designing Better Breadcrumbs",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83a5c72a-37d0-4c2c-9ce8-1ebc22b913f3/designing-better-breadcrumbs-navigation.jpg",
@@ -329,7 +344,7 @@
           "description": "Whether you work in-house or for an external agency, we all share one challenge — dealing with stakeholders, be they your boss, colleagues, or clients. In this post, veteran web designer Paul Boag shares his approach to getting things done in even the most challenging organizations.",
           "link": "https://smashingmagazine.com/2022/04/stakeholders-overcoming-obstacles/",
           "publishedOn": "2022-04-05T13:00:00.000Z",
-          "wordCount": 2409,
+          "wordCount": 2415,
           "title": "How To Get Work Done: Wrangling Stakeholders And Overcoming Obstacles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/29128d44-8712-417e-8bca-ba367e4fd283/stakeholders-overcoming-obstacles.jpg",
@@ -344,7 +359,7 @@
           "description": "Ever wondered how to build a paginated list that works with and without JavaScript? In this article, Manuel explains how you can leverage the power of Progressive Enhancement and do just that with Eleventy and Alpine.js.",
           "link": "https://smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/",
           "publishedOn": "2022-04-04T10:00:00.000Z",
-          "wordCount": 4575,
+          "wordCount": 4562,
           "title": "How To Build A Progressively Enhanced, Accessible, Filterable And Paginated List",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/247c8c69-4797-4922-9c3b-75cfa3362051/accessible-filterable-paginated-list-11ty-alpinejs.jpg",
@@ -359,7 +374,7 @@
           "description": "Next.js’ recent 12.0 release included a new beta feature: middleware. For a detailed explanation, you can read all about it in Sam’s previous article, “[Next.js Wildcard Subdomains](https://www.smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/)”. This article, on the other hand, dives into the overall concept of middleware and how handy it can be in building things.",
           "link": "https://smashingmagazine.com/2022/04/next-js-middleware-feature/",
           "publishedOn": "2022-04-01T10:30:00.000Z",
-          "wordCount": 1947,
+          "wordCount": 1935,
           "title": "The What, When, Why And How Of Next.js’ New Middleware Feature",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b614fa99-6432-4f8f-bb7a-234b9e0c082e/next-js-middleware-feature.jpg",
@@ -374,7 +389,7 @@
           "description": "Let’s welcome the new month with some new wallpapers. Designed with love by artists and designers from across the globe, they are available in versions with and without a calendar for April 2022.",
           "link": "https://smashingmagazine.com/2022/03/desktop-wallpaper-calendars-april-2022/",
           "publishedOn": "2022-03-31T08:00:00.000Z",
-          "wordCount": 1984,
+          "wordCount": 1970,
           "title": "A Time For Reflection (April 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5a643aa-d809-46c8-a329-689e866dc160/apr-22-blue-and-yellow-preview-opt.png",
@@ -389,7 +404,7 @@
           "description": "Best practices and guidelines to improve the UX of infinite scroll with bookmarks, footer reveal and pagination.",
           "link": "https://smashingmagazine.com/2022/03/designing-better-infinite-scroll/",
           "publishedOn": "2022-03-30T13:30:00.000Z",
-          "wordCount": 2926,
+          "wordCount": 2927,
           "title": "Designing A Better Infinite Scroll",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/41704a7b-0bd6-4144-b13e-2b092a0ea3e1/designing-better-infinite-scroll.jpg",
@@ -412,36 +427,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3ccd449a-af31-4cb1-a417-827ca64c2f30/smashingconfs-back-2022.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/03/jobs-designers-developers-war-ukraine/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Are you a designer or developer affected by the war in Ukraine? Here are some options to consider if you’re looking for a design or tech job.",
-          "link": "https://smashingmagazine.com/2022/03/jobs-designers-developers-war-ukraine/",
-          "publishedOn": "2022-03-29T11:00:00.000Z",
-          "wordCount": 923,
-          "title": "Jobs For Designers And Developers Affected By The War In Ukraine 🇺🇦",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/09918dee-32d3-430b-9824-f481a5cda385/jobs-ukrainian-refugees.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/09918dee-32d3-430b-9824-f481a5cda385/jobs-ukrainian-refugees.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/03/guide-hover-pointer-media-queries/",
-          "author": "hello@smashingmagazine.com (Cristian Díaz)",
-          "description": "In this article, we’ll talk about how to adapt our sites to the different scenarios of a device pointer: whether it has a pointer or not, or how accurate it is. To adapt our site to those devices’ needs we’ll talk about how to properly use media queries `hover`, `pointer`, `any-hover` and `any-pointer`.",
-          "link": "https://smashingmagazine.com/2022/03/guide-hover-pointer-media-queries/",
-          "publishedOn": "2022-03-28T17:00:00.000Z",
-          "wordCount": 4096,
-          "title": "A Guide To Hover And Pointer Media Queries",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e8282b7e-20d8-481e-8bd8-0261fd9c1cc0/guide-hover-pointer-media-queries.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e8282b7e-20d8-481e-8bd8-0261fd9c1cc0/guide-hover-pointer-media-queries.jpg"
         }
       ]
     },
@@ -451,104 +436,104 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
-          "id": "622864b663ded806bb9e6f8d",
-          "author": "Dionysia Lemonaki",
-          "description": "Sometimes you might want to delay the execution of your code. You may need certain lines of code to execute at a point in the future, when you explicitly specify, rather than all the code executing synchronously. Something like that is possible with JavaScript. In this article, you will learn",
-          "link": "https://www.freecodecamp.org/news/javascript-wait-how-to-sleep-n-seconds-in-js-with-settimeout/",
-          "publishedOn": "2022-04-26T19:14:41.000Z",
-          "wordCount": 1315,
-          "title": "JavaScript Wait – How to Sleep N Seconds in JS with .setTimeout()",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/nikita-kachanovsky-OVbeSXRk_9E-unsplash.jpg"
+          "id": "62458d52138a19064b069054",
+          "author": "Ihechikara Vincent Abba",
+          "description": "There are a few common coding problems you might encounter when you start practicing what you've learned by building projects. One common problem you'll face as a web developer is how to place an element at the center of a page or within an element acting as its container. It's",
+          "link": "https://www.freecodecamp.org/news/how-to-center-a-div-with-css/",
+          "publishedOn": "2022-04-27T19:58:59.000Z",
+          "wordCount": 1072,
+          "title": "How to Center a Div with CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-pixabay-161043-1.jpg"
         },
         {
-          "id": "626595d9ac55f60686c3bcb6",
-          "author": "Jessica Wilkins",
-          "description": "There will be many times where you will need to center some text using HTML and CSS. But what is the best way to go about that? In this article, I will show you how to use the text-align property in CSS and show you how to vertically align text",
-          "link": "https://www.freecodecamp.org/news/text-align-in-css-how-to-align-text-in-center-with-html/",
-          "publishedOn": "2022-04-26T19:08:29.000Z",
-          "wordCount": 778,
-          "title": "Text Align in CSS – How to Align Text in Center with HTML",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/nick-karvounis-TkZYCXmrKK4-unsplash.jpg"
-        },
-        {
-          "id": "6267fd8cc1c601068f4e77d0",
+          "id": "626919edc1c601068f4e809e",
           "author": "Kolade Chris",
-          "description": "If you are just getting started in Python, for loops are one of the fundamentals you should learn how to use. In the Python programming language, for loops are also called “definite loops” because they perform the instruction a certain number of times. This is in contrast to while loops,",
-          "link": "https://www.freecodecamp.org/news/python-for-loop-example-how-to-write-loops-in-python/",
-          "publishedOn": "2022-04-26T19:01:37.000Z",
-          "wordCount": 1672,
-          "title": "Python For Loop Example – How to Write Loops in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/forLoop.png"
+          "description": "Sending large files through email can be quite challenging. This is because each email client has a size limit for file sharing. Gmail and Yahoo limit file size to 25MB, while outlook and iCloud limit files to 20MB. So, if you decide to send, for example, a video file larger",
+          "link": "https://www.freecodecamp.org/news/how-to-send-large-video-files-share-a-big-file-with-email/",
+          "publishedOn": "2022-04-27T19:51:49.000Z",
+          "wordCount": 883,
+          "title": "How to Send Large Video Files – Share a Big File with Email",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/technology-2125547_1280.jpg"
         },
         {
-          "id": "6260a9fcac55f60686c399f9",
-          "author": "Dillion Megida",
-          "description": "We use icons when building frontend applications all the time – for indications, pointers, and so on. Here's how to create a reusable React component for icons. When it comes to icons, you can use PNG or SVG images. PNGs come with a fixed color but allow dimension changes (like",
-          "link": "https://www.freecodecamp.org/news/how-to-create-reusable-icon-react-components-for-colors-and-sizes-customization/",
-          "publishedOn": "2022-04-26T18:22:02.000Z",
-          "wordCount": 920,
-          "title": "How to Create Reusable SVG Icon React Components",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-chait-goli-2088233.jpg"
+          "id": "6266b589ac55f60686c3c44f",
+          "author": "Md. Fahim Bin Amin",
+          "description": "If you are a Linux user, then you've likely used the GNOME Desktop Environment at least once. The latest GNOME DE (Desktop Environment) uses Wayland nowadays. And while it's possible to remove Wayland and select Xorg if you want, most users are starting to use Wayland as their daily driver.",
+          "link": "https://www.freecodecamp.org/news/how-to-fix-black-screen-on-google-chrome-on-linux-os/",
+          "publishedOn": "2022-04-27T19:33:58.000Z",
+          "wordCount": 911,
+          "title": "How to Fix Google Chrome Black Screen on Linux OS (Wayland)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Fix---1-.png"
         },
         {
-          "id": "6262a8d5ac55f60686c3abd5",
-          "author": "Jose Vicente Nunez",
-          "description": "In this article I will show you a few techniques you can use to troubleshoot a program when is not behaving.  This list is not universal and, depending on what you are looking for, it may not be enough to solve your problem. But it should be a good",
-          "link": "https://www.freecodecamp.org/news/debug-an-app-with-strace-python-wireshark/",
-          "publishedOn": "2022-04-26T00:23:26.000Z",
-          "wordCount": 4395,
-          "title": "How to Debug Applications with Strace, Python, and Wireshark",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-egor-kamelev-3819742.jpg"
+          "id": "6267fe2ec1c601068f4e77da",
+          "author": "Arjav Dave",
+          "description": "Docker has become increasingly popular over the last several years. One reason for this is that you can create portable containers which are fast and easy to deploy.  As described on Docker's website [https://www.docker.com/resources/what-container/], a container is something that packages your code along with any other dependencies so that",
+          "link": "https://www.freecodecamp.org/news/run-multiple-containers-with-docker-compose/",
+          "publishedOn": "2022-04-27T19:31:29.000Z",
+          "wordCount": 2559,
+          "title": "How to Run Multiple Containers with Docker Compose",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/docker-compose-scaled-1.jpeg"
         },
         {
-          "id": "6265e8feac55f60686c3bf60",
-          "author": "Jessica Wilkins",
-          "description": "CSS variables are custom variables that you can create and reuse throughout your stylesheet.  In this article, I will show you how to create CSS variables on the :root pseudo selector and show you how to access them using the var() function.  How to Create a CSS Custom",
-          "link": "https://www.freecodecamp.org/news/what-are-css-variables-and-how-to-use-them/",
-          "publishedOn": "2022-04-25T22:47:25.000Z",
-          "wordCount": 884,
-          "title": "CSS Variables Definition – What are CSS Vars and How to Use Them?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pankaj-patel-6JVlSdgMacE-unsplash.jpg"
+          "id": "625fc3caac55f60686c38ce0",
+          "author": "Kaushal Joshi",
+          "description": "Docker is a platform that helps you build, run, and ship applications in a seamless and error-free way.  You've likely come across a scenario where the code is running on your machine, but is somehow throwing errors on someone else's machine.  Well, Docker was created to solve this",
+          "link": "https://www.freecodecamp.org/news/build-and-push-docker-images-to-aws-ecr/",
+          "publishedOn": "2022-04-27T16:38:22.000Z",
+          "wordCount": 2324,
+          "title": "How to Build and Push Docker Images to AWS ECR",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/How-to-Build-and-Push-Docker-Images-to-AWS-ECR.png"
         },
         {
-          "id": "6229cf6963ded806bb9e79c2",
-          "author": "Adalbert Pungu",
-          "description": "Hi there! If you are reading this article, you're probably trying to understand what Sass is and how it works.  Sass is a CSS preprocessor that helps you manage tasks in large projects where the style sheets get larger, you have a number of lines of CSS code, and",
-          "link": "https://www.freecodecamp.org/news/how-to-use-sass-with-css/",
-          "publishedOn": "2022-04-25T22:32:38.000Z",
-          "wordCount": 2174,
-          "title": "How to Use Sass with CSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/sass-image.png"
+          "id": "6269557fc1c601068f4e8127",
+          "author": "Beau Carnes",
+          "description": "Assembly language is a low-level programming language for a computer or other programmable device that is closest to the machine language. It is often specific to a particular computer architecture so there are multiple types of assembly languages. ARM is an increasingly popular assembly language.  We just published a",
+          "link": "https://www.freecodecamp.org/news/learn-assembly-language-programming-with-arm/",
+          "publishedOn": "2022-04-27T14:49:31.000Z",
+          "wordCount": 523,
+          "title": "Learn Assembly Language Programming with ARM",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/arm.png"
         },
         {
-          "id": "6260ad0dac55f60686c39a04",
-          "author": "Dillion Megida",
-          "description": "In programming, modules are components of a program with one or more functions or values. These values can also be shared across the entire program and can be used in different ways. In this article, I will show you how to share functions and values by exporting and importing modules",
-          "link": "https://www.freecodecamp.org/news/module-exports-how-to-export-in-node-js-and-javascript/",
-          "publishedOn": "2022-04-25T21:03:11.000Z",
-          "wordCount": 1228,
-          "title": "module.exports – How to Export in Node.js and JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-conrad-marshall-615670.jpg"
+          "id": "626074adac55f60686c397ae",
+          "author": "Zaira Hira",
+          "description": "Linux is a multi user OS which means that it supports multiple users at a time.  As many people can access the system simultaneously and some resources are shared, Linux controls access through ownership and permissions.  Linux file ownership In Linux, there are three types of owners: user,",
+          "link": "https://www.freecodecamp.org/news/linux-chmod-chown-change-file-permissions/",
+          "publishedOn": "2022-04-27T00:38:38.000Z",
+          "wordCount": 2154,
+          "title": "Linux chmod and chown – How to Change File Permissions and Ownership in Linux",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/guided-exercise--1-.png"
         },
         {
-          "id": "6255f46dac55f60686c332f7",
-          "author": "Ukeje Chukwuemeriwo Goodness",
-          "description": "Data analysis is the process of filtering, manipulating, and processing raw data and datasets to get insights from them. Python and R are usually the go-to languages for data analysis. But these days Go is becoming more and more popular for this purpose.  In this tutorial, we will be",
-          "link": "https://www.freecodecamp.org/news/exploratory-data-analysis-in-go-with-gota/",
-          "publishedOn": "2022-04-25T20:52:01.000Z",
-          "wordCount": 2373,
-          "title": "Data Analysis in Go – How to Use the Gota Package",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Exodus-Of-Decentralized-Internet.png"
+          "id": "6262b979ac55f60686c3aca1",
+          "author": "Sonia",
+          "description": "Questions about the Fibonacci Series are some of the most commonly asked in Python interviews.  In this article, I'll explain a step-by-step approach on how to print the Fibonacci sequence using two different techniques, iteration and recursion.  Before we begin, let's first understand some basic terminology. What is",
+          "link": "https://www.freecodecamp.org/news/python-program-to-print-the-fibonacci-sequence/",
+          "publishedOn": "2022-04-27T00:34:03.000Z",
+          "wordCount": 2048,
+          "title": "Python Program to Print the Fibonacci Sequence",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-jeff-wang-462402.jpg"
         },
         {
-          "id": "6262c8c9ac55f60686c3aec7",
-          "author": "Ali Haydar",
-          "description": "Lambda has gained massive popularity over the past few years. It has various use cases, from running simple scripts to gluing flows and processes within a serverless architecture or when running microservices. Still, if you've just started working in a new environment or organisation, you might feel cautious about using",
-          "link": "https://www.freecodecamp.org/news/how-to-speed-up-lambda-functions/",
-          "publishedOn": "2022-04-25T19:43:19.000Z",
-          "wordCount": 1479,
-          "title": "How to Speed Up Your Lambda Functions",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-zhang-kaiyv-842654.jpg"
+          "id": "6253a5fcac55f60686c31c25",
+          "author": "Ijelekhai Faith Olohijere",
+          "description": "In this article, we'll learn a few different ways to resize elements and groups in Figma (in addition to the default method). We'll also learn how to resize frames without moving elements in the frames. In Figma, there are other ways to resize elements apart from the default method. So",
+          "link": "https://www.freecodecamp.org/news/how-to-resize-elements-in-figma/",
+          "publishedOn": "2022-04-26T23:05:31.000Z",
+          "wordCount": 876,
+          "title": "How to Resize Elements in Figma",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-pixabay-163822.jpg"
+        },
+        {
+          "id": "6255a0d4ac55f60686c32eaa",
+          "author": "Aris Zagakos",
+          "description": "In this article we will discuss Homomorphic Encryption, the problem that it solves, and the different types that exist.  Then we will write code in Python to show some of its capabilities in action. Here's what we'll cover:  1. What is Homomorphic Encryption?  2. Advantages of Homomorphic",
+          "link": "https://www.freecodecamp.org/news/introduction-to-homomorphic-encryption/",
+          "publishedOn": "2022-04-26T23:01:28.000Z",
+          "wordCount": 1204,
+          "title": "What is Homomorphic Encryption?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Homomorphic-Encryption-3--1.png"
         }
       ]
     }
