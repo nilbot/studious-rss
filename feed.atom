@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-28T00:04:03.218Z</id>
+    <id>urn:2022-04-29T00:04:05.005Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-28T00:04:03.218Z</updated>
+    <updated>2022-04-29T00:04:05.005Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Blazor WebAssembly and Web API on .NET 6 by Building a Shopping Cart App]]></title>
+        <id>626acd1fc1c601068f4e86be</id>
+        <link href="https://www.freecodecamp.org/news/learn-blazor-webassembly-and/"/>
+        <updated>2022-04-28T17:28:46.000Z</updated>
+        <summary type="html"><![CDATA[Blazor WebAssembly is a single-page app framework for building interactive client-side web apps with .NET. It uses open web standards without plugins or recompiling code into other languages. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use Blazor WebAssembly and Web]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting Up CloudFront to Host Your Web App]]></title>
+        <id>https://css-tricks.com/?p=365413</id>
+        <link href="https://css-tricks.com/setting-up-cloudfront-to-host-your-web-app/"/>
+        <updated>2022-04-28T14:42:48.000Z</updated>
+        <summary type="html"><![CDATA[In my last article, we went over how to set up a web app that serves chunks and bundles of CSS and JavaScript from CloudFront. We integrated it into Vite so that when the app runs in a browser, …
+Setting Up CloudFront to Host Your Web App originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CTA Modal: How To Build A Web Component]]></title>
+        <id>https://smashingmagazine.com/2022/04/cta-modal-build-web-component/</id>
+        <link href="https://smashingmagazine.com/2022/04/cta-modal-build-web-component/"/>
+        <updated>2022-04-28T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Nathan Smith explains how to create modal dialog windows with rich interaction that will only require authoring HTML in order to be used. They are based on Web Components that are currently supported by every major browser.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nathan Smith)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Habit System and Stay Motivated as a Developer]]></title>
+        <id>6267958cc1c601068f4e758d</id>
+        <link href="https://www.freecodecamp.org/news/create-a-habit-system-and-stay-motivated-as-a-developer/"/>
+        <updated>2022-04-28T00:43:46.000Z</updated>
+        <summary type="html"><![CDATA[Do you ever find it challenging to work on your project, side hustle, or even your hobby?  Have you ever had those moments where nothing feels exciting? You lay in bed thinking – is it me, or is my work that boring?  I have those days too. Some]]></summary>
+        <author>
+            <name>Shruti Kapoor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Center a Div with CSS]]></title>
         <id>62458d52138a19064b069054</id>
@@ -103,27 +144,7 @@ Cool Hover Effects That Use Background Properties originally published on CSS-Tr
         <updated>2022-04-27T00:34:03.000Z</updated>
         <summary type="html"><![CDATA[Questions about the Fibonacci Series are some of the most commonly asked in Python interviews.  In this article, I'll explain a step-by-step approach on how to print the Fibonacci sequence using two different techniques, iteration and recursion.  Before we begin, let's first understand some basic terminology. What is]]></summary>
         <author>
-            <name>Sonia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Resize Elements in Figma]]></title>
-        <id>6253a5fcac55f60686c31c25</id>
-        <link href="https://www.freecodecamp.org/news/how-to-resize-elements-in-figma/"/>
-        <updated>2022-04-26T23:05:31.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll learn a few different ways to resize elements and groups in Figma (in addition to the default method). We'll also learn how to resize frames without moving elements in the frames. In Figma, there are other ways to resize elements apart from the default method. So]]></summary>
-        <author>
-            <name>Ijelekhai Faith Olohijere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Homomorphic Encryption?]]></title>
-        <id>6255a0d4ac55f60686c32eaa</id>
-        <link href="https://www.freecodecamp.org/news/introduction-to-homomorphic-encryption/"/>
-        <updated>2022-04-26T23:01:28.000Z</updated>
-        <summary type="html"><![CDATA[In this article we will discuss Homomorphic Encryption, the problem that it solves, and the different types that exist.  Then we will write code in Python to show some of its capabilities in action. Here's what we'll cover:  1. What is Homomorphic Encryption?  2. Advantages of Homomorphic]]></summary>
-        <author>
-            <name>Aris Zagakos</name>
+            <name>Sonia Jessica</name>
         </author>
     </entry>
     <entry>
@@ -403,16 +424,6 @@ Tricks to Cut Corners Using CSS Mask and Clip-Path Properties originally publish
         <summary type="html"><![CDATA[Best practices and guidelines to improve the UX of infinite scroll with bookmarks, footer reveal and pagination.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SmashingConf Is Back In 2022]]></title>
-        <id>https://smashingmagazine.com/2022/03/smashingconf-workshops-conferences-2022/</id>
-        <link href="https://smashingmagazine.com/2022/03/smashingconf-workshops-conferences-2022/"/>
-        <updated>2022-03-29T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[After two years when almost everything moved online, 2022 marks the return of in-person conferences. In fact, [SmashingConf is back](https://smashingconf.com/conferences): coming to  San Francisco and Austin in June, Freiburg (Germany) in September, and New York in October.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jarijn Nijkamp)</name>
         </author>
     </entry>
 </feed>

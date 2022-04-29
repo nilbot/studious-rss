@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365413",
+          "author": "Adam Rackis",
+          "description": "In my last article, we went over how to set up a web app that serves chunks and bundles of CSS and JavaScript from CloudFront. We integrated it into Vite so that when the app runs in a browser, …\nSetting Up CloudFront to Host Your Web App originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/setting-up-cloudfront-to-host-your-web-app/",
+          "publishedOn": "2022-04-28T14:42:48.000Z",
+          "wordCount": 2861,
+          "title": "Setting Up CloudFront to Host Your Web App",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365413"
+        },
+        {
           "id": "https://css-tricks.com/?p=365383",
           "author": "Temani Afif",
           "description": "A while ago, Geoff wrote an article about a cool hover effect. The effect relies on a combination of CSS pseudo-elements, transforms, and transitions. A lot of comments have shown that the same effect can be done using background …\nCool Hover Effects That Use Background Properties originally published on CSS-Tricks. You should get the newsletter.",
@@ -27,7 +37,7 @@
           "description": "When creating a component-based, front-end infrastructure, one of the biggest pain points I’ve personally encountered is making components that are both reusable and responsive when there are nested components within components.\nTake the following “call to action” (<CTA />…\nAvoiding the Pitfalls of Nested Components in a Design System originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/nested-components-in-a-design-system/",
           "publishedOn": "2022-04-26T14:30:20.000Z",
-          "wordCount": 2476,
+          "wordCount": 2617,
           "title": "Avoiding the Pitfalls of Nested Components in a Design System",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365359"
         },
@@ -47,7 +57,7 @@
           "description": "In the 15 or so years since I started making WordPress websites, nothing has had more of an impact on my productivity — and my ability to enjoy front-end development — than adding Tailwind CSS to my workflow (and it …\nAdding Tailwind CSS to New and Existing WordPress Themes originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/adding-tailwind-css-to-wordpress-themes/",
           "publishedOn": "2022-04-20T15:30:29.000Z",
-          "wordCount": 3652,
+          "wordCount": 3707,
           "title": "Adding Tailwind CSS to New and Existing WordPress Themes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364880"
         },
@@ -99,12 +109,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/04/cta-modal-build-web-component/",
+          "author": "hello@smashingmagazine.com (Nathan Smith)",
+          "description": "In this article, Nathan Smith explains how to create modal dialog windows with rich interaction that will only require authoring HTML in order to be used. They are based on Web Components that are currently supported by every major browser.",
+          "link": "https://smashingmagazine.com/2022/04/cta-modal-build-web-component/",
+          "publishedOn": "2022-04-28T09:30:00.000Z",
+          "wordCount": 4773,
+          "title": "CTA Modal: How To Build A Web Component",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bbadf16-a6e1-4d24-ba72-77cc51e3cc4e/cta-modal-build-web-component.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bbadf16-a6e1-4d24-ba72-77cc51e3cc4e/cta-modal-build-web-component.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/04/boosting-ux-with-design-kpis/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "We should be able to measure how well a particular design solves a particular problem. Let’s explore design KPIs that capture user’s experience, how to measure them and how to keep both users and business stakeholders happy, over time.",
           "link": "https://smashingmagazine.com/2022/04/boosting-ux-with-design-kpis/",
           "publishedOn": "2022-04-27T08:30:00.000Z",
-          "wordCount": 1531,
+          "wordCount": 1535,
           "title": "Boosting UX With Design KPIs",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1021a1ce-ec58-4b8f-837f-e7d4aa3f8448/boosting-ux-with-design-kpis.jpg",
@@ -119,7 +144,7 @@
           "description": "When bad UX has lingered in a product for so long, it can feel like a mountain to overcome. In this article, Ceara Crawshaw shares her advice on how you can invoke joy and assure the quality in the work done on product teams.",
           "link": "https://smashingmagazine.com/2022/04/ux-integrated-design-workflows/",
           "publishedOn": "2022-04-26T11:30:00.000Z",
-          "wordCount": 4020,
+          "wordCount": 4024,
           "title": "Preventing Bad UX Through Integrated Design Workflows",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47570c78-efae-4a35-b2c6-addf55029cac/ux-integrated-design-workflows.jpg",
@@ -134,7 +159,7 @@
           "description": "In this article, Jhey Tompkins explores one of GreenSocks’ newest plugins alongside React to create an impractical whimsical spin on a well-known native element: ``.",
           "link": "https://smashingmagazine.com/2022/04/what-if-sliders-actually-slid-html-element-input-range/",
           "publishedOn": "2022-04-25T09:30:00.000Z",
-          "wordCount": 3393,
+          "wordCount": 3381,
           "title": "What If Our Sliders Actually Slid?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9d1d14c-98fc-463e-82b5-df98f5556b72/what-if-sliders-actually-slid-html-element-input-range.jpg",
@@ -149,7 +174,7 @@
           "description": "Have you ever wondered, why do people write CLI tools? When is a good time to think about yours? Today we’ll touch on these questions, along with some tips to remember when creating one. However, all of this serves as a prelude to the real topic: end-to-end testing of CLI tools.",
           "link": "https://smashingmagazine.com/2022/04/testing-cli-way-people-use-it/",
           "publishedOn": "2022-04-22T09:30:00.000Z",
-          "wordCount": 4173,
+          "wordCount": 4165,
           "title": "Testing The CLI The Way People Use It",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e6d3ba7a-2c86-4e64-b8e8-6d58adaafdba/testing-cli-way-people-use-it.jpg",
@@ -179,7 +204,7 @@
           "description": "Who doesn’t love a good timesaver? In this post, we compiled useful productivity tips and tools that help you speed up routine tasks, enhance your development workflow, and stay organized.",
           "link": "https://smashingmagazine.com/2022/04/productivity-tips-tools/",
           "publishedOn": "2022-04-20T11:30:00.000Z",
-          "wordCount": 5058,
+          "wordCount": 5059,
           "title": "Productivity Tips And Tools For A More Efficient Workflow",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c0a83218-4f7e-4650-9380-72895a5936b3/productivity-tips-tools.jpg",
@@ -194,7 +219,7 @@
           "description": "In this article, Ekene Eze shares his thoughts about the direction of the web in 2022, and what solutions we can expect to see come up in the ecosystem to significantly improve the Jamstack experience.",
           "link": "https://smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution/",
           "publishedOn": "2022-04-19T09:00:00.000Z",
-          "wordCount": 1693,
+          "wordCount": 1708,
           "title": "Jamstack Rendering Patterns: The Evolution",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/86e9ff96-97fd-42f7-aa79-9fe5527e1408/jamstack-rendering-patterns-evolution.jpg",
@@ -209,7 +234,7 @@
           "description": "What are the benefits of using push notifications and what can you use them for? In this article, Lee Munroe explains how to implement them and which practices are best to follow.",
           "link": "https://smashingmagazine.com/2022/04/guide-push-notifications-developers/",
           "publishedOn": "2022-04-18T11:30:00.000Z",
-          "wordCount": 2512,
+          "wordCount": 2503,
           "title": "The Ultimate Guide To Push Notifications For Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bebe6c69-2f6e-4523-aede-2ac46114a952/guide-push-notifications-developers.jpg",
@@ -224,7 +249,7 @@
           "description": "Storytelling is a powerful tool for any UX designer. It helps create a product and understand the people who use it. In this article, Marli Mesibov takes a real-life example of an app she helped to build in 2017 and explains five steps you can use to help you build a story into your user experience.",
           "link": "https://smashingmagazine.com/2022/04/use-storytelling-ux/",
           "publishedOn": "2022-04-15T14:00:00.000Z",
-          "wordCount": 3753,
+          "wordCount": 3754,
           "title": "How To Use Storytelling In UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fedf0602-27ae-4516-bcd0-df371fd0048b/use-storytelling-ux.jpg",
@@ -254,7 +279,7 @@
           "description": "Carousels don’t have a good reputation, and rightfully so. But we can make them more useful. **Best practices and guidelines** to improve the carousel design with honest scrolling direction, labels, thumbnails and grouped prev/next-buttons.",
           "link": "https://smashingmagazine.com/2022/04/designing-better-carousel-ux/",
           "publishedOn": "2022-04-13T12:00:00.000Z",
-          "wordCount": 7258,
+          "wordCount": 7262,
           "title": "Designing A Better Carousel UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/729433dc-4cea-4eed-9128-0e9e6dbfe6db/designing-better-carousel-ux.jpg",
@@ -269,7 +294,7 @@
           "description": "Like many things, a design system isn’t ever a finished thing — it’s a journey. How we go about that journey can affect the things we produce along the way. Before diving in and starting to plan anything out, be clear about where the benefits and the risks might lie.",
           "link": "https://smashingmagazine.com/2022/04/artifacts-design-systems/",
           "publishedOn": "2022-04-12T12:00:00.000Z",
-          "wordCount": 4142,
+          "wordCount": 4136,
           "title": "Around The Artifacts Of Design Systems (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/170611c4-1cfa-4f09-8ba0-2999839a2679/artifacts-design-systems.jpg",
@@ -284,7 +309,7 @@
           "description": "This new attribute will enable us to fine-tune relative resource priority, improve LCP performance, deprioritize JavaScript fetch calls, and much more. Let’s check out fetchpriority and explore some potential use cases.",
           "link": "https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/",
           "publishedOn": "2022-04-11T09:30:00.000Z",
-          "wordCount": 2318,
+          "wordCount": 2317,
           "title": "Boost Resource Loading With fetchpriority, A New Priority Hint",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/619a484f-276c-46b3-9f4e-ce788aef7fef/boost-resource-loading-new-priority-hint-fetchpriority.jpg",
@@ -299,7 +324,7 @@
           "description": "Data is among the most important things that make up a web application or a conventional native app. We need data to be able to see and perhaps understand the purpose of an application. In this article, we’ll look at another approach to obtaining data in an application that requires authentication or authorization using Next.js.",
           "link": "https://smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/",
           "publishedOn": "2022-04-08T12:00:00.000Z",
-          "wordCount": 1931,
+          "wordCount": 1953,
           "title": "Dynamic Data-Fetching In An Authenticated Next.js App",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/929fd32f-838d-44e8-88f1-2392555f6c44/dynamic-data-fetching-authenticated-nextjs-app.jpg",
@@ -344,7 +369,7 @@
           "description": "Whether you work in-house or for an external agency, we all share one challenge — dealing with stakeholders, be they your boss, colleagues, or clients. In this post, veteran web designer Paul Boag shares his approach to getting things done in even the most challenging organizations.",
           "link": "https://smashingmagazine.com/2022/04/stakeholders-overcoming-obstacles/",
           "publishedOn": "2022-04-05T13:00:00.000Z",
-          "wordCount": 2415,
+          "wordCount": 2417,
           "title": "How To Get Work Done: Wrangling Stakeholders And Overcoming Obstacles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/29128d44-8712-417e-8bca-ba367e4fd283/stakeholders-overcoming-obstacles.jpg",
@@ -359,7 +384,7 @@
           "description": "Ever wondered how to build a paginated list that works with and without JavaScript? In this article, Manuel explains how you can leverage the power of Progressive Enhancement and do just that with Eleventy and Alpine.js.",
           "link": "https://smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/",
           "publishedOn": "2022-04-04T10:00:00.000Z",
-          "wordCount": 4562,
+          "wordCount": 4564,
           "title": "How To Build A Progressively Enhanced, Accessible, Filterable And Paginated List",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/247c8c69-4797-4922-9c3b-75cfa3362051/accessible-filterable-paginated-list-11ty-alpinejs.jpg",
@@ -374,7 +399,7 @@
           "description": "Next.js’ recent 12.0 release included a new beta feature: middleware. For a detailed explanation, you can read all about it in Sam’s previous article, “[Next.js Wildcard Subdomains](https://www.smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/)”. This article, on the other hand, dives into the overall concept of middleware and how handy it can be in building things.",
           "link": "https://smashingmagazine.com/2022/04/next-js-middleware-feature/",
           "publishedOn": "2022-04-01T10:30:00.000Z",
-          "wordCount": 1935,
+          "wordCount": 1947,
           "title": "The What, When, Why And How Of Next.js’ New Middleware Feature",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b614fa99-6432-4f8f-bb7a-234b9e0c082e/next-js-middleware-feature.jpg",
@@ -389,7 +414,7 @@
           "description": "Let’s welcome the new month with some new wallpapers. Designed with love by artists and designers from across the globe, they are available in versions with and without a calendar for April 2022.",
           "link": "https://smashingmagazine.com/2022/03/desktop-wallpaper-calendars-april-2022/",
           "publishedOn": "2022-03-31T08:00:00.000Z",
-          "wordCount": 1970,
+          "wordCount": 1974,
           "title": "A Time For Reflection (April 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5a643aa-d809-46c8-a329-689e866dc160/apr-22-blue-and-yellow-preview-opt.png",
@@ -404,7 +429,7 @@
           "description": "Best practices and guidelines to improve the UX of infinite scroll with bookmarks, footer reveal and pagination.",
           "link": "https://smashingmagazine.com/2022/03/designing-better-infinite-scroll/",
           "publishedOn": "2022-03-30T13:30:00.000Z",
-          "wordCount": 2927,
+          "wordCount": 2924,
           "title": "Designing A Better Infinite Scroll",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/41704a7b-0bd6-4144-b13e-2b092a0ea3e1/designing-better-infinite-scroll.jpg",
@@ -412,21 +437,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/41704a7b-0bd6-4144-b13e-2b092a0ea3e1/designing-better-infinite-scroll.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/03/smashingconf-workshops-conferences-2022/",
-          "author": "hello@smashingmagazine.com (Jarijn Nijkamp)",
-          "description": "After two years when almost everything moved online, 2022 marks the return of in-person conferences. In fact, [SmashingConf is back](https://smashingconf.com/conferences): coming to  San Francisco and Austin in June, Freiburg (Germany) in September, and New York in October.",
-          "link": "https://smashingmagazine.com/2022/03/smashingconf-workshops-conferences-2022/",
-          "publishedOn": "2022-03-29T14:30:00.000Z",
-          "wordCount": 800,
-          "title": "SmashingConf Is Back In 2022",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3ccd449a-af31-4cb1-a417-827ca64c2f30/smashingconfs-back-2022.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3ccd449a-af31-4cb1-a417-827ca64c2f30/smashingconfs-back-2022.png"
         }
       ]
     },
@@ -435,6 +445,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "626acd1fc1c601068f4e86be",
+          "author": "Beau Carnes",
+          "description": "Blazor WebAssembly is a single-page app framework for building interactive client-side web apps with .NET. It uses open web standards without plugins or recompiling code into other languages. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use Blazor WebAssembly and Web",
+          "link": "https://www.freecodecamp.org/news/learn-blazor-webassembly-and/",
+          "publishedOn": "2022-04-28T17:28:46.000Z",
+          "wordCount": 589,
+          "title": "Learn Blazor WebAssembly and Web API on .NET 6 by Building a Shopping Cart App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/blazorwa.png"
+        },
+        {
+          "id": "6267958cc1c601068f4e758d",
+          "author": "Shruti Kapoor",
+          "description": "Do you ever find it challenging to work on your project, side hustle, or even your hobby?  Have you ever had those moments where nothing feels exciting? You lay in bed thinking – is it me, or is my work that boring?  I have those days too. Some",
+          "link": "https://www.freecodecamp.org/news/create-a-habit-system-and-stay-motivated-as-a-developer/",
+          "publishedOn": "2022-04-28T00:43:46.000Z",
+          "wordCount": 2045,
+          "title": "How to Create a Habit System and Stay Motivated as a Developer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-philip-ackermann-878151.jpg"
+        },
         {
           "id": "62458d52138a19064b069054",
           "author": "Ihechikara Vincent Abba",
@@ -481,7 +511,7 @@
           "description": "Docker is a platform that helps you build, run, and ship applications in a seamless and error-free way.  You've likely come across a scenario where the code is running on your machine, but is somehow throwing errors on someone else's machine.  Well, Docker was created to solve this",
           "link": "https://www.freecodecamp.org/news/build-and-push-docker-images-to-aws-ecr/",
           "publishedOn": "2022-04-27T16:38:22.000Z",
-          "wordCount": 2324,
+          "wordCount": 2323,
           "title": "How to Build and Push Docker Images to AWS ECR",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/How-to-Build-and-Push-Docker-Images-to-AWS-ECR.png"
         },
@@ -507,33 +537,13 @@
         },
         {
           "id": "6262b979ac55f60686c3aca1",
-          "author": "Sonia",
+          "author": "Sonia Jessica",
           "description": "Questions about the Fibonacci Series are some of the most commonly asked in Python interviews.  In this article, I'll explain a step-by-step approach on how to print the Fibonacci sequence using two different techniques, iteration and recursion.  Before we begin, let's first understand some basic terminology. What is",
           "link": "https://www.freecodecamp.org/news/python-program-to-print-the-fibonacci-sequence/",
           "publishedOn": "2022-04-27T00:34:03.000Z",
           "wordCount": 2048,
           "title": "Python Program to Print the Fibonacci Sequence",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-jeff-wang-462402.jpg"
-        },
-        {
-          "id": "6253a5fcac55f60686c31c25",
-          "author": "Ijelekhai Faith Olohijere",
-          "description": "In this article, we'll learn a few different ways to resize elements and groups in Figma (in addition to the default method). We'll also learn how to resize frames without moving elements in the frames. In Figma, there are other ways to resize elements apart from the default method. So",
-          "link": "https://www.freecodecamp.org/news/how-to-resize-elements-in-figma/",
-          "publishedOn": "2022-04-26T23:05:31.000Z",
-          "wordCount": 876,
-          "title": "How to Resize Elements in Figma",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-pixabay-163822.jpg"
-        },
-        {
-          "id": "6255a0d4ac55f60686c32eaa",
-          "author": "Aris Zagakos",
-          "description": "In this article we will discuss Homomorphic Encryption, the problem that it solves, and the different types that exist.  Then we will write code in Python to show some of its capabilities in action. Here's what we'll cover:  1. What is Homomorphic Encryption?  2. Advantages of Homomorphic",
-          "link": "https://www.freecodecamp.org/news/introduction-to-homomorphic-encryption/",
-          "publishedOn": "2022-04-26T23:01:28.000Z",
-          "wordCount": 1204,
-          "title": "What is Homomorphic Encryption?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Homomorphic-Encryption-3--1.png"
         }
       ]
     }
