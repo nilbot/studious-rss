@@ -22,6 +22,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-04-30 datetime="2022-04-30T08:00:00.000Z">2022-04-30</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-04-30 datetime="2022-04-30T08:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/"
+                        open
+                      >
+                        <summary class="article-expander__title">Make A Wish (May 2022 Desktop Wallpapers Edition)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d3692b2-3bab-4645-95a2-a488c22eae5f/may-22-kira-preview-opt.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Let’s welcome May with a new collection of wallpapers. Designed with love by artists and designers from across the globe, they come in versions with and without a calendar for May 2022.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-04-29 datetime="2022-04-29T14:37:10.000Z">2022-04-29</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-04-29 datetime="2022-04-29T14:37:10.000Z"></time>
           </button>
@@ -1282,7 +1330,7 @@ Add a CSS Lens Flare to Photos for a Bright Touch originally published on CSS-Tr
                               <img src="http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/929fd32f-838d-44e8-88f1-2392555f6c44/dynamic-data-fetching-authenticated-nextjs-app.jpg" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>Data is among the most important things that make up a web application or a conventional native app. We need data to be able to see and perhaps understand the purpose of an application. In this article, we’ll look at another approach to obtaining data in an application that requires authentication or authorization using Next.js.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                &ensp;<span class="article-reading-time">(&hairsp;7
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -1493,58 +1541,10 @@ Adding CDN Caching to a Vite Build originally published on CSS-Tricks. You shoul
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-04-01 datetime="2022-04-01T10:30:00.000Z">2022-04-01</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-04-01 datetime="2022-04-01T10:30:00.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
-                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://smashingmagazine.com/2022/04/next-js-middleware-feature/"
-                        open
-                      >
-                        <summary class="article-expander__title">The What, When, Why And How Of Next.js’ New Middleware Feature</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2022/04/next-js-middleware-feature/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b614fa99-6432-4f8f-bb7a-234b9e0c082e/next-js-middleware-feature.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Next.js’ recent 12.0 release included a new beta feature: middleware. For a detailed explanation, you can read all about it in Sam’s previous article, “[Next.js Wildcard Subdomains](https://www.smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/)”. This article, on the other hand, dives into the overall concept of middleware and how handy it can be in building things.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/nilbot/studious-rss/actions/runs/2248324537">
-        <time id="build-timestamp" datetime="2022-04-30T00:03:56.277Z">2022-04-30T00:03:56.277Z</time>
+      <a class="footer-link" href="https://github.com/nilbot/studious-rss/actions/runs/2251586839">
+        <time id="build-timestamp" datetime="2022-05-01T00:04:33.883Z">2022-05-01T00:04:33.883Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.14.4</a>
     </footer>
