@@ -114,7 +114,7 @@
           "description": "Let’s welcome May with a new collection of wallpapers. Designed with love by artists and designers from across the globe, they come in versions with and without a calendar for May 2022.",
           "link": "https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/",
           "publishedOn": "2022-04-30T08:00:00.000Z",
-          "wordCount": 2295,
+          "wordCount": 2287,
           "title": "Make A Wish (May 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d3692b2-3bab-4645-95a2-a488c22eae5f/may-22-kira-preview-opt.png",
@@ -129,7 +129,7 @@
           "description": "Introducing Partytown, a lightweight open-source solution that reduces execution delays due to third-party JavaScript by offloading third-party scripts to web workers, which run in background threads.",
           "link": "https://smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/",
           "publishedOn": "2022-04-29T10:30:00.000Z",
-          "wordCount": 2033,
+          "wordCount": 2015,
           "title": "How Partytown Eliminates Website Bloat From Third-Party Scripts",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3bb74cff-2774-45a7-8961-e255d6305d2a/partytown-eliminates-website-bloat-third-party-apps.jpg",
@@ -144,7 +144,7 @@
           "description": "In this article, Nathan Smith explains how to create modal dialog windows with rich interaction that will only require authoring HTML in order to be used. They are based on Web Components that are currently supported by every major browser.",
           "link": "https://smashingmagazine.com/2022/04/cta-modal-build-web-component/",
           "publishedOn": "2022-04-28T09:30:00.000Z",
-          "wordCount": 4768,
+          "wordCount": 4770,
           "title": "CTA Modal: How To Build A Web Component",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bbadf16-a6e1-4d24-ba72-77cc51e3cc4e/cta-modal-build-web-component.jpg",
@@ -159,7 +159,7 @@
           "description": "We should be able to measure how well a particular design solves a particular problem. Let’s explore design KPIs that capture user’s experience, how to measure them and how to keep both users and business stakeholders happy, over time.",
           "link": "https://smashingmagazine.com/2022/04/boosting-ux-with-design-kpis/",
           "publishedOn": "2022-04-27T08:30:00.000Z",
-          "wordCount": 1531,
+          "wordCount": 1540,
           "title": "Boosting UX With Design KPIs",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1021a1ce-ec58-4b8f-837f-e7d4aa3f8448/boosting-ux-with-design-kpis.jpg",
@@ -174,7 +174,7 @@
           "description": "When bad UX has lingered in a product for so long, it can feel like a mountain to overcome. In this article, Ceara Crawshaw shares her advice on how you can invoke joy and assure the quality in the work done on product teams.",
           "link": "https://smashingmagazine.com/2022/04/ux-integrated-design-workflows/",
           "publishedOn": "2022-04-26T11:30:00.000Z",
-          "wordCount": 4029,
+          "wordCount": 4024,
           "title": "Preventing Bad UX Through Integrated Design Workflows",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47570c78-efae-4a35-b2c6-addf55029cac/ux-integrated-design-workflows.jpg",
@@ -189,7 +189,7 @@
           "description": "In this article, Jhey Tompkins explores one of GreenSocks’ newest plugins alongside React to create an impractical whimsical spin on a well-known native element: ``.",
           "link": "https://smashingmagazine.com/2022/04/what-if-sliders-actually-slid-html-element-input-range/",
           "publishedOn": "2022-04-25T09:30:00.000Z",
-          "wordCount": 3406,
+          "wordCount": 3412,
           "title": "What If Our Sliders Actually Slid?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9d1d14c-98fc-463e-82b5-df98f5556b72/what-if-sliders-actually-slid-html-element-input-range.jpg",
@@ -204,7 +204,7 @@
           "description": "Have you ever wondered, why do people write CLI tools? When is a good time to think about yours? Today we’ll touch on these questions, along with some tips to remember when creating one. However, all of this serves as a prelude to the real topic: end-to-end testing of CLI tools.",
           "link": "https://smashingmagazine.com/2022/04/testing-cli-way-people-use-it/",
           "publishedOn": "2022-04-22T09:30:00.000Z",
-          "wordCount": 4176,
+          "wordCount": 4179,
           "title": "Testing The CLI The Way People Use It",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e6d3ba7a-2c86-4e64-b8e8-6d58adaafdba/testing-cli-way-people-use-it.jpg",
@@ -234,7 +234,7 @@
           "description": "Who doesn’t love a good timesaver? In this post, we compiled useful productivity tips and tools that help you speed up routine tasks, enhance your development workflow, and stay organized.",
           "link": "https://smashingmagazine.com/2022/04/productivity-tips-tools/",
           "publishedOn": "2022-04-20T11:30:00.000Z",
-          "wordCount": 5064,
+          "wordCount": 5067,
           "title": "Productivity Tips And Tools For A More Efficient Workflow",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c0a83218-4f7e-4650-9380-72895a5936b3/productivity-tips-tools.jpg",
@@ -249,7 +249,7 @@
           "description": "In this article, Ekene Eze shares his thoughts about the direction of the web in 2022, and what solutions we can expect to see come up in the ecosystem to significantly improve the Jamstack experience.",
           "link": "https://smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution/",
           "publishedOn": "2022-04-19T09:00:00.000Z",
-          "wordCount": 1711,
+          "wordCount": 1698,
           "title": "Jamstack Rendering Patterns: The Evolution",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/86e9ff96-97fd-42f7-aa79-9fe5527e1408/jamstack-rendering-patterns-evolution.jpg",
@@ -264,7 +264,7 @@
           "description": "What are the benefits of using push notifications and what can you use them for? In this article, Lee Munroe explains how to implement them and which practices are best to follow.",
           "link": "https://smashingmagazine.com/2022/04/guide-push-notifications-developers/",
           "publishedOn": "2022-04-18T11:30:00.000Z",
-          "wordCount": 2526,
+          "wordCount": 2532,
           "title": "The Ultimate Guide To Push Notifications For Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bebe6c69-2f6e-4523-aede-2ac46114a952/guide-push-notifications-developers.jpg",
@@ -279,7 +279,7 @@
           "description": "Storytelling is a powerful tool for any UX designer. It helps create a product and understand the people who use it. In this article, Marli Mesibov takes a real-life example of an app she helped to build in 2017 and explains five steps you can use to help you build a story into your user experience.",
           "link": "https://smashingmagazine.com/2022/04/use-storytelling-ux/",
           "publishedOn": "2022-04-15T14:00:00.000Z",
-          "wordCount": 3763,
+          "wordCount": 3770,
           "title": "How To Use Storytelling In UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fedf0602-27ae-4516-bcd0-df371fd0048b/use-storytelling-ux.jpg",
@@ -309,7 +309,7 @@
           "description": "Carousels don’t have a good reputation, and rightfully so. But we can make them more useful. **Best practices and guidelines** to improve the carousel design with honest scrolling direction, labels, thumbnails and grouped prev/next-buttons.",
           "link": "https://smashingmagazine.com/2022/04/designing-better-carousel-ux/",
           "publishedOn": "2022-04-13T12:00:00.000Z",
-          "wordCount": 7271,
+          "wordCount": 7265,
           "title": "Designing A Better Carousel UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/729433dc-4cea-4eed-9128-0e9e6dbfe6db/designing-better-carousel-ux.jpg",
@@ -324,7 +324,7 @@
           "description": "Like many things, a design system isn’t ever a finished thing — it’s a journey. How we go about that journey can affect the things we produce along the way. Before diving in and starting to plan anything out, be clear about where the benefits and the risks might lie.",
           "link": "https://smashingmagazine.com/2022/04/artifacts-design-systems/",
           "publishedOn": "2022-04-12T12:00:00.000Z",
-          "wordCount": 4136,
+          "wordCount": 4151,
           "title": "Around The Artifacts Of Design Systems (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/170611c4-1cfa-4f09-8ba0-2999839a2679/artifacts-design-systems.jpg",
@@ -339,7 +339,7 @@
           "description": "This new attribute will enable us to fine-tune relative resource priority, improve LCP performance, deprioritize JavaScript fetch calls, and much more. Let’s check out fetchpriority and explore some potential use cases.",
           "link": "https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/",
           "publishedOn": "2022-04-11T09:30:00.000Z",
-          "wordCount": 2324,
+          "wordCount": 2326,
           "title": "Boost Resource Loading With fetchpriority, A New Priority Hint",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/619a484f-276c-46b3-9f4e-ce788aef7fef/boost-resource-loading-new-priority-hint-fetchpriority.jpg",
@@ -354,7 +354,7 @@
           "description": "Data is among the most important things that make up a web application or a conventional native app. We need data to be able to see and perhaps understand the purpose of an application. In this article, we’ll look at another approach to obtaining data in an application that requires authentication or authorization using Next.js.",
           "link": "https://smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/",
           "publishedOn": "2022-04-08T12:00:00.000Z",
-          "wordCount": 1962,
+          "wordCount": 1942,
           "title": "Dynamic Data-Fetching In An Authenticated Next.js App",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/929fd32f-838d-44e8-88f1-2392555f6c44/dynamic-data-fetching-authenticated-nextjs-app.jpg",
@@ -369,7 +369,7 @@
           "description": "In this series of articles, we highlight design patterns and techniques to design better interfaces. You can also find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.",
           "link": "https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/",
           "publishedOn": "2022-04-06T14:20:00.000Z",
-          "wordCount": 6901,
+          "wordCount": 6911,
           "title": "Designing Better Breadcrumbs",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83a5c72a-37d0-4c2c-9ce8-1ebc22b913f3/designing-better-breadcrumbs-navigation.jpg",
@@ -414,7 +414,7 @@
           "description": "Ever wondered how to build a paginated list that works with and without JavaScript? In this article, Manuel explains how you can leverage the power of Progressive Enhancement and do just that with Eleventy and Alpine.js.",
           "link": "https://smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/",
           "publishedOn": "2022-04-04T10:00:00.000Z",
-          "wordCount": 4567,
+          "wordCount": 4574,
           "title": "How To Build A Progressively Enhanced, Accessible, Filterable And Paginated List",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/247c8c69-4797-4922-9c3b-75cfa3362051/accessible-filterable-paginated-list-11ty-alpinejs.jpg",
