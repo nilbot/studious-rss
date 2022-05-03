@@ -1,10 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-02T00:04:14.332Z</id>
+    <id>urn:2022-05-03T00:03:29.741Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-02T00:04:14.332Z</updated>
+    <updated>2022-05-03T00:03:29.741Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Int to String in C++ – How to Convert an Integer with to_string]]></title>
+        <id>626c00bdc1c601068f4e918e</id>
+        <link href="https://www.freecodecamp.org/news/int-to-string-in-cpp-how-to-convert-an-integer-with-tostring/"/>
+        <updated>2022-05-02T21:01:13.000Z</updated>
+        <summary type="html"><![CDATA[When working with strings in your code, you might want to perform certain operations like concatenating (or linking together) two strings.  But there are cases when you'd rather work with numerical values as though they were strings because concatenating a string and an integer will give you an error.]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Index – How to Find the Index of an Element in a List]]></title>
+        <id>62652501ac55f60686c3b91b</id>
+        <link href="https://www.freecodecamp.org/news/python-index-find-index-of-element-in-list/"/>
+        <updated>2022-05-02T20:59:13.000Z</updated>
+        <summary type="html"><![CDATA[When you're learning to code, you eventually learn about lists and the different operations you can perform on them.  In this article, we'll go through how you can find the index of a particular element which is stored in a list in Python. What is a List in Python?]]></summary>
+        <author>
+            <name>Suchandra Datta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Collaborative Coding? Pair Programming, Mob Programming, and How it All Works]]></title>
+        <id>626cee91c1c601068f4e995b</id>
+        <link href="https://www.freecodecamp.org/news/collaborative-coding-tips/"/>
+        <updated>2022-05-02T20:13:44.000Z</updated>
+        <summary type="html"><![CDATA[Coding is not supposed to be a steep mountain climb. And it can get a lot easier if you have the right strategies and tools.  After all, as noted software engineer and writer Joel Spolsky [http://blogs.perl.org/users/buddy_burden/2013/12/perl-and-me-part-4-a-worthy-program-exceedingly-well-read.html#note1]  says, "it is harder to read code than to write it." One]]></summary>
+        <author>
+            <name>Andrej Kovacevic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bash Command Line Tips to Help You Work Faster]]></title>
+        <id>626c29dac1c601068f4e92e3</id>
+        <link href="https://www.freecodecamp.org/news/bash-command-line-tips-to-help-you-work-faster/"/>
+        <updated>2022-05-02T19:56:22.000Z</updated>
+        <summary type="html"><![CDATA[Learning the command line is essential for any aspiring developer. And to execute commands on the command line, you need a shell. The Bash shell is popular in Unix-like operating systems like Mac and Linux. In fact in most Linux distros, Bash is the default shell. You can also use]]></summary>
+        <author>
+            <name>Vinod Mathew Sebastian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sudo apt-get update VS upgrade – What is the Difference?]]></title>
+        <id>6262bcd7ac55f60686c3acd4</id>
+        <link href="https://www.freecodecamp.org/news/sudo-apt-get-update-vs-upgrade-what-is-the-difference/"/>
+        <updated>2022-05-02T19:30:12.000Z</updated>
+        <summary type="html"><![CDATA[sudo apt-get update and sudo apt-get upgrade are two commands you can use to keep all of your packages up to date in Debian or a Debian-based Linux distribution. They're common commands for Linux admins and people doing DevOps, but are handy to know even if you don't use the]]></summary>
+        <author>
+            <name>Kris Koishigawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is ANAME? ANAME Record DNS Tutorial]]></title>
+        <id>626b9e1cc1c601068f4e8d20</id>
+        <link href="https://www.freecodecamp.org/news/what-is-aname-aname-record-dns-tutorial/"/>
+        <updated>2022-05-02T18:02:19.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve ever had to make a domain name work with a website, you’ve probably seen ANAME as some record – just like the popular Canonical name record type or simply CNAME. CNAME and ANAME are both solutions for pointing a hostname to your website. For example, yourapp.netlify.com to yourwebsite.com.]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programming Paradigms – Paradigm Examples for Beginners]]></title>
+        <id>6267194ac1c601068f4e72c2</id>
+        <link href="https://www.freecodecamp.org/news/an-introduction-to-programming-paradigms/"/>
+        <updated>2022-05-02T16:42:37.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article we're going to take a look at programming paradigms, a fancy title to describe popular ways or styles to organize your programming. I'll try to break it down in pieces and give a simple explanation of each paradigm. This way you can understand what people]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Realistic Reflections With CSS]]></title>
+        <id>https://css-tricks.com/?p=365491</id>
+        <link href="https://css-tricks.com/creating-realistic-reflections-with-css/"/>
+        <updated>2022-05-02T14:14:07.000Z</updated>
+        <summary type="html"><![CDATA[In design, reflections are stylized mirror images of objects. Even though they are not as popular as shadows, they have their moments — just think about the first time you explored the different font formats in MS Word or PowerPoint: …
+Creating Realistic Reflections With CSS originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Cloud Associate Cloud Engineer Certification Study Course – Pass the Exam With This Free 20 Hour Course]]></title>
+        <id>626c1b56c1c601068f4e9287</id>
+        <link href="https://www.freecodecamp.org/news/google-cloud-digital-leader-certification-study-course-pass-the-exam-with-this-free-20-hour-course/"/>
+        <updated>2022-05-02T13:32:13.000Z</updated>
+        <summary type="html"><![CDATA[What is the Google Cloud Associate Cloud Engineer? The Associate Cloud Engineer also commonly referred to as the ACE is the associate level certification by Google Cloud.  They key difference between the Associate Cloud Engineer and the Google Cloud Digital Cloud Leader is that the Associate Cloud Engineer]]></summary>
+        <author>
+            <name>Andrew Brown</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Make A Wish (May 2022 Desktop Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/</id>
@@ -79,66 +170,6 @@ Setting Up CloudFront to Host Your Web App originally published on CSS-Tricks. Y
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Center a Div with CSS]]></title>
-        <id>62458d52138a19064b069054</id>
-        <link href="https://www.freecodecamp.org/news/how-to-center-a-div-with-css/"/>
-        <updated>2022-04-27T19:58:59.000Z</updated>
-        <summary type="html"><![CDATA[There are a few common coding problems you might encounter when you start practicing what you've learned by building projects. One common problem you'll face as a web developer is how to place an element at the center of a page or within an element acting as its container. It's]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Send Large Video Files – Share a Big File with Email]]></title>
-        <id>626919edc1c601068f4e809e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-send-large-video-files-share-a-big-file-with-email/"/>
-        <updated>2022-04-27T19:51:49.000Z</updated>
-        <summary type="html"><![CDATA[Sending large files through email can be quite challenging. This is because each email client has a size limit for file sharing. Gmail and Yahoo limit file size to 25MB, while outlook and iCloud limit files to 20MB. So, if you decide to send, for example, a video file larger]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fix Google Chrome Black Screen on Linux OS (Wayland)]]></title>
-        <id>6266b589ac55f60686c3c44f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-fix-black-screen-on-google-chrome-on-linux-os/"/>
-        <updated>2022-04-27T19:33:58.000Z</updated>
-        <summary type="html"><![CDATA[If you are a Linux user, then you've likely used the GNOME Desktop Environment at least once. The latest GNOME DE (Desktop Environment) uses Wayland nowadays. And while it's possible to remove Wayland and select Xorg if you want, most users are starting to use Wayland as their daily driver.]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run Multiple Containers with Docker Compose]]></title>
-        <id>6267fe2ec1c601068f4e77da</id>
-        <link href="https://www.freecodecamp.org/news/run-multiple-containers-with-docker-compose/"/>
-        <updated>2022-04-27T19:31:29.000Z</updated>
-        <summary type="html"><![CDATA[Docker has become increasingly popular over the last several years. One reason for this is that you can create portable containers which are fast and easy to deploy.  As described on Docker's website [https://www.docker.com/resources/what-container/], a container is something that packages your code along with any other dependencies so that]]></summary>
-        <author>
-            <name>Arjav Dave</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build and Push Docker Images to AWS ECR]]></title>
-        <id>625fc3caac55f60686c38ce0</id>
-        <link href="https://www.freecodecamp.org/news/build-and-push-docker-images-to-aws-ecr/"/>
-        <updated>2022-04-27T16:38:22.000Z</updated>
-        <summary type="html"><![CDATA[Docker is a platform that helps you build, run, and ship applications in a seamless and error-free way.  You've likely come across a scenario where the code is running on your machine, but is somehow throwing errors on someone else's machine.  Well, Docker was created to solve this]]></summary>
-        <author>
-            <name>Kaushal Joshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Assembly Language Programming with ARM]]></title>
-        <id>6269557fc1c601068f4e8127</id>
-        <link href="https://www.freecodecamp.org/news/learn-assembly-language-programming-with-arm/"/>
-        <updated>2022-04-27T14:49:31.000Z</updated>
-        <summary type="html"><![CDATA[Assembly language is a low-level programming language for a computer or other programmable device that is closest to the machine language. It is often specific to a particular computer architecture so there are multiple types of assembly languages. ARM is an increasingly popular assembly language.  We just published a]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cool Hover Effects That Use Background Properties]]></title>
         <id>https://css-tricks.com/?p=365383</id>
         <link href="https://css-tricks.com/cool-hover-effects-using-background-properties/"/>
@@ -157,26 +188,6 @@ Cool Hover Effects That Use Background Properties originally published on CSS-Tr
         <summary type="html"><![CDATA[We should be able to measure how well a particular design solves a particular problem. Let’s explore design KPIs that capture user’s experience, how to measure them and how to keep both users and business stakeholders happy, over time.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux chmod and chown – How to Change File Permissions and Ownership in Linux]]></title>
-        <id>626074adac55f60686c397ae</id>
-        <link href="https://www.freecodecamp.org/news/linux-chmod-chown-change-file-permissions/"/>
-        <updated>2022-04-27T00:38:38.000Z</updated>
-        <summary type="html"><![CDATA[Linux is a multi user OS which means that it supports multiple users at a time.  As many people can access the system simultaneously and some resources are shared, Linux controls access through ownership and permissions.  Linux file ownership In Linux, there are three types of owners: user,]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Program to Print the Fibonacci Sequence]]></title>
-        <id>6262b979ac55f60686c3aca1</id>
-        <link href="https://www.freecodecamp.org/news/python-program-to-print-the-fibonacci-sequence/"/>
-        <updated>2022-04-27T00:34:03.000Z</updated>
-        <summary type="html"><![CDATA[Questions about the Fibonacci Series are some of the most commonly asked in Python interviews.  In this article, I'll explain a step-by-step approach on how to print the Fibonacci sequence using two different techniques, iteration and recursion.  Before we begin, let's first understand some basic terminology. What is]]></summary>
-        <author>
-            <name>Sonia Jessica</name>
         </author>
     </entry>
     <entry>
