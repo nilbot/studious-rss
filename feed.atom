@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-04T00:03:56.279Z</id>
+    <id>urn:2022-05-05T00:04:08.638Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-04T00:03:56.279Z</updated>
+    <updated>2022-05-05T00:04:08.638Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Getline in C++ – cin getline() Function Example]]></title>
+        <id>626fbddfc1c601068f4eaec5</id>
+        <link href="https://www.freecodecamp.org/news/getline-in-cpp-cin-getline-function-example/"/>
+        <updated>2022-05-04T20:06:07.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll talk about the getline() function in C++. This is an inbuilt function that accepts single and multiple character inputs. When working with user input in C++, the cin object allows us to get input information from the user. But when we try to log out the]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Manage Browser Defaults with event.preventDefault() and event.stopPropagation()]]></title>
+        <id>626b0796c1c601068f4e89b4</id>
+        <link href="https://www.freecodecamp.org/news/manage-default-behavior-in-browser/"/>
+        <updated>2022-05-04T19:59:02.000Z</updated>
+        <summary type="html"><![CDATA[Browsers have default interactions and behaviors for different events. For example, when a user clicks a "submit" button on a form, the form is submitted to a URL by default. When the child of an element is clicked, the click event also occurs on the element because it is the]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Code Examples – Simple Python Program Example]]></title>
+        <id>626d5ae3c1c601068f4ea1c2</id>
+        <link href="https://www.freecodecamp.org/news/python-code-examples-simple-python-program-example/"/>
+        <updated>2022-05-04T17:20:38.000Z</updated>
+        <summary type="html"><![CDATA[Python is a high-level, general purpose, interpreted programming language. It's well-known for being very easy to learn yet powerful, and it has many uses in many different fields. If you're someone trying to get started with Python, it's easy to get lost among all the excellent learning resources on the]]></summary>
+        <author>
+            <name>Farhan Hasin Chowdhury</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Manipulate CSS with JavaScript by Coding a Dynamic Picture Frame]]></title>
+        <id>626d47a4c1c601068f4e9f91</id>
+        <link href="https://www.freecodecamp.org/news/learn-how-to-manipulate-css-with-javascript-by-coding-a-dynamic-picture-frame/"/>
+        <updated>2022-05-04T15:27:39.000Z</updated>
+        <summary type="html"><![CDATA[DOM manipulation can simply be defined as manipulating HTML documents (or pages) with JavaScript.  The DOM stands for Document Object Model that you can visualize as a tree-like structure made up of different HTML elements.  Visualizing an HTML document like a tree makes it easy to access its]]></summary>
+        <author>
+            <name>Samuel A. Olubiyo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[REST API Design Best Practices – How to Build a REST API with JavaScript, Node.js, and Express.js]]></title>
+        <id>625e8e8bac55f60686c37f27</id>
+        <link href="https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/"/>
+        <updated>2022-05-04T15:10:32.000Z</updated>
+        <summary type="html"><![CDATA[I've created and consumed many API's over the past few years. During that time, I've come across good and bad practices and have experienced nasty situations when consuming and building API's. But there also have been great moments. There are helpful articles online which present many best practices, but many]]></summary>
+        <author>
+            <name>Jean-Marc Möckel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn React Router 6]]></title>
+        <id>62728f26c1c601068f4ec233</id>
+        <link href="https://www.freecodecamp.org/news/learn-react-router-6/"/>
+        <updated>2022-05-04T14:42:27.000Z</updated>
+        <summary type="html"><![CDATA[React Router is a JavaScript library that helps developers create single-page applications that are responsive and have a dynamic user interface. It is a popular tool among React developers and is used to create routing and navigation for web applications. We just published a course on the freeCodeCamp.org YouTube channel]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Syntax Highlighting (and More!) With Prism on a Static Site]]></title>
+        <id>https://css-tricks.com/?p=365510</id>
+        <link href="https://css-tricks.com/syntax-highlighting-prism-on-a-next-js-site/"/>
+        <updated>2022-05-04T14:16:43.000Z</updated>
+        <summary type="html"><![CDATA[So, you’ve decided to build a blog with Next.js. Like any dev blogger, you’d like to have code snippets in your posts that are formatted nicely with syntax highlighting. Perhaps you also want to display line numbers in the …
+Syntax Highlighting (and More!) With Prism on a Static Site originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing A Better Language Selector]]></title>
+        <id>https://smashingmagazine.com/2022/05/designing-better-language-selector/</id>
+        <link href="https://smashingmagazine.com/2022/05/designing-better-language-selector/"/>
+        <updated>2022-05-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How difficult can it be to design a bulletproof language selector? It’s not as straightforward as one might think. We need to avoid redirects, decouple our language and country presets, allow for overrides, and use non-modal windows. Let’s dive in!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Report a Bug to freeCodeCamp]]></title>
         <id>626fa644c1c601068f4ead26</id>
@@ -46,16 +127,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use Google Dataproc – Example with PySpark and Jupyter Notebook]]></title>
-        <id>626aebfac1c601068f4e8804</id>
-        <link href="https://www.freecodecamp.org/news/what-is-google-dataproc/"/>
-        <updated>2022-05-03T15:14:31.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll explain what Dataproc is and how it works.  Dataproc is a Google Cloud Platform managed service for Spark and Hadoop which helps you with Big Data Processing, ETL, and Machine Learning. It provides a Hadoop cluster and supports Hadoop ecosystems tools like Flink, Hive, Presto,]]></summary>
-        <author>
-            <name>Sameer Shukla</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Adding Custom GitHub Badges to Your Repo]]></title>
         <id>https://css-tricks.com/?p=364932</id>
         <link href="https://css-tricks.com/adding-custom-github-badges-to-your-repo/"/>
@@ -74,56 +145,6 @@ Adding Custom GitHub Badges to Your Repo originally published on CSS-Tricks. You
         <summary type="html"><![CDATA[Developers often reach for UI frameworks like Bootstrap or Material UI, hoping that they’ll save a bunch of time and quickly build a professional-looking app. Unfortunately, things rarely work out this way. Let’s talk about it.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Josh Comeau)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design Principles – A List of the Principles of Design]]></title>
-        <id>624bed87ac55f60686c2e0ef</id>
-        <link href="https://www.freecodecamp.org/news/design-principles-a-list-of-the-principles-of-design/"/>
-        <updated>2022-05-02T22:41:41.000Z</updated>
-        <summary type="html"><![CDATA[When you start learning graphic design theory, you may be surprised to find out that there are specific rules you need to follow when designing. Those rules are known as design principles, and in this article, you will learn the basics of the 13 design principles. Knowing what design principles]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Convert a String to a Number in JavaScript]]></title>
-        <id>626e3d0bc1c601068f4ea71d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-convert-a-string-to-a-number-in-javascript/"/>
-        <updated>2022-05-02T22:25:54.000Z</updated>
-        <summary type="html"><![CDATA[There are many ways to convert a string into a number using JavaScript. But what does that look like in code?  In this article, I will show you 11 ways to convert a string into a number.  How to convert a string to a number in JavaScript using]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Int to String in C++ – How to Convert an Integer with to_string]]></title>
-        <id>626c00bdc1c601068f4e918e</id>
-        <link href="https://www.freecodecamp.org/news/int-to-string-in-cpp-how-to-convert-an-integer-with-tostring/"/>
-        <updated>2022-05-02T21:01:13.000Z</updated>
-        <summary type="html"><![CDATA[When working with strings in your code, you might want to perform certain operations like concatenating (or linking together) two strings.  But there are cases when you'd rather work with numerical values as though they were strings because concatenating a string and an integer will give you an error.]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Index – How to Find the Index of an Element in a List]]></title>
-        <id>62652501ac55f60686c3b91b</id>
-        <link href="https://www.freecodecamp.org/news/python-index-find-index-of-element-in-list/"/>
-        <updated>2022-05-02T20:59:13.000Z</updated>
-        <summary type="html"><![CDATA[When you're learning to code, you eventually learn about lists and the different operations you can perform on them.  In this article, we'll go through how you can find the index of a particular element which is stored in a list in Python. What is a List in Python?]]></summary>
-        <author>
-            <name>Suchandra Datta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Collaborative Coding? Pair Programming, Mob Programming, and How it All Works]]></title>
-        <id>626cee91c1c601068f4e995b</id>
-        <link href="https://www.freecodecamp.org/news/collaborative-coding-tips/"/>
-        <updated>2022-05-02T20:13:44.000Z</updated>
-        <summary type="html"><![CDATA[Coding can be challenging, but it can become a lot easier if you have the right strategies and tools.  After all, as noted software engineer and writer Joel Spolsky [http://blogs.perl.org/users/buddy_burden/2013/12/perl-and-me-part-4-a-worthy-program-exceedingly-well-read.html#note1]  says, "it is harder to read code than to write it." One way to make your development projects]]></summary>
-        <author>
-            <name>Andrej Kovacevic</name>
         </author>
     </entry>
     <entry>
@@ -426,17 +447,6 @@ Add a CSS Lens Flare to Photos for a Bright Touch originally published on CSS-Tr
         <summary type="html"><![CDATA[Whether you work in-house or for an external agency, we all share one challenge — dealing with stakeholders, be they your boss, colleagues, or clients. In this post, veteran web designer Paul Boag shares his approach to getting things done in even the most challenging organizations.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding CDN Caching to a Vite Build]]></title>
-        <id>https://css-tricks.com/?p=364166</id>
-        <link href="https://css-tricks.com/adding-cdn-caching-to-a-vite-build/"/>
-        <updated>2022-04-04T18:25:23.000Z</updated>
-        <summary type="html"><![CDATA[Content delivery networks, or CDNs, allow you to improve the delivery of your website’s static resources, most notably, with CDN caching. They do this by serving your content from edge locations, which are located all over the world. When a …
-Adding CDN Caching to a Vite Build originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Adam Rackis</name>
         </author>
     </entry>
 </feed>
