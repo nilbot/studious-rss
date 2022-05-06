@@ -27,7 +27,7 @@
           "description": "If you’ve spent time looking at open-source repos on GitHub, you’ve probably noticed that most of them use badges in their README files. Take the official React repository, for instance. There are GitHub badges all over the README file that communicate important dynamic info, like the latest released …\nAdding Custom GitHub Badges to Your Repo originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/adding-custom-github-badges-to-your-repo/",
           "publishedOn": "2022-05-03T14:28:00.000Z",
-          "wordCount": 1917,
+          "wordCount": 1939,
           "title": "Adding Custom GitHub Badges to Your Repo",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364932"
         },
@@ -37,7 +37,7 @@
           "description": "In design, reflections are stylized mirror images of objects. Even though they are not as popular as shadows, they have their moments — just think about the first time you explored the different font formats in MS Word or PowerPoint: …\nCreating Realistic Reflections With CSS originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/creating-realistic-reflections-with-css/",
           "publishedOn": "2022-05-02T14:14:07.000Z",
-          "wordCount": 1109,
+          "wordCount": 1121,
           "title": "Creating Realistic Reflections With CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365491"
         },
@@ -129,12 +129,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/05/resilience-flexibility-immediacy-headless-systems/",
+          "author": "hello@smashingmagazine.com (Stefan Baumgartner)",
+          "description": "When deploying websites, there’s rarely a one-size-fits-all solution. Some websites benefit from server-rendered pages, some prefer statically generating content upfront. In this article, Stefan explains how a CMS such as [Storyblok](link) can help you make your site more resilient without losing the flexibility to deliver time-relevant content.",
+          "link": "https://smashingmagazine.com/2022/05/resilience-flexibility-immediacy-headless-systems/",
+          "publishedOn": "2022-05-05T09:30:00.000Z",
+          "wordCount": 3109,
+          "title": "Resilience, Flexibility And Immediacy: Working With Headless Systems",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f290e32b-b1fa-42d0-989e-21a751f27d00/resilience-flexibility-immediacy-headless-systems.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f290e32b-b1fa-42d0-989e-21a751f27d00/resilience-flexibility-immediacy-headless-systems.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/05/designing-better-language-selector/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "How difficult can it be to design a bulletproof language selector? It’s not as straightforward as one might think. We need to avoid redirects, decouple our language and country presets, allow for overrides, and use non-modal windows. Let’s dive in!",
           "link": "https://smashingmagazine.com/2022/05/designing-better-language-selector/",
           "publishedOn": "2022-05-04T10:00:00.000Z",
-          "wordCount": 6036,
+          "wordCount": 6032,
           "title": "Designing A Better Language Selector",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec0dac36-90ba-4295-b51b-f095fb2d90ff/designing-better-language-selector.jpg",
@@ -164,7 +179,7 @@
           "description": "Let’s welcome May with a new collection of wallpapers. Designed with love by artists and designers from across the globe, they come in versions with and without a calendar for May 2022.",
           "link": "https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/",
           "publishedOn": "2022-04-30T08:00:00.000Z",
-          "wordCount": 2290,
+          "wordCount": 2292,
           "title": "Make A Wish (May 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d3692b2-3bab-4645-95a2-a488c22eae5f/may-22-kira-preview-opt.png",
@@ -179,7 +194,7 @@
           "description": "Introducing Partytown, a lightweight open-source solution that reduces execution delays due to third-party JavaScript by offloading third-party scripts to web workers, which run in background threads.",
           "link": "https://smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/",
           "publishedOn": "2022-04-29T10:30:00.000Z",
-          "wordCount": 2021,
+          "wordCount": 2030,
           "title": "How Partytown Eliminates Website Bloat From Third-Party Scripts",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9925c2d1-b244-434d-9173-7e11efbdf617/partytown-eliminates-website-bloat-third-party-scripts.jpg",
@@ -194,7 +209,7 @@
           "description": "In this article, Nathan Smith explains how to create modal dialog windows with rich interaction that will only require authoring HTML in order to be used. They are based on Web Components that are currently supported by every major browser.",
           "link": "https://smashingmagazine.com/2022/04/cta-modal-build-web-component/",
           "publishedOn": "2022-04-28T09:30:00.000Z",
-          "wordCount": 4791,
+          "wordCount": 4785,
           "title": "CTA Modal: How To Build A Web Component",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bbadf16-a6e1-4d24-ba72-77cc51e3cc4e/cta-modal-build-web-component.jpg",
@@ -209,7 +224,7 @@
           "description": "We should be able to measure how well a particular design solves a particular problem. Let’s explore design KPIs that capture user’s experience, how to measure them and how to keep both users and business stakeholders happy, over time.",
           "link": "https://smashingmagazine.com/2022/04/boosting-ux-with-design-kpis/",
           "publishedOn": "2022-04-27T08:30:00.000Z",
-          "wordCount": 1547,
+          "wordCount": 1543,
           "title": "Boosting UX With Design KPIs",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1021a1ce-ec58-4b8f-837f-e7d4aa3f8448/boosting-ux-with-design-kpis.jpg",
@@ -239,7 +254,7 @@
           "description": "In this article, Jhey Tompkins explores one of GreenSocks’ newest plugins alongside React to create an impractical whimsical spin on a well-known native element: ``.",
           "link": "https://smashingmagazine.com/2022/04/what-if-sliders-actually-slid-html-element-input-range/",
           "publishedOn": "2022-04-25T09:30:00.000Z",
-          "wordCount": 3411,
+          "wordCount": 3393,
           "title": "What If Our Sliders Actually Slid?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9d1d14c-98fc-463e-82b5-df98f5556b72/what-if-sliders-actually-slid-html-element-input-range.jpg",
@@ -299,7 +314,7 @@
           "description": "In this article, Ekene Eze shares his thoughts about the direction of the web in 2022, and what solutions we can expect to see come up in the ecosystem to significantly improve the Jamstack experience.",
           "link": "https://smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution/",
           "publishedOn": "2022-04-19T09:00:00.000Z",
-          "wordCount": 1708,
+          "wordCount": 1714,
           "title": "Jamstack Rendering Patterns: The Evolution",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/86e9ff96-97fd-42f7-aa79-9fe5527e1408/jamstack-rendering-patterns-evolution.jpg",
@@ -314,7 +329,7 @@
           "description": "What are the benefits of using push notifications and what can you use them for? In this article, Lee Munroe explains how to implement them and which practices are best to follow.",
           "link": "https://smashingmagazine.com/2022/04/guide-push-notifications-developers/",
           "publishedOn": "2022-04-18T11:30:00.000Z",
-          "wordCount": 2531,
+          "wordCount": 2522,
           "title": "The Ultimate Guide To Push Notifications For Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bebe6c69-2f6e-4523-aede-2ac46114a952/guide-push-notifications-developers.jpg",
@@ -374,7 +389,7 @@
           "description": "Like many things, a design system isn’t ever a finished thing — it’s a journey. How we go about that journey can affect the things we produce along the way. Before diving in and starting to plan anything out, be clear about where the benefits and the risks might lie.",
           "link": "https://smashingmagazine.com/2022/04/artifacts-design-systems/",
           "publishedOn": "2022-04-12T12:00:00.000Z",
-          "wordCount": 4142,
+          "wordCount": 4143,
           "title": "Around The Artifacts Of Design Systems (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/170611c4-1cfa-4f09-8ba0-2999839a2679/artifacts-design-systems.jpg",
@@ -389,7 +404,7 @@
           "description": "This new attribute will enable us to fine-tune relative resource priority, improve LCP performance, deprioritize JavaScript fetch calls, and much more. Let’s check out fetchpriority and explore some potential use cases.",
           "link": "https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/",
           "publishedOn": "2022-04-11T09:30:00.000Z",
-          "wordCount": 2334,
+          "wordCount": 2349,
           "title": "Boost Resource Loading With fetchpriority, A New Priority Hint",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/619a484f-276c-46b3-9f4e-ce788aef7fef/boost-resource-loading-new-priority-hint-fetchpriority.jpg",
@@ -404,7 +419,7 @@
           "description": "Data is among the most important things that make up a web application or a conventional native app. We need data to be able to see and perhaps understand the purpose of an application. In this article, we’ll look at another approach to obtaining data in an application that requires authentication or authorization using Next.js.",
           "link": "https://smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/",
           "publishedOn": "2022-04-08T12:00:00.000Z",
-          "wordCount": 1955,
+          "wordCount": 1946,
           "title": "Dynamic Data-Fetching In An Authenticated Next.js App",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/929fd32f-838d-44e8-88f1-2392555f6c44/dynamic-data-fetching-authenticated-nextjs-app.jpg",
@@ -419,7 +434,7 @@
           "description": "In this series of articles, we highlight design patterns and techniques to design better interfaces. You can also find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.",
           "link": "https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/",
           "publishedOn": "2022-04-06T14:20:00.000Z",
-          "wordCount": 6914,
+          "wordCount": 6918,
           "title": "Designing Better Breadcrumbs",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83a5c72a-37d0-4c2c-9ce8-1ebc22b913f3/designing-better-breadcrumbs-navigation.jpg",
@@ -427,36 +442,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83a5c72a-37d0-4c2c-9ce8-1ebc22b913f3/designing-better-breadcrumbs-navigation.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/04/devs-for-ukraine/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "[Devs For Ukraine](https://www.devsforukraine.io/) is a free online charity conference organized by the lovely people at Remote. Two days filled with talks from engineering leaders around the globe, in support of Ukraine. April 25–26.",
-          "link": "https://smashingmagazine.com/2022/04/devs-for-ukraine/",
-          "publishedOn": "2022-04-06T11:00:00.000Z",
-          "wordCount": 448,
-          "title": "Devs For Ukraine, A Free Online Charity Conference 🇺🇦",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/591a294a-c48b-437b-abe5-98cf7416edad/devs-for-ukraine-large-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/591a294a-c48b-437b-abe5-98cf7416edad/devs-for-ukraine-large-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/04/stakeholders-overcoming-obstacles/",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "description": "Whether you work in-house or for an external agency, we all share one challenge — dealing with stakeholders, be they your boss, colleagues, or clients. In this post, veteran web designer Paul Boag shares his approach to getting things done in even the most challenging organizations.",
-          "link": "https://smashingmagazine.com/2022/04/stakeholders-overcoming-obstacles/",
-          "publishedOn": "2022-04-05T13:00:00.000Z",
-          "wordCount": 2429,
-          "title": "How To Get Work Done: Wrangling Stakeholders And Overcoming Obstacles",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/29128d44-8712-417e-8bca-ba367e4fd283/stakeholders-overcoming-obstacles.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/29128d44-8712-417e-8bca-ba367e4fd283/stakeholders-overcoming-obstacles.jpg"
         }
       ]
     },
@@ -465,6 +450,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "62740998c1c601068f4ecc38",
+          "author": "Beau Carnes",
+          "description": "D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. We just published a full course on the freeCodeCamp.org YouTube channel that teaches how to implement various data visualization techniques with D3.js. Curran Kelleher teaches this course.",
+          "link": "https://www.freecodecamp.org/news/data-visualizatoin-with-d3/",
+          "publishedOn": "2022-05-05T17:43:46.000Z",
+          "wordCount": 492,
+          "title": "Data Visualization with D3.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/dataviz.png"
+        },
+        {
+          "id": "62715143c1c601068f4eb5fe",
+          "author": "Madison Kanna",
+          "description": "Array destructuring is an efficient way to extract multiple values from data that’s stored in an array. In this tutorial we’ll learn about array destructuring. We'll go over examples to learn the ins and outs of how array destructuring works.  I've also created a video of this tutorial: Let's",
+          "link": "https://www.freecodecamp.org/news/how-to-destructure-an-array-in-javascript/",
+          "publishedOn": "2022-05-05T14:38:34.000Z",
+          "wordCount": 1197,
+          "title": "How to Destructure an Array in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/code-1839406_1920.jpg"
+        },
         {
           "id": "626fbddfc1c601068f4eaec5",
           "author": "Ihechikara Vincent Abba",
@@ -491,8 +496,8 @@
           "description": "Python is a high-level, general purpose, interpreted programming language. It's well-known for being very easy to learn yet powerful, and it has many uses in many different fields. If you're someone trying to get started with Python, it's easy to get lost among all the excellent learning resources on the",
           "link": "https://www.freecodecamp.org/news/python-code-examples-simple-python-program-example/",
           "publishedOn": "2022-05-04T17:20:38.000Z",
-          "wordCount": 4048,
-          "title": "Python Code Examples – Simple Python Program Example",
+          "wordCount": 4023,
+          "title": "The Python Code Example Handbook – Simple Python Program Examples for Beginners",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Python-Code-Examples---Simple-Python-Program-Example.png"
         },
         {
@@ -511,8 +516,8 @@
           "description": "I've created and consumed many API's over the past few years. During that time, I've come across good and bad practices and have experienced nasty situations when consuming and building API's. But there also have been great moments. There are helpful articles online which present many best practices, but many",
           "link": "https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/",
           "publishedOn": "2022-05-04T15:10:32.000Z",
-          "wordCount": 12045,
-          "title": "REST API Design Best Practices – How to Build a REST API with JavaScript, Node.js, and Express.js",
+          "wordCount": 12047,
+          "title": "REST API Design Best Practices Handbook – How to Build a REST API with JavaScript, Node.js, and Express.js",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/rest-api-design-course-header.png"
         },
         {
@@ -544,26 +549,6 @@
           "wordCount": 610,
           "title": "How to Remove Duplicates in Excel – Delete Duplicate Rows Tutorial",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/microsoft-office-7040220_1280.png"
-        },
-        {
-          "id": "6259a2ffac55f60686c35b35",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this short article we're going to talk about prototypal inheritance in JavaScript, and what are the implications of it. Table of Contents  * Intro  * How to access a prototype’s properties and methods in JavaScript  * The prototype chain  * A prototype-based language",
-          "link": "https://www.freecodecamp.org/news/prototypes-and-inheritance-in-javascript/",
-          "publishedOn": "2022-05-03T16:05:43.000Z",
-          "wordCount": 1350,
-          "title": "JavaScript Prototypes and Inheritance – and Why They Say Everything in JS is an Object",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-maor-attias-5192478.jpg"
-        },
-        {
-          "id": "62612e2aac55f60686c39d58",
-          "author": "Bobby Iliev",
-          "description": "When you're working on a project that consists of a lot of microservices, it'll likely also include multiple databases.  For example, you might have a MySQL database [https://www.mysql.com] and a  PostgreSQL database [https://www.postgresql.org], both running on separate servers. Usually, to join the data from the two databases, you",
-          "link": "https://www.freecodecamp.org/news/how-to-join-mysql-and-postgres-in-a-live-materialized-view/",
-          "publishedOn": "2022-05-03T15:18:26.000Z",
-          "wordCount": 1697,
-          "title": "How to Join MySQL and Postgres in a Live Materialized View",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/how-to-join-mysql-and-postgres-in-a-live-materialized-view2.jpeg"
         }
       ]
     }
