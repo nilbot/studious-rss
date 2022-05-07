@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-06T00:04:14.018Z</id>
+    <id>urn:2022-05-07T00:03:42.568Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-06T00:04:14.018Z</updated>
+    <updated>2022-05-07T00:03:42.568Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Center an Absolute Positioned Element Vertically and Horizontally with CSS]]></title>
+        <id>62720d66c1c601068f4ebbdb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-center-an-absolute-positioned-element/"/>
+        <updated>2022-05-06T19:56:35.000Z</updated>
+        <summary type="html"><![CDATA[Absolute positioned elements are removed from the flow of a document. And sometimes, knowing how to correctly position such elements in the center of the page can be confusing. I mean, CSS is confusing already. 😅 In this article, I will show you how to center an absolute element either]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Learn Python in 2022]]></title>
+        <id>627036b7c1c601068f4eb2b6</id>
+        <link href="https://www.freecodecamp.org/news/how-to-learn-python/"/>
+        <updated>2022-05-06T17:09:52.000Z</updated>
+        <summary type="html"><![CDATA[With each passing year, the Python programming language becomes more and more popular. According to the Stack Overflow Developer Survey for 2021 [https://insights.stackoverflow.com/survey/2021#technology], Python was the 3rd most popular language, following JavaScript and HTML & CSS. And this growth doesn't seem to be slowing down anytime soon, so Python programmers]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Serve a Subdomain as a Subdirectory]]></title>
+        <id>https://css-tricks.com/?p=365614</id>
+        <link href="https://css-tricks.com/how-to-serve-a-subdomain-as-a-subdirectory/"/>
+        <updated>2022-05-06T14:19:44.000Z</updated>
+        <summary type="html"><![CDATA[Let’s say you have a website built on a platform that excels at design and it’s available at example.com. But that platform falls short at blogging. So you think to yourself, “What if I could use a different blogging …
+How to Serve a Subdomain as a Subdirectory originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>John Siciliano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Give Effective Feedback Remotely]]></title>
+        <id>https://smashingmagazine.com/2022/05/give-effective-feedback-remotely/</id>
+        <link href="https://smashingmagazine.com/2022/05/give-effective-feedback-remotely/"/>
+        <updated>2022-05-06T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s explore how to give and receive better feedback when working remotely — feedback that is actionable, specific, kind, and that won’t set you on edge. We’ll start by explaining when feedback sessions don’t work and how to prevent it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Joshua Mauldin)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data Visualization with D3.js]]></title>
         <id>62740998c1c601068f4ecc38</id>
@@ -30,7 +71,7 @@
         <id>https://smashingmagazine.com/2022/05/resilience-flexibility-immediacy-headless-systems/</id>
         <link href="https://smashingmagazine.com/2022/05/resilience-flexibility-immediacy-headless-systems/"/>
         <updated>2022-05-05T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[When deploying websites, there’s rarely a one-size-fits-all solution. Some websites benefit from server-rendered pages, some prefer statically generating content upfront. In this article, Stefan explains how a CMS such as [Storyblok](link) can help you make your site more resilient without losing the flexibility to deliver time-relevant content.]]></summary>
+        <summary type="html"><![CDATA[When deploying websites, there’s rarely a one-size-fits-all solution. Some websites benefit from server-rendered pages, some prefer statically generating content upfront. In this article, Stefan explains how a CMS such as [Storyblok](https://www.storyblok.com/) can help you make your site more resilient without losing the flexibility to deliver time-relevant content.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Stefan Baumgartner)</name>
         </author>
@@ -114,26 +155,6 @@ Syntax Highlighting (and More!) With Prism on a Static Site originally published
         <summary type="html"><![CDATA[How difficult can it be to design a bulletproof language selector? It’s not as straightforward as one might think. We need to avoid redirects, decouple our language and country presets, allow for overrides, and use non-modal windows. Let’s dive in!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Report a Bug to freeCodeCamp]]></title>
-        <id>626fa644c1c601068f4ead26</id>
-        <link href="https://www.freecodecamp.org/news/how-to-report-a-bug-to-freecodecamp/"/>
-        <updated>2022-05-03T21:07:57.000Z</updated>
-        <summary type="html"><![CDATA[Thank you for taking the time to report an issue with freeCodeCamp. If you think you’ve found a bug on freeCodeCamp, please follow these steps to resolve your problem: Reset the Code in the Editor Try resetting the code in the editor using the reset button on the page. This]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Remove Duplicates in Excel – Delete Duplicate Rows Tutorial]]></title>
-        <id>626fe2c2c1c601068f4eaf1d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-remove-duplicates-in-excel-delete-duplicate-rows-tutorial/"/>
-        <updated>2022-05-03T19:58:44.000Z</updated>
-        <summary type="html"><![CDATA[An Excel worksheet can be difficult to work with if it contains duplicates – especially if you’re not the author of the worksheet. If you find them, you might want to highlight or remove such duplicates in the Excel sheet so you don’t run into errors. In this article, I]]></summary>
-        <author>
-            <name>Kolade Chris</name>
         </author>
     </entry>
     <entry>
@@ -427,16 +448,6 @@ Add a CSS Lens Flare to Photos for a Bright Touch originally published on CSS-Tr
         <summary type="html"><![CDATA[Data is among the most important things that make up a web application or a conventional native app. We need data to be able to see and perhaps understand the purpose of an application. In this article, we’ll look at another approach to obtaining data in an application that requires authentication or authorization using Next.js.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Caleb Olojo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing Better Breadcrumbs]]></title>
-        <id>https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/</id>
-        <link href="https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/"/>
-        <updated>2022-04-06T14:20:00.000Z</updated>
-        <summary type="html"><![CDATA[In this series of articles, we highlight design patterns and techniques to design better interfaces. You can also find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
