@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-07T00:03:42.568Z</id>
+    <id>urn:2022-05-08T00:04:23.917Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-07T00:03:42.568Z</updated>
+    <updated>2022-05-08T00:04:23.917Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -438,16 +438,6 @@ Add a CSS Lens Flare to Photos for a Bright Touch originally published on CSS-Tr
         <summary type="html"><![CDATA[This new attribute will enable us to fine-tune relative resource priority, improve LCP performance, deprioritize JavaScript fetch calls, and much more. Let’s check out fetchpriority and explore some potential use cases.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamic Data-Fetching In An Authenticated Next.js App]]></title>
-        <id>https://smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/</id>
-        <link href="https://smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/"/>
-        <updated>2022-04-08T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Data is among the most important things that make up a web application or a conventional native app. We need data to be able to see and perhaps understand the purpose of an application. In this article, we’ll look at another approach to obtaining data in an application that requires authentication or authorization using Next.js.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Caleb Olojo)</name>
         </author>
     </entry>
 </feed>
