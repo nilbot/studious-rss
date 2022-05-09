@@ -144,7 +144,7 @@
           "description": "Let’s explore how to give and receive better feedback when working remotely — feedback that is actionable, specific, kind, and that won’t set you on edge. We’ll start by explaining when feedback sessions don’t work and how to prevent it.",
           "link": "https://smashingmagazine.com/2022/05/give-effective-feedback-remotely/",
           "publishedOn": "2022-05-06T09:30:00.000Z",
-          "wordCount": 2991,
+          "wordCount": 2982,
           "title": "How To Give Effective Feedback Remotely",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9fd70453-99c5-4d6f-9abe-1a19a52d217b/give-effective-feedback-remotely.jpg",
@@ -189,7 +189,7 @@
           "description": "Developers often reach for UI frameworks like Bootstrap or Material UI, hoping that they’ll save a bunch of time and quickly build a professional-looking app. Unfortunately, things rarely work out this way. Let’s talk about it.",
           "link": "https://smashingmagazine.com/2022/05/you-dont-need-ui-framework/",
           "publishedOn": "2022-05-03T11:00:00.000Z",
-          "wordCount": 2895,
+          "wordCount": 2899,
           "title": "You Don’t Need A UI Framework",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7fae9333-8fe0-468f-bc90-274417de15c3/you-dont-need-ui-framework.jpg",
@@ -204,7 +204,7 @@
           "description": "Let’s welcome May with a new collection of wallpapers. Designed with love by artists and designers from across the globe, they come in versions with and without a calendar for May 2022.",
           "link": "https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/",
           "publishedOn": "2022-04-30T08:00:00.000Z",
-          "wordCount": 2291,
+          "wordCount": 2292,
           "title": "Make A Wish (May 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d3692b2-3bab-4645-95a2-a488c22eae5f/may-22-kira-preview-opt.png",
@@ -219,7 +219,7 @@
           "description": "Introducing Partytown, a lightweight open-source solution that reduces execution delays due to third-party JavaScript by offloading third-party scripts to web workers, which run in background threads.",
           "link": "https://smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/",
           "publishedOn": "2022-04-29T10:30:00.000Z",
-          "wordCount": 2024,
+          "wordCount": 2022,
           "title": "How Partytown Eliminates Website Bloat From Third-Party Scripts",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9925c2d1-b244-434d-9173-7e11efbdf617/partytown-eliminates-website-bloat-third-party-scripts.jpg",
@@ -234,7 +234,7 @@
           "description": "In this article, Nathan Smith explains how to create modal dialog windows with rich interaction that will only require authoring HTML in order to be used. They are based on Web Components that are currently supported by every major browser.",
           "link": "https://smashingmagazine.com/2022/04/cta-modal-build-web-component/",
           "publishedOn": "2022-04-28T09:30:00.000Z",
-          "wordCount": 4781,
+          "wordCount": 4779,
           "title": "CTA Modal: How To Build A Web Component",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bbadf16-a6e1-4d24-ba72-77cc51e3cc4e/cta-modal-build-web-component.jpg",
@@ -249,7 +249,7 @@
           "description": "We should be able to measure how well a particular design solves a particular problem. Let’s explore design KPIs that capture user’s experience, how to measure them and how to keep both users and business stakeholders happy, over time.",
           "link": "https://smashingmagazine.com/2022/04/boosting-ux-with-design-kpis/",
           "publishedOn": "2022-04-27T08:30:00.000Z",
-          "wordCount": 1543,
+          "wordCount": 1547,
           "title": "Boosting UX With Design KPIs",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1021a1ce-ec58-4b8f-837f-e7d4aa3f8448/boosting-ux-with-design-kpis.jpg",
@@ -264,7 +264,7 @@
           "description": "When bad UX has lingered in a product for so long, it can feel like a mountain to overcome. In this article, Ceara Crawshaw shares her advice on how you can invoke joy and assure the quality in the work done on product teams.",
           "link": "https://smashingmagazine.com/2022/04/ux-integrated-design-workflows/",
           "publishedOn": "2022-04-26T11:30:00.000Z",
-          "wordCount": 4036,
+          "wordCount": 4032,
           "title": "Preventing Bad UX Through Integrated Design Workflows",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47570c78-efae-4a35-b2c6-addf55029cac/ux-integrated-design-workflows.jpg",
@@ -279,7 +279,7 @@
           "description": "In this article, Jhey Tompkins explores one of GreenSocks’ newest plugins alongside React to create an impractical whimsical spin on a well-known native element: ``.",
           "link": "https://smashingmagazine.com/2022/04/what-if-sliders-actually-slid-html-element-input-range/",
           "publishedOn": "2022-04-25T09:30:00.000Z",
-          "wordCount": 3403,
+          "wordCount": 3411,
           "title": "What If Our Sliders Actually Slid?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9d1d14c-98fc-463e-82b5-df98f5556b72/what-if-sliders-actually-slid-html-element-input-range.jpg",
@@ -309,7 +309,7 @@
           "description": "In UX, we can use navigation queries, evaluation journeys, A-Z index and tap-ahead autocomplete to help users get where they want to be, faster. Let’s find out how.",
           "link": "https://smashingmagazine.com/2022/04/designing-better-navigation-ux-queries/",
           "publishedOn": "2022-04-21T10:00:00.000Z",
-          "wordCount": 3317,
+          "wordCount": 3321,
           "title": "Designing Better Navigation With Navigation Queries",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3b9b874c-9208-47da-b69b-b46d90988b11/designing-better-navigation-ux-queries.jpg",
@@ -324,7 +324,7 @@
           "description": "Who doesn’t love a good timesaver? In this post, we compiled useful productivity tips and tools that help you speed up routine tasks, enhance your development workflow, and stay organized.",
           "link": "https://smashingmagazine.com/2022/04/productivity-tips-tools/",
           "publishedOn": "2022-04-20T11:30:00.000Z",
-          "wordCount": 5070,
+          "wordCount": 5074,
           "title": "Productivity Tips And Tools For A More Efficient Workflow",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c0a83218-4f7e-4650-9380-72895a5936b3/productivity-tips-tools.jpg",
@@ -339,7 +339,7 @@
           "description": "In this article, Ekene Eze shares his thoughts about the direction of the web in 2022, and what solutions we can expect to see come up in the ecosystem to significantly improve the Jamstack experience.",
           "link": "https://smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution/",
           "publishedOn": "2022-04-19T09:00:00.000Z",
-          "wordCount": 1720,
+          "wordCount": 1710,
           "title": "Jamstack Rendering Patterns: The Evolution",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/86e9ff96-97fd-42f7-aa79-9fe5527e1408/jamstack-rendering-patterns-evolution.jpg",
@@ -354,7 +354,7 @@
           "description": "What are the benefits of using push notifications and what can you use them for? In this article, Lee Munroe explains how to implement them and which practices are best to follow.",
           "link": "https://smashingmagazine.com/2022/04/guide-push-notifications-developers/",
           "publishedOn": "2022-04-18T11:30:00.000Z",
-          "wordCount": 2527,
+          "wordCount": 2531,
           "title": "The Ultimate Guide To Push Notifications For Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bebe6c69-2f6e-4523-aede-2ac46114a952/guide-push-notifications-developers.jpg",
@@ -429,7 +429,7 @@
           "description": "This new attribute will enable us to fine-tune relative resource priority, improve LCP performance, deprioritize JavaScript fetch calls, and much more. Let’s check out fetchpriority and explore some potential use cases.",
           "link": "https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/",
           "publishedOn": "2022-04-11T09:30:00.000Z",
-          "wordCount": 2333,
+          "wordCount": 2331,
           "title": "Boost Resource Loading With fetchpriority, A New Priority Hint",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/619a484f-276c-46b3-9f4e-ce788aef7fef/boost-resource-loading-new-priority-hint-fetchpriority.jpg",
