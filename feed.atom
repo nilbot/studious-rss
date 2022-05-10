@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-09T00:04:14.166Z</id>
+    <id>urn:2022-05-10T00:04:05.771Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-09T00:04:14.166Z</updated>
+    <updated>2022-05-10T00:04:05.771Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Excel Shortcuts – Keyboard Shortcuts for Beginners]]></title>
+        <id>62727994c1c601068f4ec082</id>
+        <link href="https://www.freecodecamp.org/news/excel-shortcuts-keyboard-shortcuts-for-beginners/"/>
+        <updated>2022-05-09T15:24:30.000Z</updated>
+        <summary type="html"><![CDATA[There are many data analytics tools out there, but Microsoft Excel remains a popular go-to for storing and managing data. Since Excel has a lot of functionality built into it, getting familiar with the various keyboard shortcuts will help you work more efficiently. In this article, I’m going to show]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful Tools for Creating AVIF Images]]></title>
+        <id>https://css-tricks.com/?p=365579</id>
+        <link href="https://css-tricks.com/useful-tools-for-creating-avif-images/"/>
+        <updated>2022-05-09T15:00:10.000Z</updated>
+        <summary type="html"><![CDATA[AVIF (AV1 Image File Format) is a modern image file format specification for storing images that offer a much more significant file reduction when compared to other formats like JPG, JPEG, PNG, and WebP. Version 1.0.0 of the AVIF specification …
+Useful Tools for Creating AVIF Images originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Performance Game Changer: Browser Back/Forward Cache]]></title>
+        <id>https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/</id>
+        <link href="https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/"/>
+        <updated>2022-05-09T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[At the end of 2021, the Chrome team shipped some functionality that has the ability to make or break sites meeting the Core Web Vitals. So, let’s learn a little bit more about the Back/Forward Cache (aka bfcache), and what you can do to test if your website is compatible with it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Barry Pollard)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Center an Absolute Positioned Element Vertically and Horizontally with CSS]]></title>
         <id>62720d66c1c601068f4ebbdb</id>
@@ -124,16 +155,6 @@ How to Serve a Subdomain as a Subdirectory originally published on CSS-Tricks. Y
         <summary type="html"><![CDATA[I've created and consumed many API's over the past few years. During that time, I've come across good and bad practices and have experienced nasty situations when consuming and building API's. But there also have been great moments. There are helpful articles online which present many best practices, but many]]></summary>
         <author>
             <name>Jean-Marc Möckel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn React Router 6]]></title>
-        <id>62728f26c1c601068f4ec233</id>
-        <link href="https://www.freecodecamp.org/news/learn-react-router-6/"/>
-        <updated>2022-05-04T14:42:27.000Z</updated>
-        <summary type="html"><![CDATA[React Router is a JavaScript library that helps developers create single-page applications that are responsive and have a dynamic user interface. It is a popular tool among React developers and is used to create routing and navigation for web applications. We just published a course on the freeCodeCamp.org YouTube channel]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
