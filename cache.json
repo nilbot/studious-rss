@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365650",
+          "author": "Md Shuvo",
+          "description": "By now, you are probably familiar with one or more programming languages. But have you ever wondered how you could create your own programming language? And by that, I mean:\nA programming language is any set of rules that convert \n…\nLet’s Create a Tiny Programming Language originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/lets-create-a-tiny-programming-language/",
+          "publishedOn": "2022-05-10T13:56:11.000Z",
+          "wordCount": 1677,
+          "title": "Let’s Create a Tiny Programming Language",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365650"
+        },
+        {
           "id": "https://css-tricks.com/?p=365579",
           "author": "Sunkanmi Fafowora",
           "description": "AVIF (AV1 Image File Format) is a modern image file format specification for storing images that offer a much more significant file reduction when compared to other formats like JPG, JPEG, PNG, and WebP. Version 1.0.0 of the AVIF specification …\nUseful Tools for Creating AVIF Images originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/useful-tools-for-creating-avif-images/",
           "publishedOn": "2022-05-09T15:00:10.000Z",
-          "wordCount": 947,
+          "wordCount": 1125,
           "title": "Useful Tools for Creating AVIF Images",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365579"
         },
@@ -87,7 +97,7 @@
           "description": "A while ago, Geoff wrote an article about a cool hover effect. The effect relies on a combination of CSS pseudo-elements, transforms, and transitions. A lot of comments have shown that the same effect can be done using background …\nCool Hover Effects That Use Background Properties originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/cool-hover-effects-using-background-properties/",
           "publishedOn": "2022-04-27T14:20:07.000Z",
-          "wordCount": 3531,
+          "wordCount": 3567,
           "title": "Cool Hover Effects That Use Background Properties",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365383"
         },
@@ -149,12 +159,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/05/magical-svg-techniques/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "It’s no secret that SVGs are super powerful, and yet, they still manage to surprise. Have you ever considered using SVG’s internal coordinate system to create a responsive image grid, for example, or adding texture to an SVG? In this post, we’ll look into some magical SVG techniques that open up new possibilities.",
+          "link": "https://smashingmagazine.com/2022/05/magical-svg-techniques/",
+          "publishedOn": "2022-05-10T10:00:00.000Z",
+          "wordCount": 2417,
+          "title": "Magical SVG Techniques",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6be13a6e-5850-49e2-82b0-89d47212c66c/animated-debit-card-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6be13a6e-5850-49e2-82b0-89d47212c66c/animated-debit-card-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/",
           "author": "hello@smashingmagazine.com (Barry Pollard)",
           "description": "At the end of 2021, the Chrome team shipped some functionality that has the ability to make or break sites meeting the Core Web Vitals. So, let’s learn a little bit more about the Back/Forward Cache (aka bfcache), and what you can do to test if your website is compatible with it.",
           "link": "https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/",
           "publishedOn": "2022-05-09T10:30:00.000Z",
-          "wordCount": 3690,
+          "wordCount": 3682,
           "title": "Performance Game Changer: Browser Back/Forward Cache",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98883c6e-253d-4285-aa86-09da18d3b935/performance-game-changer-back-forward-cache.jpg",
@@ -169,7 +194,7 @@
           "description": "Let’s explore how to give and receive better feedback when working remotely — feedback that is actionable, specific, kind, and that won’t set you on edge. We’ll start by explaining when feedback sessions don’t work and how to prevent it.",
           "link": "https://smashingmagazine.com/2022/05/give-effective-feedback-remotely/",
           "publishedOn": "2022-05-06T09:30:00.000Z",
-          "wordCount": 2981,
+          "wordCount": 2993,
           "title": "How To Give Effective Feedback Remotely",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9fd70453-99c5-4d6f-9abe-1a19a52d217b/give-effective-feedback-remotely.jpg",
@@ -199,7 +224,7 @@
           "description": "How difficult can it be to design a bulletproof language selector? It’s not as straightforward as one might think. We need to avoid redirects, decouple our language and country presets, allow for overrides, and use non-modal windows. Let’s dive in!",
           "link": "https://smashingmagazine.com/2022/05/designing-better-language-selector/",
           "publishedOn": "2022-05-04T10:00:00.000Z",
-          "wordCount": 6032,
+          "wordCount": 6036,
           "title": "Designing A Better Language Selector",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec0dac36-90ba-4295-b51b-f095fb2d90ff/designing-better-language-selector.jpg",
@@ -214,7 +239,7 @@
           "description": "Developers often reach for UI frameworks like Bootstrap or Material UI, hoping that they’ll save a bunch of time and quickly build a professional-looking app. Unfortunately, things rarely work out this way. Let’s talk about it.",
           "link": "https://smashingmagazine.com/2022/05/you-dont-need-ui-framework/",
           "publishedOn": "2022-05-03T11:00:00.000Z",
-          "wordCount": 2891,
+          "wordCount": 2899,
           "title": "You Don’t Need A UI Framework",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7fae9333-8fe0-468f-bc90-274417de15c3/you-dont-need-ui-framework.jpg",
@@ -229,7 +254,7 @@
           "description": "Let’s welcome May with a new collection of wallpapers. Designed with love by artists and designers from across the globe, they come in versions with and without a calendar for May 2022.",
           "link": "https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/",
           "publishedOn": "2022-04-30T08:00:00.000Z",
-          "wordCount": 2298,
+          "wordCount": 2288,
           "title": "Make A Wish (May 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d3692b2-3bab-4645-95a2-a488c22eae5f/may-22-kira-preview-opt.png",
@@ -244,7 +269,7 @@
           "description": "Introducing Partytown, a lightweight open-source solution that reduces execution delays due to third-party JavaScript by offloading third-party scripts to web workers, which run in background threads.",
           "link": "https://smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/",
           "publishedOn": "2022-04-29T10:30:00.000Z",
-          "wordCount": 2024,
+          "wordCount": 2030,
           "title": "How Partytown Eliminates Website Bloat From Third-Party Scripts",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9925c2d1-b244-434d-9173-7e11efbdf617/partytown-eliminates-website-bloat-third-party-scripts.jpg",
@@ -259,7 +284,7 @@
           "description": "In this article, Nathan Smith explains how to create modal dialog windows with rich interaction that will only require authoring HTML in order to be used. They are based on Web Components that are currently supported by every major browser.",
           "link": "https://smashingmagazine.com/2022/04/cta-modal-build-web-component/",
           "publishedOn": "2022-04-28T09:30:00.000Z",
-          "wordCount": 4777,
+          "wordCount": 4780,
           "title": "CTA Modal: How To Build A Web Component",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bbadf16-a6e1-4d24-ba72-77cc51e3cc4e/cta-modal-build-web-component.jpg",
@@ -274,7 +299,7 @@
           "description": "We should be able to measure how well a particular design solves a particular problem. Let’s explore design KPIs that capture user’s experience, how to measure them and how to keep both users and business stakeholders happy, over time.",
           "link": "https://smashingmagazine.com/2022/04/boosting-ux-with-design-kpis/",
           "publishedOn": "2022-04-27T08:30:00.000Z",
-          "wordCount": 1543,
+          "wordCount": 1551,
           "title": "Boosting UX With Design KPIs",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1021a1ce-ec58-4b8f-837f-e7d4aa3f8448/boosting-ux-with-design-kpis.jpg",
@@ -289,7 +314,7 @@
           "description": "When bad UX has lingered in a product for so long, it can feel like a mountain to overcome. In this article, Ceara Crawshaw shares her advice on how you can invoke joy and assure the quality in the work done on product teams.",
           "link": "https://smashingmagazine.com/2022/04/ux-integrated-design-workflows/",
           "publishedOn": "2022-04-26T11:30:00.000Z",
-          "wordCount": 4028,
+          "wordCount": 4036,
           "title": "Preventing Bad UX Through Integrated Design Workflows",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47570c78-efae-4a35-b2c6-addf55029cac/ux-integrated-design-workflows.jpg",
@@ -304,7 +329,7 @@
           "description": "In this article, Jhey Tompkins explores one of GreenSocks’ newest plugins alongside React to create an impractical whimsical spin on a well-known native element: ``.",
           "link": "https://smashingmagazine.com/2022/04/what-if-sliders-actually-slid-html-element-input-range/",
           "publishedOn": "2022-04-25T09:30:00.000Z",
-          "wordCount": 3392,
+          "wordCount": 3409,
           "title": "What If Our Sliders Actually Slid?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9d1d14c-98fc-463e-82b5-df98f5556b72/what-if-sliders-actually-slid-html-element-input-range.jpg",
@@ -319,7 +344,7 @@
           "description": "Have you ever wondered, why do people write CLI tools? When is a good time to think about yours? Today we’ll touch on these questions, along with some tips to remember when creating one. However, all of this serves as a prelude to the real topic: end-to-end testing of CLI tools.",
           "link": "https://smashingmagazine.com/2022/04/testing-cli-way-people-use-it/",
           "publishedOn": "2022-04-22T09:30:00.000Z",
-          "wordCount": 4177,
+          "wordCount": 4185,
           "title": "Testing The CLI The Way People Use It",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e6d3ba7a-2c86-4e64-b8e8-6d58adaafdba/testing-cli-way-people-use-it.jpg",
@@ -334,7 +359,7 @@
           "description": "In UX, we can use navigation queries, evaluation journeys, A-Z index and tap-ahead autocomplete to help users get where they want to be, faster. Let’s find out how.",
           "link": "https://smashingmagazine.com/2022/04/designing-better-navigation-ux-queries/",
           "publishedOn": "2022-04-21T10:00:00.000Z",
-          "wordCount": 3317,
+          "wordCount": 3321,
           "title": "Designing Better Navigation With Navigation Queries",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3b9b874c-9208-47da-b69b-b46d90988b11/designing-better-navigation-ux-queries.jpg",
@@ -349,7 +374,7 @@
           "description": "Who doesn’t love a good timesaver? In this post, we compiled useful productivity tips and tools that help you speed up routine tasks, enhance your development workflow, and stay organized.",
           "link": "https://smashingmagazine.com/2022/04/productivity-tips-tools/",
           "publishedOn": "2022-04-20T11:30:00.000Z",
-          "wordCount": 5066,
+          "wordCount": 5074,
           "title": "Productivity Tips And Tools For A More Efficient Workflow",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c0a83218-4f7e-4650-9380-72895a5936b3/productivity-tips-tools.jpg",
@@ -364,7 +389,7 @@
           "description": "In this article, Ekene Eze shares his thoughts about the direction of the web in 2022, and what solutions we can expect to see come up in the ecosystem to significantly improve the Jamstack experience.",
           "link": "https://smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution/",
           "publishedOn": "2022-04-19T09:00:00.000Z",
-          "wordCount": 1720,
+          "wordCount": 1710,
           "title": "Jamstack Rendering Patterns: The Evolution",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/86e9ff96-97fd-42f7-aa79-9fe5527e1408/jamstack-rendering-patterns-evolution.jpg",
@@ -379,7 +404,7 @@
           "description": "What are the benefits of using push notifications and what can you use them for? In this article, Lee Munroe explains how to implement them and which practices are best to follow.",
           "link": "https://smashingmagazine.com/2022/04/guide-push-notifications-developers/",
           "publishedOn": "2022-04-18T11:30:00.000Z",
-          "wordCount": 2518,
+          "wordCount": 2533,
           "title": "The Ultimate Guide To Push Notifications For Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bebe6c69-2f6e-4523-aede-2ac46114a952/guide-push-notifications-developers.jpg",
@@ -394,7 +419,7 @@
           "description": "Storytelling is a powerful tool for any UX designer. It helps create a product and understand the people who use it. In this article, Marli Mesibov takes a real-life example of an app she helped to build in 2017 and explains five steps you can use to help you build a story into your user experience.",
           "link": "https://smashingmagazine.com/2022/04/use-storytelling-ux/",
           "publishedOn": "2022-04-15T14:00:00.000Z",
-          "wordCount": 3769,
+          "wordCount": 3773,
           "title": "How To Use Storytelling In UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fedf0602-27ae-4516-bcd0-df371fd0048b/use-storytelling-ux.jpg",
@@ -424,7 +449,7 @@
           "description": "Carousels don’t have a good reputation, and rightfully so. But we can make them more useful. **Best practices and guidelines** to improve the carousel design with honest scrolling direction, labels, thumbnails and grouped prev/next-buttons.",
           "link": "https://smashingmagazine.com/2022/04/designing-better-carousel-ux/",
           "publishedOn": "2022-04-13T12:00:00.000Z",
-          "wordCount": 7274,
+          "wordCount": 7282,
           "title": "Designing A Better Carousel UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/729433dc-4cea-4eed-9128-0e9e6dbfe6db/designing-better-carousel-ux.jpg",
@@ -439,7 +464,7 @@
           "description": "Like many things, a design system isn’t ever a finished thing — it’s a journey. How we go about that journey can affect the things we produce along the way. Before diving in and starting to plan anything out, be clear about where the benefits and the risks might lie.",
           "link": "https://smashingmagazine.com/2022/04/artifacts-design-systems/",
           "publishedOn": "2022-04-12T12:00:00.000Z",
-          "wordCount": 4136,
+          "wordCount": 4162,
           "title": "Around The Artifacts Of Design Systems (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/170611c4-1cfa-4f09-8ba0-2999839a2679/artifacts-design-systems.jpg",
@@ -447,21 +472,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/170611c4-1cfa-4f09-8ba0-2999839a2679/artifacts-design-systems.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "This new attribute will enable us to fine-tune relative resource priority, improve LCP performance, deprioritize JavaScript fetch calls, and much more. Let’s check out fetchpriority and explore some potential use cases.",
-          "link": "https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/",
-          "publishedOn": "2022-04-11T09:30:00.000Z",
-          "wordCount": 2329,
-          "title": "Boost Resource Loading With fetchpriority, A New Priority Hint",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/619a484f-276c-46b3-9f4e-ce788aef7fef/boost-resource-loading-new-priority-hint-fetchpriority.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/619a484f-276c-46b3-9f4e-ce788aef7fef/boost-resource-loading-new-priority-hint-fetchpriority.jpg"
         }
       ]
     },
@@ -471,6 +481,96 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "627a6d54ac30a306bbeac950",
+          "author": "Ihechikara Vincent Abba",
+          "description": "The list data type is one of the built-in data structures in Python along with sets, tuples, and dictionaries. You use a list to organize, group, and store data. But each of these data structures has distinctive features that differentiates them from each other. In this article, we'll see how",
+          "link": "https://www.freecodecamp.org/news/python-list-insert-how-to-add-to-a-list-in-python/",
+          "publishedOn": "2022-05-10T21:22:33.000Z",
+          "wordCount": 963,
+          "title": "Python List insert() – How to Add to a List in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/dictionaary.jpg"
+        },
+        {
+          "id": "627a1dd3ac30a306bbeac53f",
+          "author": "Farhan Hasin Chowdhury",
+          "description": "If you're familiar with Python, you may have noticed that the built-in function  print() doesn't need an explicit \\n character at the end of each line.  This means that the output from the following snippet of code print('freeCodeCamp Curriculum') print('freeCodeCamp News') print('freeCodeCamp YouTube Channel') will be: freeCodeCamp Curriculum",
+          "link": "https://www.freecodecamp.org/news/python-print-without-newline-solved/",
+          "publishedOn": "2022-05-10T16:18:38.000Z",
+          "wordCount": 926,
+          "title": "Python Print Without Newline [SOLVED]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/Python-Print-Without-Newline--SOLVED-.png"
+        },
+        {
+          "id": "627a40ceac30a306bbeac5da",
+          "author": "Kolade Chris",
+          "description": "To keep your Excel data safe from unwanted editing and tampering, you might want to lock the cells and protect the worksheet. Fortunately, Excel is a highly customizable data analysis tool which lets you lock cells and protect your worksheets with a password at the same time. In this guide,",
+          "link": "https://www.freecodecamp.org/news/how-to-lock-cells-in-excel-excel-locked-cell-tutorial/",
+          "publishedOn": "2022-05-10T15:57:58.000Z",
+          "wordCount": 705,
+          "title": "How to Lock Cells in Excel – Excel Locked Cell Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/thumb-1013967_1280.jpg"
+        },
+        {
+          "id": "627859645aeb5306e9ee725f",
+          "author": "Jose Vicente Nunez",
+          "description": "I was recently looking for a way to keep tabs on our containers and applications at work. Specifically, I was interested in detecting anomalies in the configuration. After a little research, I stumbled on Falco [https://github.com/falcosecurity/falco]. What I found was a very complete Open Source platform with lots of features",
+          "link": "https://www.freecodecamp.org/news/secure-server-infrastructure-clouds-using-falco-prometheus-grafana-and-docker/",
+          "publishedOn": "2022-05-10T14:58:47.000Z",
+          "wordCount": 3908,
+          "title": "How to Secure Server Infrastructure Clouds using Falco, Prometheus, Grafana and Docker",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-aleksandar-pasaric-325185--1-.jpg"
+        },
+        {
+          "id": "6269555ac1c601068f4e811b",
+          "author": "Rochdi Khalid",
+          "description": "Each operating system has different rules for constructing file paths. For example, Linux uses forward slashes for paths, while Windows uses backslashes.  This small difference can cause issues if you are working on a project and you want other developers who come from different operating systems to expand your",
+          "link": "https://www.freecodecamp.org/news/how-to-use-pathlib-module-in-python/",
+          "publishedOn": "2022-05-10T13:59:54.000Z",
+          "wordCount": 2546,
+          "title": "Python Path – How to Use the Pathlib Module with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pathlib-cover-freecodecamp.jpg"
+        },
+        {
+          "id": "6272b9cdc1c601068f4ec497",
+          "author": "TAPAS ADHIKARY",
+          "description": "Git is an open-source distributed version control system. It helps you manage your project files easily using local branching, staging, and workflows.  Many developers use Git today. And they're usually familiar with basic Git concepts like:  * How to initiate a repository.  * How to create branches.",
+          "link": "https://www.freecodecamp.org/news/resolve-merge-conflicts-in-git-a-practical-guide/",
+          "publishedOn": "2022-05-09T23:09:43.000Z",
+          "wordCount": 1899,
+          "title": "How to Resolve Merge Conflicts in Git – A Practical Guide with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/freeCodeCamp-Cover-1.png"
+        },
+        {
+          "id": "62725fadc1c601068f4ebf17",
+          "author": "Ilenia Magoni",
+          "description": "Strings are a fundamental part of working with Python. And the lower() method is one of the many integrated methods that you can use to work with strings. In this article, we'll see how to make strings lowercase with the lower() method in Python. What is a string? A string",
+          "link": "https://www.freecodecamp.org/news/python-lowercase-how-to-use-the-string-lower-function/",
+          "publishedOn": "2022-05-09T22:04:42.000Z",
+          "wordCount": 1080,
+          "title": "Python Lowercase – How to Use the String lower() Function",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-christina-morillo-1181467--1-.jpg"
+        },
+        {
+          "id": "627601655aeb5306e9ee6ab2",
+          "author": "Nishant Kumar",
+          "description": "In this article, we'll build a Google Docs clone using React, Material UI, and Firebase. The final app will look like this: If we click any document, it will open up and we can edit them however we need to. And the most amazing feature is that we can edit",
+          "link": "https://www.freecodecamp.org/news/build-a-google-docs-clone-with-react-and-firebase/",
+          "publishedOn": "2022-05-09T21:16:05.000Z",
+          "wordCount": 4296,
+          "title": "How to Build a Google Docs Clone with React, Material UI, & Firebase",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/How-to-Build-a-Weather-Application-using-React--11-.png"
+        },
+        {
+          "id": "6258683aac55f60686c35075",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In this article we're going to review the main characteristics of object oriented programming (OOP) with practical JavaScript examples. We will talk about OOP main concepts, why and when it can be useful, and I'll give you plenty of examples using JS code.  If you're not familiar",
+          "link": "https://www.freecodecamp.org/news/object-oriented-javascript-for-beginners/",
+          "publishedOn": "2022-05-09T20:36:30.000Z",
+          "wordCount": 4406,
+          "title": "Object-Oriented Programming in JavaScript for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-lukas-317377.jpg"
+        },
+        {
           "id": "62727994c1c601068f4ec082",
           "author": "Kolade Chris",
           "description": "There are many data analytics tools out there, but Microsoft Excel remains a popular go-to for storing and managing data. Since Excel has a lot of functionality built into it, getting familiar with the various keyboard shortcuts will help you work more efficiently. In this article, I’m going to show",
@@ -479,96 +579,6 @@
           "wordCount": 1359,
           "title": "Excel Shortcuts – Keyboard Shortcuts for Beginners",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/excelShortcuts.png"
-        },
-        {
-          "id": "62720d66c1c601068f4ebbdb",
-          "author": "Dillion Megida",
-          "description": "Absolute positioned elements are removed from the flow of a document. And sometimes, knowing how to correctly position such elements in the center of the page can be confusing. I mean, CSS is confusing already. 😅 In this article, I will show you how to center an absolute element either",
-          "link": "https://www.freecodecamp.org/news/how-to-center-an-absolute-positioned-element/",
-          "publishedOn": "2022-05-06T19:56:35.000Z",
-          "wordCount": 1189,
-          "title": "How to Center an Absolute Positioned Element Vertically and Horizontally with CSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-jack-hawley-57905.jpg"
-        },
-        {
-          "id": "627036b7c1c601068f4eb2b6",
-          "author": "Dionysia Lemonaki",
-          "description": "With each passing year, the Python programming language becomes more and more popular. According to the Stack Overflow Developer Survey for 2021 [https://insights.stackoverflow.com/survey/2021#technology], Python was the 3rd most popular language, following JavaScript and HTML & CSS. And this growth doesn't seem to be slowing down anytime soon, so Python programmers",
-          "link": "https://www.freecodecamp.org/news/how-to-learn-python/",
-          "publishedOn": "2022-05-06T17:09:52.000Z",
-          "wordCount": 2717,
-          "title": "How to Learn Python in 2022",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/brett-jordan-NDjaUqvB7uE-unsplash.jpg"
-        },
-        {
-          "id": "62740998c1c601068f4ecc38",
-          "author": "Beau Carnes",
-          "description": "D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. We just published a full course on the freeCodeCamp.org YouTube channel that teaches how to implement various data visualization techniques with D3.js. Curran Kelleher teaches this course.",
-          "link": "https://www.freecodecamp.org/news/data-visualizatoin-with-d3/",
-          "publishedOn": "2022-05-05T17:43:46.000Z",
-          "wordCount": 506,
-          "title": "Data Visualization with D3.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/dataviz.png"
-        },
-        {
-          "id": "62715143c1c601068f4eb5fe",
-          "author": "Madison Kanna",
-          "description": "Array destructuring is an efficient way to extract multiple values from data that’s stored in an array. In this tutorial we’ll learn about array destructuring. We'll go over examples to learn the ins and outs of how array destructuring works.  I've also created a video of this tutorial: Let's",
-          "link": "https://www.freecodecamp.org/news/how-to-destructure-an-array-in-javascript/",
-          "publishedOn": "2022-05-05T14:38:34.000Z",
-          "wordCount": 1197,
-          "title": "How to Destructure an Array in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/code-1839406_1920.jpg"
-        },
-        {
-          "id": "626fbddfc1c601068f4eaec5",
-          "author": "Ihechikara Vincent Abba",
-          "description": "In this article, we'll talk about the getline() function in C++. This is an inbuilt function that accepts single and multiple character inputs. When working with user input in C++, the cin object allows us to get input information from the user. But when we try to log out the",
-          "link": "https://www.freecodecamp.org/news/getline-in-cpp-cin-getline-function-example/",
-          "publishedOn": "2022-05-04T20:06:07.000Z",
-          "wordCount": 732,
-          "title": "Getline in C++ – cin getline() Function Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/getline.png"
-        },
-        {
-          "id": "626b0796c1c601068f4e89b4",
-          "author": "Dillion Megida",
-          "description": "Browsers have default interactions and behaviors for different events. For example, when a user clicks a \"submit\" button on a form, the form is submitted to a URL by default. When the child of an element is clicked, the click event also occurs on the element because it is the",
-          "link": "https://www.freecodecamp.org/news/manage-default-behavior-in-browser/",
-          "publishedOn": "2022-05-04T19:59:02.000Z",
-          "wordCount": 1326,
-          "title": "How to Manage Browser Defaults with event.preventDefault() and event.stopPropagation()",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-startup-stock-photos-7359.jpg"
-        },
-        {
-          "id": "626d5ae3c1c601068f4ea1c2",
-          "author": "Farhan Hasin Chowdhury",
-          "description": "Python is a high-level, general purpose, interpreted programming language. It's well-known for being very easy to learn yet powerful, and it has many uses in many different fields. If you're someone trying to get started with Python, it's easy to get lost among all the excellent learning resources on the",
-          "link": "https://www.freecodecamp.org/news/python-code-examples-simple-python-program-example/",
-          "publishedOn": "2022-05-04T17:20:38.000Z",
-          "wordCount": 4023,
-          "title": "The Python Code Example Handbook – Simple Python Program Examples for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Python-Code-Examples---Simple-Python-Program-Example.png"
-        },
-        {
-          "id": "626d47a4c1c601068f4e9f91",
-          "author": "Samuel A. Olubiyo",
-          "description": "DOM manipulation can simply be defined as manipulating HTML documents (or pages) with JavaScript.  The DOM stands for Document Object Model that you can visualize as a tree-like structure made up of different HTML elements.  Visualizing an HTML document like a tree makes it easy to access its",
-          "link": "https://www.freecodecamp.org/news/learn-how-to-manipulate-css-with-javascript-by-coding-a-dynamic-picture-frame/",
-          "publishedOn": "2022-05-04T15:27:39.000Z",
-          "wordCount": 1905,
-          "title": "Learn How to Manipulate CSS with JavaScript by Coding a Dynamic Picture Frame",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/Box-Model.png"
-        },
-        {
-          "id": "625e8e8bac55f60686c37f27",
-          "author": "Jean-Marc Möckel",
-          "description": "I've created and consumed many API's over the past few years. During that time, I've come across good and bad practices and have experienced nasty situations when consuming and building API's. But there also have been great moments. There are helpful articles online which present many best practices, but many",
-          "link": "https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/",
-          "publishedOn": "2022-05-04T15:10:32.000Z",
-          "wordCount": 12047,
-          "title": "REST API Design Best Practices Handbook – How to Build a REST API with JavaScript, Node.js, and Express.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/rest-api-design-course-header.png"
         }
       ]
     }
