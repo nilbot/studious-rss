@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365738",
+          "author": "Temani Afif",
+          "description": "In my last article we saw how CSS background properties allow us to create cool hover effects. This time, we will focus on the CSS text-shadow property to explore even more interesting hovers. You are probably wondering how adding shadow …\nCool Hover Effects That Use CSS Text Shadow originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/cool-hover-effects-that-use-css-text-shadow/",
+          "publishedOn": "2022-05-13T14:43:17.000Z",
+          "wordCount": 2214,
+          "title": "Cool Hover Effects That Use CSS Text Shadow",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365738"
+        },
+        {
           "id": "https://css-tricks.com/?p=365706",
           "author": "Jhey Tompkins",
           "description": "Braydon Coyer recently launched a monthly CSS art challenge. He actually had reached out to me about donating a copy of my book Move Things with CSS to use as a prize for the winner of the challenge — …\nA CSS Slinky in 3D? Challenge Accepted! originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/a-css-slinky-in-3d/",
           "publishedOn": "2022-05-12T14:27:50.000Z",
-          "wordCount": 3288,
+          "wordCount": 3711,
           "title": "A CSS Slinky in 3D? Challenge Accepted!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365706"
         },
@@ -27,7 +37,7 @@
           "description": "According to Toshi Omagari, the author of Arcade Game Typography, the world’s first multi-colored digital font was created in 1982 for a never-released video game called Insector. Multi-colored fonts, sometimes called chromatic type, are still relatively rare on the …\nCOLRv1 and CSS font-palette: Web Typography Gets Colorful originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/colrv1-and-css-font-palette-web-typography/",
           "publishedOn": "2022-05-11T14:12:51.000Z",
-          "wordCount": 2452,
+          "wordCount": 2569,
           "title": "COLRv1 and CSS font-palette: Web Typography Gets Colorful",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365677"
         },
@@ -57,7 +67,7 @@
           "description": "Let’s say you have a website built on a platform that excels at design and it’s available at example.com. But that platform falls short at blogging. So you think to yourself, “What if I could use a different blogging …\nHow to Serve a Subdomain as a Subdirectory originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/how-to-serve-a-subdomain-as-a-subdirectory/",
           "publishedOn": "2022-05-06T14:19:44.000Z",
-          "wordCount": 2167,
+          "wordCount": 2200,
           "title": "How to Serve a Subdomain as a Subdirectory",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365614"
         },
@@ -150,16 +160,6 @@
           "wordCount": 3708,
           "title": "Adding Tailwind CSS to New and Existing WordPress Themes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364880"
-        },
-        {
-          "id": "https://css-tricks.com/?p=364908",
-          "author": "Paul Esch-Laurent",
-          "description": "Mermaid diagrams and flowcharts have been gaining traction, especially with GitHub’s announcement that they are natively supported in Markdown. Let’s take a look at what they are, how to use them, and just as importantly: why.\nJust like you …\nMaking Mermaid Diagrams in Markdown originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/making-mermaid-diagrams-in-markdown/",
-          "publishedOn": "2022-04-18T16:01:08.000Z",
-          "wordCount": 1557,
-          "title": "Making Mermaid Diagrams in Markdown",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364908"
         }
       ]
     },
@@ -169,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/05/top-tasks-focus-what-matters-must-defocus-what-doesnt/",
+          "author": "hello@smashingmagazine.com (Gerry McGovern)",
+          "description": "We waste so much today. One way of focusing on what truly matters is by identifying Top Tasks for yourself. Learn how to make tough decisions by focusing on the real, quantifiable evidence that will help create a better experience for your users.",
+          "link": "https://smashingmagazine.com/2022/05/top-tasks-focus-what-matters-must-defocus-what-doesnt/",
+          "publishedOn": "2022-05-13T11:30:00.000Z",
+          "wordCount": 3239,
+          "title": "Top Tasks: To Focus On What Matters You Must De-Focus On What Doesn’t",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e92d1278-297a-41d9-8ba2-e5100063610e/top-tasks-focus-what-matters-must-defocus-what-doesnt.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e92d1278-297a-41d9-8ba2-e5100063610e/top-tasks-focus-what-matters-must-defocus-what-doesnt.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/05/google-crux-analysis-comparison-performance-javascript-frameworks/",
           "author": "hello@smashingmagazine.com (Dan Shappir)",
           "description": "In this article, Dan Shappir analyzes the performance cost associated with various frameworks and explains the wide variety of framework and platform choices that are currently available to front-end and fullstack developers.",
           "link": "https://smashingmagazine.com/2022/05/google-crux-analysis-comparison-performance-javascript-frameworks/",
           "publishedOn": "2022-05-12T09:30:00.000Z",
-          "wordCount": 4388,
+          "wordCount": 4380,
           "title": "How To Use Google CrUX To Analyze And Compare The Performance Of JS Frameworks",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d9ea7394-c230-471d-aafe-9977a30bdf3b/google-crux-analysis-comparison-performance-javascript-frameworks.jpg",
@@ -189,7 +204,7 @@
           "description": "In this article, we will be taking a closer look at a design case study and discuss possible reasons why its customers abandon their online shopping carts and what solutions are recommended in each particular case.",
           "link": "https://smashingmagazine.com/2022/05/sunuva-case-study-ux-changes-result-increase-conversion/",
           "publishedOn": "2022-05-11T10:00:00.000Z",
-          "wordCount": 2104,
+          "wordCount": 2100,
           "title": "How Even Small UX Changes Can Result In An Increase In Conversion (A Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/de6a0a8a-3eae-4d7a-af27-50363c857936/sunuva-case-study-ux-changes-result-increase-conversion.jpg",
@@ -219,7 +234,7 @@
           "description": "At the end of 2021, the Chrome team shipped some functionality that has the ability to make or break sites meeting the Core Web Vitals. So, let’s learn a little bit more about the Back/Forward Cache (aka bfcache), and what you can do to test if your website is compatible with it.",
           "link": "https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/",
           "publishedOn": "2022-05-09T10:30:00.000Z",
-          "wordCount": 3679,
+          "wordCount": 3698,
           "title": "Performance Game Changer: Browser Back/Forward Cache",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98883c6e-253d-4285-aa86-09da18d3b935/performance-game-changer-back-forward-cache.jpg",
@@ -234,7 +249,7 @@
           "description": "Let’s explore how to give and receive better feedback when working remotely — feedback that is actionable, specific, kind, and that won’t set you on edge. We’ll start by explaining when feedback sessions don’t work and how to prevent it.",
           "link": "https://smashingmagazine.com/2022/05/give-effective-feedback-remotely/",
           "publishedOn": "2022-05-06T09:30:00.000Z",
-          "wordCount": 2986,
+          "wordCount": 2993,
           "title": "How To Give Effective Feedback Remotely",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9fd70453-99c5-4d6f-9abe-1a19a52d217b/give-effective-feedback-remotely.jpg",
@@ -279,7 +294,7 @@
           "description": "Developers often reach for UI frameworks like Bootstrap or Material UI, hoping that they’ll save a bunch of time and quickly build a professional-looking app. Unfortunately, things rarely work out this way. Let’s talk about it.",
           "link": "https://smashingmagazine.com/2022/05/you-dont-need-ui-framework/",
           "publishedOn": "2022-05-03T11:00:00.000Z",
-          "wordCount": 2903,
+          "wordCount": 2899,
           "title": "You Don’t Need A UI Framework",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7fae9333-8fe0-468f-bc90-274417de15c3/you-dont-need-ui-framework.jpg",
@@ -294,7 +309,7 @@
           "description": "Let’s welcome May with a new collection of wallpapers. Designed with love by artists and designers from across the globe, they come in versions with and without a calendar for May 2022.",
           "link": "https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/",
           "publishedOn": "2022-04-30T08:00:00.000Z",
-          "wordCount": 2288,
+          "wordCount": 2291,
           "title": "Make A Wish (May 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d3692b2-3bab-4645-95a2-a488c22eae5f/may-22-kira-preview-opt.png",
@@ -309,7 +324,7 @@
           "description": "Introducing Partytown, a lightweight open-source solution that reduces execution delays due to third-party JavaScript by offloading third-party scripts to web workers, which run in background threads.",
           "link": "https://smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/",
           "publishedOn": "2022-04-29T10:30:00.000Z",
-          "wordCount": 2030,
+          "wordCount": 2029,
           "title": "How Partytown Eliminates Website Bloat From Third-Party Scripts",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9925c2d1-b244-434d-9173-7e11efbdf617/partytown-eliminates-website-bloat-third-party-scripts.jpg",
@@ -324,7 +339,7 @@
           "description": "In this article, Nathan Smith explains how to create modal dialog windows with rich interaction that will only require authoring HTML in order to be used. They are based on Web Components that are currently supported by every major browser.",
           "link": "https://smashingmagazine.com/2022/04/cta-modal-build-web-component/",
           "publishedOn": "2022-04-28T09:30:00.000Z",
-          "wordCount": 4787,
+          "wordCount": 4789,
           "title": "CTA Modal: How To Build A Web Component",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bbadf16-a6e1-4d24-ba72-77cc51e3cc4e/cta-modal-build-web-component.jpg",
@@ -369,7 +384,7 @@
           "description": "In this article, Jhey Tompkins explores one of GreenSocks’ newest plugins alongside React to create an impractical whimsical spin on a well-known native element: ``.",
           "link": "https://smashingmagazine.com/2022/04/what-if-sliders-actually-slid-html-element-input-range/",
           "publishedOn": "2022-04-25T09:30:00.000Z",
-          "wordCount": 3403,
+          "wordCount": 3415,
           "title": "What If Our Sliders Actually Slid?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9d1d14c-98fc-463e-82b5-df98f5556b72/what-if-sliders-actually-slid-html-element-input-range.jpg",
@@ -384,7 +399,7 @@
           "description": "Have you ever wondered, why do people write CLI tools? When is a good time to think about yours? Today we’ll touch on these questions, along with some tips to remember when creating one. However, all of this serves as a prelude to the real topic: end-to-end testing of CLI tools.",
           "link": "https://smashingmagazine.com/2022/04/testing-cli-way-people-use-it/",
           "publishedOn": "2022-04-22T09:30:00.000Z",
-          "wordCount": 4189,
+          "wordCount": 4185,
           "title": "Testing The CLI The Way People Use It",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e6d3ba7a-2c86-4e64-b8e8-6d58adaafdba/testing-cli-way-people-use-it.jpg",
@@ -399,7 +414,7 @@
           "description": "In UX, we can use navigation queries, evaluation journeys, A-Z index and tap-ahead autocomplete to help users get where they want to be, faster. Let’s find out how.",
           "link": "https://smashingmagazine.com/2022/04/designing-better-navigation-ux-queries/",
           "publishedOn": "2022-04-21T10:00:00.000Z",
-          "wordCount": 3325,
+          "wordCount": 3321,
           "title": "Designing Better Navigation With Navigation Queries",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3b9b874c-9208-47da-b69b-b46d90988b11/designing-better-navigation-ux-queries.jpg",
@@ -429,7 +444,7 @@
           "description": "In this article, Ekene Eze shares his thoughts about the direction of the web in 2022, and what solutions we can expect to see come up in the ecosystem to significantly improve the Jamstack experience.",
           "link": "https://smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution/",
           "publishedOn": "2022-04-19T09:00:00.000Z",
-          "wordCount": 1714,
+          "wordCount": 1718,
           "title": "Jamstack Rendering Patterns: The Evolution",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/86e9ff96-97fd-42f7-aa79-9fe5527e1408/jamstack-rendering-patterns-evolution.jpg",
@@ -444,7 +459,7 @@
           "description": "What are the benefits of using push notifications and what can you use them for? In this article, Lee Munroe explains how to implement them and which practices are best to follow.",
           "link": "https://smashingmagazine.com/2022/04/guide-push-notifications-developers/",
           "publishedOn": "2022-04-18T11:30:00.000Z",
-          "wordCount": 2529,
+          "wordCount": 2527,
           "title": "The Ultimate Guide To Push Notifications For Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bebe6c69-2f6e-4523-aede-2ac46114a952/guide-push-notifications-developers.jpg",
@@ -459,7 +474,7 @@
           "description": "Storytelling is a powerful tool for any UX designer. It helps create a product and understand the people who use it. In this article, Marli Mesibov takes a real-life example of an app she helped to build in 2017 and explains five steps you can use to help you build a story into your user experience.",
           "link": "https://smashingmagazine.com/2022/04/use-storytelling-ux/",
           "publishedOn": "2022-04-15T14:00:00.000Z",
-          "wordCount": 3777,
+          "wordCount": 3773,
           "title": "How To Use Storytelling In UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fedf0602-27ae-4516-bcd0-df371fd0048b/use-storytelling-ux.jpg",
@@ -467,21 +482,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fedf0602-27ae-4516-bcd0-df371fd0048b/use-storytelling-ux.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/04/upwork-freelancers-organization/",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "description": "Whether you work in-house or run a digital agency, there are occasions when you will consider hiring freelancers to supplement your team. Today, we’ll take a look into a platform known as [Upwork](https://upwork.pxf.io/c/1221738/1245573/13634) and the best ways in finding the the right freelancers as well as integrating them into your team.",
-          "link": "https://smashingmagazine.com/2022/04/upwork-freelancers-organization/",
-          "publishedOn": "2022-04-14T11:00:00.000Z",
-          "wordCount": 2445,
-          "title": "When And How To Use Freelancers In Your Organization",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cb70d8d4-8f9b-449e-86a7-1da3045fea9f/upwork-freelancers-organization.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cb70d8d4-8f9b-449e-86a7-1da3045fea9f/upwork-freelancers-organization.jpg"
         }
       ]
     },
@@ -490,6 +490,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-reduce-reduceright-works-javascript/",
+          "author": "Ashutosh Biswas",
+          "description": "reduce and reduceRight are two built-in JavaScript array methods that have a bit of a steep learning curve.  But the very essence of these methods are as simple as the following arithmetic computations. Suppose we have an array of numbers: [1, 2, 3, 4] And we want to get",
+          "link": "https://www.freecodecamp.org/news/how-reduce-reduceright-works-javascript/",
+          "publishedOn": "2022-05-13T16:10:35.000Z",
+          "wordCount": 1672,
+          "title": "How the JavaScript reduce and reduceRight Methods Work",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/reduce-cover-with-title-3.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/github-discussions-as-chat-system/",
+          "author": "Rakesh Potnuru",
+          "description": "If you have a personal blog, you might be using a comment system to manage your blog's discussions and comments. If so, it's time to think about updating your comment system.  You can take your blog's comments to the next level with the help of GitHub Discussions. In this",
+          "link": "https://www.freecodecamp.org/news/github-discussions-as-chat-system/",
+          "publishedOn": "2022-05-13T15:48:14.000Z",
+          "wordCount": 949,
+          "title": "How to Use GitHub Discussions as Your Blog's Chat System",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/GitHub-Discussions-as-chat-system-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-apache-airflow-to-manage-workflows/",
+          "author": "Sameer Shukla",
+          "description": "Apache Airflow is an open-source workflow management system that makes it easy to write, schedule, and monitor workflows. A workflow as a sequence of operations, from start to finish. The workflows in Airflow are authored as Directed Acyclic Graphs (DAG) using standard Python programming.  You can configure when a",
+          "link": "https://www.freecodecamp.org/news/how-to-use-apache-airflow-to-manage-workflows/",
+          "publishedOn": "2022-05-13T15:11:17.000Z",
+          "wordCount": 1599,
+          "title": "How to Use Apache Airflow to Schedule and Manage Workflows",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/My-project--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/building-a-wordle-game/",
+          "author": "Tantoluwa Heritage Alabi",
+          "description": "Python",
+          "link": "https://www.freecodecamp.org/news/building-a-wordle-game/",
+          "publishedOn": "2022-05-12T21:24:00.000Z",
+          "wordCount": 1949,
+          "title": "How to Build a Wordle Clone with Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-suzy-hazelwood-1822568.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/concatenate-in-excel-how-to-use-the-concat-function/",
           "author": "Ilenia Magoni",
@@ -549,46 +589,6 @@
           "wordCount": 11562,
           "title": "The JavaScript Modules Handbook – Complete Guide to ES Modules and Module Bundlers",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/javascript-es-modules-and-module-bundlers-container-4203677_1920.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/technology-trends-in-2022-keeping-up-full-book-for-managers/",
-          "author": "David Clinton",
-          "description": "This post is based on my recently published book, Keeping Up, a quick and accessible guide to the current state of the tech industry and the big trends you can't afford to ignore.  In it, we'll cover everything from digital security, privacy, serverless platforms, the internet of things (IoT),",
-          "link": "https://www.freecodecamp.org/news/technology-trends-in-2022-keeping-up-full-book-for-managers/",
-          "publishedOn": "2022-05-11T23:06:08.000Z",
-          "wordCount": 22737,
-          "title": "Technology Trends in 2022 – Keeping Up [Full Book for Managers]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/bohdan-orlov-Buwi_A04F6k-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/detect-application-not-responding-errors-in-your-application/",
-          "author": "Tomer Ben Rachel",
-          "description": "If there was a way to make my applications \"Application not responding\" error proof, I would do it.  ANRs always seem to sneak up on you when you're not expecting them. And the problem is that there's nothing you can do about them.  You might see them pop",
-          "link": "https://www.freecodecamp.org/news/detect-application-not-responding-errors-in-your-application/",
-          "publishedOn": "2022-05-11T15:48:14.000Z",
-          "wordCount": 2514,
-          "title": "Detecting ANRs in Your Application",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/mediamodifier-yx17UuZw1Ck-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-social-media-app-with-django/",
-          "author": "Beau Carnes",
-          "description": "Django is a high-level Python web framework that enables rapid development of secure and maintainable websites. We just published a 5-hour course on the freeCodeCamp.org YouTube channel that will help you improve your Django skills by building a social media application.  Tomi Tokko teaches this course. He has created",
-          "link": "https://www.freecodecamp.org/news/create-a-social-media-app-with-django/",
-          "publishedOn": "2022-05-11T14:07:00.000Z",
-          "wordCount": 450,
-          "title": "Create a Social Media App with Django",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/smdjango.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-list-insert-how-to-add-to-a-list-in-python/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "The list data type is one of the built-in data structures in Python along with sets, tuples, and dictionaries. You use a list to organize, group, and store data. But each of these data structures has distinctive features that differentiates them from each other. In this article, we'll see how",
-          "link": "https://www.freecodecamp.org/news/python-list-insert-how-to-add-to-a-list-in-python/",
-          "publishedOn": "2022-05-10T21:22:33.000Z",
-          "wordCount": 975,
-          "title": "Python List insert() – How to Add to a List in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/dictionaary.jpg"
         }
       ]
     }

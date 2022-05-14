@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-13T00:04:11.055Z</id>
+    <id>urn:2022-05-14T00:05:17.771Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-13T00:04:11.055Z</updated>
+    <updated>2022-05-14T00:05:17.771Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How the JavaScript reduce and reduceRight Methods Work]]></title>
+        <id>https://www.freecodecamp.org/news/how-reduce-reduceright-works-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-reduce-reduceright-works-javascript/"/>
+        <updated>2022-05-13T16:10:35.000Z</updated>
+        <summary type="html"><![CDATA[reduce and reduceRight are two built-in JavaScript array methods that have a bit of a steep learning curve.  But the very essence of these methods are as simple as the following arithmetic computations. Suppose we have an array of numbers: [1, 2, 3, 4] And we want to get]]></summary>
+        <author>
+            <name>Ashutosh Biswas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use GitHub Discussions as Your Blog's Chat System]]></title>
+        <id>https://www.freecodecamp.org/news/github-discussions-as-chat-system/</id>
+        <link href="https://www.freecodecamp.org/news/github-discussions-as-chat-system/"/>
+        <updated>2022-05-13T15:48:14.000Z</updated>
+        <summary type="html"><![CDATA[If you have a personal blog, you might be using a comment system to manage your blog's discussions and comments. If so, it's time to think about updating your comment system.  You can take your blog's comments to the next level with the help of GitHub Discussions. In this]]></summary>
+        <author>
+            <name>Rakesh Potnuru</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Apache Airflow to Schedule and Manage Workflows]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-apache-airflow-to-manage-workflows/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-apache-airflow-to-manage-workflows/"/>
+        <updated>2022-05-13T15:11:17.000Z</updated>
+        <summary type="html"><![CDATA[Apache Airflow is an open-source workflow management system that makes it easy to write, schedule, and monitor workflows. A workflow as a sequence of operations, from start to finish. The workflows in Airflow are authored as Directed Acyclic Graphs (DAG) using standard Python programming.  You can configure when a]]></summary>
+        <author>
+            <name>Sameer Shukla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cool Hover Effects That Use CSS Text Shadow]]></title>
+        <id>https://css-tricks.com/?p=365738</id>
+        <link href="https://css-tricks.com/cool-hover-effects-that-use-css-text-shadow/"/>
+        <updated>2022-05-13T14:43:17.000Z</updated>
+        <summary type="html"><![CDATA[In my last article we saw how CSS background properties allow us to create cool hover effects. This time, we will focus on the CSS text-shadow property to explore even more interesting hovers. You are probably wondering how adding shadow …
+Cool Hover Effects That Use CSS Text Shadow originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Tasks: To Focus On What Matters You Must De-Focus On What Doesn’t]]></title>
+        <id>https://smashingmagazine.com/2022/05/top-tasks-focus-what-matters-must-defocus-what-doesnt/</id>
+        <link href="https://smashingmagazine.com/2022/05/top-tasks-focus-what-matters-must-defocus-what-doesnt/"/>
+        <updated>2022-05-13T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[We waste so much today. One way of focusing on what truly matters is by identifying Top Tasks for yourself. Learn how to make tough decisions by focusing on the real, quantifiable evidence that will help create a better experience for your users.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Gerry McGovern)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Wordle Clone with Python]]></title>
+        <id>https://www.freecodecamp.org/news/building-a-wordle-game/</id>
+        <link href="https://www.freecodecamp.org/news/building-a-wordle-game/"/>
+        <updated>2022-05-12T21:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Python]]></summary>
+        <author>
+            <name>Tantoluwa Heritage Alabi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Concatenate in Excel – How to Use the Concat Function]]></title>
         <id>https://www.freecodecamp.org/news/concatenate-in-excel-how-to-use-the-concat-function/</id>
@@ -87,26 +148,6 @@ A CSS Slinky in 3D? Challenge Accepted! originally published on CSS-Tricks. You 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Technology Trends in 2022 – Keeping Up [Full Book for Managers]]]></title>
-        <id>https://www.freecodecamp.org/news/technology-trends-in-2022-keeping-up-full-book-for-managers/</id>
-        <link href="https://www.freecodecamp.org/news/technology-trends-in-2022-keeping-up-full-book-for-managers/"/>
-        <updated>2022-05-11T23:06:08.000Z</updated>
-        <summary type="html"><![CDATA[This post is based on my recently published book, Keeping Up, a quick and accessible guide to the current state of the tech industry and the big trends you can't afford to ignore.  In it, we'll cover everything from digital security, privacy, serverless platforms, the internet of things (IoT),]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detecting ANRs in Your Application]]></title>
-        <id>https://www.freecodecamp.org/news/detect-application-not-responding-errors-in-your-application/</id>
-        <link href="https://www.freecodecamp.org/news/detect-application-not-responding-errors-in-your-application/"/>
-        <updated>2022-05-11T15:48:14.000Z</updated>
-        <summary type="html"><![CDATA[If there was a way to make my applications "Application not responding" error proof, I would do it.  ANRs always seem to sneak up on you when you're not expecting them. And the problem is that there's nothing you can do about them.  You might see them pop]]></summary>
-        <author>
-            <name>Tomer Ben Rachel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[COLRv1 and CSS font-palette: Web Typography Gets Colorful]]></title>
         <id>https://css-tricks.com/?p=365677</id>
         <link href="https://css-tricks.com/colrv1-and-css-font-palette-web-typography/"/>
@@ -118,16 +159,6 @@ COLRv1 and CSS font-palette: Web Typography Gets Colorful originally published o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Create a Social Media App with Django]]></title>
-        <id>https://www.freecodecamp.org/news/create-a-social-media-app-with-django/</id>
-        <link href="https://www.freecodecamp.org/news/create-a-social-media-app-with-django/"/>
-        <updated>2022-05-11T14:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Django is a high-level Python web framework that enables rapid development of secure and maintainable websites. We just published a 5-hour course on the freeCodeCamp.org YouTube channel that will help you improve your Django skills by building a social media application.  Tomi Tokko teaches this course. He has created]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Even Small UX Changes Can Result In An Increase In Conversion (A Case Study)]]></title>
         <id>https://smashingmagazine.com/2022/05/sunuva-case-study-ux-changes-result-increase-conversion/</id>
         <link href="https://smashingmagazine.com/2022/05/sunuva-case-study-ux-changes-result-increase-conversion/"/>
@@ -135,16 +166,6 @@ COLRv1 and CSS font-palette: Web Typography Gets Colorful originally published o
         <summary type="html"><![CDATA[In this article, we will be taking a closer look at a design case study and discuss possible reasons why its customers abandon their online shopping carts and what solutions are recommended in each particular case.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Denis Studennikov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python List insert() – How to Add to a List in Python]]></title>
-        <id>https://www.freecodecamp.org/news/python-list-insert-how-to-add-to-a-list-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/python-list-insert-how-to-add-to-a-list-in-python/"/>
-        <updated>2022-05-10T21:22:33.000Z</updated>
-        <summary type="html"><![CDATA[The list data type is one of the built-in data structures in Python along with sets, tuples, and dictionaries. You use a list to organize, group, and store data. But each of these data structures has distinctive features that differentiates them from each other. In this article, we'll see how]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
         </author>
     </entry>
     <entry>
@@ -444,18 +465,6 @@ Adding Tailwind CSS to New and Existing WordPress Themes originally published on
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making Mermaid Diagrams in Markdown]]></title>
-        <id>https://css-tricks.com/?p=364908</id>
-        <link href="https://css-tricks.com/making-mermaid-diagrams-in-markdown/"/>
-        <updated>2022-04-18T16:01:08.000Z</updated>
-        <summary type="html"><![CDATA[Mermaid diagrams and flowcharts have been gaining traction, especially with GitHub’s announcement that they are natively supported in Markdown. Let’s take a look at what they are, how to use them, and just as importantly: why.
-Just like you …
-Making Mermaid Diagrams in Markdown originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Paul Esch-Laurent</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Ultimate Guide To Push Notifications For Developers]]></title>
         <id>https://smashingmagazine.com/2022/04/guide-push-notifications-developers/</id>
         <link href="https://smashingmagazine.com/2022/04/guide-push-notifications-developers/"/>
@@ -473,16 +482,6 @@ Making Mermaid Diagrams in Markdown originally published on CSS-Tricks. You shou
         <summary type="html"><![CDATA[Storytelling is a powerful tool for any UX designer. It helps create a product and understand the people who use it. In this article, Marli Mesibov takes a real-life example of an app she helped to build in 2017 and explains five steps you can use to help you build a story into your user experience.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Marli Mesibov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When And How To Use Freelancers In Your Organization]]></title>
-        <id>https://smashingmagazine.com/2022/04/upwork-freelancers-organization/</id>
-        <link href="https://smashingmagazine.com/2022/04/upwork-freelancers-organization/"/>
-        <updated>2022-04-14T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Whether you work in-house or run a digital agency, there are occasions when you will consider hiring freelancers to supplement your team. Today, we’ll take a look into a platform known as [Upwork](https://upwork.pxf.io/c/1221738/1245573/13634) and the best ways in finding the the right freelancers as well as integrating them into your team.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
         </author>
     </entry>
 </feed>
