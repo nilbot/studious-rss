@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-15T00:04:56.493Z</id>
+    <id>urn:2022-05-16T00:05:18.670Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-15T00:04:56.493Z</updated>
+    <updated>2022-05-16T00:05:18.670Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -472,16 +472,6 @@ Adding Tailwind CSS to New and Existing WordPress Themes originally published on
         <summary type="html"><![CDATA[What are the benefits of using push notifications and what can you use them for? In this article, Lee Munroe explains how to implement them and which practices are best to follow.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Lee Munroe)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Use Storytelling In UX]]></title>
-        <id>https://smashingmagazine.com/2022/04/use-storytelling-ux/</id>
-        <link href="https://smashingmagazine.com/2022/04/use-storytelling-ux/"/>
-        <updated>2022-04-15T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Storytelling is a powerful tool for any UX designer. It helps create a product and understand the people who use it. In this article, Marli Mesibov takes a real-life example of an app she helped to build in 2017 and explains five steps you can use to help you build a story into your user experience.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Marli Mesibov)</name>
         </author>
     </entry>
 </feed>
