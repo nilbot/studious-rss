@@ -1,10 +1,121 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-16T00:05:18.670Z</id>
+    <id>urn:2022-05-17T00:04:12.220Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-16T00:05:18.670Z</updated>
+    <updated>2022-05-17T00:04:12.220Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Promises – The promise.then, promise.catch and promise.finally Methods Explained]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-promise-methods/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-promise-methods/"/>
+        <updated>2022-05-16T18:30:06.000Z</updated>
+        <summary type="html"><![CDATA[A promise is an object in JavaScript that will produce a value sometime in the future. This usually applies to asynchronous operations. In applications, asynchronous operations happen a lot. This can be API requests, delayed data processing, and much more. Instead of having to block code execution until the data]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Arrays - How to Create an Array in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-an-array-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-an-array-in-javascript/"/>
+        <updated>2022-05-16T18:17:35.000Z</updated>
+        <summary type="html"><![CDATA[An array is a type of data structure where you can store an ordered list of elements.  In this article, I will show you 3 ways you can create an array using JavaScript.  I will also show you how to create an array from a string using the]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Entry-Level Tech Jobs – Beginner IT Jobs with No Experience Required]]></title>
+        <id>https://www.freecodecamp.org/news/entry-level-tech-job-guide/</id>
+        <link href="https://www.freecodecamp.org/news/entry-level-tech-job-guide/"/>
+        <updated>2022-05-16T17:51:58.000Z</updated>
+        <summary type="html"><![CDATA[Entry-level jobs hire people with little or no experience in that job. There are plenty of entry-level tech jobs on the market these days because of the ever-growing demand for technology-savvy workers.  There are many reasons to join the tech industry such as competitive salaries, promising career paths, and]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excel Absolute Reference – Cell Referencing Example]]></title>
+        <id>https://www.freecodecamp.org/news/excel-absolute-reference-cell-referencing-example/</id>
+        <link href="https://www.freecodecamp.org/news/excel-absolute-reference-cell-referencing-example/"/>
+        <updated>2022-05-16T17:29:50.000Z</updated>
+        <summary type="html"><![CDATA[In Excel, you can use both absolute and relative cell referencing to make calculations. Relative referencing is the default. So, for example, whenever you extend a formula down some cells, the cells change based on the relationships of the rows and columns. What if you want each cell to lock]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Structures in JavaScript – With Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples/</id>
+        <link href="https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples/"/>
+        <updated>2022-05-16T17:16:52.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article we're going to take a look at a key topic when it comes to computer science and software development: data structures. It's definitely a must know topic for anyone working in the software development world, but it can be hard to understand and even a]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Quality Assurance Engineer – QA Engineer Career Guide]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-become-a-quality-assurance-engineer-qa-engineer-career-guide/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-become-a-quality-assurance-engineer-qa-engineer-career-guide/"/>
+        <updated>2022-05-16T15:33:12.000Z</updated>
+        <summary type="html"><![CDATA[A Quality Assurance (QA) Engineer is someone who tests software products throughout the whole development process. They ensure that the product meets high quality standards before releasing it to the public. But how do you become a QA Engineer? In this article, I will talk about the qualifications and process]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Backup Your Hashnode Articles to GitHub]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-backup-hashnode-articles-to-github/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-backup-hashnode-articles-to-github/"/>
+        <updated>2022-05-16T15:21:57.000Z</updated>
+        <summary type="html"><![CDATA[Many developers have a personal blog on Hashnode [https://hashnode.com/], one of the most popular blogging communities for people exploring tech.  I also write on Hashnode, but recently I was thinking about whether there is any way to backup my published articles to GitHub. Fortunately, I have found an easy]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should I Be A Developer? How to Pick a Career as a Programmer]]></title>
+        <id>https://www.freecodecamp.org/news/should-i-be-a-developer-programmer/</id>
+        <link href="https://www.freecodecamp.org/news/should-i-be-a-developer-programmer/"/>
+        <updated>2022-05-16T15:03:48.000Z</updated>
+        <summary type="html"><![CDATA[Few things are as important as picking your career path. And consequently, fewer decisions are harder to make.  It is, after all, hard to know whether or not you’ll like something that you’ve never done. If you choose a career path based on the wrong reasons, you might end]]></summary>
+        <author>
+            <name>Luke Ciciliano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Style Variations in WordPress Block Themes]]></title>
+        <id>https://css-tricks.com/?p=365377</id>
+        <link href="https://css-tricks.com/creating-style-variations-in-wordpress-block-themes/"/>
+        <updated>2022-05-16T14:38:29.000Z</updated>
+        <summary type="html"><![CDATA[Global styles, a feature of the block themes, is one of my favorite parts of creating block themes. The concept of global style variations in WordPress were introduced in Gutenberg 12.5 which would allow theme authors to create alternate …
+Creating Style Variations in WordPress Block Themes originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ganesh Dahal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Full-Stack Single Page Application with Laravel 9, MySQL, Vue.js, Inertia, Jetstream and Docker]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-full-stack-single-page-application-with-laravel-mysql-vue-and-docker/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-full-stack-single-page-application-with-laravel-mysql-vue-and-docker/"/>
+        <updated>2022-05-16T13:55:50.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you will learn how to build a single page application. I'll take you through the process step by step, using cutting edge technologies like Laravel 9, Jetstream, Vuejs, Inertiajs, MySQL, Tailwind CSS, and Docker. Let's get started. What you need to follow this guide: To follow along]]></summary>
+        <author>
+            <name>Fabio Pacific</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking Server-Timing As A Critical Monitoring Tool]]></title>
+        <id>https://smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/</id>
+        <link href="https://smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/"/>
+        <updated>2022-05-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What makes the underused `Server-Timing` header uniquely powerful among all other response headers? We’ll rethink the expectation for using it exclusively for timing and see fast solutions for hard-to-solve monitoring challenges.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Sean Roberts)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How the JavaScript reduce and reduceRight Methods Work]]></title>
         <id>https://www.freecodecamp.org/news/how-reduce-reduceright-works-javascript/</id>
@@ -13,26 +124,6 @@
         <summary type="html"><![CDATA[reduce and reduceRight are two built-in JavaScript array methods that have a bit of a steep learning curve.  But the very essence of these methods are as simple as the following arithmetic computations. Suppose we have an array of numbers: [1, 2, 3, 4] And we want to get]]></summary>
         <author>
             <name>Ashutosh Biswas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use GitHub Discussions as Your Blog's Chat System]]></title>
-        <id>https://www.freecodecamp.org/news/github-discussions-as-chat-system/</id>
-        <link href="https://www.freecodecamp.org/news/github-discussions-as-chat-system/"/>
-        <updated>2022-05-13T15:48:14.000Z</updated>
-        <summary type="html"><![CDATA[If you have a personal blog, you might be using a comment system to manage your blog's discussions and comments. If so, it's time to think about updating your comment system.  You can take your blog's comments to the next level with the help of GitHub Discussions. In this]]></summary>
-        <author>
-            <name>Rakesh Potnuru</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Apache Airflow to Schedule and Manage Workflows]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-apache-airflow-to-manage-workflows/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-apache-airflow-to-manage-workflows/"/>
-        <updated>2022-05-13T15:11:17.000Z</updated>
-        <summary type="html"><![CDATA[Apache Airflow is an open-source workflow management system that makes it easy to write, schedule, and monitor workflows. A workflow as a sequence of operations, from start to finish. The workflows in Airflow are authored as Directed Acyclic Graphs (DAG) using standard Python programming.  You can configure when a]]></summary>
-        <author>
-            <name>Sameer Shukla</name>
         </author>
     </entry>
     <entry>
@@ -57,56 +148,6 @@ Cool Hover Effects That Use CSS Text Shadow originally published on CSS-Tricks. 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Wordle Clone with Python]]></title>
-        <id>https://www.freecodecamp.org/news/building-a-wordle-game/</id>
-        <link href="https://www.freecodecamp.org/news/building-a-wordle-game/"/>
-        <updated>2022-05-12T21:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Python]]></summary>
-        <author>
-            <name>Tantoluwa Heritage Alabi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Concatenate in Excel – How to Use the Concat Function]]></title>
-        <id>https://www.freecodecamp.org/news/concatenate-in-excel-how-to-use-the-concat-function/</id>
-        <link href="https://www.freecodecamp.org/news/concatenate-in-excel-how-to-use-the-concat-function/"/>
-        <updated>2022-05-12T19:26:13.000Z</updated>
-        <summary type="html"><![CDATA[Excel has many useful functions that you can use to work with your data. In this guide you will learn about the CONCAT function and how to use it. Concatenation just means to join two things together. And in Excel, you can use the CONCAT function to join data from]]></summary>
-        <author>
-            <name>Ilenia Magoni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Global Variables – How to Define a Global Variable Example]]></title>
-        <id>https://www.freecodecamp.org/news/python-global-variables-examples/</id>
-        <link href="https://www.freecodecamp.org/news/python-global-variables-examples/"/>
-        <updated>2022-05-12T18:46:34.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn the basics of global variables. To begin with, you will learn how to declare variables in Python and what the term 'variable scope' actually means. Then, you will learn the differences between local and global variables and understand how to define global variables and]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Neural Networks by Building a Self-Driving Car Sim Using JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/self-driving-car-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/self-driving-car-javascript/"/>
-        <updated>2022-05-12T16:29:42.000Z</updated>
-        <summary type="html"><![CDATA["Any application that can be written in JavaScript, will eventually be written in JavaScript." – Jeff Atwood It's time for you to create a self-driving car using JavaScript! We just published a course on the freeCodeCamp.org YouTube channel that will help you learn about neural networks by teaching you how]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Excel Formulas – Basic Functions for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/excel-formulas-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/excel-formulas-for-beginners/"/>
-        <updated>2022-05-12T15:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Excel lets you use formulas and functions to perform basic and advanced numerical calculations. You can do addition, subtraction, multiplication, division, mean, worke with strings, and many others. In Excel, the difference between a formula and a function is that a function is a predefined calculation while a formula]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A CSS Slinky in 3D? Challenge Accepted!]]></title>
         <id>https://css-tricks.com/?p=365706</id>
         <link href="https://css-tricks.com/a-css-slinky-in-3d/"/>
@@ -125,26 +166,6 @@ A CSS Slinky in 3D? Challenge Accepted! originally published on CSS-Tricks. You 
         <summary type="html"><![CDATA[In this article, Dan Shappir analyzes the performance cost associated with various frameworks and explains the wide variety of framework and platform choices that are currently available to front-end and fullstack developers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Dan Shappir)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python split() – String Splitting Example]]></title>
-        <id>https://www.freecodecamp.org/news/python-split-string-splitting-example/</id>
-        <link href="https://www.freecodecamp.org/news/python-split-string-splitting-example/"/>
-        <updated>2022-05-11T23:12:18.000Z</updated>
-        <summary type="html"><![CDATA[The split() method in Python splits characters in a string into separate items in a list.  In this tutorial, we'll go over some examples to help you learn how to use the  split() method. We'll start from the syntax and then see how we can modify the list]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The JavaScript Modules Handbook – Complete Guide to ES Modules and Module Bundlers]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-es-modules-and-module-bundlers/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-es-modules-and-module-bundlers/"/>
-        <updated>2022-05-11T23:06:42.000Z</updated>
-        <summary type="html"><![CDATA[Modules and Module Bundlers are essential components of modern web development. But understanding how they work can quickly become overwhelming. This article will show you all you need to know about ES Modules and Module Bundlers in plain English. Table of Contents  1.  What Exactly Is a JavaScript]]></summary>
-        <author>
-            <name>Oluwatobi Sofela</name>
         </author>
     </entry>
     <entry>
@@ -431,17 +452,6 @@ Writing Strong Front-end Test Element Locators originally published on CSS-Trick
         <summary type="html"><![CDATA[In UX, we can use navigation queries, evaluation journeys, A-Z index and tap-ahead autocomplete to help users get where they want to be, faster. Let’s find out how.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding Tailwind CSS to New and Existing WordPress Themes]]></title>
-        <id>https://css-tricks.com/?p=364880</id>
-        <link href="https://css-tricks.com/adding-tailwind-css-to-wordpress-themes/"/>
-        <updated>2022-04-20T15:30:29.000Z</updated>
-        <summary type="html"><![CDATA[In the 15 or so years since I started making WordPress websites, nothing has had more of an impact on my productivity — and my ability to enjoy front-end development — than adding Tailwind CSS to my workflow (and it …
-Adding Tailwind CSS to New and Existing WordPress Themes originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Greg Sullivan</name>
         </author>
     </entry>
     <entry>
