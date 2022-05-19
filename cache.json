@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365766",
+          "author": "Jhey Tompkins",
+          "description": "I was fortunate last year to get approached by Shawn Wang (swyx) about doing some work for Temporal. The idea was to cast my creative eye over what was on the site and come up with some …\nAn Interactive Starry Backdrop for Content originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/an-interactive-starry-backdrop-for-content/",
+          "publishedOn": "2022-05-18T14:16:43.000Z",
+          "wordCount": 2895,
+          "title": "An Interactive Starry Backdrop for Content",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365766"
+        },
+        {
           "id": "https://css-tricks.com/?p=365531",
           "author": "Marcel Moreau",
           "description": "Utilizing icons in user interface elements is helpful. In addition to element labeling, icons can help reinforce a user element’s intention to users. But I have to say, I notice a bit of icon misalignment while browsing the web. Even …\nImproving Icons for UI Elements with Typographic Alignment and Scale originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/improving-icons-for-ui-elements-with-typographic-alignment-and-scale/",
           "publishedOn": "2022-05-17T14:30:18.000Z",
-          "wordCount": 1109,
+          "wordCount": 1143,
           "title": "Improving Icons for UI Elements with Typographic Alignment and Scale",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365531"
         },
@@ -150,16 +160,6 @@
           "wordCount": 3567,
           "title": "Cool Hover Effects That Use Background Properties",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365383"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365359",
-          "author": "Dan Christofi",
-          "description": "When creating a component-based, front-end infrastructure, one of the biggest pain points I’ve personally encountered is making components that are both reusable and responsive when there are nested components within components.\nTake the following “call to action” (<CTA />…\nAvoiding the Pitfalls of Nested Components in a Design System originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/nested-components-in-a-design-system/",
-          "publishedOn": "2022-04-26T14:30:20.000Z",
-          "wordCount": 2814,
-          "title": "Avoiding the Pitfalls of Nested Components in a Design System",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365359"
         }
       ]
     },
@@ -168,6 +168,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/05/smashing-podcast-episode-46/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode, we ask how one man can go from designing websites for local bands to heading up Google Fonts Knowledge. Smashing’s Vitaly Friedman talks to Elliot Jay Stocks to find out.",
+          "link": "https://smashingmagazine.com/2022/05/smashing-podcast-episode-46/",
+          "publishedOn": "2022-05-17T11:00:00.000Z",
+          "wordCount": 7077,
+          "title": "Smashing Podcast Episode 46 With Vitaly Friedman: Who Is Elliot Jay Stocks?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/54ed7013-6796-4ff5-b13f-7133e3395de7/smashing-podcast-episode-46.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/54ed7013-6796-4ff5-b13f-7133e3395de7/smashing-podcast-episode-46.png"
+        },
         {
           "id": "https://smashingmagazine.com/2022/05/elementor-modern-way-create-host-wordpress-site/",
           "author": "hello@smashingmagazine.com (Nick Babich)",
@@ -184,27 +199,12 @@
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/74301596-05b5-4dff-98ad-dd8c62c97c69/elementor-modern-way-create-host-wordpress-site.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2022/05/smashing-podcast-episode-46/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we ask how one man can go from designing websites for local bands to heading up Google Fonts Knowledge. Smashing’s Vitaly Friedman talks to Elliot Jay Stocks to find out.",
-          "link": "https://smashingmagazine.com/2022/05/smashing-podcast-episode-46/",
-          "publishedOn": "2022-05-17T04:00:00.000Z",
-          "wordCount": 7077,
-          "title": "Smashing Podcast Episode 46 With Vitaly Friedman: Who Is Elliot Jay Stocks?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/54ed7013-6796-4ff5-b13f-7133e3395de7/smashing-podcast-episode-46.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/54ed7013-6796-4ff5-b13f-7133e3395de7/smashing-podcast-episode-46.png"
-        },
-        {
           "id": "https://smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/",
           "author": "hello@smashingmagazine.com (Sean Roberts)",
           "description": "What makes the underused `Server-Timing` header uniquely powerful among all other response headers? We’ll rethink the expectation for using it exclusively for timing and see fast solutions for hard-to-solve monitoring challenges.",
           "link": "https://smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/",
           "publishedOn": "2022-05-16T10:00:00.000Z",
-          "wordCount": 5131,
+          "wordCount": 5135,
           "title": "Rethinking Server-Timing As A Critical Monitoring Tool",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4f69c3e0-764f-4cfb-b8f8-7a4420d0e2f6/rethinking-server-timing-monitoring-tool.jpg",
@@ -219,7 +219,7 @@
           "description": "We waste so much today. One way of focusing on what truly matters is by identifying Top Tasks for yourself. Learn how to make tough decisions by focusing on the real, quantifiable evidence that will help create a better experience for your users.",
           "link": "https://smashingmagazine.com/2022/05/top-tasks-focus-what-matters-must-defocus-what-doesnt/",
           "publishedOn": "2022-05-13T11:30:00.000Z",
-          "wordCount": 3235,
+          "wordCount": 3231,
           "title": "Top Tasks: To Focus On What Matters You Must De-Focus On What Doesn’t",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e92d1278-297a-41d9-8ba2-e5100063610e/top-tasks-focus-what-matters-must-defocus-what-doesnt.jpg",
@@ -234,7 +234,7 @@
           "description": "In this article, Dan Shappir analyzes the performance cost associated with various frameworks and explains the wide variety of framework and platform choices that are currently available to front-end and fullstack developers.",
           "link": "https://smashingmagazine.com/2022/05/google-crux-analysis-comparison-performance-javascript-frameworks/",
           "publishedOn": "2022-05-12T09:30:00.000Z",
-          "wordCount": 4388,
+          "wordCount": 4376,
           "title": "How To Use Google CrUX To Analyze And Compare The Performance Of JS Frameworks",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d9ea7394-c230-471d-aafe-9977a30bdf3b/google-crux-analysis-comparison-performance-javascript-frameworks.jpg",
@@ -264,7 +264,7 @@
           "description": "Smart SVG techniques, from generative SVG grids to SVG paths with masks, grainy SVG gradients, cut-out effects and fractional SVG stars. Let’s look at some magical SVG techniques that you can use right away.",
           "link": "https://smashingmagazine.com/2022/05/magical-svg-techniques/",
           "publishedOn": "2022-05-10T10:00:00.000Z",
-          "wordCount": 2402,
+          "wordCount": 2398,
           "title": "Magical SVG Techniques",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6be13a6e-5850-49e2-82b0-89d47212c66c/animated-debit-card-opt.png",
@@ -279,7 +279,7 @@
           "description": "At the end of 2021, the Chrome team shipped some functionality that has the ability to make or break sites meeting the Core Web Vitals. So, let’s learn a little bit more about the Back/Forward Cache (aka bfcache), and what you can do to test if your website is compatible with it.",
           "link": "https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/",
           "publishedOn": "2022-05-09T10:30:00.000Z",
-          "wordCount": 3680,
+          "wordCount": 3682,
           "title": "Performance Game Changer: Browser Back/Forward Cache",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98883c6e-253d-4285-aa86-09da18d3b935/performance-game-changer-back-forward-cache.jpg",
@@ -294,7 +294,7 @@
           "description": "Let’s explore how to give and receive better feedback when working remotely — feedback that is actionable, specific, kind, and that won’t set you on edge. We’ll start by explaining when feedback sessions don’t work and how to prevent it.",
           "link": "https://smashingmagazine.com/2022/05/give-effective-feedback-remotely/",
           "publishedOn": "2022-05-06T09:30:00.000Z",
-          "wordCount": 2989,
+          "wordCount": 2995,
           "title": "How To Give Effective Feedback Remotely",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9fd70453-99c5-4d6f-9abe-1a19a52d217b/give-effective-feedback-remotely.jpg",
@@ -324,7 +324,7 @@
           "description": "How difficult can it be to design a bulletproof language selector? It’s not as straightforward as one might think. We need to avoid redirects, decouple our language and country presets, allow for overrides, and use non-modal windows. Let’s dive in!",
           "link": "https://smashingmagazine.com/2022/05/designing-better-language-selector/",
           "publishedOn": "2022-05-04T10:00:00.000Z",
-          "wordCount": 6040,
+          "wordCount": 6036,
           "title": "Designing A Better Language Selector",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec0dac36-90ba-4295-b51b-f095fb2d90ff/designing-better-language-selector.jpg",
@@ -354,7 +354,7 @@
           "description": "Let’s welcome May with a new collection of wallpapers. Designed with love by artists and designers from across the globe, they come in versions with and without a calendar for May 2022.",
           "link": "https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/",
           "publishedOn": "2022-04-30T08:00:00.000Z",
-          "wordCount": 2298,
+          "wordCount": 2300,
           "title": "Make A Wish (May 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d3692b2-3bab-4645-95a2-a488c22eae5f/may-22-kira-preview-opt.png",
@@ -369,7 +369,7 @@
           "description": "Introducing Partytown, a lightweight open-source solution that reduces execution delays due to third-party JavaScript by offloading third-party scripts to web workers, which run in background threads.",
           "link": "https://smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/",
           "publishedOn": "2022-04-29T10:30:00.000Z",
-          "wordCount": 2026,
+          "wordCount": 2032,
           "title": "How Partytown Eliminates Website Bloat From Third-Party Scripts",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9925c2d1-b244-434d-9173-7e11efbdf617/partytown-eliminates-website-bloat-third-party-scripts.jpg",
@@ -384,7 +384,7 @@
           "description": "In this article, Nathan Smith explains how to create modal dialog windows with rich interaction that will only require authoring HTML in order to be used. They are based on Web Components that are currently supported by every major browser.",
           "link": "https://smashingmagazine.com/2022/04/cta-modal-build-web-component/",
           "publishedOn": "2022-04-28T09:30:00.000Z",
-          "wordCount": 4783,
+          "wordCount": 4780,
           "title": "CTA Modal: How To Build A Web Component",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bbadf16-a6e1-4d24-ba72-77cc51e3cc4e/cta-modal-build-web-component.jpg",
@@ -399,7 +399,7 @@
           "description": "We should be able to measure how well a particular design solves a particular problem. Let’s explore design KPIs that capture user’s experience, how to measure them and how to keep both users and business stakeholders happy, over time.",
           "link": "https://smashingmagazine.com/2022/04/boosting-ux-with-design-kpis/",
           "publishedOn": "2022-04-27T08:30:00.000Z",
-          "wordCount": 1551,
+          "wordCount": 1547,
           "title": "Boosting UX With Design KPIs",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1021a1ce-ec58-4b8f-837f-e7d4aa3f8448/boosting-ux-with-design-kpis.jpg",
@@ -444,7 +444,7 @@
           "description": "Have you ever wondered, why do people write CLI tools? When is a good time to think about yours? Today we’ll touch on these questions, along with some tips to remember when creating one. However, all of this serves as a prelude to the real topic: end-to-end testing of CLI tools.",
           "link": "https://smashingmagazine.com/2022/04/testing-cli-way-people-use-it/",
           "publishedOn": "2022-04-22T09:30:00.000Z",
-          "wordCount": 4185,
+          "wordCount": 4189,
           "title": "Testing The CLI The Way People Use It",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e6d3ba7a-2c86-4e64-b8e8-6d58adaafdba/testing-cli-way-people-use-it.jpg",
@@ -459,7 +459,7 @@
           "description": "In UX, we can use navigation queries, evaluation journeys, A-Z index and tap-ahead autocomplete to help users get where they want to be, faster. Let’s find out how.",
           "link": "https://smashingmagazine.com/2022/04/designing-better-navigation-ux-queries/",
           "publishedOn": "2022-04-21T10:00:00.000Z",
-          "wordCount": 3325,
+          "wordCount": 3321,
           "title": "Designing Better Navigation With Navigation Queries",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3b9b874c-9208-47da-b69b-b46d90988b11/designing-better-navigation-ux-queries.jpg",
@@ -482,21 +482,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c0a83218-4f7e-4650-9380-72895a5936b3/productivity-tips-tools.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution/",
-          "author": "hello@smashingmagazine.com (Ekene Eze)",
-          "description": "In this article, Ekene Eze shares his thoughts about the direction of the web in 2022, and what solutions we can expect to see come up in the ecosystem to significantly improve the Jamstack experience.",
-          "link": "https://smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution/",
-          "publishedOn": "2022-04-19T09:00:00.000Z",
-          "wordCount": 1714,
-          "title": "Jamstack Rendering Patterns: The Evolution",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/86e9ff96-97fd-42f7-aa79-9fe5527e1408/jamstack-rendering-patterns-evolution.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/86e9ff96-97fd-42f7-aa79-9fe5527e1408/jamstack-rendering-patterns-evolution.jpg"
         }
       ]
     },
@@ -505,6 +490,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/remote-work-companies-for-developers/",
+          "author": "Davis David",
+          "description": "Finding a remote job as a developer can be tricky. You want to work for a company that recognizes the value of remote workers, and you want to be sure that the company will support and encourage your remote working style.  If you’re a developer looking for an opportunity",
+          "link": "https://www.freecodecamp.org/news/remote-work-companies-for-developers/",
+          "publishedOn": "2022-05-18T17:43:34.000Z",
+          "wordCount": 2034,
+          "title": "Top 10 Remote Work Companies for Developers in 2022",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/zVaxL0LohRUpfDQhznRQ9z3y5tj1-oam3ifo.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/cpp-operator-examples/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Most programming languages have built-in functionalities that let us carry out certain operations like arithmetic, comparison, logical operations, and so on.  In this article, we'll talk about three operators in C++ – the bitwise AND (&) operator, the logical OR (||) operator, and the arithmetic + operator.  How",
+          "link": "https://www.freecodecamp.org/news/cpp-operator-examples/",
+          "publishedOn": "2022-05-18T15:37:31.000Z",
+          "wordCount": 1105,
+          "title": "C++ Operator Example – &, or, + Operators in C++",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/towfiqu-barbhuiya-5u6bz2tYhX8-unsplash--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/minify-css-css-minifying-and-compression-explained/",
+          "author": "Dillion Megida",
+          "description": "Minification is the process of reducing code size to reduce the size of your files. So how does this apply to CSS? Take a look at this code: h1 {   color: yellow; } p {   color: pink; } And the compressed version of it: h1 {",
+          "link": "https://www.freecodecamp.org/news/minify-css-css-minifying-and-compression-explained/",
+          "publishedOn": "2022-05-18T15:20:23.000Z",
+          "wordCount": 1150,
+          "title": "Minify CSS – CSS Minifying and Compression Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-magda-ehlers-2590535.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/css-functions-for-beginners/",
+          "author": "Ilenia Magoni",
+          "description": "In CSS there are a lot of different units of measurement. You have px and percentages, vh, vw, em, rem, and others.  There will come a time when you want to get a value by combining two or more different units. CSS has a function that you can use",
+          "link": "https://www.freecodecamp.org/news/css-functions-for-beginners/",
+          "publishedOn": "2022-05-18T15:11:08.000Z",
+          "wordCount": 1014,
+          "title": "CSS Functions – How to Use calc(), max(), min(), and clamp()",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-katerina-holmes-5905965.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-improve-sql-server-performance/",
           "author": "Beau Carnes",
@@ -564,46 +589,6 @@
           "wordCount": 2151,
           "title": "Entry-Level Tech Jobs – Beginner IT Jobs with No Experience Required",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/Copy-of-guided-exercise.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/excel-absolute-reference-cell-referencing-example/",
-          "author": "Kolade Chris",
-          "description": "In Excel, you can use both absolute and relative cell referencing to make calculations. Relative referencing is the default. So, for example, whenever you extend a formula down some cells, the cells change based on the relationships of the rows and columns. What if you want each cell to lock",
-          "link": "https://www.freecodecamp.org/news/excel-absolute-reference-cell-referencing-example/",
-          "publishedOn": "2022-05-16T17:29:50.000Z",
-          "wordCount": 782,
-          "title": "Excel Absolute Reference – Cell Referencing Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/spreadsheets-24956_1280.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples/",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this article we're going to take a look at a key topic when it comes to computer science and software development: data structures. It's definitely a must know topic for anyone working in the software development world, but it can be hard to understand and even a",
-          "link": "https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples/",
-          "publishedOn": "2022-05-16T17:16:52.000Z",
-          "wordCount": 5913,
-          "title": "Data Structures in JavaScript – With Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-clem-onojeghuo-175771.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-become-a-quality-assurance-engineer-qa-engineer-career-guide/",
-          "author": "Jessica Wilkins",
-          "description": "A Quality Assurance (QA) Engineer is someone who tests software products throughout the whole development process. They ensure that the product meets high quality standards before releasing it to the public. But how do you become a QA Engineer? In this article, I will talk about the qualifications and process",
-          "link": "https://www.freecodecamp.org/news/how-to-become-a-quality-assurance-engineer-qa-engineer-career-guide/",
-          "publishedOn": "2022-05-16T15:33:12.000Z",
-          "wordCount": 1113,
-          "title": "How to Become a Quality Assurance Engineer – QA Engineer Career Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/thisisengineering-raeng-1oYSrlQrpY4-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-backup-hashnode-articles-to-github/",
-          "author": "Md. Fahim Bin Amin",
-          "description": "Many developers have a personal blog on Hashnode [https://hashnode.com/], one of the most popular blogging communities for people exploring tech.  I also write on Hashnode, but recently I was thinking about whether there is any way to backup my published articles to GitHub. Fortunately, I have found an easy",
-          "link": "https://www.freecodecamp.org/news/how-to-backup-hashnode-articles-to-github/",
-          "publishedOn": "2022-05-16T15:21:57.000Z",
-          "wordCount": 1013,
-          "title": "How to Backup Your Hashnode Articles to GitHub",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/gradient-color-Modern-Music-Playlist-YouTube-Thumbnail.gif"
         }
       ]
     }

@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-18T00:04:05.296Z</id>
+    <id>urn:2022-05-19T00:04:07.935Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-18T00:04:05.296Z</updated>
+    <updated>2022-05-19T00:04:07.935Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Remote Work Companies for Developers in 2022]]></title>
+        <id>https://www.freecodecamp.org/news/remote-work-companies-for-developers/</id>
+        <link href="https://www.freecodecamp.org/news/remote-work-companies-for-developers/"/>
+        <updated>2022-05-18T17:43:34.000Z</updated>
+        <summary type="html"><![CDATA[Finding a remote job as a developer can be tricky. You want to work for a company that recognizes the value of remote workers, and you want to be sure that the company will support and encourage your remote working style.  If you’re a developer looking for an opportunity]]></summary>
+        <author>
+            <name>Davis David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C++ Operator Example – &, or, + Operators in C++]]></title>
+        <id>https://www.freecodecamp.org/news/cpp-operator-examples/</id>
+        <link href="https://www.freecodecamp.org/news/cpp-operator-examples/"/>
+        <updated>2022-05-18T15:37:31.000Z</updated>
+        <summary type="html"><![CDATA[Most programming languages have built-in functionalities that let us carry out certain operations like arithmetic, comparison, logical operations, and so on.  In this article, we'll talk about three operators in C++ – the bitwise AND (&) operator, the logical OR (||) operator, and the arithmetic + operator.  How]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minify CSS – CSS Minifying and Compression Explained]]></title>
+        <id>https://www.freecodecamp.org/news/minify-css-css-minifying-and-compression-explained/</id>
+        <link href="https://www.freecodecamp.org/news/minify-css-css-minifying-and-compression-explained/"/>
+        <updated>2022-05-18T15:20:23.000Z</updated>
+        <summary type="html"><![CDATA[Minification is the process of reducing code size to reduce the size of your files. So how does this apply to CSS? Take a look at this code: h1 {   color: yellow; } p {   color: pink; } And the compressed version of it: h1 {]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Functions – How to Use calc(), max(), min(), and clamp()]]></title>
+        <id>https://www.freecodecamp.org/news/css-functions-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/css-functions-for-beginners/"/>
+        <updated>2022-05-18T15:11:08.000Z</updated>
+        <summary type="html"><![CDATA[In CSS there are a lot of different units of measurement. You have px and percentages, vh, vw, em, rem, and others.  There will come a time when you want to get a value by combining two or more different units. CSS has a function that you can use]]></summary>
+        <author>
+            <name>Ilenia Magoni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Interactive Starry Backdrop for Content]]></title>
+        <id>https://css-tricks.com/?p=365766</id>
+        <link href="https://css-tricks.com/an-interactive-starry-backdrop-for-content/"/>
+        <updated>2022-05-18T14:16:43.000Z</updated>
+        <summary type="html"><![CDATA[I was fortunate last year to get approached by Shawn Wang (swyx) about doing some work for Temporal. The idea was to cast my creative eye over what was on the site and come up with some …
+An Interactive Starry Backdrop for Content originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Jhey Tompkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Improve SQL Server Performance]]></title>
         <id>https://www.freecodecamp.org/news/how-to-improve-sql-server-performance/</id>
@@ -47,6 +98,16 @@ Improving Icons for UI Elements with Typographic Alignment and Scale originally 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 46 With Vitaly Friedman: Who Is Elliot Jay Stocks?]]></title>
+        <id>https://smashingmagazine.com/2022/05/smashing-podcast-episode-46/</id>
+        <link href="https://smashingmagazine.com/2022/05/smashing-podcast-episode-46/"/>
+        <updated>2022-05-17T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we ask how one man can go from designing websites for local bands to heading up Google Fonts Knowledge. Smashing’s Vitaly Friedman talks to Elliot Jay Stocks to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Modern Way To Create And Host A WordPress Site]]></title>
         <id>https://smashingmagazine.com/2022/05/elementor-modern-way-create-host-wordpress-site/</id>
         <link href="https://smashingmagazine.com/2022/05/elementor-modern-way-create-host-wordpress-site/"/>
@@ -54,16 +115,6 @@ Improving Icons for UI Elements with Typographic Alignment and Scale originally 
         <summary type="html"><![CDATA[Let’s take a closer look at how you can create your very own WordPress site up and running created and hosted with the Elementor Cloud Website.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nick Babich)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 46 With Vitaly Friedman: Who Is Elliot Jay Stocks?]]></title>
-        <id>https://smashingmagazine.com/2022/05/smashing-podcast-episode-46/</id>
-        <link href="https://smashingmagazine.com/2022/05/smashing-podcast-episode-46/"/>
-        <updated>2022-05-17T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we ask how one man can go from designing websites for local bands to heading up Google Fonts Knowledge. Smashing’s Vitaly Friedman talks to Elliot Jay Stocks to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
         </author>
     </entry>
     <entry>
@@ -94,46 +145,6 @@ Improving Icons for UI Elements with Typographic Alignment and Scale originally 
         <summary type="html"><![CDATA[Entry-level jobs hire people with little or no experience in that job. There are plenty of entry-level tech jobs on the market these days because of the ever-growing demand for technology-savvy workers.  There are many reasons to join the tech industry such as competitive salaries, promising career paths, and]]></summary>
         <author>
             <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Excel Absolute Reference – Cell Referencing Example]]></title>
-        <id>https://www.freecodecamp.org/news/excel-absolute-reference-cell-referencing-example/</id>
-        <link href="https://www.freecodecamp.org/news/excel-absolute-reference-cell-referencing-example/"/>
-        <updated>2022-05-16T17:29:50.000Z</updated>
-        <summary type="html"><![CDATA[In Excel, you can use both absolute and relative cell referencing to make calculations. Relative referencing is the default. So, for example, whenever you extend a formula down some cells, the cells change based on the relationships of the rows and columns. What if you want each cell to lock]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Structures in JavaScript – With Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples/</id>
-        <link href="https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples/"/>
-        <updated>2022-05-16T17:16:52.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone! In this article we're going to take a look at a key topic when it comes to computer science and software development: data structures. It's definitely a must know topic for anyone working in the software development world, but it can be hard to understand and even a]]></summary>
-        <author>
-            <name>Germán Cocca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Become a Quality Assurance Engineer – QA Engineer Career Guide]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-become-a-quality-assurance-engineer-qa-engineer-career-guide/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-become-a-quality-assurance-engineer-qa-engineer-career-guide/"/>
-        <updated>2022-05-16T15:33:12.000Z</updated>
-        <summary type="html"><![CDATA[A Quality Assurance (QA) Engineer is someone who tests software products throughout the whole development process. They ensure that the product meets high quality standards before releasing it to the public. But how do you become a QA Engineer? In this article, I will talk about the qualifications and process]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Backup Your Hashnode Articles to GitHub]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-backup-hashnode-articles-to-github/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-backup-hashnode-articles-to-github/"/>
-        <updated>2022-05-16T15:21:57.000Z</updated>
-        <summary type="html"><![CDATA[Many developers have a personal blog on Hashnode [https://hashnode.com/], one of the most popular blogging communities for people exploring tech.  I also write on Hashnode, but recently I was thinking about whether there is any way to backup my published articles to GitHub. Fortunately, I have found an easy]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
         </author>
     </entry>
     <entry>
@@ -423,18 +434,6 @@ Cool Hover Effects That Use Background Properties originally published on CSS-Tr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Avoiding the Pitfalls of Nested Components in a Design System]]></title>
-        <id>https://css-tricks.com/?p=365359</id>
-        <link href="https://css-tricks.com/nested-components-in-a-design-system/"/>
-        <updated>2022-04-26T14:30:20.000Z</updated>
-        <summary type="html"><![CDATA[When creating a component-based, front-end infrastructure, one of the biggest pain points I’ve personally encountered is making components that are both reusable and responsive when there are nested components within components.
-Take the following “call to action” (<CTA />…
-Avoiding the Pitfalls of Nested Components in a Design System originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Dan Christofi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Preventing Bad UX Through Integrated Design Workflows]]></title>
         <id>https://smashingmagazine.com/2022/04/ux-integrated-design-workflows/</id>
         <link href="https://smashingmagazine.com/2022/04/ux-integrated-design-workflows/"/>
@@ -482,16 +481,6 @@ Avoiding the Pitfalls of Nested Components in a Design System originally publish
         <summary type="html"><![CDATA[Who doesn’t love a good timesaver? In this post, we compiled useful productivity tips and tools that help you speed up routine tasks, enhance your development workflow, and stay organized.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jamstack Rendering Patterns: The Evolution]]></title>
-        <id>https://smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution/</id>
-        <link href="https://smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution/"/>
-        <updated>2022-04-19T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Ekene Eze shares his thoughts about the direction of the web in 2022, and what solutions we can expect to see come up in the ecosystem to significantly improve the Jamstack experience.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ekene Eze)</name>
         </author>
     </entry>
 </feed>
