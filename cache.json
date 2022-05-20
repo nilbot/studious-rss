@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365784",
+          "author": "Adam Rackis",
+          "description": "Don’t you hate it when you load a website or web app, some content displays and then some images load — causing content to shift around? That’s called content reflow and can lead to an incredibly annoying user experience for …\nInline Image Previews with Sharp, BlurHash, and Lambda Functions originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/inline-image-previews-with-sharp-blurhash-and-lambda-functions/",
+          "publishedOn": "2022-05-19T14:30:08.000Z",
+          "wordCount": 2038,
+          "title": "Inline Image Previews with Sharp, BlurHash, and Lambda Functions",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365784"
+        },
+        {
           "id": "https://css-tricks.com/?p=365766",
           "author": "Jhey Tompkins",
           "description": "I was fortunate last year to get approached by Shawn Wang (swyx) about doing some work for Temporal. The idea was to cast my creative eye over what was on the site and come up with some …\nAn Interactive Starry Backdrop for Content originally published on CSS-Tricks. You should get the newsletter.",
@@ -67,7 +77,7 @@
           "description": "According to Toshi Omagari, the author of Arcade Game Typography, the world’s first multi-colored digital font was created in 1982 for a never-released video game called Insector. Multi-colored fonts, sometimes called chromatic type, are still relatively rare on the …\nCOLRv1 and CSS font-palette: Web Typography Gets Colorful originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/colrv1-and-css-font-palette-web-typography/",
           "publishedOn": "2022-05-11T14:12:51.000Z",
-          "wordCount": 2569,
+          "wordCount": 2581,
           "title": "COLRv1 and CSS font-palette: Web Typography Gets Colorful",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365677"
         },
@@ -150,16 +160,6 @@
           "wordCount": 2862,
           "title": "Setting Up CloudFront to Host Your Web App",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365413"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365383",
-          "author": "Temani Afif",
-          "description": "A while ago, Geoff wrote an article about a cool hover effect. The effect relies on a combination of CSS pseudo-elements, transforms, and transitions. A lot of comments have shown that the same effect can be done using background …\nCool Hover Effects That Use Background Properties originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/cool-hover-effects-using-background-properties/",
-          "publishedOn": "2022-04-27T14:20:07.000Z",
-          "wordCount": 3567,
-          "title": "Cool Hover Effects That Use Background Properties",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365383"
         }
       ]
     },
@@ -168,6 +168,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/05/kubernetes-front-end-developers/",
+          "author": "hello@smashingmagazine.com (Benjamin Ajibade)",
+          "description": "In this article, Benjamin Ajibade introduces Kubernetes to front-end engineers and explaines why Kubernetes is integral in a production-ready microservice architecture. Some key terms that are important for team collaboration will be discussed and conclude the post with a quick deployment to getting started as a beginner.",
+          "link": "https://smashingmagazine.com/2022/05/kubernetes-front-end-developers/",
+          "publishedOn": "2022-05-19T11:30:00.000Z",
+          "wordCount": 3094,
+          "title": "Kubernetes For Front-End Developers",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a377d64d-af16-4fb1-8159-2c9fa0ab72c4/kubernetes-front-end-developers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a377d64d-af16-4fb1-8159-2c9fa0ab72c4/kubernetes-front-end-developers.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/05/smashing-podcast-episode-46/",
           "author": "hello@smashingmagazine.com (Drew McLellan)",
@@ -204,7 +219,7 @@
           "description": "What makes the underused `Server-Timing` header uniquely powerful among all other response headers? We’ll rethink the expectation for using it exclusively for timing and see fast solutions for hard-to-solve monitoring challenges.",
           "link": "https://smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/",
           "publishedOn": "2022-05-16T10:00:00.000Z",
-          "wordCount": 5135,
+          "wordCount": 5119,
           "title": "Rethinking Server-Timing As A Critical Monitoring Tool",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4f69c3e0-764f-4cfb-b8f8-7a4420d0e2f6/rethinking-server-timing-monitoring-tool.jpg",
@@ -219,7 +234,7 @@
           "description": "We waste so much today. One way of focusing on what truly matters is by identifying Top Tasks for yourself. Learn how to make tough decisions by focusing on the real, quantifiable evidence that will help create a better experience for your users.",
           "link": "https://smashingmagazine.com/2022/05/top-tasks-focus-what-matters-must-defocus-what-doesnt/",
           "publishedOn": "2022-05-13T11:30:00.000Z",
-          "wordCount": 3231,
+          "wordCount": 3227,
           "title": "Top Tasks: To Focus On What Matters You Must De-Focus On What Doesn’t",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e92d1278-297a-41d9-8ba2-e5100063610e/top-tasks-focus-what-matters-must-defocus-what-doesnt.jpg",
@@ -234,7 +249,7 @@
           "description": "In this article, Dan Shappir analyzes the performance cost associated with various frameworks and explains the wide variety of framework and platform choices that are currently available to front-end and fullstack developers.",
           "link": "https://smashingmagazine.com/2022/05/google-crux-analysis-comparison-performance-javascript-frameworks/",
           "publishedOn": "2022-05-12T09:30:00.000Z",
-          "wordCount": 4376,
+          "wordCount": 4386,
           "title": "How To Use Google CrUX To Analyze And Compare The Performance Of JS Frameworks",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d9ea7394-c230-471d-aafe-9977a30bdf3b/google-crux-analysis-comparison-performance-javascript-frameworks.jpg",
@@ -264,7 +279,7 @@
           "description": "Smart SVG techniques, from generative SVG grids to SVG paths with masks, grainy SVG gradients, cut-out effects and fractional SVG stars. Let’s look at some magical SVG techniques that you can use right away.",
           "link": "https://smashingmagazine.com/2022/05/magical-svg-techniques/",
           "publishedOn": "2022-05-10T10:00:00.000Z",
-          "wordCount": 2398,
+          "wordCount": 2402,
           "title": "Magical SVG Techniques",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6be13a6e-5850-49e2-82b0-89d47212c66c/animated-debit-card-opt.png",
@@ -279,7 +294,7 @@
           "description": "At the end of 2021, the Chrome team shipped some functionality that has the ability to make or break sites meeting the Core Web Vitals. So, let’s learn a little bit more about the Back/Forward Cache (aka bfcache), and what you can do to test if your website is compatible with it.",
           "link": "https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/",
           "publishedOn": "2022-05-09T10:30:00.000Z",
-          "wordCount": 3682,
+          "wordCount": 3676,
           "title": "Performance Game Changer: Browser Back/Forward Cache",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98883c6e-253d-4285-aa86-09da18d3b935/performance-game-changer-back-forward-cache.jpg",
@@ -294,7 +309,7 @@
           "description": "Let’s explore how to give and receive better feedback when working remotely — feedback that is actionable, specific, kind, and that won’t set you on edge. We’ll start by explaining when feedback sessions don’t work and how to prevent it.",
           "link": "https://smashingmagazine.com/2022/05/give-effective-feedback-remotely/",
           "publishedOn": "2022-05-06T09:30:00.000Z",
-          "wordCount": 2995,
+          "wordCount": 2986,
           "title": "How To Give Effective Feedback Remotely",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9fd70453-99c5-4d6f-9abe-1a19a52d217b/give-effective-feedback-remotely.jpg",
@@ -354,7 +369,7 @@
           "description": "Let’s welcome May with a new collection of wallpapers. Designed with love by artists and designers from across the globe, they come in versions with and without a calendar for May 2022.",
           "link": "https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/",
           "publishedOn": "2022-04-30T08:00:00.000Z",
-          "wordCount": 2300,
+          "wordCount": 2296,
           "title": "Make A Wish (May 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d3692b2-3bab-4645-95a2-a488c22eae5f/may-22-kira-preview-opt.png",
@@ -369,7 +384,7 @@
           "description": "Introducing Partytown, a lightweight open-source solution that reduces execution delays due to third-party JavaScript by offloading third-party scripts to web workers, which run in background threads.",
           "link": "https://smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/",
           "publishedOn": "2022-04-29T10:30:00.000Z",
-          "wordCount": 2032,
+          "wordCount": 2034,
           "title": "How Partytown Eliminates Website Bloat From Third-Party Scripts",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9925c2d1-b244-434d-9173-7e11efbdf617/partytown-eliminates-website-bloat-third-party-scripts.jpg",
@@ -414,7 +429,7 @@
           "description": "When bad UX has lingered in a product for so long, it can feel like a mountain to overcome. In this article, Ceara Crawshaw shares her advice on how you can invoke joy and assure the quality in the work done on product teams.",
           "link": "https://smashingmagazine.com/2022/04/ux-integrated-design-workflows/",
           "publishedOn": "2022-04-26T11:30:00.000Z",
-          "wordCount": 4040,
+          "wordCount": 4036,
           "title": "Preventing Bad UX Through Integrated Design Workflows",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47570c78-efae-4a35-b2c6-addf55029cac/ux-integrated-design-workflows.jpg",
@@ -429,7 +444,7 @@
           "description": "In this article, Jhey Tompkins explores one of GreenSocks’ newest plugins alongside React to create an impractical whimsical spin on a well-known native element: ``.",
           "link": "https://smashingmagazine.com/2022/04/what-if-sliders-actually-slid-html-element-input-range/",
           "publishedOn": "2022-04-25T09:30:00.000Z",
-          "wordCount": 3407,
+          "wordCount": 3404,
           "title": "What If Our Sliders Actually Slid?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9d1d14c-98fc-463e-82b5-df98f5556b72/what-if-sliders-actually-slid-html-element-input-range.jpg",
@@ -467,21 +482,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3b9b874c-9208-47da-b69b-b46d90988b11/designing-better-navigation-ux-queries.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/04/productivity-tips-tools/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Who doesn’t love a good timesaver? In this post, we compiled useful productivity tips and tools that help you speed up routine tasks, enhance your development workflow, and stay organized.",
-          "link": "https://smashingmagazine.com/2022/04/productivity-tips-tools/",
-          "publishedOn": "2022-04-20T11:30:00.000Z",
-          "wordCount": 5078,
-          "title": "Productivity Tips And Tools For A More Efficient Workflow",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c0a83218-4f7e-4650-9380-72895a5936b3/productivity-tips-tools.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c0a83218-4f7e-4650-9380-72895a5936b3/productivity-tips-tools.jpg"
         }
       ]
     },
@@ -490,6 +490,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/html-symbols-html-icon-and-entity-code-list/",
+          "author": "Kolade Chris",
+          "description": "There are some characters that are symbols which you don’t get access to on keyboards. In HTML, these characters are called entities and are reserved characters. For instance, there are cases when you might want to type the greater than (>) or lesser than (<) symbol while working on the",
+          "link": "https://www.freecodecamp.org/news/html-symbols-html-icon-and-entity-code-list/",
+          "publishedOn": "2022-05-19T15:32:07.000Z",
+          "wordCount": 4468,
+          "title": "HTML Symbols – HTML Icon and Entity Code List",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/HTMLEntites.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-a-drum-machine-with-python-and-pygame/",
+          "author": "Beau Carnes",
+          "description": "A drum machine is a fun project to create to practice your Python skills. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to create a drum machine project using Python and Pygame. Pete LeMaster created this course. Pete has created a bunch",
+          "link": "https://www.freecodecamp.org/news/create-a-drum-machine-with-python-and-pygame/",
+          "publishedOn": "2022-05-19T13:47:53.000Z",
+          "wordCount": 26115,
+          "title": "Create a Drum Machine with Python and Pygame",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/drum.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/remote-work-companies-for-developers/",
           "author": "Davis David",
@@ -569,26 +589,6 @@
           "wordCount": 957,
           "title": "JavaScript Promises – The promise.then, promise.catch and promise.finally Methods Explained",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-pixabay-532414.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-an-array-in-javascript/",
-          "author": "Jessica Wilkins",
-          "description": "An array is a type of data structure where you can store an ordered list of elements.  In this article, I will show you 3 ways you can create an array using JavaScript.  I will also show you how to create an array from a string using the",
-          "link": "https://www.freecodecamp.org/news/how-to-create-an-array-in-javascript/",
-          "publishedOn": "2022-05-16T18:17:35.000Z",
-          "wordCount": 1071,
-          "title": "JavaScript Arrays - How to Create an Array in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/jexo-73REk-BB7-Y-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/entry-level-tech-job-guide/",
-          "author": "Zaira Hira",
-          "description": "Entry-level jobs hire people with little or no experience in that job. There are plenty of entry-level tech jobs on the market these days because of the ever-growing demand for technology-savvy workers.  There are many reasons to join the tech industry such as competitive salaries, promising career paths, and",
-          "link": "https://www.freecodecamp.org/news/entry-level-tech-job-guide/",
-          "publishedOn": "2022-05-16T17:51:58.000Z",
-          "wordCount": 2151,
-          "title": "Entry-Level Tech Jobs – Beginner IT Jobs with No Experience Required",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/Copy-of-guided-exercise.png"
         }
       ]
     }
