@@ -17,7 +17,7 @@
           "description": "Zeldman:\nYou may not know his name, but he played a huge part in creating the web you take for granted today. And he’s back—kind of.\nThat would be Glenn Davis and the Verevolf site Zeldman’s talking about. The …\nVerevolf originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/verevolf/",
           "publishedOn": "2022-05-20T20:24:43.000Z",
-          "wordCount": 337,
+          "wordCount": 390,
           "title": "Verevolf",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365971"
         },
@@ -27,7 +27,7 @@
           "description": "Don’t you hate it when you load a website or web app, some content displays and then some images load — causing content to shift around? That’s called content reflow and can lead to an incredibly annoying user experience for …\nInline Image Previews with Sharp, BlurHash, and Lambda Functions originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/inline-image-previews-with-sharp-blurhash-and-lambda-functions/",
           "publishedOn": "2022-05-19T14:30:08.000Z",
-          "wordCount": 2043,
+          "wordCount": 2067,
           "title": "Inline Image Previews with Sharp, BlurHash, and Lambda Functions",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365784"
         },
@@ -87,7 +87,7 @@
           "description": "According to Toshi Omagari, the author of Arcade Game Typography, the world’s first multi-colored digital font was created in 1982 for a never-released video game called Insector. Multi-colored fonts, sometimes called chromatic type, are still relatively rare on the …\nCOLRv1 and CSS font-palette: Web Typography Gets Colorful originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/colrv1-and-css-font-palette-web-typography/",
           "publishedOn": "2022-05-11T14:12:51.000Z",
-          "wordCount": 2618,
+          "wordCount": 2689,
           "title": "COLRv1 and CSS font-palette: Web Typography Gets Colorful",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365677"
         },
@@ -174,7 +174,7 @@
           "description": "In this article, we will see step-by-step how you can get the best of customization with easy admin by using Ghost as a headless CMS for a Gatsby static site — everything for free.",
           "link": "https://smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/",
           "publishedOn": "2022-05-20T08:30:00.000Z",
-          "wordCount": 4360,
+          "wordCount": 4358,
           "title": "The Ultimate Free Solo Blog Setup With Ghost And Gatsby",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dee282b4-4b4e-4b89-b8e1-4d319ce85367/ultimate-free-solo-blog-setup-ghost-gatsby.jpg",
@@ -189,7 +189,7 @@
           "description": "In this article, Benjamin Ajibade introduces Kubernetes to front-end engineers and explaines why Kubernetes is integral in a production-ready microservice architecture. Some key terms that are important for team collaboration will be discussed and conclude the post with a quick deployment to getting started as a beginner.",
           "link": "https://smashingmagazine.com/2022/05/kubernetes-front-end-developers/",
           "publishedOn": "2022-05-19T11:30:00.000Z",
-          "wordCount": 3083,
+          "wordCount": 3086,
           "title": "Kubernetes For Frontend Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a377d64d-af16-4fb1-8159-2c9fa0ab72c4/kubernetes-front-end-developers.jpg",
@@ -234,7 +234,7 @@
           "description": "What makes the underused `Server-Timing` header uniquely powerful among all other response headers? We’ll rethink the expectation for using it exclusively for timing and see fast solutions for hard-to-solve monitoring challenges.",
           "link": "https://smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/",
           "publishedOn": "2022-05-16T10:00:00.000Z",
-          "wordCount": 5131,
+          "wordCount": 5113,
           "title": "Rethinking Server-Timing As A Critical Monitoring Tool",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4f69c3e0-764f-4cfb-b8f8-7a4420d0e2f6/rethinking-server-timing-monitoring-tool.jpg",
@@ -264,7 +264,7 @@
           "description": "In this article, Dan Shappir analyzes the performance cost associated with various frameworks and explains the wide variety of framework and platform choices that are currently available to front-end and fullstack developers.",
           "link": "https://smashingmagazine.com/2022/05/google-crux-analysis-comparison-performance-javascript-frameworks/",
           "publishedOn": "2022-05-12T09:30:00.000Z",
-          "wordCount": 4388,
+          "wordCount": 4386,
           "title": "How To Use Google CrUX To Analyze And Compare The Performance Of JS Frameworks",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d9ea7394-c230-471d-aafe-9977a30bdf3b/google-crux-analysis-comparison-performance-javascript-frameworks.jpg",
@@ -309,7 +309,7 @@
           "description": "At the end of 2021, the Chrome team shipped some functionality that has the ability to make or break sites meeting the Core Web Vitals. So, let’s learn a little bit more about the Back/Forward Cache (aka bfcache), and what you can do to test if your website is compatible with it.",
           "link": "https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/",
           "publishedOn": "2022-05-09T10:30:00.000Z",
-          "wordCount": 3684,
+          "wordCount": 3679,
           "title": "Performance Game Changer: Browser Back/Forward Cache",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98883c6e-253d-4285-aa86-09da18d3b935/performance-game-changer-back-forward-cache.jpg",
@@ -324,7 +324,7 @@
           "description": "Let’s explore how to give and receive better feedback when working remotely — feedback that is actionable, specific, kind, and that won’t set you on edge. We’ll start by explaining when feedback sessions don’t work and how to prevent it.",
           "link": "https://smashingmagazine.com/2022/05/give-effective-feedback-remotely/",
           "publishedOn": "2022-05-06T09:30:00.000Z",
-          "wordCount": 2995,
+          "wordCount": 2991,
           "title": "How To Give Effective Feedback Remotely",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9fd70453-99c5-4d6f-9abe-1a19a52d217b/give-effective-feedback-remotely.jpg",
@@ -354,7 +354,7 @@
           "description": "How difficult can it be to design a bulletproof language selector? It’s not as straightforward as one might think. We need to avoid redirects, decouple our language and country presets, allow for overrides, and use non-modal windows. Let’s dive in!",
           "link": "https://smashingmagazine.com/2022/05/designing-better-language-selector/",
           "publishedOn": "2022-05-04T10:00:00.000Z",
-          "wordCount": 6040,
+          "wordCount": 6036,
           "title": "Designing A Better Language Selector",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec0dac36-90ba-4295-b51b-f095fb2d90ff/designing-better-language-selector.jpg",
@@ -384,7 +384,7 @@
           "description": "Let’s welcome May with a new collection of wallpapers. Designed with love by artists and designers from across the globe, they come in versions with and without a calendar for May 2022.",
           "link": "https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/",
           "publishedOn": "2022-04-30T08:00:00.000Z",
-          "wordCount": 2298,
+          "wordCount": 2292,
           "title": "Make A Wish (May 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d3692b2-3bab-4645-95a2-a488c22eae5f/may-22-kira-preview-opt.png",
@@ -399,7 +399,7 @@
           "description": "Introducing Partytown, a lightweight open-source solution that reduces execution delays due to third-party JavaScript by offloading third-party scripts to web workers, which run in background threads.",
           "link": "https://smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/",
           "publishedOn": "2022-04-29T10:30:00.000Z",
-          "wordCount": 2044,
+          "wordCount": 2034,
           "title": "How Partytown Eliminates Website Bloat From Third-Party Scripts",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9925c2d1-b244-434d-9173-7e11efbdf617/partytown-eliminates-website-bloat-third-party-scripts.jpg",
@@ -414,7 +414,7 @@
           "description": "In this article, Nathan Smith explains how to create modal dialog windows with rich interaction that will only require authoring HTML in order to be used. They are based on Web Components that are currently supported by every major browser.",
           "link": "https://smashingmagazine.com/2022/04/cta-modal-build-web-component/",
           "publishedOn": "2022-04-28T09:30:00.000Z",
-          "wordCount": 4785,
+          "wordCount": 4777,
           "title": "CTA Modal: How To Build A Web Component",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bbadf16-a6e1-4d24-ba72-77cc51e3cc4e/cta-modal-build-web-component.jpg",
@@ -459,7 +459,7 @@
           "description": "In this article, Jhey Tompkins explores one of GreenSocks’ newest plugins alongside React to create an impractical whimsical spin on a well-known native element: ``.",
           "link": "https://smashingmagazine.com/2022/04/what-if-sliders-actually-slid-html-element-input-range/",
           "publishedOn": "2022-04-25T09:30:00.000Z",
-          "wordCount": 3405,
+          "wordCount": 3403,
           "title": "What If Our Sliders Actually Slid?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9d1d14c-98fc-463e-82b5-df98f5556b72/what-if-sliders-actually-slid-html-element-input-range.jpg",
@@ -467,21 +467,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9d1d14c-98fc-463e-82b5-df98f5556b72/what-if-sliders-actually-slid-html-element-input-range.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/04/testing-cli-way-people-use-it/",
-          "author": "hello@smashingmagazine.com (Georgy Marchuk)",
-          "description": "Have you ever wondered, why do people write CLI tools? When is a good time to think about yours? Today we’ll touch on these questions, along with some tips to remember when creating one. However, all of this serves as a prelude to the real topic: end-to-end testing of CLI tools.",
-          "link": "https://smashingmagazine.com/2022/04/testing-cli-way-people-use-it/",
-          "publishedOn": "2022-04-22T09:30:00.000Z",
-          "wordCount": 4185,
-          "title": "Testing The CLI The Way People Use It",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e6d3ba7a-2c86-4e64-b8e8-6d58adaafdba/testing-cli-way-people-use-it.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e6d3ba7a-2c86-4e64-b8e8-6d58adaafdba/testing-cli-way-people-use-it.jpg"
         }
       ]
     },

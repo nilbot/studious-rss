@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-21T00:03:59.884Z</id>
+    <id>urn:2022-05-22T00:04:26.805Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-21T00:03:59.884Z</updated>
+    <updated>2022-05-22T00:04:26.805Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -473,16 +473,6 @@ Creating the DigitalOcean Logo in 3D With CSS originally published on CSS-Tricks
         <summary type="html"><![CDATA[In this article, Jhey Tompkins explores one of GreenSocks’ newest plugins alongside React to create an impractical whimsical spin on a well-known native element: ``.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testing The CLI The Way People Use It]]></title>
-        <id>https://smashingmagazine.com/2022/04/testing-cli-way-people-use-it/</id>
-        <link href="https://smashingmagazine.com/2022/04/testing-cli-way-people-use-it/"/>
-        <updated>2022-04-22T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered, why do people write CLI tools? When is a good time to think about yours? Today we’ll touch on these questions, along with some tips to remember when creating one. However, all of this serves as a prelude to the real topic: end-to-end testing of CLI tools.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Georgy Marchuk)</name>
         </author>
     </entry>
 </feed>
