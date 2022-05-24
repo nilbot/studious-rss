@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-23T00:04:28.268Z</id>
+    <id>urn:2022-05-24T00:04:18.703Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-23T00:04:28.268Z</updated>
+    <updated>2022-05-24T00:04:18.703Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[First Look At The CSS object-view-box Property]]></title>
+        <id>https://css-tricks.com/?p=365992</id>
+        <link href="https://css-tricks.com/first-look-at-the-css-object-view-box-property/"/>
+        <updated>2022-05-23T19:15:53.000Z</updated>
+        <summary type="html"><![CDATA[Ahmad Shadeed — doing what he always does so well — provides an early look at the object-view-box property, something he describes as a native way to crop an image in the browser with CSS.
+The use case? Well, …
+First Look At The CSS object-view-box Property originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dialog Components: Go Native HTML or Roll Your Own?]]></title>
+        <id>https://css-tricks.com/?p=365804</id>
+        <link href="https://css-tricks.com/dialog-components-roll-your-own/"/>
+        <updated>2022-05-23T14:31:18.000Z</updated>
+        <summary type="html"><![CDATA[As the author of a library called AgnosticUI, I’m always on the lookout for new components. And recently, I decided to dig in and start work on a new dialog (aka modal) component. That’s something many devs like to …
+Dialog Components: Go Native HTML or Roll Your Own? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Rob Levin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Istio – How to Manage, Monitor, and Secure Microservices]]></title>
+        <id>https://www.freecodecamp.org/news/learn-istio-manage-microservices/</id>
+        <link href="https://www.freecodecamp.org/news/learn-istio-manage-microservices/"/>
+        <updated>2022-05-23T14:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Three years ago, I wrote an article titled "Back to Microservices with Istio" [https://medium.com/google-cloud/back-to-microservices-with-istio-p1-827c872daa53]  for Google Cloud Community. I published it there to reach people interested in the latest technologies built on top of Kubernetes.  At that point, Istio was a niche technology. But fast-forward three years, and:]]></summary>
+        <author>
+            <name>Rinor Maloku</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lesser-Known And Underused CSS Features In 2022]]></title>
+        <id>https://smashingmagazine.com/2022/05/lesser-known-underused-css-features-2022/</id>
+        <link href="https://smashingmagazine.com/2022/05/lesser-known-underused-css-features-2022/"/>
+        <updated>2022-05-23T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[CSS is constantly evolving, and some cool and useful properties either go completely unnoticed or are not talked about as much as others for some reason or another. In this article, we’ll cover a fraction of those CSS properties and selectors.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Verevolf]]></title>
         <id>https://css-tricks.com/?p=365971</id>
@@ -137,16 +180,6 @@ Inline Image Previews with Sharp, BlurHash, and Lambda Functions originally publ
         <summary type="html"><![CDATA[Minification is the process of reducing code size to reduce the size of your files. So how does this apply to CSS? Take a look at this code: h1 {   color: yellow; } p {   color: pink; } And the compressed version of it: h1 {]]></summary>
         <author>
             <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Functions – How to Use calc(), max(), min(), and clamp()]]></title>
-        <id>https://www.freecodecamp.org/news/css-functions-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/css-functions-for-beginners/"/>
-        <updated>2022-05-18T15:11:08.000Z</updated>
-        <summary type="html"><![CDATA[In CSS there are a lot of different units of measurement. You have px and percentages, vh, vw, em, rem, and others.  There will come a time when you want to get a value by combining two or more different units. CSS has a function that you can use]]></summary>
-        <author>
-            <name>Ilenia Magoni</name>
         </author>
     </entry>
     <entry>
@@ -393,17 +426,6 @@ Adding Custom GitHub Badges to Your Repo originally published on CSS-Tricks. You
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creating Realistic Reflections With CSS]]></title>
-        <id>https://css-tricks.com/?p=365491</id>
-        <link href="https://css-tricks.com/creating-realistic-reflections-with-css/"/>
-        <updated>2022-05-02T14:14:07.000Z</updated>
-        <summary type="html"><![CDATA[In design, reflections are stylized mirror images of objects. Even though they are not as popular as shadows, they have their moments — just think about the first time you explored the different font formats in MS Word or PowerPoint: …
-Creating Realistic Reflections With CSS originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Make A Wish (May 2022 Desktop Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/</id>
         <link href="https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/"/>
@@ -411,18 +433,6 @@ Creating Realistic Reflections With CSS originally published on CSS-Tricks. You 
         <summary type="html"><![CDATA[Let’s welcome May with a new collection of wallpapers. Designed with love by artists and designers from across the globe, they come in versions with and without a calendar for May 2022.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating the DigitalOcean Logo in 3D With CSS]]></title>
-        <id>https://css-tricks.com/?p=365447</id>
-        <link href="https://css-tricks.com/creating-the-digitalocean-logo-in-3d-with-css/"/>
-        <updated>2022-04-29T14:37:10.000Z</updated>
-        <summary type="html"><![CDATA[Howdy y’all! Unless you’ve been living under a rock (and maybe even then), you’ve undoubtedly heard the news that CSS-Tricks, was acquired by DigitalOcean. Congratulations to everyone! 🥳
-As a little hurrah to commemorate the occasion, I wanted to …
-Creating the DigitalOcean Logo in 3D With CSS originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Jhey Tompkins</name>
         </author>
     </entry>
     <entry>
