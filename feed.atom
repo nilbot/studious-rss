@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-25T00:04:37.131Z</id>
+    <id>urn:2022-05-26T00:04:21.948Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-25T00:04:37.131Z</updated>
+    <updated>2022-05-26T00:04:21.948Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Code a Framework – the  First Lines of Vue.js]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-code-a-framework-vuejs-example/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-code-a-framework-vuejs-example/"/>
+        <updated>2022-05-25T21:38:19.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered how frameworks are built? A couple of weeks ago I was writing an article and asked myself, what's the first line of code Evan You wrote to build Vue.js? Well, thanks to Git and Evan You pushing Vue's code to GitHub, I have been able to]]></summary>
+        <author>
+            <name>Fabio Pacific</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter Emoji – How to Use Twemoji on Your Website]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-twitter-emoji-on-your-website/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-twitter-emoji-on-your-website/"/>
+        <updated>2022-05-25T21:08:49.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll explain what Twitter Emoji – or Twemoji – are and why you might want to use them. Why should you use Twitter Emojis? A couple of months ago, I started working on a project of mine, and I needed to allow users to select different icons]]></summary>
+        <author>
+            <name>Shayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use CSS Grid Layout – Grid Properties Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-css-grid-layout/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-css-grid-layout/"/>
+        <updated>2022-05-25T15:32:31.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever had a problem positioning items on your web browser? Perhaps every time you try to think of a solution, you become tired and give up.  If so, stay tuned as I reveal a new method for resolving these kinds of problems with minimal or no stress.]]></summary>
+        <author>
+            <name>Okoro Emmanuel Nzube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Promises for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-promises-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-promises-for-beginners/"/>
+        <updated>2022-05-25T14:56:17.000Z</updated>
+        <summary type="html"><![CDATA[In JavaScript, a promise is a placeholder (proxy) for the value of an ongoing operation. You typically use a promise to manage situations where you must wait for the outcome of an operation. For example, uploading files to the server and awaiting the response of an API call, or just]]></summary>
+        <author>
+            <name>Spruce Emmanuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Perfect Table of Contents With HTML + CSS]]></title>
+        <id>https://css-tricks.com/?p=365888</id>
+        <link href="https://css-tricks.com/a-perfect-table-of-contents-with-html-css/"/>
+        <updated>2022-05-25T14:08:33.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this year, I self-published an ebook called Understanding JavaScript Promises (free for download). Even though I didn’t have any intention of turning it into a print book, enough people reached out inquiring about a print version that …
+A Perfect Table of Contents With HTML + CSS originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Nicholas C. Zakas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Weak Reference In JavaScript]]></title>
+        <id>https://smashingmagazine.com/2022/05/understanding-weak-reference-javascript/</id>
+        <link href="https://smashingmagazine.com/2022/05/understanding-weak-reference-javascript/"/>
+        <updated>2022-05-25T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Frank Joseph explains both weak and strong references in JavaScript, as well as the concept of reachability. Let’s dig in!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frank Joseph)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeError: can't multiply sequence by non-int of type 'float' [SOLVED]]]></title>
+        <id>https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved/</id>
+        <link href="https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved/"/>
+        <updated>2022-05-24T23:30:53.000Z</updated>
+        <summary type="html"><![CDATA[When coding, you're likely to encounter errors. Error messages, in most cases, help you understand what the error is about. And understanding an error message is one of the steps in solving an error.  In this article, we'll talk about an error in Python – the "TypeError: can't multiply]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[All Caps in CSS - How to Uppercase Text with Style]]></title>
         <id>https://www.freecodecamp.org/news/all-caps-in-css-how-to-uppercase-text-with-style/</id>
@@ -124,26 +195,6 @@ Verevolf originally published on CSS-Tricks. You should get the newsletter.]]></
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Convert a Value to a Boolean in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-convert-value-to-boolean-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-convert-value-to-boolean-javascript/"/>
-        <updated>2022-05-20T18:06:38.000Z</updated>
-        <summary type="html"><![CDATA[A boolean is a primitive value [https://developer.mozilla.org/en-US/docs/Glossary/Primitive] that represents either true or false. In Boolean contexts, JavaScript utilizes type casting [https://developer.mozilla.org/en-US/docs/Glossary/Type_Conversion] to convert values to true/false. There are implicit and explicit methods to convert values into their boolean counterparts. This article provides an overview of truthy and falsy values and]]></summary>
-        <author>
-            <name>Natalie Pina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Coding Used For?]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-coding-used-for/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-coding-used-for/"/>
-        <updated>2022-05-20T16:16:56.000Z</updated>
-        <summary type="html"><![CDATA[Are you aware of the millions of lines of code behind the applications and devices you use every day? Coding is used for many different purposes - more than you may realize. In this article, I will first go over what the term 'coding' actually means. Then, I will briefly]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Ultimate Free Solo Blog Setup With Ghost And Gatsby]]></title>
         <id>https://smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/</id>
         <link href="https://smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/"/>
@@ -151,26 +202,6 @@ Verevolf originally published on CSS-Tricks. You should get the newsletter.]]></
         <summary type="html"><![CDATA[In this article, we will see step-by-step how you can get the best of customization with easy admin by using Ghost as a headless CMS for a Gatsby static site — everything for free.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Greg Dickens)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Double VS Float in C++ – The Difference Between Floats and Doubles]]></title>
-        <id>https://www.freecodecamp.org/news/double-vs-float-in-cpp-the-difference-between-floats-and-doubles/</id>
-        <link href="https://www.freecodecamp.org/news/double-vs-float-in-cpp-the-difference-between-floats-and-doubles/"/>
-        <updated>2022-05-19T22:29:11.000Z</updated>
-        <summary type="html"><![CDATA[In C++, there are various data types like string, int, char, bool, float, and  double. Each of these data types have specific values that can be stored in them. When working with integers, we usually store them in an int data type. But this is only useful for whole]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Symbols – HTML Icon and Entity Code List]]></title>
-        <id>https://www.freecodecamp.org/news/html-symbols-html-icon-and-entity-code-list/</id>
-        <link href="https://www.freecodecamp.org/news/html-symbols-html-icon-and-entity-code-list/"/>
-        <updated>2022-05-19T15:32:07.000Z</updated>
-        <summary type="html"><![CDATA[There are some characters that are symbols which you don’t get access to on keyboards. In HTML, these characters are called entities and are reserved characters. For instance, there are cases when you might want to type the greater than (>) or lesser than (<) symbol while working on the]]></summary>
-        <author>
-            <name>Kolade Chris</name>
         </author>
     </entry>
     <entry>
@@ -182,16 +213,6 @@ Verevolf originally published on CSS-Tricks. You should get the newsletter.]]></
 Inline Image Previews with Sharp, BlurHash, and Lambda Functions originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Adam Rackis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a Drum Machine with Python and Pygame]]></title>
-        <id>https://www.freecodecamp.org/news/create-a-drum-machine-with-python-and-pygame/</id>
-        <link href="https://www.freecodecamp.org/news/create-a-drum-machine-with-python-and-pygame/"/>
-        <updated>2022-05-19T13:47:53.000Z</updated>
-        <summary type="html"><![CDATA[A drum machine is a fun project to create to practice your Python skills. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to create a drum machine project using Python and Pygame. Pete LeMaster created this course. Pete has created a bunch]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -406,17 +427,6 @@ How to Serve a Subdomain as a Subdirectory originally published on CSS-Tricks. Y
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Syntax Highlighting (and More!) With Prism on a Static Site]]></title>
-        <id>https://css-tricks.com/?p=365510</id>
-        <link href="https://css-tricks.com/syntax-highlighting-prism-on-a-next-js-site/"/>
-        <updated>2022-05-04T14:16:43.000Z</updated>
-        <summary type="html"><![CDATA[So, you’ve decided to build a blog with Next.js. Like any dev blogger, you’d like to have code snippets in your posts that are formatted nicely with syntax highlighting. Perhaps you also want to display line numbers in the …
-Syntax Highlighting (and More!) With Prism on a Static Site originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Adam Rackis</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Designing A Better Language Selector]]></title>
         <id>https://smashingmagazine.com/2022/05/designing-better-language-selector/</id>
         <link href="https://smashingmagazine.com/2022/05/designing-better-language-selector/"/>
@@ -474,16 +484,6 @@ Syntax Highlighting (and More!) With Prism on a Static Site originally published
         <summary type="html"><![CDATA[We should be able to measure how well a particular design solves a particular problem. Let’s explore design KPIs that capture user’s experience, how to measure them and how to keep both users and business stakeholders happy, over time.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Preventing Bad UX Through Integrated Design Workflows]]></title>
-        <id>https://smashingmagazine.com/2022/04/ux-integrated-design-workflows/</id>
-        <link href="https://smashingmagazine.com/2022/04/ux-integrated-design-workflows/"/>
-        <updated>2022-04-26T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[When bad UX has lingered in a product for so long, it can feel like a mountain to overcome. In this article, Ceara Crawshaw shares her advice on how you can invoke joy and assure the quality in the work done on product teams.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ceara Crawshaw)</name>
         </author>
     </entry>
 </feed>
