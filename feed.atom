@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-27T00:04:27.523Z</id>
+    <id>urn:2022-05-28T00:04:06.888Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-27T00:04:27.523Z</updated>
+    <updated>2022-05-28T00:04:06.888Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[C++ Vector – How to Initialize a Vector in a Constructor in C++]]></title>
+        <id>https://www.freecodecamp.org/news/cpp-vector-how-to-initialize-a-vector-in-a-constructor/</id>
+        <link href="https://www.freecodecamp.org/news/cpp-vector-how-to-initialize-a-vector-in-a-constructor/"/>
+        <updated>2022-05-27T20:08:33.000Z</updated>
+        <summary type="html"><![CDATA[When you're working with a collection of variables or data in programming, you usually store them in specific data types.  In C++, you can store them in arrays, structures, vectors, strings and so on. While these data structures have their distinctive features, we'll focus mainly on the various methods]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript For Loop – Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-for-loops/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-for-loops/"/>
+        <updated>2022-05-27T16:32:36.000Z</updated>
+        <summary type="html"><![CDATA[Loops are a programming concept that we constantly encounter and implement as JavaScript developers.  And many developers are familiar with loops, but not everyone understands how they work and why or when they should use a specific type of loop. In this article, we will learn what for loops]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Chrome Extension]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-chrome-extension/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-chrome-extension/"/>
+        <updated>2022-05-27T14:35:37.000Z</updated>
+        <summary type="html"><![CDATA[A chrome extension is a software program that is designed to run within the Google Chrome web browser. Extensions can add a variety of functionality to the browser, including providing tools for web development, adding features to the browser interface, and changing the behavior of web pages. We just published]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just How Long Should Alt Text Be?]]></title>
+        <id>https://css-tricks.com/?p=366068</id>
+        <link href="https://css-tricks.com/just-how-long-should-alt-text-be/"/>
+        <updated>2022-05-27T14:25:39.000Z</updated>
+        <summary type="html"><![CDATA[I teach a class over at the local college here in Long Beach and a majority of the content is hosted on the Canvas LMS so students can access it online. And, naturally, I want the content to be as …
+Just How Long Should Alt Text Be? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open-Source 3dicons Library: Case Study And Free Downloads]]></title>
+        <id>https://smashingmagazine.com/2022/05/3dicons-open-source-library-case-study-download/</id>
+        <link href="https://smashingmagazine.com/2022/05/3dicons-open-source-library-case-study-download/"/>
+        <updated>2022-05-27T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Vijay describes his learning experiences during the design stages of creating his 3dicons image library (a free library for product screens, social media posts and marketing campaigns), which you can download and use for free.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vijay Verma)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Blockchain, Solidity, and Full Stack JavaScript Development]]></title>
         <id>https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/</id>
@@ -116,36 +167,6 @@ Customizing Color Fonts on the Web originally published on CSS-Tricks. You shoul
         <summary type="html"><![CDATA[In this article, I'll explain what Twitter Emoji – or Twemoji – are and why you might want to use them. Why should you use Twitter Emojis? A couple of months ago, I started working on a project of mine, and I needed to allow users to select different icons]]></summary>
         <author>
             <name>Shayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Test React Applications]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-test-react-applications/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-test-react-applications/"/>
-        <updated>2022-05-25T16:46:00.000Z</updated>
-        <summary type="html"><![CDATA[React is one of the most popular frontend JavaScript frameworks. If you want to make sure that your React apps work as intended, it is important to write comprehensive tests. We just published a React testing course on the freeCodeCamp.org YouTube channel that will teach you how to build, deploy,]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use CSS Grid Layout – Grid Properties Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-css-grid-layout/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-css-grid-layout/"/>
-        <updated>2022-05-25T15:32:31.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever had a problem positioning items on your web browser? Perhaps every time you try to think of a solution, you become tired and give up.  If so, stay tuned as I reveal a new method for resolving these kinds of problems with minimal or no stress.]]></summary>
-        <author>
-            <name>Okoro Emmanuel Nzube</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Promises for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-promises-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-promises-for-beginners/"/>
-        <updated>2022-05-25T14:56:17.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, a promise is a placeholder (proxy) for the value of an ongoing operation. You typically use a promise to manage situations where you must wait for the outcome of an operation. For example, uploading files to the server and awaiting the response of an API call, or just]]></summary>
-        <author>
-            <name>Spruce Emmanuel</name>
         </author>
     </entry>
     <entry>
@@ -374,17 +395,6 @@ A CSS Slinky in 3D? Challenge Accepted! originally published on CSS-Tricks. You 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[COLRv1 and CSS font-palette: Web Typography Gets Colorful]]></title>
-        <id>https://css-tricks.com/?p=365677</id>
-        <link href="https://css-tricks.com/colrv1-and-css-font-palette-web-typography/"/>
-        <updated>2022-05-11T14:12:51.000Z</updated>
-        <summary type="html"><![CDATA[According to Toshi Omagari, the author of Arcade Game Typography, the world’s first multi-colored digital font was created in 1982 for a never-released video game called Insector. Multi-colored fonts, sometimes called chromatic type, are still relatively rare on the …
-COLRv1 and CSS font-palette: Web Typography Gets Colorful originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ollie Williams</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Even Small UX Changes Can Result In An Increase In Conversion (A Case Study)]]></title>
         <id>https://smashingmagazine.com/2022/05/sunuva-case-study-ux-changes-result-increase-conversion/</id>
         <link href="https://smashingmagazine.com/2022/05/sunuva-case-study-ux-changes-result-increase-conversion/"/>
@@ -472,16 +482,6 @@ COLRv1 and CSS font-palette: Web Typography Gets Colorful originally published o
         <summary type="html"><![CDATA[Introducing Partytown, a lightweight open-source solution that reduces execution delays due to third-party JavaScript by offloading third-party scripts to web workers, which run in background threads.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Steve Sewell)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CTA Modal: How To Build A Web Component]]></title>
-        <id>https://smashingmagazine.com/2022/04/cta-modal-build-web-component/</id>
-        <link href="https://smashingmagazine.com/2022/04/cta-modal-build-web-component/"/>
-        <updated>2022-04-28T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Nathan Smith explains how to create modal dialog windows with rich interaction that will only require authoring HTML in order to be used. They are based on Web Components that are currently supported by every major browser.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Nathan Smith)</name>
         </author>
     </entry>
 </feed>
