@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-28T00:04:06.888Z</id>
+    <id>urn:2022-05-29T00:04:57.260Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-28T00:04:06.888Z</updated>
+    <updated>2022-05-29T00:04:57.260Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -472,16 +472,6 @@ A CSS Slinky in 3D? Challenge Accepted! originally published on CSS-Tricks. You 
         <summary type="html"><![CDATA[Let’s welcome May with a new collection of wallpapers. Designed with love by artists and designers from across the globe, they come in versions with and without a calendar for May 2022.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Partytown Eliminates Website Bloat From Third-Party Scripts]]></title>
-        <id>https://smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/</id>
-        <link href="https://smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/"/>
-        <updated>2022-04-29T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Introducing Partytown, a lightweight open-source solution that reduces execution delays due to third-party JavaScript by offloading third-party scripts to web workers, which run in background threads.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Steve Sewell)</name>
         </author>
     </entry>
 </feed>
