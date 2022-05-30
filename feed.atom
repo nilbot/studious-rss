@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-29T00:04:57.260Z</id>
+    <id>urn:2022-05-30T00:05:18.297Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-29T00:04:57.260Z</updated>
+    <updated>2022-05-30T00:05:18.297Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Python .split() – Splitting a String in Python]]></title>
+        <id>https://www.freecodecamp.org/news/python-split-string/</id>
+        <link href="https://www.freecodecamp.org/news/python-split-string/"/>
+        <updated>2022-05-29T20:27:27.000Z</updated>
+        <summary type="html"><![CDATA[Do you want to turn a string into an array of strings using Python? One way to do this is with Python's built-in .split() method. Here's an example of how to do this in the Python command line: >>> string1 = "test your might" >>> string1.split(" "); # Output: ['test',]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lorem Ipsum Placeholder Text – Long Latin Filler Text and its History]]></title>
+        <id>https://www.freecodecamp.org/news/lorem-ipsum-placeholder-text-latin-filler-history/</id>
+        <link href="https://www.freecodecamp.org/news/lorem-ipsum-placeholder-text-latin-filler-history/"/>
+        <updated>2022-05-29T13:24:56.000Z</updated>
+        <summary type="html"><![CDATA[Here is the full Lorem Ipsum text from 55 BC: Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo.  Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Space – How to Add Spaces in HTML]]></title>
+        <id>https://www.freecodecamp.org/news/html-space-how-to-add-spaces/</id>
+        <link href="https://www.freecodecamp.org/news/html-space-how-to-add-spaces/"/>
+        <updated>2022-05-29T00:47:27.000Z</updated>
+        <summary type="html"><![CDATA[Adding a space to your HTML can be deceptively difficult. And there are at least 5 of ways to go about doing this.  This tutorial will show you several examples. It will also show you how to use fancy versions of space, too. You can do all this in]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[C++ Vector – How to Initialize a Vector in a Constructor in C++]]></title>
         <id>https://www.freecodecamp.org/news/cpp-vector-how-to-initialize-a-vector-in-a-constructor/</id>
@@ -108,16 +138,6 @@ Beautify GitHub Profile originally published on CSS-Tricks. You should get the n
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intermediate TypeScript and React Handbook – How to Build Strongly Typed Polymorphic Components]]></title>
-        <id>https://www.freecodecamp.org/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/</id>
-        <link href="https://www.freecodecamp.org/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/"/>
-        <updated>2022-05-26T14:49:10.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone! 😎 In this detailed guide, I’ll show you how to build strongly typed Polymorphic React components with Typescript. If you prefer to read the entire guide in a single PDF document, you can download the accompanying free PDF [https://www.ohansemmanuel.com/books/how-to-build-strongly-typed-polymorphic-react-components] . You can download the eBook for free [https://www.ohansemmanuel.com/books/how-to-build-strongly-typed-polymorphic-react-components]]]></summary>
-        <author>
-            <name>Emmanuel Ohans</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cool CSS Hover Effects That Use Background Clipping, Masks, and 3D]]></title>
         <id>https://css-tricks.com/?p=365946</id>
         <link href="https://css-tricks.com/css-hover-effects-background-masks-3d/"/>
@@ -147,26 +167,6 @@ Cool CSS Hover Effects That Use Background Clipping, Masks, and 3D originally pu
 Customizing Color Fonts on the Web originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Code a Framework – the  First Lines of Vue.js]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-code-a-framework-vuejs-example/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-code-a-framework-vuejs-example/"/>
-        <updated>2022-05-25T21:38:19.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered how frameworks are built? A couple of weeks ago I was writing an article and asked myself, what's the first line of code Evan You wrote to build Vue.js? Well, thanks to Git and Evan You pushing Vue's code to GitHub, I have been able to]]></summary>
-        <author>
-            <name>Fabio Pacific</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter Emoji – How to Use Twemoji on Your Website]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-twitter-emoji-on-your-website/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-twitter-emoji-on-your-website/"/>
-        <updated>2022-05-25T21:08:49.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll explain what Twitter Emoji – or Twemoji – are and why you might want to use them. Why should you use Twitter Emojis? A couple of months ago, I started working on a project of mine, and I needed to allow users to select different icons]]></summary>
-        <author>
-            <name>Shayan</name>
         </author>
     </entry>
     <entry>
@@ -462,16 +462,6 @@ A CSS Slinky in 3D? Challenge Accepted! originally published on CSS-Tricks. You 
         <summary type="html"><![CDATA[Developers often reach for UI frameworks like Bootstrap or Material UI, hoping that they’ll save a bunch of time and quickly build a professional-looking app. Unfortunately, things rarely work out this way. Let’s talk about it.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Josh Comeau)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make A Wish (May 2022 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/</id>
-        <link href="https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/"/>
-        <updated>2022-04-30T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s welcome May with a new collection of wallpapers. Designed with love by artists and designers from across the globe, they come in versions with and without a calendar for May 2022.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
