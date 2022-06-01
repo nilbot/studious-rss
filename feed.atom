@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-31T00:04:19.412Z</id>
+    <id>urn:2022-06-01T00:05:09.229Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-31T00:04:19.412Z</updated>
+    <updated>2022-06-01T00:05:09.229Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Apply to Google Summer of Code – GSoC Application Guide]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-apply-to-google-summer-of-code/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-apply-to-google-summer-of-code/"/>
+        <updated>2022-05-31T19:48:57.000Z</updated>
+        <summary type="html"><![CDATA[If you have heard of Google Summer of Code [https://summerofcode.withgoogle.com]  but aren't sure how to apply, then read on. Whether you are a college student or a working professional, GSoC now is open to both. What is GSoC and How Does it Work? GSoC is a program that encourages]]></summary>
+        <author>
+            <name>Jagruti Tiwari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Data Analysis?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-data-analysis/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-data-analysis/"/>
+        <updated>2022-05-31T15:59:04.000Z</updated>
+        <summary type="html"><![CDATA[Data are everywhere nowadays. And with each passing year, the amount of data we are producing will only continue to increase. There is a large amount of data available, but what do we do with all that data? How is it all used? And what does all that data mean?]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Square a Number in Python – Squaring Function]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-square-a-number-in-python-squaring-function/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-square-a-number-in-python-squaring-function/"/>
+        <updated>2022-05-31T15:03:14.000Z</updated>
+        <summary type="html"><![CDATA[To square a number, you multiply that number by itself. And there are multiple ways to do this in Python. You can directly multiple a number by itself (number * number) but in this article, I'll show you three ways you can do this without hardcoding both numbers. The three]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Open a Link in a New Tab – HTML target blank Attribute Explained]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-open-a-link-in-a-new-tab/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-open-a-link-in-a-new-tab/"/>
+        <updated>2022-05-31T14:53:07.000Z</updated>
+        <summary type="html"><![CDATA[There will be times where you will want your user to click on a website link and have it open in a new browser tab. But how do you do that in HTML? In this article, I will show you how to use the target="_blank" attribute through code examples. I]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Read File – How to Open, Read, and Write to Files in Python]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-read-files-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-read-files-in-python/"/>
+        <updated>2022-05-31T14:29:06.000Z</updated>
+        <summary type="html"><![CDATA[Reading and writing files is a common operation when working with any programming language. You can program your code to read data or instructions from a file and then write the data as well. This increases efficiency and reduces manual effort. Python has a well-defined methodology for opening, reading, and]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expand Your Horizons (June 2022 Desktop Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2022/05/desktop-wallpaper-calendars-june-2022/</id>
+        <link href="https://smashingmagazine.com/2022/05/desktop-wallpaper-calendars-june-2022/"/>
+        <updated>2022-05-31T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 47 With Sara Soueidan: Why Does Accessibility Matter?]]></title>
+        <id>https://smashingmagazine.com/2022/05/smashing-podcast-episode-47/</id>
+        <link href="https://smashingmagazine.com/2022/05/smashing-podcast-episode-47/"/>
+        <updated>2022-05-31T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we ask why accessibility really matters and why it is so important to get it right. Smashing’s Vitaly Friedman talks in-depth to Sara Soueidan to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s That (Dev) Tool?]]></title>
         <id>https://smashingmagazine.com/2022/05/whats-that-dev-tool/</id>
@@ -66,16 +136,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Chrome Extension]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-chrome-extension/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-chrome-extension/"/>
-        <updated>2022-05-27T14:35:37.000Z</updated>
-        <summary type="html"><![CDATA[A chrome extension is a software program that is designed to run within the Google Chrome web browser. Extensions can add a variety of functionality to the browser, including providing tools for web development, adding features to the browser interface, and changing the behavior of web pages. We just published]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Just How Long Should Alt Text Be?]]></title>
         <id>https://css-tricks.com/?p=366068</id>
         <link href="https://css-tricks.com/just-how-long-should-alt-text-be/"/>
@@ -97,26 +157,6 @@ Just How Long Should Alt Text Be? originally published on CSS-Tricks. You should
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Blockchain, Solidity, and Full Stack JavaScript Development]]></title>
-        <id>https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/</id>
-        <link href="https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/"/>
-        <updated>2022-05-26T19:00:01.000Z</updated>
-        <summary type="html"><![CDATA[There are thousands of open jobs related to blockchain development companies like IBM, VMware, and Deloitte. We just published a 30-hour course on the freeCodeCamp.org YouTube channel that will help you learn skills related to blockchain, Solidity, and Web3 development. If you are interested in learning about blockchain development, this]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript String.Split() Example with RegEx]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-string-split-example-with-regex/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-string-split-example-with-regex/"/>
-        <updated>2022-05-26T18:31:08.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, you use RegEx to match patterns in characters. Combining this with the .split() string method gives you more splitting powers. The string constructor has many useful methods [https://dillionmegida.com/p/10-useful-string-methods-in-javascript/], one of which is the split() method. You use this method to split a string into an array of substrings]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Beautify GitHub Profile]]></title>
         <id>https://css-tricks.com/?p=366107</id>
         <link href="https://css-tricks.com/beautify-github-profile/"/>
@@ -125,26 +165,6 @@ Just How Long Should Alt Text Be? originally published on CSS-Tricks. You should
 Beautify GitHub Profile originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use PyScript – A Python Frontend Framework]]></title>
-        <id>https://www.freecodecamp.org/news/pyscript-python-front-end-framework/</id>
-        <link href="https://www.freecodecamp.org/news/pyscript-python-front-end-framework/"/>
-        <updated>2022-05-26T15:37:08.000Z</updated>
-        <summary type="html"><![CDATA[Python has grown in popularity immensely in recent years. It has a wide range of applications, from its most popular use in Artificial Intelligence, to Data Science, Robotics, and Scripting.  In the web development field, Python is used mainly on the backend with frameworks such as Django and Flask.]]></summary>
-        <author>
-            <name>Ifihanagbara Olusheye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lexical Scope in JavaScript – Beginner's Guide]]></title>
-        <id>https://www.freecodecamp.org/news/lexical-scope-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/lexical-scope-in-javascript/"/>
-        <updated>2022-05-26T15:27:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we are going to understand what lexical scope is by going through some helpful examples.  We will also have a brief discussion about how JavaScript compiles and executes programs.  Lastly, we will have a look at how you can use lexical scope to explain undeclared]]></summary>
-        <author>
-            <name>Keyur Paralkar</name>
         </author>
     </entry>
     <entry>
