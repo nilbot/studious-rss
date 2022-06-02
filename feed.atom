@@ -1,10 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-01T00:05:09.229Z</id>
+    <id>urn:2022-06-02T00:04:47.378Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-01T00:05:09.229Z</updated>
+    <updated>2022-06-02T00:04:47.378Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is an SVG File?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-an-svg-file/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-an-svg-file/"/>
+        <updated>2022-06-01T16:05:04.000Z</updated>
+        <summary type="html"><![CDATA[SVG stands for scalable vector graphics. It's a web-friendly vector-based file format used to render two-dimensional images on the internet. You can identify SVG files by their extension – .svg. Unlike other popular image formats like PNG, JPEG, and JPG – which store image information in form of pixels because]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Indent HTML Code – And Why it's Important]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-indent-in-html-and-why-it-is-important/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-indent-in-html-and-why-it-is-important/"/>
+        <updated>2022-06-01T15:40:55.000Z</updated>
+        <summary type="html"><![CDATA[When you are building out HTML files, it's really important to indent your code. But how do you do that in HTML and why is it important? In this article, I will show you how to properly indent your HTML files and explain why it is important to properly format]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Block Theme Patterns in WordPress 6.0]]></title>
+        <id>https://css-tricks.com/?p=365841</id>
+        <link href="https://css-tricks.com/how-to-create-block-theme-patterns-in-wordpress-6-0/"/>
+        <updated>2022-06-01T15:30:15.000Z</updated>
+        <summary type="html"><![CDATA[Block patterns, also frequently referred to as sections, were introduced in WordPress 5.5 to allow users to build and share predefined block layouts in the pattern directory. The directory is the home of a wide range of …
+How to Create Block Theme Patterns in WordPress 6.0 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ganesh Dahal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy a Machine Learning Model as a Web App Using Gradio]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-deploy-your-machine-learning-model-as-a-web-app-using-gradio/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-your-machine-learning-model-as-a-web-app-using-gradio/"/>
+        <updated>2022-06-01T15:14:51.000Z</updated>
+        <summary type="html"><![CDATA[You've built your Machine Learning model with 99% accuracy and now you are ecstatic. You are like yaaaaaaaaay! My model performed well.  Then you paused and you were like – now what?  Well first, you might have thought of uploading your code to GitHub and showing people your]]></summary>
+        <author>
+            <name>Ibrahim Abayomi Ogunbiyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPAs, Shared Element Transitions, and Re-Evaluating Technology]]></title>
+        <id>https://css-tricks.com/?p=366175</id>
+        <link href="https://css-tricks.com/spas-shared-element-transitions-and-re-evaluating-technology/"/>
+        <updated>2022-06-01T14:12:25.000Z</updated>
+        <summary type="html"><![CDATA[Nolan Lawson sparked some discussion when he described a noticeable shift away from single-page applications (SPAs):
+Hip new frameworks like Astro, Qwik, and Elder.js are touting their MPA [multi-page application] with “0kB JavaScript by default.” 
+…
+SPAs, Shared Element Transitions, and Re-Evaluating Technology originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don’t Sink Your Website With Third Parties]]></title>
+        <id>https://smashingmagazine.com/2022/06/dont-sink-website-third-parties/</id>
+        <link href="https://smashingmagazine.com/2022/06/dont-sink-website-third-parties/"/>
+        <updated>2022-06-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Ken Harker explains what third-party resource requests really are and which common optimization strategies can help reduce the impact on the user experience. By carefully considering how third-party requests will fit into your website during the design stage, you’ll be able to avoid the most significant negative impacts.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ken Harker)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Apply to Google Summer of Code – GSoC Application Guide]]></title>
         <id>https://www.freecodecamp.org/news/how-to-apply-to-google-summer-of-code/</id>
@@ -103,36 +167,6 @@
         <summary type="html"><![CDATA[Here is the full Lorem Ipsum text from 55 BC: Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo.  Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur]]></summary>
         <author>
             <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Space – How to Add Spaces in HTML]]></title>
-        <id>https://www.freecodecamp.org/news/html-space-how-to-add-spaces/</id>
-        <link href="https://www.freecodecamp.org/news/html-space-how-to-add-spaces/"/>
-        <updated>2022-05-29T00:47:27.000Z</updated>
-        <summary type="html"><![CDATA[Adding a space to your HTML can be deceptively difficult. And there are at least 5 of ways to go about doing this.  This tutorial will show you several examples. It will also show you how to use fancy versions of space, too. You can do all this in]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C++ Vector – How to Initialize a Vector in a Constructor in C++]]></title>
-        <id>https://www.freecodecamp.org/news/cpp-vector-how-to-initialize-a-vector-in-a-constructor/</id>
-        <link href="https://www.freecodecamp.org/news/cpp-vector-how-to-initialize-a-vector-in-a-constructor/"/>
-        <updated>2022-05-27T20:08:33.000Z</updated>
-        <summary type="html"><![CDATA[When you're working with a collection of variables or data in programming, you usually store them in specific data types.  In C++, you can store them in arrays, structures, vectors, strings and so on. While these data structures have their distinctive features, we'll focus mainly on the various methods]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript For Loop – Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-for-loops/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-for-loops/"/>
-        <updated>2022-05-27T16:32:36.000Z</updated>
-        <summary type="html"><![CDATA[Loops are a programming concept that we constantly encounter and implement as JavaScript developers.  And many developers are familiar with loops, but not everyone understands how they work and why or when they should use a specific type of loop. In this article, we will learn what for loops]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
         </author>
     </entry>
     <entry>
@@ -383,17 +417,6 @@ How to Create Style Variations in WordPress 6.0 Block Themes originally publishe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cool Hover Effects That Use CSS Text Shadow]]></title>
-        <id>https://css-tricks.com/?p=365738</id>
-        <link href="https://css-tricks.com/cool-hover-effects-that-use-css-text-shadow/"/>
-        <updated>2022-05-13T14:43:17.000Z</updated>
-        <summary type="html"><![CDATA[In my last article we saw how CSS background properties allow us to create cool hover effects. This time, we will focus on the CSS text-shadow property to explore even more interesting hovers. You are probably wondering how adding shadow …
-Cool Hover Effects That Use CSS Text Shadow originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top Tasks: To Focus On What Matters You Must De-Focus On What Doesn’t]]></title>
         <id>https://smashingmagazine.com/2022/05/top-tasks-focus-what-matters-must-defocus-what-doesnt/</id>
         <link href="https://smashingmagazine.com/2022/05/top-tasks-focus-what-matters-must-defocus-what-doesnt/"/>
@@ -401,17 +424,6 @@ Cool Hover Effects That Use CSS Text Shadow originally published on CSS-Tricks. 
         <summary type="html"><![CDATA[We waste so much today. One way of focusing on what truly matters is by identifying Top Tasks for yourself. Learn how to make tough decisions by focusing on the real, quantifiable evidence that will help create a better experience for your users.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Gerry McGovern)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A CSS Slinky in 3D? Challenge Accepted!]]></title>
-        <id>https://css-tricks.com/?p=365706</id>
-        <link href="https://css-tricks.com/a-css-slinky-in-3d/"/>
-        <updated>2022-05-12T14:27:50.000Z</updated>
-        <summary type="html"><![CDATA[Braydon Coyer recently launched a monthly CSS art challenge. He actually had reached out to me about donating a copy of my book Move Things with CSS to use as a prize for the winner of the challenge — …
-A CSS Slinky in 3D? Challenge Accepted! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Jhey Tompkins</name>
         </author>
     </entry>
     <entry>
@@ -482,16 +494,6 @@ A CSS Slinky in 3D? Challenge Accepted! originally published on CSS-Tricks. You 
         <summary type="html"><![CDATA[How difficult can it be to design a bulletproof language selector? It’s not as straightforward as one might think. We need to avoid redirects, decouple our language and country presets, allow for overrides, and use non-modal windows. Let’s dive in!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Don’t Need A UI Framework]]></title>
-        <id>https://smashingmagazine.com/2022/05/you-dont-need-ui-framework/</id>
-        <link href="https://smashingmagazine.com/2022/05/you-dont-need-ui-framework/"/>
-        <updated>2022-05-03T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Developers often reach for UI frameworks like Bootstrap or Material UI, hoping that they’ll save a bunch of time and quickly build a professional-looking app. Unfortunately, things rarely work out this way. Let’s talk about it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Josh Comeau)</name>
         </author>
     </entry>
 </feed>
