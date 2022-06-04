@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-03T00:04:00.066Z</id>
+    <id>urn:2022-06-04T00:03:49.558Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-03T00:04:00.066Z</updated>
+    <updated>2022-06-04T00:03:49.558Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Please Give Me Some Space]]></title>
+        <id>https://css-tricks.com/?p=366202</id>
+        <link href="https://css-tricks.com/please-give-me-some-space/"/>
+        <updated>2022-06-03T14:39:11.000Z</updated>
+        <summary type="html"><![CDATA[There’s all kinds of ways to do that. Some more advisable and better-suited for certain situations than others, of course.
+We could do it directly in HTML:
+<pWe go from one line...<br<brdown a couple more.</p
+But that’s …
+Please Give Me Some Space originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring The Performance Of Typefaces For Users (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part1/</id>
+        <link href="https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part1/"/>
+        <updated>2022-06-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is the first part of this article, written especially for typeface designers and typographers. See how typefaces work, how to test them, and other broader typographic issues.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Thomas Bohm)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PHP Tutorial – How to Setup PHP and XAMPP for Your Project]]></title>
         <id>https://www.freecodecamp.org/news/how-to-get-started-with-php/</id>
@@ -406,17 +430,6 @@ Improving Icons for UI Elements with Typographic Alignment and Scale originally 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create Style Variations in WordPress 6.0 Block Themes]]></title>
-        <id>https://css-tricks.com/?p=365377</id>
-        <link href="https://css-tricks.com/creating-style-variations-in-wordpress-block-themes/"/>
-        <updated>2022-05-16T14:38:29.000Z</updated>
-        <summary type="html"><![CDATA[Global styles, a feature of the block themes, is one of my favorite parts of creating block themes. The concept of global style variations in WordPress were introduced in Gutenberg 12.5 which would allow theme authors to create alternate …
-How to Create Style Variations in WordPress 6.0 Block Themes originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ganesh Dahal</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rethinking Server-Timing As A Critical Monitoring Tool]]></title>
         <id>https://smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/</id>
         <link href="https://smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/"/>
@@ -484,16 +497,6 @@ How to Create Style Variations in WordPress 6.0 Block Themes originally publishe
         <summary type="html"><![CDATA[Let’s explore how to give and receive better feedback when working remotely — feedback that is actionable, specific, kind, and that won’t set you on edge. We’ll start by explaining when feedback sessions don’t work and how to prevent it.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joshua Mauldin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resilience, Flexibility And Immediacy: Working With Headless Systems]]></title>
-        <id>https://smashingmagazine.com/2022/05/resilience-flexibility-immediacy-headless-systems/</id>
-        <link href="https://smashingmagazine.com/2022/05/resilience-flexibility-immediacy-headless-systems/"/>
-        <updated>2022-05-05T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[When deploying websites, there’s rarely a one-size-fits-all solution. Some websites benefit from server-rendered pages, some prefer statically generating content upfront. In this article, Stefan explains how a CMS such as [Storyblok](https://www.storyblok.com/) can help you make your site more resilient without losing the flexibility to deliver time-relevant content.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stefan Baumgartner)</name>
         </author>
     </entry>
 </feed>
