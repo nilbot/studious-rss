@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-04T00:03:49.558Z</id>
+    <id>urn:2022-06-05T00:04:00.928Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-04T00:03:49.558Z</updated>
+    <updated>2022-06-05T00:04:00.928Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -487,16 +487,6 @@ Improving Icons for UI Elements with Typographic Alignment and Scale originally 
         <summary type="html"><![CDATA[At the end of 2021, the Chrome team shipped some functionality that has the ability to make or break sites meeting the Core Web Vitals. So, let’s learn a little bit more about the Back/Forward Cache (aka bfcache), and what you can do to test if your website is compatible with it.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Barry Pollard)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Give Effective Feedback Remotely]]></title>
-        <id>https://smashingmagazine.com/2022/05/give-effective-feedback-remotely/</id>
-        <link href="https://smashingmagazine.com/2022/05/give-effective-feedback-remotely/"/>
-        <updated>2022-05-06T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s explore how to give and receive better feedback when working remotely — feedback that is actionable, specific, kind, and that won’t set you on edge. We’ll start by explaining when feedback sessions don’t work and how to prevent it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Joshua Mauldin)</name>
         </author>
     </entry>
 </feed>
