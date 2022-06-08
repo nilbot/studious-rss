@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-07T00:04:03.142Z</id>
+    <id>urn:2022-06-08T00:03:50.321Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-07T00:04:03.142Z</updated>
+    <updated>2022-06-08T00:03:50.321Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hello World in Java – Example Program]]></title>
+        <id>https://www.freecodecamp.org/news/hello-world-in-java-example-program/</id>
+        <link href="https://www.freecodecamp.org/news/hello-world-in-java-example-program/"/>
+        <updated>2022-06-07T17:13:21.000Z</updated>
+        <summary type="html"><![CDATA[When you're learning a new programming language, you'll often see the first program called a "Hello World" program. It's used in most cases as a simple program for beginners.  I will assume that you're either reading this article as a beginner to the Java programming language or you're here]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Change Font with HTML]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-change-font-with-html/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-change-font-with-html/"/>
+        <updated>2022-06-07T16:41:40.000Z</updated>
+        <summary type="html"><![CDATA[Back in the days of HTML4, there was a  tag you could use to change the font size, font family, and the color of a text. But with HTML5, the  tag has been deprecated. So if you want to change anything related to the font, you have to]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Manage PostgreSQL Databases from the Command Line with psql]]></title>
+        <id>https://www.freecodecamp.org/news/manage-postgresql-with-psql/</id>
+        <link href="https://www.freecodecamp.org/news/manage-postgresql-with-psql/"/>
+        <updated>2022-06-07T15:29:11.000Z</updated>
+        <summary type="html"><![CDATA[Now is a great time to learn relational databases and SQL. From web development to data science, they are used everywhere.  In the Stack Overflow 2021 Survey [https://insights.stackoverflow.com/survey/2021#most-popular-technologies-database-prof] , 4 out of the top 5 database technologies used by professional developers were relational database management systems. PostgreSQL is an]]></summary>
+        <author>
+            <name>Gerard Hynes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Interoperable Web Components That Even Work With React]]></title>
+        <id>https://css-tricks.com/?p=366222</id>
+        <link href="https://css-tricks.com/building-interoperable-web-components-react/"/>
+        <updated>2022-06-07T13:57:57.000Z</updated>
+        <summary type="html"><![CDATA[Those of us who’ve been web developers more than a few years have probably written code using more than one JavaScript framework. With all the choices out there — React, Svelte, Vue, Angular, Solid — it’s all but inevitable. One …
+Building Interoperable Web Components That Even Work With React originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Museums For Digital History]]></title>
+        <id>https://smashingmagazine.com/2022/06/digital-museums-digital-history/</id>
+        <link href="https://smashingmagazine.com/2022/06/digital-museums-digital-history/"/>
+        <updated>2022-06-07T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Computer technologies have simplified the process of recording historical events, technological breakthroughs, contemporary art, and everyday life. However, the notion of digital archiving can be deceptive. Often our technical footprints are carved in sand rather than stone.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alexey &amp; Alexander)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Prepare for Technical Interviews – Problem-Solving Tips + Mindset Tricks to Get You Ready]]></title>
+        <id>https://www.freecodecamp.org/news/problem-solving-and-technical-interview-prep/</id>
+        <link href="https://www.freecodecamp.org/news/problem-solving-and-technical-interview-prep/"/>
+        <updated>2022-06-06T22:50:19.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article we're going to talk a bit about technical interviews. I'll share a few tips that, based on my experience, might help you go through these interviews successfully. I originally wrote this article more than a year ago, before getting my first job offer as a]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Foundational Mathematics on freeCodeCamp – Interactive Math Courses Open Beta]]></title>
         <id>https://www.freecodecamp.org/news/freecodecamp-foundational-math-curriculum/</id>
@@ -63,46 +124,6 @@
         <summary type="html"><![CDATA[There are a couple different ways to copy and paste content when you're working on your computer. If you spend more time in the user interface of your device, you'll probably use your mouse to do this. You can copy files by right-clicking on the file and selecting "Copy", then]]></summary>
         <author>
             <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Insert a Checkbox in Excel]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-insert-a-checkbox-in-excel/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-insert-a-checkbox-in-excel/"/>
-        <updated>2022-06-06T15:53:58.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Excel is a dynamic data analysis tool you can use to do virtually anything. From charting, graphing, and financial analysis to interactive forms and to-do lists, it's got you covered. If you want to use Excel to make a To-do list, an interactive form, or a printable form, then]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crow's Foot Notation – Relationship Symbols And How to Read Diagrams]]></title>
-        <id>https://www.freecodecamp.org/news/crows-foot-notation-relationship-symbols-and-how-to-read-diagrams/</id>
-        <link href="https://www.freecodecamp.org/news/crows-foot-notation-relationship-symbols-and-how-to-read-diagrams/"/>
-        <updated>2022-06-06T15:11:31.000Z</updated>
-        <summary type="html"><![CDATA[Entity relationship diagrams (ERD) help us understand the connection between various "entities" that make up a system.  In software development, ERDs are mostly used in database design. This lets us create graphical representations of the entities that make up systems such as a database (you will understand this better]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to Algorithms – with JavaScript Examples]]></title>
-        <id>https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/</id>
-        <link href="https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/"/>
-        <updated>2022-06-06T14:40:36.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone! In this article we're going to take a look at algorithms, a key topic when it comes to computer science and software development. Algorithm is a fancy, sometimes intimidating, and often misunderstood word. It sounds like something really hard and complex, but actually it's nothing more than a]]></summary>
-        <author>
-            <name>Germán Cocca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Link – How to Turn an Image into a Link and Nest Links Inside Paragraphs]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-turn-text-and-images-into-links-using-html/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-turn-text-and-images-into-links-using-html/"/>
-        <updated>2022-06-06T13:52:49.000Z</updated>
-        <summary type="html"><![CDATA[There will be times where you will want to nest links inside paragraphs or turn an image into a link. But how do you go about doing that in HTML? In this article, I will show you how to nest links inside paragraphs and how to turn an image]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
         </author>
     </entry>
     <entry>
@@ -263,7 +284,7 @@ Cool CSS Hover Effects That Use Background Clipping, Masks, and 3D originally pu
         <updated>2022-05-26T09:30:00.000Z</updated>
         <summary type="html"><![CDATA[From working with design handoffs to supporting custom themes in a design system, the CSS `color-contrast()` function can become a cornerstone for developers by enforcing accessible UIs.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Daniel Yuschik)</name>
+            <name>hello@smashingmagazine.com (Daniel Yuschick)</name>
         </author>
     </entry>
     <entry>
@@ -409,17 +430,6 @@ An Interactive Starry Backdrop for Content originally published on CSS-Tricks. Y
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Improving Icons for UI Elements with Typographic Alignment and Scale]]></title>
-        <id>https://css-tricks.com/?p=365531</id>
-        <link href="https://css-tricks.com/improving-icons-for-ui-elements-with-typographic-alignment-and-scale/"/>
-        <updated>2022-05-17T14:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Utilizing icons in user interface elements is helpful. In addition to element labeling, icons can help reinforce a user element’s intention to users. But I have to say, I notice a bit of icon misalignment while browsing the web. Even …
-Improving Icons for UI Elements with Typographic Alignment and Scale originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Marcel Moreau</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Smashing Podcast Episode 46 With Vitaly Friedman: Who Is Elliot Jay Stocks?]]></title>
         <id>https://smashingmagazine.com/2022/05/smashing-podcast-episode-46/</id>
         <link href="https://smashingmagazine.com/2022/05/smashing-podcast-episode-46/"/>
@@ -487,16 +497,6 @@ Improving Icons for UI Elements with Typographic Alignment and Scale originally 
         <summary type="html"><![CDATA[Smart SVG techniques, from generative SVG grids to SVG paths with masks, grainy SVG gradients, cut-out effects and fractional SVG stars. Let’s look at some magical SVG techniques that you can use right away.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Performance Game Changer: Browser Back/Forward Cache]]></title>
-        <id>https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/</id>
-        <link href="https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/"/>
-        <updated>2022-05-09T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[At the end of 2021, the Chrome team shipped some functionality that has the ability to make or break sites meeting the Core Web Vitals. So, let’s learn a little bit more about the Back/Forward Cache (aka bfcache), and what you can do to test if your website is compatible with it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Barry Pollard)</name>
         </author>
     </entry>
 </feed>
