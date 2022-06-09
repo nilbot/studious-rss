@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366147",
+          "author": "Geoff Graham",
+          "description": "QR codes are funny, right? We love them, then hate them, then love them again. Anyways, they’ve lately been popping up again and it got me thinking about how they’re made. There are like a gazillion QR code generators out …\nLet’s Make a QR Code Generator With a Serverless Function! originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/lets-make-a-qr-code-generator-with-a-serverless-function/",
+          "publishedOn": "2022-06-08T14:30:53.000Z",
+          "wordCount": 937,
+          "title": "Let’s Make a QR Code Generator With a Serverless Function!",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366147"
+        },
+        {
           "id": "https://css-tricks.com/?p=366222",
           "author": "Adam Rackis",
           "description": "Those of us who’ve been web developers more than a few years have probably written code using more than one JavaScript framework. With all the choices out there — React, Svelte, Vue, Angular, Solid — it’s all but inevitable. One …\nBuilding Interoperable Web Components That Even Work With React originally published on CSS-Tricks. You should get the newsletter.",
@@ -150,16 +160,6 @@
           "wordCount": 2102,
           "title": "Inline Image Previews with Sharp, BlurHash, and Lambda Functions",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365784"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365766",
-          "author": "Jhey Tompkins",
-          "description": "I was fortunate last year to get approached by Shawn Wang (swyx) about doing some work for Temporal. The idea was to cast my creative eye over what was on the site and come up with some …\nAn Interactive Starry Backdrop for Content originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/an-interactive-starry-backdrop-for-content/",
-          "publishedOn": "2022-05-18T14:16:43.000Z",
-          "wordCount": 2935,
-          "title": "An Interactive Starry Backdrop for Content",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365766"
         }
       ]
     },
@@ -169,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/",
+          "author": "hello@smashingmagazine.com (Daniel Yuschick)",
+          "description": "CSS color-mix is an experimental function that blends two colors and can be used to simplify color palettes. You can define a color palette and theme without too much effort using CSS color-mix().",
+          "link": "https://smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/",
+          "publishedOn": "2022-06-08T09:00:00.000Z",
+          "wordCount": 2586,
+          "title": "Simplify Your Color Palette With CSS Color-Mix()",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57b9844c-e3aa-48e2-9d72-3938dbf553d0/simplify-color-palette-css-color-mix-sharing-card.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57b9844c-e3aa-48e2-9d72-3938dbf553d0/simplify-color-palette-css-color-mix-sharing-card.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/06/digital-museums-digital-history/",
           "author": "hello@smashingmagazine.com (Alexey & Alexander)",
           "description": "Computer technologies have simplified the process of recording historical events, technological breakthroughs, contemporary art, and everyday life. However, the notion of digital archiving can be deceptive. Often our technical footprints are carved in sand rather than stone.",
           "link": "https://smashingmagazine.com/2022/06/digital-museums-digital-history/",
           "publishedOn": "2022-06-07T09:30:00.000Z",
-          "wordCount": 2704,
+          "wordCount": 2698,
           "title": "Digital Museums For Digital History",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87001d28-4e45-46cd-8a5c-be63cc0a413c/digital-museums-digital-history.jpg",
@@ -204,7 +219,7 @@
           "description": "This is the first part of this article, written especially for typeface designers and typographers. See how typefaces work, how to test them, and other broader typographic issues.",
           "link": "https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part1/",
           "publishedOn": "2022-06-03T10:00:00.000Z",
-          "wordCount": 4625,
+          "wordCount": 4617,
           "title": "Measuring The Performance Of Typefaces For Users (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e5266a-c3c0-42f8-9d26-79a729c3db3f/measuring-performance-typaces-users-part1-card.jpg",
@@ -219,7 +234,7 @@
           "description": "In this tutorial, you will learn how to create a group chat app. You will build a backend app using Node.js that will make group chats, authorize chat participants, and maintain sessions for them.",
           "link": "https://smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/",
           "publishedOn": "2022-06-02T09:30:00.000Z",
-          "wordCount": 4590,
+          "wordCount": 4582,
           "title": "How To Build A Group Chat App With Vanilla JS, Twilio And Node.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fd5325c3-f376-4565-9ce4-a3798d7d33b3/build-group-chat-app-vanillajs-twilio-nodejs.jpg",
@@ -234,7 +249,7 @@
           "description": "In this article, Ken Harker explains what third-party resource requests really are and which common optimization strategies can help reduce the impact on the user experience. By carefully considering how third-party requests will fit into your website during the design stage, you’ll be able to avoid the most significant negative impacts.",
           "link": "https://smashingmagazine.com/2022/06/dont-sink-website-third-parties/",
           "publishedOn": "2022-06-01T10:00:00.000Z",
-          "wordCount": 4601,
+          "wordCount": 4604,
           "title": "Don’t Sink Your Website With Third Parties",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/65099ffa-f954-430f-992a-8078a8331802/dont-sink-website-third-parties.jpg",
@@ -249,7 +264,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2022/05/desktop-wallpaper-calendars-june-2022/",
           "publishedOn": "2022-05-31T12:30:00.000Z",
-          "wordCount": 2844,
+          "wordCount": 2847,
           "title": "Expand Your Horizons (June 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1c6a9a31-4619-4c93-b9ea-65b5f50082cd/june-22-create-your-own-path-preview-opt.png",
@@ -279,7 +294,7 @@
           "description": "How many browser DevTools panels do you commonly use in your day-to-day web development? One? Three? Probably not that many more. In this article, Patrick Brosset shines the spotlight on a number of tools that people don’t use or even know about. Let’s dive in!",
           "link": "https://smashingmagazine.com/2022/05/whats-that-dev-tool/",
           "publishedOn": "2022-05-30T13:30:00.000Z",
-          "wordCount": 3313,
+          "wordCount": 3315,
           "title": "What’s That (Dev) Tool?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6a1e15f7-a8bd-4593-b880-c9857e673516/whats-that-dev-tool.jpg",
@@ -294,7 +309,7 @@
           "description": "In this article, Vijay describes his learning experiences during the design stages of creating his 3dicons image library (a free library for product screens, social media posts and marketing campaigns), which you can download and use for free.",
           "link": "https://smashingmagazine.com/2022/05/3dicons-open-source-library-case-study-download/",
           "publishedOn": "2022-05-27T09:00:00.000Z",
-          "wordCount": 3069,
+          "wordCount": 3054,
           "title": "Open-Source 3dicons Library: Case Study And Free Downloads",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/af9b67f7-433c-421a-8fe6-14878b3f884d/3dicons-open-source-library-case-study-download.jpg",
@@ -309,7 +324,7 @@
           "description": "From working with design handoffs to supporting custom themes in a design system, the CSS `color-contrast()` function can become a cornerstone for developers by enforcing accessible UIs.",
           "link": "https://smashingmagazine.com/2022/05/accessible-design-system-themes-css-color-contrast/",
           "publishedOn": "2022-05-26T09:30:00.000Z",
-          "wordCount": 2866,
+          "wordCount": 2870,
           "title": "Manage Accessible Design System Themes With CSS Color-Contrast()",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1fd91360-3b48-4a72-9280-c778dc5dc53d/manage-accessible-design-system-themes-with-css-color-contrast-card-v2.jpg",
@@ -324,7 +339,7 @@
           "description": "In this article, Frank Joseph explains both weak and strong references in JavaScript, as well as the concept of reachability. Let’s dig in!",
           "link": "https://smashingmagazine.com/2022/05/understanding-weak-reference-javascript/",
           "publishedOn": "2022-05-25T09:30:00.000Z",
-          "wordCount": 2101,
+          "wordCount": 2105,
           "title": "Understanding Weak Reference In JavaScript",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/44544ece-23b3-48cb-b2bf-0183a32d2bee/understanding-weak-reference-javascript.jpg",
@@ -354,7 +369,7 @@
           "description": "CSS is constantly evolving, and some cool and useful properties either go completely unnoticed or are not talked about as much as others for some reason or another. In this article, we’ll cover a fraction of those CSS properties and selectors.",
           "link": "https://smashingmagazine.com/2022/05/lesser-known-underused-css-features-2022/",
           "publishedOn": "2022-05-23T09:30:00.000Z",
-          "wordCount": 3774,
+          "wordCount": 3778,
           "title": "Lesser-Known And Underused CSS Features In 2022",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9c50c872-d96b-41ae-8289-25b78c7f279f/lesser-known-underused-css-features-2022.jpg",
@@ -369,7 +384,7 @@
           "description": "In this article, we will see step-by-step how you can get the best of customization with easy admin by using Ghost as a headless CMS for a Gatsby static site — everything for free.",
           "link": "https://smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/",
           "publishedOn": "2022-05-20T08:30:00.000Z",
-          "wordCount": 4350,
+          "wordCount": 4361,
           "title": "The Ultimate Free Solo Blog Setup With Ghost And Gatsby",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dee282b4-4b4e-4b89-b8e1-4d319ce85367/ultimate-free-solo-blog-setup-ghost-gatsby.jpg",
@@ -384,7 +399,7 @@
           "description": "In this article, Benjamin Ajibade introduces Kubernetes to front-end engineers and explaines why Kubernetes is integral in a production-ready microservice architecture. Some key terms that are important for team collaboration will be discussed and conclude the post with a quick deployment to getting started as a beginner.",
           "link": "https://smashingmagazine.com/2022/05/kubernetes-front-end-developers/",
           "publishedOn": "2022-05-19T11:30:00.000Z",
-          "wordCount": 3073,
+          "wordCount": 3067,
           "title": "Kubernetes For Frontend Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a377d64d-af16-4fb1-8159-2c9fa0ab72c4/kubernetes-front-end-developers.jpg",
@@ -429,7 +444,7 @@
           "description": "What makes the underused `Server-Timing` header uniquely powerful among all other response headers? We’ll rethink the expectation for using it exclusively for timing and see fast solutions for hard-to-solve monitoring challenges.",
           "link": "https://smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/",
           "publishedOn": "2022-05-16T10:00:00.000Z",
-          "wordCount": 5116,
+          "wordCount": 5114,
           "title": "Rethinking Server-Timing As A Critical Monitoring Tool",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4f69c3e0-764f-4cfb-b8f8-7a4420d0e2f6/rethinking-server-timing-monitoring-tool.jpg",
@@ -444,7 +459,7 @@
           "description": "We waste so much today. One way of focusing on what truly matters is by identifying Top Tasks for yourself. Learn how to make tough decisions by focusing on the real, quantifiable evidence that will help create a better experience for your users.",
           "link": "https://smashingmagazine.com/2022/05/top-tasks-focus-what-matters-must-defocus-what-doesnt/",
           "publishedOn": "2022-05-13T11:30:00.000Z",
-          "wordCount": 3224,
+          "wordCount": 3236,
           "title": "Top Tasks: To Focus On What Matters You Must De-Focus On What Doesn’t",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e92d1278-297a-41d9-8ba2-e5100063610e/top-tasks-focus-what-matters-must-defocus-what-doesnt.jpg",
@@ -459,7 +474,7 @@
           "description": "In this article, Dan Shappir analyzes the performance cost associated with various frameworks and explains the wide variety of framework and platform choices that are currently available to front-end and fullstack developers.",
           "link": "https://smashingmagazine.com/2022/05/google-crux-analysis-comparison-performance-javascript-frameworks/",
           "publishedOn": "2022-05-12T09:30:00.000Z",
-          "wordCount": 4375,
+          "wordCount": 4370,
           "title": "How To Use Google CrUX To Analyze And Compare The Performance Of JS Frameworks",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d9ea7394-c230-471d-aafe-9977a30bdf3b/google-crux-analysis-comparison-performance-javascript-frameworks.jpg",
@@ -474,7 +489,7 @@
           "description": "In this article, we will be taking a closer look at a design case study and discuss possible reasons why its customers abandon their online shopping carts and what solutions are recommended in each particular case.",
           "link": "https://smashingmagazine.com/2022/05/sunuva-case-study-ux-changes-result-increase-conversion/",
           "publishedOn": "2022-05-11T10:00:00.000Z",
-          "wordCount": 2091,
+          "wordCount": 2095,
           "title": "How Even Small UX Changes Can Result In An Increase In Conversion (A Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/de6a0a8a-3eae-4d7a-af27-50363c857936/sunuva-case-study-ux-changes-result-increase-conversion.jpg",
@@ -482,21 +497,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/de6a0a8a-3eae-4d7a-af27-50363c857936/sunuva-case-study-ux-changes-result-increase-conversion.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/magical-svg-techniques/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Smart SVG techniques, from generative SVG grids to SVG paths with masks, grainy SVG gradients, cut-out effects and fractional SVG stars. Let’s look at some magical SVG techniques that you can use right away.",
-          "link": "https://smashingmagazine.com/2022/05/magical-svg-techniques/",
-          "publishedOn": "2022-05-10T10:00:00.000Z",
-          "wordCount": 2389,
-          "title": "Magical SVG Techniques",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6be13a6e-5850-49e2-82b0-89d47212c66c/animated-debit-card-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6be13a6e-5850-49e2-82b0-89d47212c66c/animated-debit-card-opt.png"
         }
       ]
     },
@@ -505,6 +505,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/inline-style-in-html/",
+          "author": "Joel Olawanle",
+          "description": "Cascading Style Sheets (CSS) is a markup language that determines how your web pages will appear. It manages the colors, fonts, and layouts of your website elements, as well as allowing you to add effects or animations to your pages. We can style an HTML file/page in three ways: external",
+          "link": "https://www.freecodecamp.org/news/inline-style-in-html/",
+          "publishedOn": "2022-06-08T21:24:31.000Z",
+          "wordCount": 929,
+          "title": "Inline Style in HTML – CSS Inline Styles",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover-template-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/error-502-bad-gateway-meaning/",
+          "author": "Kolade Chris",
+          "description": "When you visit a website and you get a “502 Bad Gateway” error, it means there’s an issue with the servers powering the website. On many occasions, this error is an issue with the website itself, so on your end, there’s nothing you can do to solve it. But the",
+          "link": "https://www.freecodecamp.org/news/error-502-bad-gateway-meaning/",
+          "publishedOn": "2022-06-08T20:21:52.000Z",
+          "wordCount": 734,
+          "title": "Error 502 Bad Gateway Meaning",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/502b.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-enumerate-what-is-the-enumerate-function-in-python/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "The enumerate() function in Python takes in a data collection as a parameter and returns an enumerate object.  The enumerate object is returned in a key-value pair format. The key is the corresponding index of each item and the value is the items.  In this article, we'll see",
+          "link": "https://www.freecodecamp.org/news/python-enumerate-what-is-the-enumerate-function-in-python/",
+          "publishedOn": "2022-06-08T19:56:15.000Z",
+          "wordCount": 915,
+          "title": "Python enumerate() – What is the Enumerate Function in Python?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/edge2edge-media-uKlneQRwaxY-unsplash--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-remove-a-directory-in-linux/",
+          "author": "Dillion Megida",
+          "description": "If you're using a user interface, you can right-click on a directory and select \"Delete\" or \"Move to Bin\". But how do you do this on the terminal? I'll explain that in this article. How to Remove a Directory in Linux There are two ways to remove directories in Linux:",
+          "link": "https://www.freecodecamp.org/news/how-to-remove-a-directory-in-linux/",
+          "publishedOn": "2022-06-08T17:11:56.000Z",
+          "wordCount": 1016,
+          "title": "How to Remove a Directory in Linux – Delete a Folder Command",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/delete-folders-command.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-implement-any-ui-in-flutter/",
+          "author": "Obumuneme Nwabude",
+          "description": "In this article, you will learn how to convert any user interface image, piece, or screen into Flutter [https://flutter.dev] code. This is not a tutorial on building an app. It is rather a guide that will help you implement any UI you come across into an app you already have.",
+          "link": "https://www.freecodecamp.org/news/how-to-implement-any-ui-in-flutter/",
+          "publishedOn": "2022-06-08T15:22:36.000Z",
+          "wordCount": 2657,
+          "title": "How to Implement Any UI in Flutter",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/anyuicover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/speech-recognition-in-python/",
+          "author": "Beau Carnes",
+          "description": "Speech recognition allows software to recognize speech within audio and convert it into text. There are many interesting use-cases for speech recognition and it is easier than you may think to add it your own applications. We just published a course on the freeCodeCamp.org YouTube channel that will teach you",
+          "link": "https://www.freecodecamp.org/news/speech-recognition-in-python/",
+          "publishedOn": "2022-06-08T14:10:46.000Z",
+          "wordCount": 576,
+          "title": "Speech Recognition in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/speachai.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-react-components/",
+          "author": "Spruce Emmanuel",
+          "description": "I wrote the article \"How to Search and Filter Components in React\" exactly one year ago. > If you're building a React app, you want your users to be able to search & get exact results. And if you're getting data from an API, they need to be able to",
+          "link": "https://www.freecodecamp.org/news/how-to-react-components/",
+          "publishedOn": "2022-06-07T23:37:17.000Z",
+          "wordCount": 1564,
+          "title": "React Components – How to Create a Search, Filter, and Pagination Component in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/wirxeocmd6tpnn9c5oqc.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-add-jwt-authentication-in-fastapi/",
+          "author": "Abdullah Adeel",
+          "description": "FastAPI [https://fastapi.tiangolo.com/] is a modern, fast, battle tested and light-weight web development framework written in Python. Other popular options in the space are Django [https://www.djangoproject.com/], Flask [https://flask.palletsprojects.com/en/2.1.x/]and Bottle [https://bottlepy.org/docs/dev/]. And since it's new, FastAPI comes with both advantages and disadvantages. On the positive side, FastAPI implements all the modern standards,",
+          "link": "https://www.freecodecamp.org/news/how-to-add-jwt-authentication-in-fastapi/",
+          "publishedOn": "2022-06-07T23:28:25.000Z",
+          "wordCount": 2228,
+          "title": "How to Add JWT Authentication in FastAPI – A Practical Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/fcc-fastapi-jwt-auth.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/hello-world-in-java-example-program/",
           "author": "Ihechikara Vincent Abba",
@@ -524,86 +604,6 @@
           "wordCount": 1142,
           "title": "How to Change Font with HTML",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/abc-3523454_1280.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/manage-postgresql-with-psql/",
-          "author": "Gerard Hynes",
-          "description": "Now is a great time to learn relational databases and SQL. From web development to data science, they are used everywhere.  In the Stack Overflow 2021 Survey [https://insights.stackoverflow.com/survey/2021#most-popular-technologies-database-prof] , 4 out of the top 5 database technologies used by professional developers were relational database management systems. PostgreSQL is an",
-          "link": "https://www.freecodecamp.org/news/manage-postgresql-with-psql/",
-          "publishedOn": "2022-06-07T15:29:11.000Z",
-          "wordCount": 3214,
-          "title": "How to Manage PostgreSQL Databases from the Command Line with psql",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/manage-postgreSQL-with-psql.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/problem-solving-and-technical-interview-prep/",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this article we're going to talk a bit about technical interviews. I'll share a few tips that, based on my experience, might help you go through these interviews successfully. I originally wrote this article more than a year ago, before getting my first job offer as a",
-          "link": "https://www.freecodecamp.org/news/problem-solving-and-technical-interview-prep/",
-          "publishedOn": "2022-06-06T22:50:19.000Z",
-          "wordCount": 4011,
-          "title": "How to Prepare for Technical Interviews – Problem-Solving Tips + Mindset Tricks to Get You Ready",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/pexels-christina-morillo-1181345.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/freecodecamp-foundational-math-curriculum/",
-          "author": "Ed Pratowski",
-          "description": "Do you want to use Python to solve math problems? Then freeCodeCamp's new Foundational Math course will guide you through the essential math you need to know to prepare you for the Data Science curriculum.  You will get a math refresher with a twist. Instead of using a pencil",
-          "link": "https://www.freecodecamp.org/news/freecodecamp-foundational-math-curriculum/",
-          "publishedOn": "2022-06-06T21:58:53.000Z",
-          "wordCount": 1184,
-          "title": "Learn Foundational Mathematics on freeCodeCamp – Interactive Math Courses Open Beta",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/pexels-nothing-ahead-3729557.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-interview-questions-and-answers/",
-          "author": "Joel Olawanle",
-          "description": "React is a JavaScript library for creating user interfaces. It's used in over 30,000 live websites and has over 70,000 GitHub stars.  According to the 2021 Stack Overflow developer survey [https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-web-frameworks] , React has surpassed jQuery as the most popular web framework, and holds approximately 40.14% of the market",
-          "link": "https://www.freecodecamp.org/news/react-interview-questions-and-answers/",
-          "publishedOn": "2022-06-06T21:55:16.000Z",
-          "wordCount": 2605,
-          "title": "React Interview Questions – Interview Prep with Answers and Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover-template.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-does-a-data-analyst-do-data-analyst-job-description/",
-          "author": "Dionysia Lemonaki",
-          "description": "We live in a digital world, and with each passing day, we create 2.5 quintillion  bytes of data. That amount of data is generated by activities like browsing the web, using social media sites and streaming platforms, and communicating via instant messaging applications with friends and family. These are",
-          "link": "https://www.freecodecamp.org/news/what-does-a-data-analyst-do-data-analyst-job-description/",
-          "publishedOn": "2022-06-06T20:44:16.000Z",
-          "wordCount": 1856,
-          "title": "What Does a Data Analyst Do? Data Analyst Job Description",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/carlos-muza-hpjSkU2UYSU-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-does-k8s-mean-kubernetes-setup-guide/",
-          "author": "Sebastian Sigl",
-          "description": "You might've seen the term k8s in different sources, and wondered what it means. Well, it means Kubernetes. The abbreviation consists of:  * \"k\" which is the first letter of Kubernetes,  * \"8\" which is the number of letters between the first and the last in the",
-          "link": "https://www.freecodecamp.org/news/what-does-k8s-mean-kubernetes-setup-guide/",
-          "publishedOn": "2022-06-06T19:46:37.000Z",
-          "wordCount": 1168,
-          "title": "What Does K8s Mean? How to Set Up Kubernetes and Manage Clusters",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/what-does-k8s-mean.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/git-checkout-file-from-another-branch/",
-          "author": "Tim Mouskhelichvili",
-          "description": "While you're working on a repository in Git, you might need to checkout a specific file from another branch. Luckily, Git offers many possible ways to do this task quickly. One of the easiest solutions is to use the git checkout command with the specified file as an argument. In",
-          "link": "https://www.freecodecamp.org/news/git-checkout-file-from-another-branch/",
-          "publishedOn": "2022-06-06T19:36:25.000Z",
-          "wordCount": 781,
-          "title": "Git Checkout – How to Checkout a File from Another Branch",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-linux-cp-command-how-to-copy-files-in-linux/",
-          "author": "Dillion Megida",
-          "description": "There are a couple different ways to copy and paste content when you're working on your computer. If you spend more time in the user interface of your device, you'll probably use your mouse to do this. You can copy files by right-clicking on the file and selecting \"Copy\", then",
-          "link": "https://www.freecodecamp.org/news/the-linux-cp-command-how-to-copy-files-in-linux/",
-          "publishedOn": "2022-06-06T16:06:41.000Z",
-          "wordCount": 880,
-          "title": "The Linux cp Command – How to Copy Files in Linux",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/linux-cp-command.png"
         }
       ]
     }
