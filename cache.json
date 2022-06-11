@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366266",
+          "author": "Temani Afif",
+          "description": "Making CSS-only loaders is one of my favorite tasks. It’s always satisfying to look at those infinite animations. And, of course, there are lots of techniques and approaches to make them — no need to look further than CodePen to …\nSingle Element Loaders: The Spinner originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/single-element-loaders-the-spinner/",
+          "publishedOn": "2022-06-10T14:26:06.000Z",
+          "wordCount": 2112,
+          "title": "Single Element Loaders: The Spinner",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366266"
+        },
+        {
           "id": "https://css-tricks.com/?p=366286",
           "author": "Geoff Graham",
           "description": "Can’t smash the Like button hard enough for what Miriam Suzanne has to say on the challenging technical hurdles of implementing Webmentions:\nThe first round required several online services along with HTML & JS changes to my static site, just to verify my \n…\nAm I on the IndieWeb yet? originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/am-i-on-the-indieweb-yet/",
           "publishedOn": "2022-06-09T15:32:50.000Z",
-          "wordCount": 703,
+          "wordCount": 813,
           "title": "Am I on the IndieWeb yet?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366286"
         },
@@ -150,16 +160,6 @@
           "wordCount": 3341,
           "title": "Dialog Components: Go Native HTML or Roll Your Own?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365804"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365971",
-          "author": "Geoff Graham",
-          "description": "Zeldman:\nYou may not know his name, but he played a huge part in creating the web you take for granted today. And he’s back—kind of.\nThat would be Glenn Davis and the Verevolf site Zeldman’s talking about. The …\nVerevolf originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/verevolf/",
-          "publishedOn": "2022-05-20T20:24:43.000Z",
-          "wordCount": 390,
-          "title": "Verevolf",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365971"
         }
       ]
     },
@@ -169,12 +169,42 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/06/devfest-for-ukraine/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "[DevFest for Ukraine](https://devfest.gdg.org.ua/) is a charitable online conference that will bring together 20 industry-leading tech speakers in support of Ukraine. June 14–15.",
+          "link": "https://smashingmagazine.com/2022/06/devfest-for-ukraine/",
+          "publishedOn": "2022-06-10T13:59:00.000Z",
+          "wordCount": 573,
+          "title": "DevFest For Ukraine, A Charity Conference On The Future Of Tech 🇺🇦",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0a3698-69d2-4226-9d53-f691fdac18f4/devfest-for-ukraine-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0a3698-69d2-4226-9d53-f691fdac18f4/devfest-for-ukraine-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part2/",
+          "author": "hello@smashingmagazine.com (Thomas Bohm)",
+          "description": "In this article, Thomas Bohm explains ways to test typefaces and other typographic issues. Though this article is slightly high-end and academic, fear not. The content will be interesting, especially for committed typeface designers and typographers. If you like complex issues and problems, this is for you.",
+          "link": "https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part2/",
+          "publishedOn": "2022-06-10T08:00:00.000Z",
+          "wordCount": 4444,
+          "title": "Measuring The Performance Of Typefaces For Users (Part 2)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/22bde778-9f2e-45d3-97cd-ae5eedf4d0c0/measuring-performance-typaces-users-part2-card.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/22bde778-9f2e-45d3-97cd-ae5eedf4d0c0/measuring-performance-typaces-users-part2-card.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/06/future-frontend-build-tools/",
           "author": "hello@smashingmagazine.com (Alexander Joseph)",
           "description": "This article explores the evolution and the future of frontend tooling, presenting a new set of tools featuring a change in paradigm, platform, or both.",
           "link": "https://smashingmagazine.com/2022/06/future-frontend-build-tools/",
           "publishedOn": "2022-06-09T09:00:00.000Z",
-          "wordCount": 2271,
+          "wordCount": 2262,
           "title": "The Future Of Frontend Build Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5e3cc4f1-5fa4-463b-97b6-581fd51b1ef0/future-frontend-tooling-v5-sharing-card.jpg",
@@ -189,7 +219,7 @@
           "description": "CSS color-mix is an experimental function that blends two colors and can be used to simplify color palettes. You can define a color palette and theme without too much effort using CSS color-mix().",
           "link": "https://smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/",
           "publishedOn": "2022-06-08T09:00:00.000Z",
-          "wordCount": 2582,
+          "wordCount": 2574,
           "title": "Simplify Your Color Palette With CSS Color-Mix()",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57b9844c-e3aa-48e2-9d72-3938dbf553d0/simplify-color-palette-css-color-mix-sharing-card.jpg",
@@ -204,7 +234,7 @@
           "description": "Computer technologies have simplified the process of recording historical events, technological breakthroughs, contemporary art, and everyday life. However, the notion of digital archiving can be deceptive. Often our technical footprints are carved in sand rather than stone.",
           "link": "https://smashingmagazine.com/2022/06/digital-museums-digital-history/",
           "publishedOn": "2022-06-07T09:30:00.000Z",
-          "wordCount": 2689,
+          "wordCount": 2685,
           "title": "Digital Museums For Digital History",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87001d28-4e45-46cd-8a5c-be63cc0a413c/digital-museums-digital-history.jpg",
@@ -219,7 +249,7 @@
           "description": "In this article, Sam Poder explores how Prisma integrates with the Jamstack and why it’s a great solution for Serverless databases in JavaScript or TypeScript-based projects.",
           "link": "https://smashingmagazine.com/2022/06/case-prisma-jamstack/",
           "publishedOn": "2022-06-06T09:00:00.000Z",
-          "wordCount": 2356,
+          "wordCount": 2345,
           "title": "The Case For Prisma In The Jamstack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/30c31583-7e46-4566-b2d3-bef54dd64152/case-prisma-jamstack.jpg",
@@ -234,7 +264,7 @@
           "description": "This is the first part of this article, written especially for typeface designers and typographers. See how typefaces work, how to test them, and other broader typographic issues.",
           "link": "https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part1/",
           "publishedOn": "2022-06-03T10:00:00.000Z",
-          "wordCount": 4625,
+          "wordCount": 4623,
           "title": "Measuring The Performance Of Typefaces For Users (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e5266a-c3c0-42f8-9d26-79a729c3db3f/measuring-performance-typaces-users-part1-card.jpg",
@@ -249,7 +279,7 @@
           "description": "In this tutorial, you will learn how to create a group chat app. You will build a backend app using Node.js that will make group chats, authorize chat participants, and maintain sessions for them.",
           "link": "https://smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/",
           "publishedOn": "2022-06-02T09:30:00.000Z",
-          "wordCount": 4596,
+          "wordCount": 4580,
           "title": "How To Build A Group Chat App With Vanilla JS, Twilio And Node.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fd5325c3-f376-4565-9ce4-a3798d7d33b3/build-group-chat-app-vanillajs-twilio-nodejs.jpg",
@@ -264,7 +294,7 @@
           "description": "In this article, Ken Harker explains what third-party resource requests really are and which common optimization strategies can help reduce the impact on the user experience. By carefully considering how third-party requests will fit into your website during the design stage, you’ll be able to avoid the most significant negative impacts.",
           "link": "https://smashingmagazine.com/2022/06/dont-sink-website-third-parties/",
           "publishedOn": "2022-06-01T10:00:00.000Z",
-          "wordCount": 4600,
+          "wordCount": 4596,
           "title": "Don’t Sink Your Website With Third Parties",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/65099ffa-f954-430f-992a-8078a8331802/dont-sink-website-third-parties.jpg",
@@ -279,7 +309,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2022/05/desktop-wallpaper-calendars-june-2022/",
           "publishedOn": "2022-05-31T12:30:00.000Z",
-          "wordCount": 2849,
+          "wordCount": 2841,
           "title": "Expand Your Horizons (June 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1c6a9a31-4619-4c93-b9ea-65b5f50082cd/june-22-create-your-own-path-preview-opt.png",
@@ -309,7 +339,7 @@
           "description": "How many browser DevTools panels do you commonly use in your day-to-day web development? One? Three? Probably not that many more. In this article, Patrick Brosset shines the spotlight on a number of tools that people don’t use or even know about. Let’s dive in!",
           "link": "https://smashingmagazine.com/2022/05/whats-that-dev-tool/",
           "publishedOn": "2022-05-30T13:30:00.000Z",
-          "wordCount": 3311,
+          "wordCount": 3295,
           "title": "What’s That (Dev) Tool?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6a1e15f7-a8bd-4593-b880-c9857e673516/whats-that-dev-tool.jpg",
@@ -324,7 +354,7 @@
           "description": "In this article, Vijay describes his learning experiences during the design stages of creating his 3dicons image library (a free library for product screens, social media posts and marketing campaigns), which you can download and use for free.",
           "link": "https://smashingmagazine.com/2022/05/3dicons-open-source-library-case-study-download/",
           "publishedOn": "2022-05-27T09:00:00.000Z",
-          "wordCount": 3055,
+          "wordCount": 3061,
           "title": "Open-Source 3dicons Library: Case Study And Free Downloads",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/af9b67f7-433c-421a-8fe6-14878b3f884d/3dicons-open-source-library-case-study-download.jpg",
@@ -339,7 +369,7 @@
           "description": "From working with design handoffs to supporting custom themes in a design system, the CSS `color-contrast()` function can become a cornerstone for developers by enforcing accessible UIs.",
           "link": "https://smashingmagazine.com/2022/05/accessible-design-system-themes-css-color-contrast/",
           "publishedOn": "2022-05-26T09:30:00.000Z",
-          "wordCount": 2870,
+          "wordCount": 2862,
           "title": "Manage Accessible Design System Themes With CSS Color-Contrast()",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1fd91360-3b48-4a72-9280-c778dc5dc53d/manage-accessible-design-system-themes-with-css-color-contrast-card-v2.jpg",
@@ -354,7 +384,7 @@
           "description": "In this article, Frank Joseph explains both weak and strong references in JavaScript, as well as the concept of reachability. Let’s dig in!",
           "link": "https://smashingmagazine.com/2022/05/understanding-weak-reference-javascript/",
           "publishedOn": "2022-05-25T09:30:00.000Z",
-          "wordCount": 2105,
+          "wordCount": 2093,
           "title": "Understanding Weak Reference In JavaScript",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/44544ece-23b3-48cb-b2bf-0183a32d2bee/understanding-weak-reference-javascript.jpg",
@@ -369,7 +399,7 @@
           "description": "This article is a case study of how the platformOS team has researched, developed, and iteratively adjusted their onboarding processes over more than three years to eventually create the multiple award winning developer experience they provide today.",
           "link": "https://smashingmagazine.com/2022/05/developing-award-winning-onboarding-process-case-study/",
           "publishedOn": "2022-05-24T11:30:00.000Z",
-          "wordCount": 6323,
+          "wordCount": 6317,
           "title": "Developing An Award-Winning Onboarding Process (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/69a59d30-3186-49e9-943d-a023f7bf1f29/developing-award-winning-onboarding-process-case-study.jpg",
@@ -384,7 +414,7 @@
           "description": "CSS is constantly evolving, and some cool and useful properties either go completely unnoticed or are not talked about as much as others for some reason or another. In this article, we’ll cover a fraction of those CSS properties and selectors.",
           "link": "https://smashingmagazine.com/2022/05/lesser-known-underused-css-features-2022/",
           "publishedOn": "2022-05-23T09:30:00.000Z",
-          "wordCount": 3774,
+          "wordCount": 3770,
           "title": "Lesser-Known And Underused CSS Features In 2022",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9c50c872-d96b-41ae-8289-25b78c7f279f/lesser-known-underused-css-features-2022.jpg",
@@ -399,7 +429,7 @@
           "description": "In this article, we will see step-by-step how you can get the best of customization with easy admin by using Ghost as a headless CMS for a Gatsby static site — everything for free.",
           "link": "https://smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/",
           "publishedOn": "2022-05-20T08:30:00.000Z",
-          "wordCount": 4365,
+          "wordCount": 4341,
           "title": "The Ultimate Free Solo Blog Setup With Ghost And Gatsby",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dee282b4-4b4e-4b89-b8e1-4d319ce85367/ultimate-free-solo-blog-setup-ghost-gatsby.jpg",
@@ -414,7 +444,7 @@
           "description": "In this article, Benjamin Ajibade introduces Kubernetes to front-end engineers and explaines why Kubernetes is integral in a production-ready microservice architecture. Some key terms that are important for team collaboration will be discussed and conclude the post with a quick deployment to getting started as a beginner.",
           "link": "https://smashingmagazine.com/2022/05/kubernetes-front-end-developers/",
           "publishedOn": "2022-05-19T11:30:00.000Z",
-          "wordCount": 3070,
+          "wordCount": 3066,
           "title": "Kubernetes For Frontend Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a377d64d-af16-4fb1-8159-2c9fa0ab72c4/kubernetes-front-end-developers.jpg",
@@ -459,7 +489,7 @@
           "description": "What makes the underused `Server-Timing` header uniquely powerful among all other response headers? We’ll rethink the expectation for using it exclusively for timing and see fast solutions for hard-to-solve monitoring challenges.",
           "link": "https://smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/",
           "publishedOn": "2022-05-16T10:00:00.000Z",
-          "wordCount": 5104,
+          "wordCount": 5118,
           "title": "Rethinking Server-Timing As A Critical Monitoring Tool",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4f69c3e0-764f-4cfb-b8f8-7a4420d0e2f6/rethinking-server-timing-monitoring-tool.jpg",
@@ -474,7 +504,7 @@
           "description": "We waste so much today. One way of focusing on what truly matters is by identifying Top Tasks for yourself. Learn how to make tough decisions by focusing on the real, quantifiable evidence that will help create a better experience for your users.",
           "link": "https://smashingmagazine.com/2022/05/top-tasks-focus-what-matters-must-defocus-what-doesnt/",
           "publishedOn": "2022-05-13T11:30:00.000Z",
-          "wordCount": 3240,
+          "wordCount": 3222,
           "title": "Top Tasks: To Focus On What Matters You Must De-Focus On What Doesn’t",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e92d1278-297a-41d9-8ba2-e5100063610e/top-tasks-focus-what-matters-must-defocus-what-doesnt.jpg",
@@ -482,21 +512,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e92d1278-297a-41d9-8ba2-e5100063610e/top-tasks-focus-what-matters-must-defocus-what-doesnt.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/google-crux-analysis-comparison-performance-javascript-frameworks/",
-          "author": "hello@smashingmagazine.com (Dan Shappir)",
-          "description": "In this article, Dan Shappir analyzes the performance cost associated with various frameworks and explains the wide variety of framework and platform choices that are currently available to front-end and fullstack developers.",
-          "link": "https://smashingmagazine.com/2022/05/google-crux-analysis-comparison-performance-javascript-frameworks/",
-          "publishedOn": "2022-05-12T09:30:00.000Z",
-          "wordCount": 4370,
-          "title": "How To Use Google CrUX To Analyze And Compare The Performance Of JS Frameworks",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d9ea7394-c230-471d-aafe-9977a30bdf3b/google-crux-analysis-comparison-performance-javascript-frameworks.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d9ea7394-c230-471d-aafe-9977a30bdf3b/google-crux-analysis-comparison-performance-javascript-frameworks.jpg"
         }
       ]
     },
@@ -505,6 +520,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/top-statistics-concepts-to-know-before-getting-into-data-science/",
+          "author": "Ibrahim Abayomi Ogunbiyi",
+          "description": "You've probably heard that statistics is the gateway to data science and that the data science map starts with stats. Perhaps you've also heard from others that you have to learn statistics before learning data science.  But then you ponder, \"Since I'm not from a technical background like science, technology,",
+          "link": "https://www.freecodecamp.org/news/top-statistics-concepts-to-know-before-getting-into-data-science/",
+          "publishedOn": "2022-06-10T16:33:29.000Z",
+          "wordCount": 2904,
+          "title": "Statistics for Beginners – Top Stats Concepts to Know Before Getting into Data Science",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/pexels-lukas-590045-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-screenshot-on-windows-take-a-screen-shot-on-pc/",
+          "author": "Kolade Chris",
+          "description": "Just like you can take screenshots on your phone, you can also do the same on your Windows computer. Whether you want to take a screenshot of a particular part of your screen or you want to take a screenshot of the whole screen, there are tools and keyboard combinations",
+          "link": "https://www.freecodecamp.org/news/how-to-screenshot-on-windows-take-a-screen-shot-on-pc/",
+          "publishedOn": "2022-06-10T15:01:34.000Z",
+          "wordCount": 850,
+          "title": "How to Screenshot on Windows – Take a Screen Shot on PC",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/ss.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/higher-order-functions-in-javascript/",
+          "author": "Soham De Roy",
+          "description": "In JavaScript, functions are treated as first-class citizens. We can treat functions as values and assign them to another variable, pass them as arguments to another function, or even return them from another function. This ability of functions to act as first-class functions is what powers higher order functions in",
+          "link": "https://www.freecodecamp.org/news/higher-order-functions-in-javascript/",
+          "publishedOn": "2022-06-09T19:59:00.000Z",
+          "wordCount": 2155,
+          "title": "Higher Order Functions in JavaScript – Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/Blog-8---Freecodecamp-Banner.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/in-demand-tech-skills-devskiller-report/",
           "author": "Jakub Kubrynski",
@@ -561,7 +606,7 @@
           "description": "If you've been working with Node for a while, you will most likely discover that your projects – or one you're working on – are written for an older version of Node. That means they won't work as expected with the latest version.  In that case, a Node version",
           "link": "https://www.freecodecamp.org/news/fnm-fast-node-manager/",
           "publishedOn": "2022-06-09T15:30:55.000Z",
-          "wordCount": 1560,
+          "wordCount": 1579,
           "title": "How to Use fnm – Fast Node Manager",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/rocket-fnm.jpg"
         },
@@ -571,39 +616,9 @@
           "description": "Data Scalability Data scalability refers to the ability of a database to manipulate changing demands by adding and removing data. In this way, the database grows at the same pace as the software.  Via scaling, the database can expand or contract the capacity of the system's resources to support",
           "link": "https://www.freecodecamp.org/news/horizontal-vs-vertical-scaling-in-database/",
           "publishedOn": "2022-06-09T15:26:24.000Z",
-          "wordCount": 1259,
+          "wordCount": 1253,
           "title": "Horizontal vs. Vertical Scaling – How to Scale a Database",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/Tech-Blog-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/full-stack-amazon-clone-with-flutter/",
-          "author": "Beau Carnes",
-          "description": "Some people complain about Amazon's UI but most people realize how complex Amazon's website truly is. If you want to improve your skills as a full stack developer, creating an Amazon clone will give you practice in many different areas. We just published a 12-hour course that will teach you",
-          "link": "https://www.freecodecamp.org/news/full-stack-amazon-clone-with-flutter/",
-          "publishedOn": "2022-06-09T14:11:26.000Z",
-          "wordCount": 664,
-          "title": "Create a Full Stack Amazon Clone with Flutter",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/amazonflutter.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/inline-style-in-html/",
-          "author": "Joel Olawanle",
-          "description": "Cascading Style Sheets (CSS) is a markup language that determines how your web pages will appear. It manages the colors, fonts, and layouts of your website elements, as well as allowing you to add effects or animations to your pages. We can style an HTML file/page in three ways: external",
-          "link": "https://www.freecodecamp.org/news/inline-style-in-html/",
-          "publishedOn": "2022-06-08T21:24:31.000Z",
-          "wordCount": 929,
-          "title": "Inline Style in HTML – CSS Inline Styles",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover-template-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/error-502-bad-gateway-meaning/",
-          "author": "Kolade Chris",
-          "description": "When you visit a website and you get a “502 Bad Gateway” error, it means there’s an issue with the servers powering the website. On many occasions, this error is an issue with the website itself, so on your end, there’s nothing you can do to solve it. But the",
-          "link": "https://www.freecodecamp.org/news/error-502-bad-gateway-meaning/",
-          "publishedOn": "2022-06-08T20:21:52.000Z",
-          "wordCount": 734,
-          "title": "Error 502 Bad Gateway Meaning",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/502b.png"
         }
       ]
     }

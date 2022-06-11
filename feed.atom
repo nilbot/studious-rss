@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-10T00:04:18.285Z</id>
+    <id>urn:2022-06-11T00:03:58.383Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-10T00:04:18.286Z</updated>
+    <updated>2022-06-11T00:03:58.383Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Statistics for Beginners – Top Stats Concepts to Know Before Getting into Data Science]]></title>
+        <id>https://www.freecodecamp.org/news/top-statistics-concepts-to-know-before-getting-into-data-science/</id>
+        <link href="https://www.freecodecamp.org/news/top-statistics-concepts-to-know-before-getting-into-data-science/"/>
+        <updated>2022-06-10T16:33:29.000Z</updated>
+        <summary type="html"><![CDATA[You've probably heard that statistics is the gateway to data science and that the data science map starts with stats. Perhaps you've also heard from others that you have to learn statistics before learning data science.  But then you ponder, "Since I'm not from a technical background like science, technology,]]></summary>
+        <author>
+            <name>Ibrahim Abayomi Ogunbiyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Screenshot on Windows – Take a Screen Shot on PC]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-screenshot-on-windows-take-a-screen-shot-on-pc/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-screenshot-on-windows-take-a-screen-shot-on-pc/"/>
+        <updated>2022-06-10T15:01:34.000Z</updated>
+        <summary type="html"><![CDATA[Just like you can take screenshots on your phone, you can also do the same on your Windows computer. Whether you want to take a screenshot of a particular part of your screen or you want to take a screenshot of the whole screen, there are tools and keyboard combinations]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single Element Loaders: The Spinner]]></title>
+        <id>https://css-tricks.com/?p=366266</id>
+        <link href="https://css-tricks.com/single-element-loaders-the-spinner/"/>
+        <updated>2022-06-10T14:26:06.000Z</updated>
+        <summary type="html"><![CDATA[Making CSS-only loaders is one of my favorite tasks. It’s always satisfying to look at those infinite animations. And, of course, there are lots of techniques and approaches to make them — no need to look further than CodePen to …
+Single Element Loaders: The Spinner originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevFest For Ukraine, A Charity Conference On The Future Of Tech 🇺🇦]]></title>
+        <id>https://smashingmagazine.com/2022/06/devfest-for-ukraine/</id>
+        <link href="https://smashingmagazine.com/2022/06/devfest-for-ukraine/"/>
+        <updated>2022-06-10T13:59:00.000Z</updated>
+        <summary type="html"><![CDATA[[DevFest for Ukraine](https://devfest.gdg.org.ua/) is a charitable online conference that will bring together 20 industry-leading tech speakers in support of Ukraine. June 14–15.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring The Performance Of Typefaces For Users (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part2/</id>
+        <link href="https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part2/"/>
+        <updated>2022-06-10T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Thomas Bohm explains ways to test typefaces and other typographic issues. Though this article is slightly high-end and academic, fear not. The content will be interesting, especially for committed typeface designers and typographers. If you like complex issues and problems, this is for you.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Thomas Bohm)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Higher Order Functions in JavaScript – Beginner's Guide]]></title>
+        <id>https://www.freecodecamp.org/news/higher-order-functions-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/higher-order-functions-in-javascript/"/>
+        <updated>2022-06-09T19:59:00.000Z</updated>
+        <summary type="html"><![CDATA[In JavaScript, functions are treated as first-class citizens. We can treat functions as values and assign them to another variable, pass them as arguments to another function, or even return them from another function. This ability of functions to act as first-class functions is what powers higher order functions in]]></summary>
+        <author>
+            <name>Soham De Roy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In-Demand Tech Skills for 2022 –Lessons Learned from Candidate Data from 191 Countries]]></title>
         <id>https://www.freecodecamp.org/news/in-demand-tech-skills-devskiller-report/</id>
@@ -89,16 +150,6 @@ Am I on the IndieWeb yet? originally published on CSS-Tricks. You should get the
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Create a Full Stack Amazon Clone with Flutter]]></title>
-        <id>https://www.freecodecamp.org/news/full-stack-amazon-clone-with-flutter/</id>
-        <link href="https://www.freecodecamp.org/news/full-stack-amazon-clone-with-flutter/"/>
-        <updated>2022-06-09T14:11:26.000Z</updated>
-        <summary type="html"><![CDATA[Some people complain about Amazon's UI but most people realize how complex Amazon's website truly is. If you want to improve your skills as a full stack developer, creating an Amazon clone will give you practice in many different areas. We just published a 12-hour course that will teach you]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Future Of Frontend Build Tools]]></title>
         <id>https://smashingmagazine.com/2022/06/future-frontend-build-tools/</id>
         <link href="https://smashingmagazine.com/2022/06/future-frontend-build-tools/"/>
@@ -106,26 +157,6 @@ Am I on the IndieWeb yet? originally published on CSS-Tricks. You should get the
         <summary type="html"><![CDATA[This article explores the evolution and the future of frontend tooling, presenting a new set of tools featuring a change in paradigm, platform, or both.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alexander Joseph)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inline Style in HTML – CSS Inline Styles]]></title>
-        <id>https://www.freecodecamp.org/news/inline-style-in-html/</id>
-        <link href="https://www.freecodecamp.org/news/inline-style-in-html/"/>
-        <updated>2022-06-08T21:24:31.000Z</updated>
-        <summary type="html"><![CDATA[Cascading Style Sheets (CSS) is a markup language that determines how your web pages will appear. It manages the colors, fonts, and layouts of your website elements, as well as allowing you to add effects or animations to your pages. We can style an HTML file/page in three ways: external]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Error 502 Bad Gateway Meaning]]></title>
-        <id>https://www.freecodecamp.org/news/error-502-bad-gateway-meaning/</id>
-        <link href="https://www.freecodecamp.org/news/error-502-bad-gateway-meaning/"/>
-        <updated>2022-06-08T20:21:52.000Z</updated>
-        <summary type="html"><![CDATA[When you visit a website and you get a “502 Bad Gateway” error, it means there’s an issue with the servers powering the website. On many occasions, this error is an issue with the website itself, so on your end, there’s nothing you can do to solve it. But the]]></summary>
-        <author>
-            <name>Kolade Chris</name>
         </author>
     </entry>
     <entry>
@@ -419,19 +450,6 @@ Dialog Components: Go Native HTML or Roll Your Own? originally published on CSS-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Verevolf]]></title>
-        <id>https://css-tricks.com/?p=365971</id>
-        <link href="https://css-tricks.com/verevolf/"/>
-        <updated>2022-05-20T20:24:43.000Z</updated>
-        <summary type="html"><![CDATA[Zeldman:
-You may not know his name, but he played a huge part in creating the web you take for granted today. And he’s back—kind of.
-That would be Glenn Davis and the Verevolf site Zeldman’s talking about. The …
-Verevolf originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Ultimate Free Solo Blog Setup With Ghost And Gatsby]]></title>
         <id>https://smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/</id>
         <link href="https://smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/"/>
@@ -489,16 +507,6 @@ Verevolf originally published on CSS-Tricks. You should get the newsletter.]]></
         <summary type="html"><![CDATA[We waste so much today. One way of focusing on what truly matters is by identifying Top Tasks for yourself. Learn how to make tough decisions by focusing on the real, quantifiable evidence that will help create a better experience for your users.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Gerry McGovern)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Use Google CrUX To Analyze And Compare The Performance Of JS Frameworks]]></title>
-        <id>https://smashingmagazine.com/2022/05/google-crux-analysis-comparison-performance-javascript-frameworks/</id>
-        <link href="https://smashingmagazine.com/2022/05/google-crux-analysis-comparison-performance-javascript-frameworks/"/>
-        <updated>2022-05-12T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Dan Shappir analyzes the performance cost associated with various frameworks and explains the wide variety of framework and platform choices that are currently available to front-end and fullstack developers.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Dan Shappir)</name>
         </author>
     </entry>
 </feed>
