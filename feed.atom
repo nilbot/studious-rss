@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-11T00:03:58.383Z</id>
+    <id>urn:2022-06-12T00:04:10.803Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-11T00:03:58.383Z</updated>
+    <updated>2022-06-12T00:04:10.803Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Global Variable in Python – Non-Local Python Variables]]></title>
+        <id>https://www.freecodecamp.org/news/global-variable-in-python-non-local-python-variables/</id>
+        <link href="https://www.freecodecamp.org/news/global-variable-in-python-non-local-python-variables/"/>
+        <updated>2022-06-10T21:21:45.000Z</updated>
+        <summary type="html"><![CDATA[In Python and most programming languages, variables declared outside a function are known as global variables. You can access such variables inside and outside of a function, as they have global scope.  Here's an example of a global variable: x = 10  def showX():]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn PHP Syntax, Comments, Variables and Data Types – with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/php-syntax-comments-variables-data-types-with-examples/</id>
+        <link href="https://www.freecodecamp.org/news/php-syntax-comments-variables-data-types-with-examples/"/>
+        <updated>2022-06-10T20:18:35.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to today's tutorial, everyone. In my last article [/news/how-to-get-started-with-php/], I walked you through what PHP is and how to get it set up along with XAMPP.  And today, we'll review those introductory PHP concepts and then dive into the language a bit more in depth. We'll look at]]></summary>
+        <author>
+            <name>Okoro Emmanuel Nzube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Front End Developer – Front End Web Dev Skills]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-become-a-frontend-developer/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-become-a-frontend-developer/"/>
+        <updated>2022-06-10T20:16:06.000Z</updated>
+        <summary type="html"><![CDATA[Some of the highest-paid professionals in the world are front-end developers. They use their knowledge and talents to design appealing and user-friendly websites. Front-end developers do not need a degree or a school certificate to work. Rather, they must understand the fundamentals of front-end development, programming languages, and front-end development]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Statistics for Beginners – Top Stats Concepts to Know Before Getting into Data Science]]></title>
         <id>https://www.freecodecamp.org/news/top-statistics-concepts-to-know-before-getting-into-data-science/</id>
@@ -107,16 +137,6 @@ Single Element Loaders: The Spinner originally published on CSS-Tricks. You shou
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Embedded Rust Programming on Raspberry Pi Zero W]]></title>
-        <id>https://www.freecodecamp.org/news/embedded-rust-programming-on-raspberry-pi-zero-w/</id>
-        <link href="https://www.freecodecamp.org/news/embedded-rust-programming-on-raspberry-pi-zero-w/"/>
-        <updated>2022-06-09T15:37:48.000Z</updated>
-        <summary type="html"><![CDATA[Embedded programming in Rust requires a whole new knowledge base. Using a Raspberry Pi Zero W, you can quickly get up and running with embedded Rust. Starting with an embedded "Hello World" equivalent, and advancing to a text-to-morse-code translator, this article will walk you through the process.  * How]]></summary>
-        <author>
-            <name>Shaun Hamilton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Am I on the IndieWeb yet?]]></title>
         <id>https://css-tricks.com/?p=366286</id>
         <link href="https://css-tricks.com/am-i-on-the-indieweb-yet/"/>
@@ -127,26 +147,6 @@ The first round required several online services along with HTML & JS changes
 Am I on the IndieWeb yet? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use fnm – Fast Node Manager]]></title>
-        <id>https://www.freecodecamp.org/news/fnm-fast-node-manager/</id>
-        <link href="https://www.freecodecamp.org/news/fnm-fast-node-manager/"/>
-        <updated>2022-06-09T15:30:55.000Z</updated>
-        <summary type="html"><![CDATA[If you've been working with Node for a while, you will most likely discover that your projects – or one you're working on – are written for an older version of Node. That means they won't work as expected with the latest version.  In that case, a Node version]]></summary>
-        <author>
-            <name>Ashutosh Biswas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Horizontal vs. Vertical Scaling – How to Scale a Database]]></title>
-        <id>https://www.freecodecamp.org/news/horizontal-vs-vertical-scaling-in-database/</id>
-        <link href="https://www.freecodecamp.org/news/horizontal-vs-vertical-scaling-in-database/"/>
-        <updated>2022-06-09T15:26:24.000Z</updated>
-        <summary type="html"><![CDATA[Data Scalability Data scalability refers to the ability of a database to manipulate changing demands by adding and removing data. In this way, the database grows at the same pace as the software.  Via scaling, the database can expand or contract the capacity of the system's resources to support]]></summary>
-        <author>
-            <name>Sophia Iroegbu</name>
         </author>
     </entry>
     <entry>
@@ -497,16 +497,6 @@ Dialog Components: Go Native HTML or Roll Your Own? originally published on CSS-
         <summary type="html"><![CDATA[What makes the underused `Server-Timing` header uniquely powerful among all other response headers? We’ll rethink the expectation for using it exclusively for timing and see fast solutions for hard-to-solve monitoring challenges.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Sean Roberts)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Tasks: To Focus On What Matters You Must De-Focus On What Doesn’t]]></title>
-        <id>https://smashingmagazine.com/2022/05/top-tasks-focus-what-matters-must-defocus-what-doesnt/</id>
-        <link href="https://smashingmagazine.com/2022/05/top-tasks-focus-what-matters-must-defocus-what-doesnt/"/>
-        <updated>2022-05-13T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[We waste so much today. One way of focusing on what truly matters is by identifying Top Tasks for yourself. Learn how to make tough decisions by focusing on the real, quantifiable evidence that will help create a better experience for your users.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Gerry McGovern)</name>
         </author>
     </entry>
 </feed>
