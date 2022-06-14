@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-13T00:04:11.699Z</id>
+    <id>urn:2022-06-14T00:04:44.644Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-13T00:04:11.699Z</updated>
+    <updated>2022-06-14T00:04:44.644Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Useful Tools for Visualizing Databases on a Budget]]></title>
+        <id>https://css-tricks.com/?p=366260</id>
+        <link href="https://css-tricks.com/useful-tools-for-visualizing-databases-on-a-budget/"/>
+        <updated>2022-06-13T19:15:26.000Z</updated>
+        <summary type="html"><![CDATA[A diagram is a graphical representation of information that depicts the structure, relationship, or operation of anything. Diagrams enable your audience to visually grasp hidden information and engage with them in ways that words alone cannot. Depending on the type …
+Useful Tools for Visualizing Databases on a Budget originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Aisha Bukar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If Statement in C – How to use If-Else Statements in the C Programming Language]]></title>
+        <id>https://www.freecodecamp.org/news/if-statement-in-c-how-to-use-if-else-statements-in-the-c-programming-language/</id>
+        <link href="https://www.freecodecamp.org/news/if-statement-in-c-how-to-use-if-else-statements-in-the-c-programming-language/"/>
+        <updated>2022-06-13T13:47:00.000Z</updated>
+        <summary type="html"><![CDATA[In the C programming language, you have the ability to control the flow of a program. In particular, the program is able to make decisions on what it should do next. And those decisions are based on the state of certain pre-defined conditions you set. The program will decide what]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Apply User Experience Principles To Embedded Systems: Learnings From The Field]]></title>
+        <id>https://smashingmagazine.com/2022/06/user-experience-principles-embedded-systems/</id>
+        <link href="https://smashingmagazine.com/2022/06/user-experience-principles-embedded-systems/"/>
+        <updated>2022-06-13T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Eva gives an overview of what embedded systems are and how they impact our lives. She presents three main learnings gained across her quest for creating better-embedded systems to enable the world as we know it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eva Rio)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Global Variable in Python – Non-Local Python Variables]]></title>
         <id>https://www.freecodecamp.org/news/global-variable-in-python-non-local-python-variables/</id>
@@ -87,6 +118,16 @@ Single Element Loaders: The Spinner originally published on CSS-Tricks. You shou
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Extract Pages from a PDF and Render Them with JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/extract-pdf-pages-render-with-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/extract-pdf-pages-render-with-javascript/"/>
+        <updated>2022-06-10T03:16:00.000Z</updated>
+        <summary type="html"><![CDATA[PDF stands for portable document format. PDFs were designed by Adobe in the 90s for Windows. They are self-contained documents with support for nearly all major operating systems.  But sometimes you'll need to modify a PDF to suit your needs and not just view it. Unfortunately, the available software]]></summary>
+        <author>
+            <name>Hrishikesh Pathak</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Higher Order Functions in JavaScript – Beginner's Guide]]></title>
         <id>https://www.freecodecamp.org/news/higher-order-functions-in-javascript/</id>
         <link href="https://www.freecodecamp.org/news/higher-order-functions-in-javascript/"/>
@@ -114,26 +155,6 @@ Single Element Loaders: The Spinner originally published on CSS-Tricks. You shou
         <summary type="html"><![CDATA[I have recently started being active in a couple of online maker communities, and I've met a lot of talented folks who are building amazing products.  One thing that has stood out to me while engaging with these makers is that many of them are not developers – in]]></summary>
         <author>
             <name>Shayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Type the Vertical Line | Bar Character on a Keyboard]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-type-the-vertical-line-bar-character-on-a-keyboard/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-type-the-vertical-line-bar-character-on-a-keyboard/"/>
-        <updated>2022-06-09T16:06:55.000Z</updated>
-        <summary type="html"><![CDATA[We use the vertical line character, |, in various scenarios and contexts. You'll use it in mathematics and programming, in Linux, and in computer science fields to represent different things. Programmers also call this character the pipe symbol. What is the Pipe Character Used For? In Mathematics, the double pipe]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Set – How to Create a Set in Python]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-a-set-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-set-in-python/"/>
-        <updated>2022-06-09T15:52:07.000Z</updated>
-        <summary type="html"><![CDATA[Sets are defined as a collection of objects. They are an important concept in math and programming.  Programming languages provide different ways to group objects. Lists, dictionaries, and arrays are some examples of grouping objects.  Python has its own methods of creating a collection of objects. In Python,]]></summary>
-        <author>
-            <name>Zaira Hira</name>
         </author>
     </entry>
     <entry>
@@ -426,17 +447,6 @@ The use case? Well, …
 First Look At The CSS object-view-box Property originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dialog Components: Go Native HTML or Roll Your Own?]]></title>
-        <id>https://css-tricks.com/?p=365804</id>
-        <link href="https://css-tricks.com/dialog-components-roll-your-own/"/>
-        <updated>2022-05-23T14:31:18.000Z</updated>
-        <summary type="html"><![CDATA[As the author of a library called AgnosticUI, I’m always on the lookout for new components. And recently, I decided to dig in and start work on a new dialog (aka modal) component. That’s something many devs like to …
-Dialog Components: Go Native HTML or Roll Your Own? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Rob Levin</name>
         </author>
     </entry>
     <entry>
