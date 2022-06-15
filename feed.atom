@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-14T00:04:44.644Z</id>
+    <id>urn:2022-06-15T00:04:49.316Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-14T00:04:44.644Z</updated>
+    <updated>2022-06-15T00:04:49.316Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Java Sort Array – How to Reverse an Array in Ascending or Descending Order with Arrays.sort()]]></title>
+        <id>https://www.freecodecamp.org/news/java-sort-array-how-to-reverse-an-array-in-ascending-or-descending-order-with-arrays-sort-2/</id>
+        <link href="https://www.freecodecamp.org/news/java-sort-array-how-to-reverse-an-array-in-ascending-or-descending-order-with-arrays-sort-2/"/>
+        <updated>2022-06-14T21:14:36.000Z</updated>
+        <summary type="html"><![CDATA[In Java, you use arrays to store a collection of variables (with the same data type) in a single variable.  In many cases, the values stored in an array appear in a random order. Using the  Arrays class in Java, you have access to various methods you can]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Improve Cloud-Native System Performance]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-improve-cloud-native-system-performance/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-improve-cloud-native-system-performance/"/>
+        <updated>2022-06-14T20:14:40.000Z</updated>
+        <summary type="html"><![CDATA[Web applications are built to provide various online services to end-users. Developing and hosting these services involves hard work and talent. And it all begins with an idea. But imagine, after putting in all that hard work, users cringe about the performance of the system – “It's too slow...”, “I]]></summary>
+        <author>
+            <name>Sumeet Ninawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De-Mystifying IndieWeb on a WordPress Site]]></title>
+        <id>https://css-tricks.com/?p=366388</id>
+        <link href="https://css-tricks.com/de-mystifying-indieweb-on-a-wordpress-site/"/>
+        <updated>2022-06-14T16:48:34.000Z</updated>
+        <summary type="html"><![CDATA[Well, sheesh. I opened a little can of worms when sharing Miriam’s “Am I on the IndieWeb yet?” with a short post bemoaning my own trouble getting on the IndieWeb train. But it’s a good can of worms.
+I think …
+De-Mystifying IndieWeb on a WordPress Site originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debouncing in React – How to Delay a JS Function]]></title>
+        <id>https://www.freecodecamp.org/news/debouncing-explained/</id>
+        <link href="https://www.freecodecamp.org/news/debouncing-explained/"/>
+        <updated>2022-06-14T16:42:51.000Z</updated>
+        <summary type="html"><![CDATA[There are some heavy tasks in software development. Take calling an API, for example. Suppose we have an API that searches a list of users, and we can't afford to fire it too often. We want to search only when we have typed the whole search query.  Well, debouncing]]></summary>
+        <author>
+            <name>Nishant Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Link CSS to HTML – Stylesheet File Linking]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-link-css-to-html/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-link-css-to-html/"/>
+        <updated>2022-06-14T16:22:59.000Z</updated>
+        <summary type="html"><![CDATA[HTML is the markup language that helps you define the structure of a web page. CSS is the stylesheet language you use to make the structure presentable and nicely laid out. To make the stylings you implement with CSS reflect in the CSS, you have to find a way to]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Extract Pages from a PDF and Render Them with JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/extract-pdf-pages-render-with-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/extract-pdf-pages-render-with-javascript/"/>
+        <updated>2022-06-14T11:19:00.000Z</updated>
+        <summary type="html"><![CDATA[PDF stands for portable document format. PDFs were designed by Adobe in the 90s for Windows. They are self-contained documents with support for nearly all major operating systems.  But sometimes you'll need to modify a PDF to suit your needs and not just view it. Unfortunately, the available software]]></summary>
+        <author>
+            <name>Hrishikesh Pathak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding Search To Your Site In 15 Minutes]]></title>
+        <id>https://smashingmagazine.com/2022/06/adding-search-website-sitesearch360/</id>
+        <link href="https://smashingmagazine.com/2022/06/adding-search-website-sitesearch360/"/>
+        <updated>2022-06-14T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you need search for your site, but haven’t found the time to add it? Within 15 minutes, Leonardo Losoviz explains how you can add a super powerful search that also looks super good. In this article, you’ll learn how to go from 0 to 100 with search.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Useful Tools for Visualizing Databases on a Budget]]></title>
         <id>https://css-tricks.com/?p=366260</id>
@@ -27,7 +99,7 @@ Useful Tools for Visualizing Databases on a Budget originally published on CSS-T
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Apply User Experience Principles To Embedded Systems: Learnings From The Field]]></title>
+        <title type="html"><![CDATA[How To Apply UX Principles To Embedded Systems: Learnings From The Field]]></title>
         <id>https://smashingmagazine.com/2022/06/user-experience-principles-embedded-systems/</id>
         <link href="https://smashingmagazine.com/2022/06/user-experience-principles-embedded-systems/"/>
         <updated>2022-06-13T11:00:00.000Z</updated>
@@ -77,16 +149,6 @@ Useful Tools for Visualizing Databases on a Budget originally published on CSS-T
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Screenshot on Windows – Take a Screen Shot on PC]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-screenshot-on-windows-take-a-screen-shot-on-pc/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-screenshot-on-windows-take-a-screen-shot-on-pc/"/>
-        <updated>2022-06-10T15:01:34.000Z</updated>
-        <summary type="html"><![CDATA[Just like you can take screenshots on your phone, you can also do the same on your Windows computer. Whether you want to take a screenshot of a particular part of your screen or you want to take a screenshot of the whole screen, there are tools and keyboard combinations]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Single Element Loaders: The Spinner]]></title>
         <id>https://css-tricks.com/?p=366266</id>
         <link href="https://css-tricks.com/single-element-loaders-the-spinner/"/>
@@ -115,46 +177,6 @@ Single Element Loaders: The Spinner originally published on CSS-Tricks. You shou
         <summary type="html"><![CDATA[In this article, Thomas Bohm explains ways to test typefaces and other typographic issues. Though this article is slightly high-end and academic, fear not. The content will be interesting, especially for committed typeface designers and typographers. If you like complex issues and problems, this is for you.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Thomas Bohm)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Extract Pages from a PDF and Render Them with JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/extract-pdf-pages-render-with-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/extract-pdf-pages-render-with-javascript/"/>
-        <updated>2022-06-10T03:16:00.000Z</updated>
-        <summary type="html"><![CDATA[PDF stands for portable document format. PDFs were designed by Adobe in the 90s for Windows. They are self-contained documents with support for nearly all major operating systems.  But sometimes you'll need to modify a PDF to suit your needs and not just view it. Unfortunately, the available software]]></summary>
-        <author>
-            <name>Hrishikesh Pathak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Higher Order Functions in JavaScript – Beginner's Guide]]></title>
-        <id>https://www.freecodecamp.org/news/higher-order-functions-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/higher-order-functions-in-javascript/"/>
-        <updated>2022-06-09T19:59:00.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, functions are treated as first-class citizens. We can treat functions as values and assign them to another variable, pass them as arguments to another function, or even return them from another function. This ability of functions to act as first-class functions is what powers higher order functions in]]></summary>
-        <author>
-            <name>Soham De Roy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In-Demand Tech Skills for 2022 –Lessons Learned from Candidate Data from 191 Countries]]></title>
-        <id>https://www.freecodecamp.org/news/in-demand-tech-skills-devskiller-report/</id>
-        <link href="https://www.freecodecamp.org/news/in-demand-tech-skills-devskiller-report/"/>
-        <updated>2022-06-09T19:47:31.000Z</updated>
-        <summary type="html"><![CDATA[A popular Chinese proverb says: “The best time to plant a tree was 20 years ago. The second best time is now.”  The same applies to acquiring new tech skills. No matter if you’re a junior developer or a seasoned software engineer, there is always something you can work]]></summary>
-        <author>
-            <name>Jakub Kubrynski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No-Code Tools to Use for Your Next Project]]></title>
-        <id>https://www.freecodecamp.org/news/no-code-tools-for-building-your-next-project/</id>
-        <link href="https://www.freecodecamp.org/news/no-code-tools-for-building-your-next-project/"/>
-        <updated>2022-06-09T19:38:35.000Z</updated>
-        <summary type="html"><![CDATA[I have recently started being active in a couple of online maker communities, and I've met a lot of talented folks who are building amazing products.  One thing that has stood out to me while engaging with these makers is that many of them are not developers – in]]></summary>
-        <author>
-            <name>Shayan</name>
         </author>
     </entry>
     <entry>
@@ -438,18 +460,6 @@ Mastering SVG’s stroke-miterlimit Attribute originally published on CSS-Tricks
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[First Look At The CSS object-view-box Property]]></title>
-        <id>https://css-tricks.com/?p=365992</id>
-        <link href="https://css-tricks.com/first-look-at-the-css-object-view-box-property/"/>
-        <updated>2022-05-23T19:15:53.000Z</updated>
-        <summary type="html"><![CDATA[Ahmad Shadeed — doing what he always does so well — provides an early look at the object-view-box property, something he describes as a native way to crop an image in the browser with CSS.
-The use case? Well, …
-First Look At The CSS object-view-box Property originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lesser-Known And Underused CSS Features In 2022]]></title>
         <id>https://smashingmagazine.com/2022/05/lesser-known-underused-css-features-2022/</id>
         <link href="https://smashingmagazine.com/2022/05/lesser-known-underused-css-features-2022/"/>
@@ -497,16 +507,6 @@ First Look At The CSS object-view-box Property originally published on CSS-Trick
         <summary type="html"><![CDATA[Let’s take a closer look at how you can create your very own WordPress site up and running created and hosted with the Elementor Cloud Website.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nick Babich)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking Server-Timing As A Critical Monitoring Tool]]></title>
-        <id>https://smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/</id>
-        <link href="https://smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/"/>
-        <updated>2022-05-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What makes the underused `Server-Timing` header uniquely powerful among all other response headers? We’ll rethink the expectation for using it exclusively for timing and see fast solutions for hard-to-solve monitoring challenges.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Sean Roberts)</name>
         </author>
     </entry>
 </feed>
