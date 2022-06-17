@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-16T00:04:00.071Z</id>
+    <id>urn:2022-06-17T00:04:13.152Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-16T00:04:00.071Z</updated>
+    <updated>2022-06-17T00:04:13.152Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Query Data in Google Spreadsheets]]></title>
+        <id>https://www.freecodecamp.org/news/querying-like-an-sql-boss-in-google-sheets/</id>
+        <link href="https://www.freecodecamp.org/news/querying-like-an-sql-boss-in-google-sheets/"/>
+        <updated>2022-06-16T16:32:35.000Z</updated>
+        <summary type="html"><![CDATA[I built a spreadsheet and wanted to display some of the data in a small table which would update based on the day of the week. After some digging, querying seemed the best option to pull this off. In this article, you'll learn several things about Google Sheets tables, functions,]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Solve the Parking Lot Challenge in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/parking-lot-challenge-solved-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/parking-lot-challenge-solved-in-javascript/"/>
+        <updated>2022-06-16T14:55:53.000Z</updated>
+        <summary type="html"><![CDATA[Have you heard about the Parking Lot challenge? If not, let me explain briefly. The Parking Lot is challenge where you are asked to write a class that manages an imaginary parking lot.  In this tutorial we will do that in JavaScript. And to make it a bit more]]></summary>
+        <author>
+            <name>Mihail Gaberov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript forEach() – JS Array For Each Loop Example]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-foreach-js-array-for-each-example/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-foreach-js-array-for-each-example/"/>
+        <updated>2022-06-16T14:52:20.000Z</updated>
+        <summary type="html"><![CDATA[When working with arrays, there will be times when you need to loop or iterate through the array's values in order to either output or manipulate them.  These arrays can hold any datatype, including objects, numbers, strings, and many others. In this article, we'll look at how you can]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Design Done Well: Delightful Data Visualization Examples]]></title>
+        <id>https://smashingmagazine.com/2022/06/web-design-done-well-delightful-data-visualization-examples/</id>
+        <link href="https://smashingmagazine.com/2022/06/web-design-done-well-delightful-data-visualization-examples/"/>
+        <updated>2022-06-16T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[All the data in the world won’t do anyone any good if we can’t make sense of it. Or better yet, make it sing. Here are some stunning examples of data visualization in the wild, and some pointers on how to start making your own.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Most Popular Coding Challenge Websites]]></title>
+        <id>https://www.freecodecamp.org/news/the-most-popular-coding-challenge-websites/</id>
+        <link href="https://www.freecodecamp.org/news/the-most-popular-coding-challenge-websites/"/>
+        <updated>2022-06-15T22:23:18.000Z</updated>
+        <summary type="html"><![CDATA[If you want to improve your analytical skills, there's no better way to do that than solving problems. If you are a programmer, then this is something you should do for yourself. Programmers need to deal with all sorts of problems almost every day. Most importantly, solving problems in an]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Help Translate freeCodeCamp into Your Native Language]]></title>
         <id>https://www.freecodecamp.org/news/help-translate-freecodecamp-language/</id>
@@ -68,7 +118,7 @@ Conditionally Styling Selected Elements in a Grid Container originally published
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Improve Cloud-Native System Performance]]></title>
+        <title type="html"><![CDATA[What is Cloud-Native? And How to Make it Fast]]></title>
         <id>https://www.freecodecamp.org/news/how-to-improve-cloud-native-system-performance/</id>
         <link href="https://www.freecodecamp.org/news/how-to-improve-cloud-native-system-performance/"/>
         <updated>2022-06-14T20:14:40.000Z</updated>
@@ -100,26 +150,6 @@ De-Mystifying IndieWeb on a WordPress Site originally published on CSS-Tricks. Y
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Link CSS to HTML – Stylesheet File Linking]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-link-css-to-html/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-link-css-to-html/"/>
-        <updated>2022-06-14T16:22:59.000Z</updated>
-        <summary type="html"><![CDATA[HTML is the markup language that helps you define the structure of a web page. CSS is the stylesheet language you use to make the structure presentable and nicely laid out. To make the stylings you implement with CSS reflect in the HTML, you have to find a way to]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Extract Pages from a PDF and Render Them with JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/extract-pdf-pages-render-with-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/extract-pdf-pages-render-with-javascript/"/>
-        <updated>2022-06-14T11:19:00.000Z</updated>
-        <summary type="html"><![CDATA[PDF stands for portable document format. PDFs were designed by Adobe in the 90s for Windows. They are self-contained documents with support for nearly all major operating systems.  But sometimes you'll need to modify a PDF to suit your needs and not just view it. Unfortunately, the available software]]></summary>
-        <author>
-            <name>Hrishikesh Pathak</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Adding Search To Your Site In 15 Minutes]]></title>
         <id>https://smashingmagazine.com/2022/06/adding-search-website-sitesearch360/</id>
         <link href="https://smashingmagazine.com/2022/06/adding-search-website-sitesearch360/"/>
@@ -141,16 +171,6 @@ Useful Tools for Visualizing Databases on a Budget originally published on CSS-T
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[If Statement in C – How to use If-Else Statements in the C Programming Language]]></title>
-        <id>https://www.freecodecamp.org/news/if-statement-in-c-how-to-use-if-else-statements-in-the-c-programming-language/</id>
-        <link href="https://www.freecodecamp.org/news/if-statement-in-c-how-to-use-if-else-statements-in-the-c-programming-language/"/>
-        <updated>2022-06-13T13:47:00.000Z</updated>
-        <summary type="html"><![CDATA[In the C programming language, you have the ability to control the flow of a program. In particular, the program is able to make decisions on what it should do next. And those decisions are based on the state of certain pre-defined conditions you set. The program will decide what]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Apply UX Principles To Embedded Systems: Learnings From The Field]]></title>
         <id>https://smashingmagazine.com/2022/06/user-experience-principles-embedded-systems/</id>
         <link href="https://smashingmagazine.com/2022/06/user-experience-principles-embedded-systems/"/>
@@ -158,16 +178,6 @@ Useful Tools for Visualizing Databases on a Budget originally published on CSS-T
         <summary type="html"><![CDATA[In this article, Eva gives an overview of what embedded systems are and how they impact our lives. She presents three main learnings gained across her quest for creating better-embedded systems to enable the world as we know it.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eva Rio)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global Variable in Python – Non-Local Python Variables]]></title>
-        <id>https://www.freecodecamp.org/news/global-variable-in-python-non-local-python-variables/</id>
-        <link href="https://www.freecodecamp.org/news/global-variable-in-python-non-local-python-variables/"/>
-        <updated>2022-06-10T21:21:45.000Z</updated>
-        <summary type="html"><![CDATA[In Python and most programming languages, variables declared outside a function are known as global variables. You can access such variables inside and outside of a function, as they have global scope.  Here's an example of a global variable: x = 10  def showX():]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
         </author>
     </entry>
     <entry>
