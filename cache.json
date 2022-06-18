@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366342",
+          "author": "Temani Afif",
+          "description": "We’re looking at loaders in this series. More than that, we’re breaking down some common loader patterns and how to re-create them with nothing more than a single div. So far, we’ve picked apart the classic spinning loader. Now, …\nSingle Element Loaders: The Dots originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/single-element-loaders-the-dots/",
+          "publishedOn": "2022-06-17T14:47:55.000Z",
+          "wordCount": 1803,
+          "title": "Single Element Loaders: The Dots",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366342"
+        },
+        {
           "id": "https://css-tricks.com/?p=366252",
           "author": "Preethi",
           "description": "Calendars, shopping carts, galleries, file explorers, and online libraries are some situations where selectable items are shown in grids (i.e. square lattices). You know, even those security checks that ask you to select all images with crosswalks or whatever.\n🧐…\nConditionally Styling Selected Elements in a Grid Container originally published on CSS-Tricks. You should get the newsletter.",
@@ -47,7 +57,7 @@
           "description": "Making CSS-only loaders is one of my favorite tasks. It’s always satisfying to look at those infinite animations. And, of course, there are lots of techniques and approaches to make them — no need to look further than CodePen to …\nSingle Element Loaders: The Spinner originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/single-element-loaders-the-spinner/",
           "publishedOn": "2022-06-10T14:26:06.000Z",
-          "wordCount": 2154,
+          "wordCount": 2151,
           "title": "Single Element Loaders: The Spinner",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366266"
         },
@@ -150,16 +160,6 @@
           "wordCount": 321,
           "title": "Customizing Color Fonts on the Web",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366077"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365888",
-          "author": "Nicholas C. Zakas",
-          "description": "Earlier this year, I self-published an ebook called Understanding JavaScript Promises (free for download). Even though I didn’t have any intention of turning it into a print book, enough people reached out inquiring about a print version that …\nA Perfect Table of Contents With HTML + CSS originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-perfect-table-of-contents-with-html-css/",
-          "publishedOn": "2022-05-25T14:08:33.000Z",
-          "wordCount": 3770,
-          "title": "A Perfect Table of Contents With HTML + CSS",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365888"
         }
       ]
     },
@@ -169,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/06/easy-build-support-tables-figma/",
+          "author": "hello@smashingmagazine.com (Andrii Zhdan)",
+          "description": "In this article, Andrii shares his approach to managing tables in Figma in an easier, more streamlined way when there is a need to support different screen resolutions, change the order of columns, and use real-life content.",
+          "link": "https://smashingmagazine.com/2022/06/easy-build-support-tables-figma/",
+          "publishedOn": "2022-06-17T09:00:00.000Z",
+          "wordCount": 2621,
+          "title": "How To Easily Build And Support Tables In Figma",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47932465-87b0-41aa-97c3-4a2690860dd8/easy-build-support-tables-figma.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47932465-87b0-41aa-97c3-4a2690860dd8/easy-build-support-tables-figma.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/06/web-design-done-well-delightful-data-visualization-examples/",
           "author": "hello@smashingmagazine.com (Frederick O’Brien)",
           "description": "All the data in the world won’t do anyone any good if we can’t make sense of it. Or better yet, make it sing. Here are some stunning examples of data visualization in the wild, and some pointers on how to start making your own.",
           "link": "https://smashingmagazine.com/2022/06/web-design-done-well-delightful-data-visualization-examples/",
           "publishedOn": "2022-06-16T09:00:00.000Z",
-          "wordCount": 2167,
+          "wordCount": 2163,
           "title": "Web Design Done Well: Delightful Data Visualization Examples",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b1a5a7a-d478-4c0c-b4c8-782bf7fa7f42/web-design-done-well-delightful-data-visualization-examples.jpg",
@@ -249,7 +264,7 @@
           "description": "In this article, Thomas Bohm explains ways to test typefaces and other typographic issues. Though this article is slightly high-end and academic, fear not. The content will be interesting, especially for committed typeface designers and typographers. If you like complex issues and problems, this is for you.",
           "link": "https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part2/",
           "publishedOn": "2022-06-10T08:00:00.000Z",
-          "wordCount": 4607,
+          "wordCount": 4606,
           "title": "Measuring The Performance Of Typefaces For Users (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/22bde778-9f2e-45d3-97cd-ae5eedf4d0c0/measuring-performance-typaces-users-part2-card.jpg",
@@ -264,7 +279,7 @@
           "description": "This article explores the evolution and the future of frontend tooling, presenting a new set of tools featuring a change in paradigm, platform, or both.",
           "link": "https://smashingmagazine.com/2022/06/future-frontend-build-tools/",
           "publishedOn": "2022-06-09T09:00:00.000Z",
-          "wordCount": 2266,
+          "wordCount": 2267,
           "title": "The Future Of Frontend Build Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5e3cc4f1-5fa4-463b-97b6-581fd51b1ef0/future-frontend-tooling-v5-sharing-card.jpg",
@@ -294,7 +309,7 @@
           "description": "Computer technologies have simplified the process of recording historical events, technological breakthroughs, contemporary art, and everyday life. However, the notion of digital archiving can be deceptive. Often our technical footprints are carved in sand rather than stone.",
           "link": "https://smashingmagazine.com/2022/06/digital-museums-digital-history/",
           "publishedOn": "2022-06-07T09:30:00.000Z",
-          "wordCount": 2696,
+          "wordCount": 2684,
           "title": "Digital Museums For Digital History",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87001d28-4e45-46cd-8a5c-be63cc0a413c/digital-museums-digital-history.jpg",
@@ -309,7 +324,7 @@
           "description": "In this article, Sam Poder explores how Prisma integrates with the Jamstack and why it’s a great solution for Serverless databases in JavaScript or TypeScript-based projects.",
           "link": "https://smashingmagazine.com/2022/06/case-prisma-jamstack/",
           "publishedOn": "2022-06-06T09:00:00.000Z",
-          "wordCount": 2364,
+          "wordCount": 2354,
           "title": "The Case For Prisma In The Jamstack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/30c31583-7e46-4566-b2d3-bef54dd64152/case-prisma-jamstack.jpg",
@@ -339,7 +354,7 @@
           "description": "In this tutorial, you will learn how to create a group chat app. You will build a backend app using Node.js that will make group chats, authorize chat participants, and maintain sessions for them.",
           "link": "https://smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/",
           "publishedOn": "2022-06-02T09:30:00.000Z",
-          "wordCount": 4576,
+          "wordCount": 4580,
           "title": "How To Build A Group Chat App With Vanilla JS, Twilio And Node.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fd5325c3-f376-4565-9ce4-a3798d7d33b3/build-group-chat-app-vanillajs-twilio-nodejs.jpg",
@@ -354,7 +369,7 @@
           "description": "In this article, Ken Harker explains what third-party resource requests really are and which common optimization strategies can help reduce the impact on the user experience. By carefully considering how third-party requests will fit into your website during the design stage, you’ll be able to avoid the most significant negative impacts.",
           "link": "https://smashingmagazine.com/2022/06/dont-sink-website-third-parties/",
           "publishedOn": "2022-06-01T10:00:00.000Z",
-          "wordCount": 4593,
+          "wordCount": 4586,
           "title": "Don’t Sink Your Website With Third Parties",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/65099ffa-f954-430f-992a-8078a8331802/dont-sink-website-third-parties.jpg",
@@ -369,7 +384,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2022/05/desktop-wallpaper-calendars-june-2022/",
           "publishedOn": "2022-05-31T12:30:00.000Z",
-          "wordCount": 2837,
+          "wordCount": 2835,
           "title": "Expand Your Horizons (June 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1c6a9a31-4619-4c93-b9ea-65b5f50082cd/june-22-create-your-own-path-preview-opt.png",
@@ -399,7 +414,7 @@
           "description": "How many browser DevTools panels do you commonly use in your day-to-day web development? One? Three? Probably not that many more. In this article, Patrick Brosset shines the spotlight on a number of tools that people don’t use or even know about. Let’s dive in!",
           "link": "https://smashingmagazine.com/2022/05/whats-that-dev-tool/",
           "publishedOn": "2022-05-30T13:30:00.000Z",
-          "wordCount": 3298,
+          "wordCount": 3295,
           "title": "What’s That (Dev) Tool?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6a1e15f7-a8bd-4593-b880-c9857e673516/whats-that-dev-tool.jpg",
@@ -414,7 +429,7 @@
           "description": "In this article, Vijay describes his learning experiences during the design stages of creating his 3dicons image library (a free library for product screens, social media posts and marketing campaigns), which you can download and use for free.",
           "link": "https://smashingmagazine.com/2022/05/3dicons-open-source-library-case-study-download/",
           "publishedOn": "2022-05-27T09:00:00.000Z",
-          "wordCount": 3042,
+          "wordCount": 3043,
           "title": "Open-Source 3dicons Library: Case Study And Free Downloads",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/af9b67f7-433c-421a-8fe6-14878b3f884d/3dicons-open-source-library-case-study-download.jpg",
@@ -444,7 +459,7 @@
           "description": "In this article, Frank Joseph explains both weak and strong references in JavaScript, as well as the concept of reachability. Let’s dig in!",
           "link": "https://smashingmagazine.com/2022/05/understanding-weak-reference-javascript/",
           "publishedOn": "2022-05-25T09:30:00.000Z",
-          "wordCount": 2097,
+          "wordCount": 2093,
           "title": "Understanding Weak Reference In JavaScript",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/44544ece-23b3-48cb-b2bf-0183a32d2bee/understanding-weak-reference-javascript.jpg",
@@ -459,7 +474,7 @@
           "description": "This article is a case study of how the platformOS team has researched, developed, and iteratively adjusted their onboarding processes over more than three years to eventually create the multiple award winning developer experience they provide today.",
           "link": "https://smashingmagazine.com/2022/05/developing-award-winning-onboarding-process-case-study/",
           "publishedOn": "2022-05-24T11:30:00.000Z",
-          "wordCount": 6327,
+          "wordCount": 6305,
           "title": "Developing An Award-Winning Onboarding Process (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/69a59d30-3186-49e9-943d-a023f7bf1f29/developing-award-winning-onboarding-process-case-study.jpg",
@@ -489,7 +504,7 @@
           "description": "In this article, we will see step-by-step how you can get the best of customization with easy admin by using Ghost as a headless CMS for a Gatsby static site — everything for free.",
           "link": "https://smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/",
           "publishedOn": "2022-05-20T08:30:00.000Z",
-          "wordCount": 4338,
+          "wordCount": 4347,
           "title": "The Ultimate Free Solo Blog Setup With Ghost And Gatsby",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dee282b4-4b4e-4b89-b8e1-4d319ce85367/ultimate-free-solo-blog-setup-ghost-gatsby.jpg",
@@ -497,21 +512,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dee282b4-4b4e-4b89-b8e1-4d319ce85367/ultimate-free-solo-blog-setup-ghost-gatsby.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/kubernetes-front-end-developers/",
-          "author": "hello@smashingmagazine.com (Benjamin Ajibade)",
-          "description": "In this article, Benjamin Ajibade introduces Kubernetes to front-end engineers and explaines why Kubernetes is integral in a production-ready microservice architecture. Some key terms that are important for team collaboration will be discussed and conclude the post with a quick deployment to getting started as a beginner.",
-          "link": "https://smashingmagazine.com/2022/05/kubernetes-front-end-developers/",
-          "publishedOn": "2022-05-19T11:30:00.000Z",
-          "wordCount": 3081,
-          "title": "Kubernetes For Frontend Developers",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a377d64d-af16-4fb1-8159-2c9fa0ab72c4/kubernetes-front-end-developers.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a377d64d-af16-4fb1-8159-2c9fa0ab72c4/kubernetes-front-end-developers.jpg"
         }
       ]
     },
@@ -520,6 +520,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-get-current-date-todays-date-in-js/",
+          "author": "Joel Olawanle",
+          "description": "When you're developing web applications, you might need to include the current date on which a particular operation is performed.  For example, when submitting data via a form, you may want to include the date that data was created or when the form was submitted. In this article, we",
+          "link": "https://www.freecodecamp.org/news/javascript-get-current-date-todays-date-in-js/",
+          "publishedOn": "2022-06-17T15:45:01.000Z",
+          "wordCount": 958,
+          "title": "JavaScript Get Current Date – Today's Date in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover-template--2-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/html-arrow-symbol-unicode-for-single-and-double-arrows-left-and-right-arrows/",
+          "author": "Dillion Megida",
+          "description": "What are Unicodes? Unicodes are universal characters that represent different things. These could be symbols, characters, scripts, and many more forms of character combinations. Unicodes are adopted by many platforms (mobile and web) to make characters available everywhere. Why are Unicodes useful? Unicodes are useful because they provide a standard",
+          "link": "https://www.freecodecamp.org/news/html-arrow-symbol-unicode-for-single-and-double-arrows-left-and-right-arrows/",
+          "publishedOn": "2022-06-17T15:35:12.000Z",
+          "wordCount": 752,
+          "title": "HTML Arrow – Symbol Unicode for Single and Double Arrows, Left and Right Arrows",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/unicode-for-arrows.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-visual-basic-net-full-course/",
+          "author": "Beau Carnes",
+          "description": "Did you know that Visual Basic is currently a more popular programming language than JavaScript? That is according to the TIOBE index [https://www.tiobe.com/tiobe-index/], which is one of the most respected indicators of the popularity of programming languages. Visual Basic is an object-oriented programming language developed by Microsoft. It makes it",
+          "link": "https://www.freecodecamp.org/news/learn-visual-basic-net-full-course/",
+          "publishedOn": "2022-06-17T14:24:49.000Z",
+          "wordCount": 541,
+          "title": "Learn Visual Basic (.NET) – Full Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/maxresdefault.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/querying-like-an-sql-boss-in-google-sheets/",
           "author": "Eamonn Cottrell",
@@ -556,7 +586,7 @@
           "description": "If you want to improve your analytical skills, there's no better way to do that than solving problems. If you are a programmer, then this is something you should do for yourself. Programmers need to deal with all sorts of problems almost every day. Most importantly, solving problems in an",
           "link": "https://www.freecodecamp.org/news/the-most-popular-coding-challenge-websites/",
           "publishedOn": "2022-06-15T22:23:18.000Z",
-          "wordCount": 3988,
+          "wordCount": 3989,
           "title": "The Most Popular Coding Challenge Websites",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/fCC-Banner.png"
         },
@@ -566,7 +596,7 @@
           "description": "The freeCodeCamp community has been hard at work translating our 9,000+ tutorials into many world languages. Quality is everything. So instead of relying on machine translation, we are doing this entire process by hand. Dozens of native speakers are collaborating to make these free learning resources accessible to more people",
           "link": "https://www.freecodecamp.org/news/help-translate-freecodecamp-language/",
           "publishedOn": "2022-06-15T16:55:35.000Z",
-          "wordCount": 696,
+          "wordCount": 768,
           "title": "How to Help Translate freeCodeCamp into Your Native Language",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/farzad-mohsenvand-pKhfJme9mP0-unsplash.jpg"
         },
@@ -589,36 +619,6 @@
           "wordCount": 542,
           "title": "Text Classification with TensorFlow",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/classification.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/java-sort-array-how-to-reverse-an-array-in-ascending-or-descending-order-with-arrays-sort-2/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "In Java, you use arrays to store a collection of variables (with the same data type) in a single variable.  In many cases, the values stored in an array appear in a random order. Using the  Arrays class in Java, you have access to various methods you can",
-          "link": "https://www.freecodecamp.org/news/java-sort-array-how-to-reverse-an-array-in-ascending-or-descending-order-with-arrays-sort-2/",
-          "publishedOn": "2022-06-14T21:14:36.000Z",
-          "wordCount": 923,
-          "title": "Java Sort Array – How to Reverse an Array in Ascending or Descending Order with Arrays.sort()",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/andre-taissin-hOwcob_3dpc-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-improve-cloud-native-system-performance/",
-          "author": "Sumeet Ninawe",
-          "description": "Web applications are built to provide various online services to end-users. Developing and hosting these services involves hard work and talent. And it all begins with an idea. But imagine, after putting in all that hard work, users cringe about the performance of the system – “It's too slow...”, “I",
-          "link": "https://www.freecodecamp.org/news/how-to-improve-cloud-native-system-performance/",
-          "publishedOn": "2022-06-14T20:14:40.000Z",
-          "wordCount": 3274,
-          "title": "What is Cloud-Native? And How to Make it Fast",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/jeshoots-com-sMKUYIasyDM-unsplash.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/debouncing-explained/",
-          "author": "Nishant Kumar",
-          "description": "There are some heavy tasks in software development. Take calling an API, for example. Suppose we have an API that searches a list of users, and we can't afford to fire it too often. We want to search only when we have typed the whole search query.  Well, debouncing",
-          "link": "https://www.freecodecamp.org/news/debouncing-explained/",
-          "publishedOn": "2022-06-14T16:42:51.000Z",
-          "wordCount": 1025,
-          "title": "Debouncing in React – How to Delay a JS Function",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/How-to-Build-a-Weather-Application-using-React--14-.png"
         }
       ]
     }

@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-17T00:04:13.152Z</id>
+    <id>urn:2022-06-18T00:04:12.548Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-17T00:04:13.152Z</updated>
+    <updated>2022-06-18T00:04:12.548Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Get Current Date – Today's Date in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-get-current-date-todays-date-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-get-current-date-todays-date-in-js/"/>
+        <updated>2022-06-17T15:45:01.000Z</updated>
+        <summary type="html"><![CDATA[When you're developing web applications, you might need to include the current date on which a particular operation is performed.  For example, when submitting data via a form, you may want to include the date that data was created or when the form was submitted. In this article, we]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Arrow – Symbol Unicode for Single and Double Arrows, Left and Right Arrows]]></title>
+        <id>https://www.freecodecamp.org/news/html-arrow-symbol-unicode-for-single-and-double-arrows-left-and-right-arrows/</id>
+        <link href="https://www.freecodecamp.org/news/html-arrow-symbol-unicode-for-single-and-double-arrows-left-and-right-arrows/"/>
+        <updated>2022-06-17T15:35:12.000Z</updated>
+        <summary type="html"><![CDATA[What are Unicodes? Unicodes are universal characters that represent different things. These could be symbols, characters, scripts, and many more forms of character combinations. Unicodes are adopted by many platforms (mobile and web) to make characters available everywhere. Why are Unicodes useful? Unicodes are useful because they provide a standard]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single Element Loaders: The Dots]]></title>
+        <id>https://css-tricks.com/?p=366342</id>
+        <link href="https://css-tricks.com/single-element-loaders-the-dots/"/>
+        <updated>2022-06-17T14:47:55.000Z</updated>
+        <summary type="html"><![CDATA[We’re looking at loaders in this series. More than that, we’re breaking down some common loader patterns and how to re-create them with nothing more than a single div. So far, we’ve picked apart the classic spinning loader. Now, …
+Single Element Loaders: The Dots originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Visual Basic (.NET) – Full Course]]></title>
+        <id>https://www.freecodecamp.org/news/learn-visual-basic-net-full-course/</id>
+        <link href="https://www.freecodecamp.org/news/learn-visual-basic-net-full-course/"/>
+        <updated>2022-06-17T14:24:49.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that Visual Basic is currently a more popular programming language than JavaScript? That is according to the TIOBE index [https://www.tiobe.com/tiobe-index/], which is one of the most respected indicators of the popularity of programming languages. Visual Basic is an object-oriented programming language developed by Microsoft. It makes it]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Easily Build And Support Tables In Figma]]></title>
+        <id>https://smashingmagazine.com/2022/06/easy-build-support-tables-figma/</id>
+        <link href="https://smashingmagazine.com/2022/06/easy-build-support-tables-figma/"/>
+        <updated>2022-06-17T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Andrii shares his approach to managing tables in Figma in an easier, more streamlined way when there is a need to support different screen resolutions, change the order of columns, and use real-life content.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andrii Zhdan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Query Data in Google Spreadsheets]]></title>
         <id>https://www.freecodecamp.org/news/querying-like-an-sql-boss-in-google-sheets/</id>
@@ -108,26 +159,6 @@ Conditionally Styling Selected Elements in a Grid Container originally published
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Java Sort Array – How to Reverse an Array in Ascending or Descending Order with Arrays.sort()]]></title>
-        <id>https://www.freecodecamp.org/news/java-sort-array-how-to-reverse-an-array-in-ascending-or-descending-order-with-arrays-sort-2/</id>
-        <link href="https://www.freecodecamp.org/news/java-sort-array-how-to-reverse-an-array-in-ascending-or-descending-order-with-arrays-sort-2/"/>
-        <updated>2022-06-14T21:14:36.000Z</updated>
-        <summary type="html"><![CDATA[In Java, you use arrays to store a collection of variables (with the same data type) in a single variable.  In many cases, the values stored in an array appear in a random order. Using the  Arrays class in Java, you have access to various methods you can]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Cloud-Native? And How to Make it Fast]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-improve-cloud-native-system-performance/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-improve-cloud-native-system-performance/"/>
-        <updated>2022-06-14T20:14:40.000Z</updated>
-        <summary type="html"><![CDATA[Web applications are built to provide various online services to end-users. Developing and hosting these services involves hard work and talent. And it all begins with an idea. But imagine, after putting in all that hard work, users cringe about the performance of the system – “It's too slow...”, “I]]></summary>
-        <author>
-            <name>Sumeet Ninawe</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[De-Mystifying IndieWeb on a WordPress Site]]></title>
         <id>https://css-tricks.com/?p=366388</id>
         <link href="https://css-tricks.com/de-mystifying-indieweb-on-a-wordpress-site/"/>
@@ -137,16 +168,6 @@ I think …
 De-Mystifying IndieWeb on a WordPress Site originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debouncing in React – How to Delay a JS Function]]></title>
-        <id>https://www.freecodecamp.org/news/debouncing-explained/</id>
-        <link href="https://www.freecodecamp.org/news/debouncing-explained/"/>
-        <updated>2022-06-14T16:42:51.000Z</updated>
-        <summary type="html"><![CDATA[There are some heavy tasks in software development. Take calling an API, for example. Suppose we have an API that searches a list of users, and we can't afford to fire it too often. We want to search only when we have typed the whole search query.  Well, debouncing]]></summary>
-        <author>
-            <name>Nishant Kumar</name>
         </author>
     </entry>
     <entry>
@@ -449,17 +470,6 @@ Customizing Color Fonts on the Web originally published on CSS-Tricks. You shoul
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Perfect Table of Contents With HTML + CSS]]></title>
-        <id>https://css-tricks.com/?p=365888</id>
-        <link href="https://css-tricks.com/a-perfect-table-of-contents-with-html-css/"/>
-        <updated>2022-05-25T14:08:33.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this year, I self-published an ebook called Understanding JavaScript Promises (free for download). Even though I didn’t have any intention of turning it into a print book, enough people reached out inquiring about a print version that …
-A Perfect Table of Contents With HTML + CSS originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Nicholas C. Zakas</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Understanding Weak Reference In JavaScript]]></title>
         <id>https://smashingmagazine.com/2022/05/understanding-weak-reference-javascript/</id>
         <link href="https://smashingmagazine.com/2022/05/understanding-weak-reference-javascript/"/>
@@ -497,16 +507,6 @@ A Perfect Table of Contents With HTML + CSS originally published on CSS-Tricks. 
         <summary type="html"><![CDATA[In this article, we will see step-by-step how you can get the best of customization with easy admin by using Ghost as a headless CMS for a Gatsby static site — everything for free.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Greg Dickens)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubernetes For Frontend Developers]]></title>
-        <id>https://smashingmagazine.com/2022/05/kubernetes-front-end-developers/</id>
-        <link href="https://smashingmagazine.com/2022/05/kubernetes-front-end-developers/"/>
-        <updated>2022-05-19T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Benjamin Ajibade introduces Kubernetes to front-end engineers and explaines why Kubernetes is integral in a production-ready microservice architecture. Some key terms that are important for team collaboration will be discussed and conclude the post with a quick deployment to getting started as a beginner.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Benjamin Ajibade)</name>
         </author>
     </entry>
 </feed>
