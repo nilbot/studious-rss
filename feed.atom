@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-18T00:04:12.548Z</id>
+    <id>urn:2022-06-19T00:04:43.044Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-18T00:04:12.548Z</updated>
-    <generator>osmosfeed 1.14.4</generator>
+    <updated>2022-06-19T00:04:43.044Z</updated>
+    <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[v1.15.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0"/>
+        <updated>2022-06-18T19:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Added: Resolve relative URLs in item link and media
+Added: Item thumbnail fallback to channel thumbnail
+Chore: Dependency updates
+Thank you: @cpwnd]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript Get Current Date – Today's Date in JS]]></title>
         <id>https://www.freecodecamp.org/news/javascript-get-current-date-todays-date-in-js/</id>
@@ -497,16 +510,6 @@ Customizing Color Fonts on the Web originally published on CSS-Tricks. You shoul
         <summary type="html"><![CDATA[CSS is constantly evolving, and some cool and useful properties either go completely unnoticed or are not talked about as much as others for some reason or another. In this article, we’ll cover a fraction of those CSS properties and selectors.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate Free Solo Blog Setup With Ghost And Gatsby]]></title>
-        <id>https://smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/</id>
-        <link href="https://smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/"/>
-        <updated>2022-05-20T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will see step-by-step how you can get the best of customization with easy admin by using Ghost as a headless CMS for a Gatsby static site — everything for free.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Greg Dickens)</name>
         </author>
     </entry>
 </feed>
