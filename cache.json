@@ -185,7 +185,7 @@
           "description": "In this article, Andrii shares his approach to managing tables in Figma in an easier, more streamlined way when there is a need to support different screen resolutions, change the order of columns, and use real-life content.",
           "link": "https://smashingmagazine.com/2022/06/easy-build-support-tables-figma/",
           "publishedOn": "2022-06-17T09:00:00.000Z",
-          "wordCount": 4590,
+          "wordCount": 4589,
           "title": "How To Easily Build And Support Tables In Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47932465-87b0-41aa-97c3-4a2690860dd8/easy-build-support-tables-figma.jpg",
@@ -275,7 +275,7 @@
           "description": "In this article, Thomas Bohm explains ways to test typefaces and other typographic issues. Though this article is slightly high-end and academic, fear not. The content will be interesting, especially for committed typeface designers and typographers. If you like complex issues and problems, this is for you.",
           "link": "https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part2/",
           "publishedOn": "2022-06-10T08:00:00.000Z",
-          "wordCount": 6580,
+          "wordCount": 6678,
           "title": "Measuring The Performance Of Typefaces For Users (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/22bde778-9f2e-45d3-97cd-ae5eedf4d0c0/measuring-performance-typaces-users-part2-card.jpg",
@@ -290,7 +290,7 @@
           "description": "This article explores the evolution and the future of frontend tooling, presenting a new set of tools featuring a change in paradigm, platform, or both.",
           "link": "https://smashingmagazine.com/2022/06/future-frontend-build-tools/",
           "publishedOn": "2022-06-09T09:00:00.000Z",
-          "wordCount": 4244,
+          "wordCount": 4232,
           "title": "The Future Of Frontend Build Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5e3cc4f1-5fa4-463b-97b6-581fd51b1ef0/future-frontend-tooling-v5-sharing-card.jpg",
@@ -305,7 +305,7 @@
           "description": "CSS color-mix is an experimental function that blends two colors and can be used to simplify color palettes. You can define a color palette and theme without too much effort using CSS color-mix().",
           "link": "https://smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/",
           "publishedOn": "2022-06-08T09:00:00.000Z",
-          "wordCount": 4547,
+          "wordCount": 4551,
           "title": "Simplify Your Color Palette With CSS Color-Mix()",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57b9844c-e3aa-48e2-9d72-3938dbf553d0/simplify-color-palette-css-color-mix-sharing-card.jpg",
@@ -335,7 +335,7 @@
           "description": "In this article, Sam Poder explores how Prisma integrates with the Jamstack and why it’s a great solution for Serverless databases in JavaScript or TypeScript-based projects.",
           "link": "https://smashingmagazine.com/2022/06/case-prisma-jamstack/",
           "publishedOn": "2022-06-06T09:00:00.000Z",
-          "wordCount": 4315,
+          "wordCount": 4325,
           "title": "The Case For Prisma In The Jamstack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/30c31583-7e46-4566-b2d3-bef54dd64152/case-prisma-jamstack.jpg",
@@ -350,7 +350,7 @@
           "description": "This is the first part of this article, written especially for typeface designers and typographers. See how typefaces work, how to test them, and other broader typographic issues.",
           "link": "https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part1/",
           "publishedOn": "2022-06-03T10:00:00.000Z",
-          "wordCount": 6589,
+          "wordCount": 6601,
           "title": "Measuring The Performance Of Typefaces For Users (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e5266a-c3c0-42f8-9d26-79a729c3db3f/measuring-performance-typaces-users-part1-card.jpg",
@@ -365,7 +365,7 @@
           "description": "In this tutorial, you will learn how to create a group chat app. You will build a backend app using Node.js that will make group chats, authorize chat participants, and maintain sessions for them.",
           "link": "https://smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/",
           "publishedOn": "2022-06-02T09:30:00.000Z",
-          "wordCount": 6553,
+          "wordCount": 6551,
           "title": "How To Build A Group Chat App With Vanilla JS, Twilio And Node.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fd5325c3-f376-4565-9ce4-a3798d7d33b3/build-group-chat-app-vanillajs-twilio-nodejs.jpg",
@@ -380,7 +380,7 @@
           "description": "In this article, Ken Harker explains what third-party resource requests really are and which common optimization strategies can help reduce the impact on the user experience. By carefully considering how third-party requests will fit into your website during the design stage, you’ll be able to avoid the most significant negative impacts.",
           "link": "https://smashingmagazine.com/2022/06/dont-sink-website-third-parties/",
           "publishedOn": "2022-06-01T10:00:00.000Z",
-          "wordCount": 6569,
+          "wordCount": 6559,
           "title": "Don’t Sink Your Website With Third Parties",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/65099ffa-f954-430f-992a-8078a8331802/dont-sink-website-third-parties.jpg",
@@ -455,7 +455,7 @@
           "description": "From working with design handoffs to supporting custom themes in a design system, the CSS `color-contrast()` function can become a cornerstone for developers by enforcing accessible UIs.",
           "link": "https://smashingmagazine.com/2022/05/accessible-design-system-themes-css-color-contrast/",
           "publishedOn": "2022-05-26T09:30:00.000Z",
-          "wordCount": 4831,
+          "wordCount": 4835,
           "title": "Manage Accessible Design System Themes With CSS Color-Contrast()",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1fd91360-3b48-4a72-9280-c778dc5dc53d/manage-accessible-design-system-themes-with-css-color-contrast-card-v2.jpg",
@@ -470,7 +470,7 @@
           "description": "In this article, Frank Joseph explains both weak and strong references in JavaScript, as well as the concept of reachability. Let’s dig in!",
           "link": "https://smashingmagazine.com/2022/05/understanding-weak-reference-javascript/",
           "publishedOn": "2022-05-25T09:30:00.000Z",
-          "wordCount": 4070,
+          "wordCount": 4066,
           "title": "Understanding Weak Reference In JavaScript",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/44544ece-23b3-48cb-b2bf-0183a32d2bee/understanding-weak-reference-javascript.jpg",
@@ -485,7 +485,7 @@
           "description": "This article is a case study of how the platformOS team has researched, developed, and iteratively adjusted their onboarding processes over more than three years to eventually create the multiple award winning developer experience they provide today.",
           "link": "https://smashingmagazine.com/2022/05/developing-award-winning-onboarding-process-case-study/",
           "publishedOn": "2022-05-24T11:30:00.000Z",
-          "wordCount": 8290,
+          "wordCount": 8388,
           "title": "Developing An Award-Winning Onboarding Process (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/69a59d30-3186-49e9-943d-a023f7bf1f29/developing-award-winning-onboarding-process-case-study.jpg",
