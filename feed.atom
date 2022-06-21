@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-20T00:03:58.409Z</id>
+    <id>urn:2022-06-21T00:05:56.900Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-20T00:03:58.409Z</updated>
+    <updated>2022-06-21T00:05:56.901Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Asynchronous JavaScript – Callbacks, Promises, and Async/Await Explained]]></title>
+        <id>https://www.freecodecamp.org/news/asynchronous-javascript-explained/</id>
+        <link href="https://www.freecodecamp.org/news/asynchronous-javascript-explained/"/>
+        <updated>2022-06-20T20:10:50.000Z</updated>
+        <summary type="html"><![CDATA[If you've been learning JavaScript for a while now, then you've probably heard the term "asynchronous" before.  This is because JavaScript is an asynchronous language...but what does that really mean? In this article, I hope to show you that the concept is not as difficult as it sounds. Synchronous]]></summary>
+        <author>
+            <name>Njong Emy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Call, Apply, and Bind Functions in JavaScript – with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/understand-call-apply-and-bind-in-javascript-with-examples/</id>
+        <link href="https://www.freecodecamp.org/news/understand-call-apply-and-bind-in-javascript-with-examples/"/>
+        <updated>2022-06-20T18:25:02.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I am going to explain how to use call, apply, and bind in JavaScript with simple examples.  We will also implement an example that showcases how you can create your own map function with the apply function. Without further ado, let's get started. Table of Contents]]></summary>
+        <author>
+            <name>Keyur Paralkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Absolute Value – Python abs Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/python-absolute-value-python-abs-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/python-absolute-value-python-abs-tutorial/"/>
+        <updated>2022-06-20T15:55:24.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn all about the abs() function in Python. You will learn what the abs() function does and why you may want to use it. You will also understand how to use abs() with the help of practical examples. Here is what we will cover:]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Precise Timing With Web Animations API]]></title>
+        <id>https://smashingmagazine.com/2022/06/precise-timing-web-animations-api/</id>
+        <link href="https://smashingmagazine.com/2022/06/precise-timing-web-animations-api/"/>
+        <updated>2022-06-20T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In JavaScript, it’s natural to reach for timers when something is to happen on time. But when something is to happen at the exact moment because other things depend on it, you quickly learn timers are more of a problem than a solution. They are never on time, really. Web Animations API could eliminate the need for timers in certain cases while being precise.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Kirill Myshkin)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v1.15.0]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0</id>
@@ -120,26 +160,6 @@ Single Element Loaders: The Dots originally published on CSS-Tricks. You should 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Help Translate freeCodeCamp into Your Native Language]]></title>
-        <id>https://www.freecodecamp.org/news/help-translate-freecodecamp-language/</id>
-        <link href="https://www.freecodecamp.org/news/help-translate-freecodecamp-language/"/>
-        <updated>2022-06-15T16:55:35.000Z</updated>
-        <summary type="html"><![CDATA[The freeCodeCamp community has been hard at work translating our 9,000+ tutorials into many world languages. Quality is everything. So instead of relying on machine translation, we are doing this entire process by hand. Dozens of native speakers are collaborating to make these free learning resources accessible to more people]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRUD Operations – What is CRUD?]]></title>
-        <id>https://www.freecodecamp.org/news/crud-operations-explained/</id>
-        <link href="https://www.freecodecamp.org/news/crud-operations-explained/"/>
-        <updated>2022-06-15T16:51:42.000Z</updated>
-        <summary type="html"><![CDATA[Despite being commonly pronounced /krʌd/, CRUD is not a word. It’s an abbreviation that stands for Create, Read, Update, and Delete or Destroy. In this article, I will show you what CRUD means, and what the individual terms mean and do. I will also show you how create, read, update,]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Conditionally Styling Selected Elements in a Grid Container]]></title>
         <id>https://css-tricks.com/?p=366252</id>
         <link href="https://css-tricks.com/conditionally-styling-selected-elements-in-a-grid-container/"/>
@@ -149,16 +169,6 @@ Single Element Loaders: The Dots originally published on CSS-Tricks. You should 
 Conditionally Styling Selected Elements in a Grid Container originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Text Classification with TensorFlow]]></title>
-        <id>https://www.freecodecamp.org/news/text-classification-tensorflow/</id>
-        <link href="https://www.freecodecamp.org/news/text-classification-tensorflow/"/>
-        <updated>2022-06-15T14:01:18.000Z</updated>
-        <summary type="html"><![CDATA[Text classification algorithms are used in a lot of different software systems to help process text data. For example, when you get an email, the email software uses a text classification algorithm to decide whether to put it in your inbox or in your spam folder. It's also how discussion]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
