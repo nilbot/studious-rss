@@ -11,7 +11,7 @@
           "description": "Added: Resolve relative URLs in item link and media\nAdded: Item thumbnail fallback to channel thumbnail\nChore: Dependency updates\nThank you: @cpwnd",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0",
           "publishedOn": "2022-06-18T19:01:33.000Z",
-          "wordCount": 280,
+          "wordCount": 281,
           "title": "v1.15.0",
           "imageUrl": "https://opengraph.githubassets.com/ce00272fbcf40921811c2125a0228c3b60c8a0b083dbaf2601960d034cc3be27/osmoscraft/osmosfeed/releases/tag/v1.15.0"
         }
@@ -180,12 +180,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/06/things-to-know-earlier-in-your-career/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Do you feel stuck in your company? Do you believe you deserve a raise but it never happens? Do you think you might need to quit the job? Let’s figure it out. In this article, Vitaly looks at some things he wishes he’d known earlier in his career.",
+          "link": "https://smashingmagazine.com/2022/06/things-to-know-earlier-in-your-career/",
+          "publishedOn": "2022-06-21T13:00:00.000Z",
+          "wordCount": 4999,
+          "title": "Things I Wish I’d Known Earlier In My Career",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b3343c7d-ecdc-4fd6-a4c5-fb031f46aecf/goals-illu.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b3343c7d-ecdc-4fd6-a4c5-fb031f46aecf/goals-illu.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/06/precise-timing-web-animations-api/",
           "author": "hello@smashingmagazine.com (Kirill Myshkin)",
           "description": "In JavaScript, it’s natural to reach for timers when something is to happen on time. But when something is to happen at the exact moment because other things depend on it, you quickly learn timers are more of a problem than a solution. They are never on time, really. Web Animations API could eliminate the need for timers in certain cases while being precise.",
           "link": "https://smashingmagazine.com/2022/06/precise-timing-web-animations-api/",
           "publishedOn": "2022-06-20T09:00:00.000Z",
-          "wordCount": 5464,
+          "wordCount": 5466,
           "title": "Precise Timing With Web Animations API",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/942ab9f6-c68c-4eab-9dba-b98905b2b8b7/precise-timing-web-animations-api.jpg",
@@ -200,7 +215,7 @@
           "description": "In this article, Andrii shares his approach to managing tables in Figma in an easier, more streamlined way when there is a need to support different screen resolutions, change the order of columns, and use real-life content.",
           "link": "https://smashingmagazine.com/2022/06/easy-build-support-tables-figma/",
           "publishedOn": "2022-06-17T09:00:00.000Z",
-          "wordCount": 4593,
+          "wordCount": 4592,
           "title": "How To Easily Build And Support Tables In Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47932465-87b0-41aa-97c3-4a2690860dd8/easy-build-support-tables-figma.jpg",
@@ -215,7 +230,7 @@
           "description": "All the data in the world won’t do anyone any good if we can’t make sense of it. Or better yet, make it sing. Here are some stunning examples of data visualization in the wild, and some pointers on how to start making your own.",
           "link": "https://smashingmagazine.com/2022/06/web-design-done-well-delightful-data-visualization-examples/",
           "publishedOn": "2022-06-16T09:00:00.000Z",
-          "wordCount": 4144,
+          "wordCount": 4140,
           "title": "Web Design Done Well: Delightful Data Visualization Examples",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b1a5a7a-d478-4c0c-b4c8-782bf7fa7f42/web-design-done-well-delightful-data-visualization-examples.jpg",
@@ -290,7 +305,7 @@
           "description": "In this article, Thomas Bohm explains ways to test typefaces and other typographic issues. Though this article is slightly high-end and academic, fear not. The content will be interesting, especially for committed typeface designers and typographers. If you like complex issues and problems, this is for you.",
           "link": "https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part2/",
           "publishedOn": "2022-06-10T08:00:00.000Z",
-          "wordCount": 6584,
+          "wordCount": 6682,
           "title": "Measuring The Performance Of Typefaces For Users (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/22bde778-9f2e-45d3-97cd-ae5eedf4d0c0/measuring-performance-typaces-users-part2-card.jpg",
@@ -305,7 +320,7 @@
           "description": "This article explores the evolution and the future of frontend tooling, presenting a new set of tools featuring a change in paradigm, platform, or both.",
           "link": "https://smashingmagazine.com/2022/06/future-frontend-build-tools/",
           "publishedOn": "2022-06-09T09:00:00.000Z",
-          "wordCount": 4244,
+          "wordCount": 4236,
           "title": "The Future Of Frontend Build Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5e3cc4f1-5fa4-463b-97b6-581fd51b1ef0/future-frontend-tooling-v5-sharing-card.jpg",
@@ -335,7 +350,7 @@
           "description": "Computer technologies have simplified the process of recording historical events, technological breakthroughs, contemporary art, and everyday life. However, the notion of digital archiving can be deceptive. Often our technical footprints are carved in sand rather than stone.",
           "link": "https://smashingmagazine.com/2022/06/digital-museums-digital-history/",
           "publishedOn": "2022-06-07T09:30:00.000Z",
-          "wordCount": 4658,
+          "wordCount": 4657,
           "title": "Digital Museums For Digital History",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87001d28-4e45-46cd-8a5c-be63cc0a413c/digital-museums-digital-history.jpg",
@@ -350,7 +365,7 @@
           "description": "In this article, Sam Poder explores how Prisma integrates with the Jamstack and why it’s a great solution for Serverless databases in JavaScript or TypeScript-based projects.",
           "link": "https://smashingmagazine.com/2022/06/case-prisma-jamstack/",
           "publishedOn": "2022-06-06T09:00:00.000Z",
-          "wordCount": 4327,
+          "wordCount": 4321,
           "title": "The Case For Prisma In The Jamstack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/30c31583-7e46-4566-b2d3-bef54dd64152/case-prisma-jamstack.jpg",
@@ -365,7 +380,7 @@
           "description": "This is the first part of this article, written especially for typeface designers and typographers. See how typefaces work, how to test them, and other broader typographic issues.",
           "link": "https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part1/",
           "publishedOn": "2022-06-03T10:00:00.000Z",
-          "wordCount": 6599,
+          "wordCount": 6596,
           "title": "Measuring The Performance Of Typefaces For Users (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e5266a-c3c0-42f8-9d26-79a729c3db3f/measuring-performance-typaces-users-part1-card.jpg",
@@ -380,7 +395,7 @@
           "description": "In this tutorial, you will learn how to create a group chat app. You will build a backend app using Node.js that will make group chats, authorize chat participants, and maintain sessions for them.",
           "link": "https://smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/",
           "publishedOn": "2022-06-02T09:30:00.000Z",
-          "wordCount": 6543,
+          "wordCount": 6553,
           "title": "How To Build A Group Chat App With Vanilla JS, Twilio And Node.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fd5325c3-f376-4565-9ce4-a3798d7d33b3/build-group-chat-app-vanillajs-twilio-nodejs.jpg",
@@ -395,7 +410,7 @@
           "description": "In this article, Ken Harker explains what third-party resource requests really are and which common optimization strategies can help reduce the impact on the user experience. By carefully considering how third-party requests will fit into your website during the design stage, you’ll be able to avoid the most significant negative impacts.",
           "link": "https://smashingmagazine.com/2022/06/dont-sink-website-third-parties/",
           "publishedOn": "2022-06-01T10:00:00.000Z",
-          "wordCount": 6571,
+          "wordCount": 6665,
           "title": "Don’t Sink Your Website With Third Parties",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/65099ffa-f954-430f-992a-8078a8331802/dont-sink-website-third-parties.jpg",
@@ -410,7 +425,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2022/05/desktop-wallpaper-calendars-june-2022/",
           "publishedOn": "2022-05-31T12:30:00.000Z",
-          "wordCount": 5096,
+          "wordCount": 5000,
           "title": "Expand Your Horizons (June 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1c6a9a31-4619-4c93-b9ea-65b5f50082cd/june-22-create-your-own-path-preview-opt.png",
@@ -440,7 +455,7 @@
           "description": "How many browser DevTools panels do you commonly use in your day-to-day web development? One? Three? Probably not that many more. In this article, Patrick Brosset shines the spotlight on a number of tools that people don’t use or even know about. Let’s dive in!",
           "link": "https://smashingmagazine.com/2022/05/whats-that-dev-tool/",
           "publishedOn": "2022-05-30T13:30:00.000Z",
-          "wordCount": 5278,
+          "wordCount": 5271,
           "title": "What’s That (Dev) Tool?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6a1e15f7-a8bd-4593-b880-c9857e673516/whats-that-dev-tool.jpg",
@@ -455,7 +470,7 @@
           "description": "In this article, Vijay describes his learning experiences during the design stages of creating his 3dicons image library (a free library for product screens, social media posts and marketing campaigns), which you can download and use for free.",
           "link": "https://smashingmagazine.com/2022/05/3dicons-open-source-library-case-study-download/",
           "publishedOn": "2022-05-27T09:00:00.000Z",
-          "wordCount": 5012,
+          "wordCount": 5019,
           "title": "Open-Source 3dicons Library: Case Study And Free Downloads",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/af9b67f7-433c-421a-8fe6-14878b3f884d/3dicons-open-source-library-case-study-download.jpg",
@@ -470,7 +485,7 @@
           "description": "From working with design handoffs to supporting custom themes in a design system, the CSS `color-contrast()` function can become a cornerstone for developers by enforcing accessible UIs.",
           "link": "https://smashingmagazine.com/2022/05/accessible-design-system-themes-css-color-contrast/",
           "publishedOn": "2022-05-26T09:30:00.000Z",
-          "wordCount": 4831,
+          "wordCount": 4835,
           "title": "Manage Accessible Design System Themes With CSS Color-Contrast()",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1fd91360-3b48-4a72-9280-c778dc5dc53d/manage-accessible-design-system-themes-with-css-color-contrast-card-v2.jpg",
@@ -508,21 +523,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/69a59d30-3186-49e9-943d-a023f7bf1f29/developing-award-winning-onboarding-process-case-study.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/lesser-known-underused-css-features-2022/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "CSS is constantly evolving, and some cool and useful properties either go completely unnoticed or are not talked about as much as others for some reason or another. In this article, we’ll cover a fraction of those CSS properties and selectors.",
-          "link": "https://smashingmagazine.com/2022/05/lesser-known-underused-css-features-2022/",
-          "publishedOn": "2022-05-23T09:30:00.000Z",
-          "wordCount": 5739,
-          "title": "Lesser-Known And Underused CSS Features In 2022",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9c50c872-d96b-41ae-8289-25b78c7f279f/lesser-known-underused-css-features-2022.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9c50c872-d96b-41ae-8289-25b78c7f279f/lesser-known-underused-css-features-2022.jpg"
         }
       ]
     },
@@ -532,6 +532,96 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-recover-a-deleted-file-in-git/",
+          "author": "Zaira Hira",
+          "description": "Git is a version control system that helps you keep track of the changes in a project's life cycle. It preserves the history of the project and allows you and your team members to coordinate effectively throughout.  There could be situations where you deleted a file and you want",
+          "link": "https://www.freecodecamp.org/news/how-to-recover-a-deleted-file-in-git/",
+          "publishedOn": "2022-06-21T21:31:23.000Z",
+          "wordCount": 1309,
+          "title": "How to Recover a Deleted File in Git – Revert Changes After a Hard Reset",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-does-mvc-mean-in-computer-science/",
+          "author": "Kolade Chris",
+          "description": "MVC is an abbreviation that stands for Model, View, and Controller. This architectural pattern was created in the late 1970s for making desktop apps, but it is now widely used in web application development. In this article, I will dive deep into what MVC means alongside its 3 components, so",
+          "link": "https://www.freecodecamp.org/news/what-does-mvc-mean-in-computer-science/",
+          "publishedOn": "2022-06-21T21:09:46.000Z",
+          "wordCount": 1526,
+          "title": "MVC in Computer Science – The MVC Model",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-customize-bootstrap-with-sass/",
+          "author": "Vinod Mathew Sebastian",
+          "description": "Bootstrap is an awesome CSS framework that can help you create stylish and sleek websites.  Some developers and teams find that code written in Bootstrap is easier to maintain than regular CSS, so they prefer Bootstrap to vanilla CSS.  But if everyone used Bootstrap with its default styles,",
+          "link": "https://www.freecodecamp.org/news/how-to-customize-bootstrap-with-sass/",
+          "publishedOn": "2022-06-21T20:59:02.000Z",
+          "wordCount": 2309,
+          "title": "How to Customize Bootstrap with Sass",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/java-switch-statement-how-to-use-a-switch-case-in-java/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You use the switch statement in Java to execute a particular code block when a certain condition is met.  Here's what the syntax looks like: switch(expression) {   case 1:     // code block     break;   case 2:",
+          "link": "https://www.freecodecamp.org/news/java-switch-statement-how-to-use-a-switch-case-in-java/",
+          "publishedOn": "2022-06-21T17:39:06.000Z",
+          "wordCount": 1341,
+          "title": "Java Switch Statement – How to Use a Switch Case in Java",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/getting-started-with-rasa-with-studiolab-and-vscode/",
+          "author": "Sijil Salim",
+          "description": "Last week, I was excited to dive into chatbot development with the open-source framework Rasa [https://rasa.com/]. With Rasa, you get a ton of flexibility, from designing the conversation to developing the NLU logic to deployment.  But the \"Yay\" soon transformed into banging my head against a brick wall. The",
+          "link": "https://www.freecodecamp.org/news/getting-started-with-rasa-with-studiolab-and-vscode/",
+          "publishedOn": "2022-06-21T16:06:02.000Z",
+          "wordCount": 1599,
+          "title": "How to Set Up a Rasa Development Environment in Sagemaker Studiolab with VS Code",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-typescript-for-beginners/",
+          "author": "Emmanuel Ohans",
+          "description": "A few weeks ago, I published an Intermediate TypeScript and React Handbook [/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/]. It received many views and I got several emails. Most were “thank you” emails, but then there were others like: > “… I am new to programming, what is TypeScript?” And: > “Thanks for this free ebook,",
+          "link": "https://www.freecodecamp.org/news/what-is-typescript-for-beginners/",
+          "publishedOn": "2022-06-21T15:55:07.000Z",
+          "wordCount": 2263,
+          "title": "What is TypeScript? A Beginner's Guide",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-consume-rest-apis-in-react/",
+          "author": "Joel Olawanle",
+          "description": "React is a popular frontend library that developers use to create applications. And you will need to integrate APIs into your React application at some point if you want to build production-ready apps.  Every developer who wants to build modern, robust web applications with React must understand how to",
+          "link": "https://www.freecodecamp.org/news/how-to-consume-rest-apis-in-react/",
+          "publishedOn": "2022-06-21T15:35:38.000Z",
+          "wordCount": 3789,
+          "title": "How to Consume REST APIs in React – a Beginner's Guide",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/automate-your-life-with-python/",
+          "author": "Beau Carnes",
+          "description": "Think of the most boring task you’ve ever done. Chances are, you can automate it with Python! We just published a Python automation course on the freeCodeCamp.org YouTube channel. Frank Andrade created this course. Frank is a data scientist and experienced teacher. In this course you will learn how to",
+          "link": "https://www.freecodecamp.org/news/automate-your-life-with-python/",
+          "publishedOn": "2022-06-21T14:05:29.000Z",
+          "wordCount": 924,
+          "title": "Automate Your Life with Python",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/first-programming-language/",
+          "author": "Ophy Boamah",
+          "description": "As a code newbie, one of the most intimidating yet fundamental decisions to make is deciding which programming language to learn first.  There is a wide variety of languages, frameworks, and libraries that you'll easily find if you Google around. You'll agree though that wherever there are a lot",
+          "link": "https://www.freecodecamp.org/news/first-programming-language/",
+          "publishedOn": "2022-06-20T22:35:17.000Z",
+          "wordCount": 2142,
+          "title": "Which Programming Language Should You Learn First?",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/asynchronous-javascript-explained/",
           "author": "Njong Emy",
           "description": "If you've been learning JavaScript for a while now, then you've probably heard the term \"asynchronous\" before.  This is because JavaScript is an asynchronous language...but what does that really mean? In this article, I hope to show you that the concept is not as difficult as it sounds. Synchronous",
@@ -539,96 +629,6 @@
           "publishedOn": "2022-06-20T20:10:50.000Z",
           "wordCount": 2083,
           "title": "Asynchronous JavaScript – Callbacks, Promises, and Async/Await Explained",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/understand-call-apply-and-bind-in-javascript-with-examples/",
-          "author": "Keyur Paralkar",
-          "description": "In this article, I am going to explain how to use call, apply, and bind in JavaScript with simple examples.  We will also implement an example that showcases how you can create your own map function with the apply function. Without further ado, let's get started. Table of Contents",
-          "link": "https://www.freecodecamp.org/news/understand-call-apply-and-bind-in-javascript-with-examples/",
-          "publishedOn": "2022-06-20T18:25:02.000Z",
-          "wordCount": 2684,
-          "title": "How to Use the Call, Apply, and Bind Functions in JavaScript – with Code Examples",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-absolute-value-python-abs-tutorial/",
-          "author": "Dionysia Lemonaki",
-          "description": "In this article, you will learn all about the abs() function in Python. You will learn what the abs() function does and why you may want to use it. You will also understand how to use abs() with the help of practical examples. Here is what we will cover:",
-          "link": "https://www.freecodecamp.org/news/python-absolute-value-python-abs-tutorial/",
-          "publishedOn": "2022-06-20T15:55:24.000Z",
-          "wordCount": 1772,
-          "title": "Python Absolute Value – Python abs Tutorial",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-get-current-date-todays-date-in-js/",
-          "author": "Joel Olawanle",
-          "description": "When you're developing web applications, you might need to include the current date on which a particular operation is performed.  For example, when submitting data via a form, you may want to include the date that data was created or when the form was submitted. In this article, we",
-          "link": "https://www.freecodecamp.org/news/javascript-get-current-date-todays-date-in-js/",
-          "publishedOn": "2022-06-17T15:45:01.000Z",
-          "wordCount": 1390,
-          "title": "JavaScript Get Current Date – Today's Date in JS",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/html-arrow-symbol-unicode-for-single-and-double-arrows-left-and-right-arrows/",
-          "author": "Dillion Megida",
-          "description": "What are Unicodes? Unicodes are universal characters that represent different things. These could be symbols, characters, scripts, and many more forms of character combinations. Unicodes are adopted by many platforms (mobile and web) to make characters available everywhere. Why are Unicodes useful? Unicodes are useful because they provide a standard",
-          "link": "https://www.freecodecamp.org/news/html-arrow-symbol-unicode-for-single-and-double-arrows-left-and-right-arrows/",
-          "publishedOn": "2022-06-17T15:35:12.000Z",
-          "wordCount": 1169,
-          "title": "HTML Arrow – Symbol Unicode for Single and Double Arrows, Left and Right Arrows",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-visual-basic-net-full-course/",
-          "author": "Beau Carnes",
-          "description": "Did you know that Visual Basic is currently a more popular programming language than JavaScript? That is according to the TIOBE index [https://www.tiobe.com/tiobe-index/], which is one of the most respected indicators of the popularity of programming languages. Visual Basic is an object-oriented programming language developed by Microsoft. It makes it",
-          "link": "https://www.freecodecamp.org/news/learn-visual-basic-net-full-course/",
-          "publishedOn": "2022-06-17T14:24:49.000Z",
-          "wordCount": 944,
-          "title": "Learn Visual Basic (.NET) – Full Course",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/querying-like-an-sql-boss-in-google-sheets/",
-          "author": "Eamonn Cottrell",
-          "description": "I built a spreadsheet and wanted to display some of the data in a small table which would update based on the day of the week. After some digging, querying seemed the best option to pull this off. In this article, you'll learn several things about Google Sheets tables, functions,",
-          "link": "https://www.freecodecamp.org/news/querying-like-an-sql-boss-in-google-sheets/",
-          "publishedOn": "2022-06-16T16:32:35.000Z",
-          "wordCount": 1579,
-          "title": "How to Query Data in Google Spreadsheets",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/parking-lot-challenge-solved-in-javascript/",
-          "author": "Mihail Gaberov",
-          "description": "Have you heard about the Parking Lot challenge? If not, let me explain briefly. The Parking Lot is challenge where you are asked to write a class that manages an imaginary parking lot.  In this tutorial we will do that in JavaScript. And to make it a bit more",
-          "link": "https://www.freecodecamp.org/news/parking-lot-challenge-solved-in-javascript/",
-          "publishedOn": "2022-06-16T14:55:53.000Z",
-          "wordCount": 2499,
-          "title": "How to Solve the Parking Lot Challenge in JavaScript",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-foreach-js-array-for-each-example/",
-          "author": "Joel Olawanle",
-          "description": "When working with arrays, there will be times when you need to loop or iterate through the array's values in order to either output or manipulate them.  These arrays can hold any datatype, including objects, numbers, strings, and many others. In this article, we'll look at how you can",
-          "link": "https://www.freecodecamp.org/news/javascript-foreach-js-array-for-each-example/",
-          "publishedOn": "2022-06-16T14:52:20.000Z",
-          "wordCount": 2272,
-          "title": "JavaScript forEach() – JS Array For Each Loop Example",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-most-popular-coding-challenge-websites/",
-          "author": "Md. Fahim Bin Amin",
-          "description": "If you want to improve your analytical skills, there's no better way to do that than solving problems. If you are a programmer, then this is something you should do for yourself. Programmers need to deal with all sorts of problems almost every day. Most importantly, solving problems in an",
-          "link": "https://www.freecodecamp.org/news/the-most-popular-coding-challenge-websites/",
-          "publishedOn": "2022-06-15T22:23:18.000Z",
-          "wordCount": 4617,
-          "title": "The Most Popular Coding Challenge Websites",
           "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
         }
       ]
