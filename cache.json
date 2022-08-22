@@ -150,16 +150,6 @@
           "wordCount": 2196,
           "title": "Recreating MDN’s Truncated Text Effect",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367170"
-        },
-        {
-          "id": "https://css-tricks.com/?p=367003",
-          "author": "Obumuneme Nwabude",
-          "description": "URL Shorteners are tools we use to make links shorter than they actually are. With a URL Shortener, you can transform a long link (maybe for a registration form or article) into a shorter version.\nBehind the scenes, the long …\nWhy I Chose Angular to Build a URL Shortener originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/why-i-chose-angular-to-build-a-url-shortener/",
-          "publishedOn": "2022-07-22T14:00:19.000Z",
-          "wordCount": 3979,
-          "title": "Why I Chose Angular to Build a URL Shortener",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367003"
         }
       ]
     },
@@ -189,7 +179,7 @@
           "description": "React popularized context-propagation within applications with the context API. Evyatar Alush brings a brief intro to context propagation in JavaScript and how you can build React Context yourself.",
           "link": "https://smashingmagazine.com/2022/08/react-context-propagation-javascript/",
           "publishedOn": "2022-08-18T09:00:00.000Z",
-          "wordCount": 4627,
+          "wordCount": 4635,
           "title": "An Introduction To Context Propagation In JavaScript",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0e43048-1771-47ed-bb3b-be007358d056/react-context-propagation-javascript.jpg",
@@ -204,7 +194,7 @@
           "description": "With the “Back” button, users often get confused and frustrated. How to design a better back button UX and where to put those “Back” buttons in our interfaces.",
           "link": "https://smashingmagazine.com/2022/08/back-button-ux-design/",
           "publishedOn": "2022-08-16T09:00:00.000Z",
-          "wordCount": 4326,
+          "wordCount": 4329,
           "title": "Designing A Better Back Button UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa18317f-4169-4c0d-aeb5-0b8f8714ef1f/designing-better-back-button-ux.jpg",
@@ -219,7 +209,7 @@
           "description": "Christine highlights some of Figma’s features and possibilities to help you build a design that aligns with code as much as needed and improve your team work.",
           "link": "https://smashingmagazine.com/2022/08/everything-developers-must-know-about-figma/",
           "publishedOn": "2022-08-15T11:30:00.000Z",
-          "wordCount": 6098,
+          "wordCount": 6099,
           "title": "Everything Developers Must Know About Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57ba237f-8cb7-48aa-8538-93a3fe26d997/everything-developers-must-know-about-figma.jpg",
@@ -234,7 +224,7 @@
           "description": "The power of framework-specific UI libraries, such as Skeleton, can lead to more productivity using the combined ability of Svelte and Tailwind to build modern web-based apps.",
           "link": "https://smashingmagazine.com/2022/08/skeleton-svelte-tailwind-reactive-uis/",
           "publishedOn": "2022-08-12T08:00:00.000Z",
-          "wordCount": 4597,
+          "wordCount": 4588,
           "title": "Meet Skeleton: Svelte + Tailwind For Reactive UIs",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/beaede58-125c-47db-8c29-7af80ea35534/skeleton-svelte-tailwind-reactive-uis.jpg",
@@ -249,7 +239,7 @@
           "description": "In this article, the first part of “Databases for Front-end Developers” series, Atila Fassina helps you understand the concepts behind database architecture in order to use them reliably and sheds some light on serverless databases.",
           "link": "https://smashingmagazine.com/2022/08/databases-frontend-developers-rise-serverless-databases/",
           "publishedOn": "2022-08-11T08:00:00.000Z",
-          "wordCount": 3937,
+          "wordCount": 3936,
           "title": "Databases For Front-End Developers: The Rise Of Serverless Databases (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/37dc0212-cede-409c-9e35-612cb2a58332/databases-frontend-developers-rise-serverless-databases.jpg",
@@ -264,7 +254,7 @@
           "description": "Identify, compare, analyze and fix your Core Web Vitals scores to boost web performance of your sites. These tools will help you to do just that.",
           "link": "https://smashingmagazine.com/2022/08/core-web-vitals-tools-boost-performance/",
           "publishedOn": "2022-08-09T14:00:00.000Z",
-          "wordCount": 3779,
+          "wordCount": 3780,
           "title": "Core Web Vitals Tools To Boost Your Web Performance Scores",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a3b91182-5474-4e02-855c-30c0887948c1/core-web-vitals-tools-boost-performance.jpg",
@@ -294,7 +284,7 @@
           "description": "In this article, Catherine Houle and Ilknur Eren share how their organization “Understood” removes barriers for people who learn and think differently by combining accessibility and usability in their processes. They also cover basic steps on how to fix common accessibility issues.",
           "link": "https://smashingmagazine.com/2022/08/organization-improved-web-accessibility-case-study/",
           "publishedOn": "2022-08-08T11:00:00.000Z",
-          "wordCount": 4382,
+          "wordCount": 4378,
           "title": "How Our Organization Improved Web Accessibility (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c0fa2259-6850-4139-8e31-43832f2d1d9e/organization-improved-web-accessibility-case-study.jpg",
@@ -309,7 +299,7 @@
           "description": "How to improve authentication UX, with magic links, 2FA, better password recovery and relaxed rules for secure, accessible and usable passwords.",
           "link": "https://smashingmagazine.com/2022/08/authentication-ux-design-guidelines/",
           "publishedOn": "2022-08-04T13:30:00.000Z",
-          "wordCount": 4332,
+          "wordCount": 4335,
           "title": "Rethinking Authentication UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb887d40-c454-4b48-be73-44e903492deb/magic-links-authentication.jpg",
@@ -324,7 +314,7 @@
           "description": "We’re going to walk through how to migrate your site from jQuery to [React](/category/React) with [Next.js](/category/next.js). This will help with performance and the maintainability of your code.",
           "link": "https://smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
           "publishedOn": "2022-08-03T12:00:00.000Z",
-          "wordCount": 4537,
+          "wordCount": 4541,
           "title": "Migration From jQuery to Next.js: A Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6cee417f-9daf-47d5-957c-0299c43b292d/rewriting-a-jquery-site-to-nextjs-card.jpg",
@@ -354,7 +344,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for August 2022.",
           "link": "https://smashingmagazine.com/2022/07/desktop-wallpaper-calendars-august-2022/",
           "publishedOn": "2022-07-31T08:00:00.000Z",
-          "wordCount": 4530,
+          "wordCount": 4532,
           "title": "Memories Of August (2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec313af0-1806-4c89-b9dd-fd287cd5a3ff/aug-22-swimming-in-the-summer-preview-opt.png",
@@ -369,7 +359,7 @@
           "description": "Testing is not just about tools and processes. It’s about architecture. In this article, Noam Rosenthal will share his experience on how to organize testing and find the right balance between front-end and subsystems and between different strategies.",
           "link": "https://smashingmagazine.com/2022/07/testable-frontend-architecture/",
           "publishedOn": "2022-07-28T12:00:00.000Z",
-          "wordCount": 4646,
+          "wordCount": 4544,
           "title": "Testable Frontend: The Good, The Bad And The Flaky",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e8d419-abd0-4630-b0de-16991a961f26/testable-frontend-architecture.jpg",
@@ -384,7 +374,7 @@
           "description": "In this article, Olushuyi explores a mental model that helps you decide between the `` and `\n` elements when writing documents. You will explore how grouping content affects accessibility and how you can make it all count for users.",
           "link": "https://smashingmagazine.com/2022/07/article-section-elements-accessibility/",
           "publishedOn": "2022-07-25T14:30:00.000Z",
-          "wordCount": 9669,
+          "wordCount": 9565,
           "title": "&lt;article&gt; vs. &lt;section&gt;: How To Choose The Right One",
           "enclosure": {
             "url": "http://res.cloudinary.com/indysigner/image/upload/v1658760043/article-section-elements-accessibility_x3326s.jpg",
