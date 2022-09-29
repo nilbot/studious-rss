@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-28T00:09:41.437Z</id>
+    <id>urn:2022-09-29T00:10:29.496Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-28T00:09:41.437Z</updated>
+    <updated>2022-09-29T00:10:29.496Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Parameters vs Arguments in JavaScript – What's the Difference?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-the-difference-between-parameters-and-arguments-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-the-difference-between-parameters-and-arguments-in-javascript/"/>
+        <updated>2022-09-28T21:18:15.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript is one of the most popular programming languages out there for web development. The dynamic values passed in a JavaScript function can change when the function gets called in another location in the code. The keywords we use to name these data are parameters and arguments, but some developers]]></summary>
+        <author>
+            <name>Segun Ajibola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Code a 2D Game Using JavaScript, HTML, and CSS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-code-a-2d-game-using-javascript-html-and-css/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-code-a-2d-game-using-javascript-html-and-css/"/>
+        <updated>2022-09-28T19:29:45.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript can be a surprisingly good programming language to use for creating 2D games. Especially games you want to be playable on almost any device.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code a 2D game using JavaScript, HTML, CSS,]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIFs Without the .gif: The Most Performant Image and Video Options Right Now]]></title>
+        <id>https://css-tricks.com/?p=373484</id>
+        <link href="https://css-tricks.com/gifs-without-the-gif-the-most-performant-image-and-video-options-right-now/"/>
+        <updated>2022-09-28T13:09:11.000Z</updated>
+        <summary type="html"><![CDATA[So you want an auto-playing looping video without sound? In popular vernacular this is the very meaning of the word GIF. The word has stuck around but the image format itself is ancient and obsolete. Twitter, for example, has …
+GIFs Without the .gif: The Most Performant Image and Video Options Right Now originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ollie Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phone Numbers For Web Designers]]></title>
+        <id>https://smashingmagazine.com/2022/09/phone-numbers-web-designers/</id>
+        <link href="https://smashingmagazine.com/2022/09/phone-numbers-web-designers/"/>
+        <updated>2022-09-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The customer journey is not limited to a website alone. Simply by combining the world of website design and telephony, far better results can be obtained for your organization. And thanks to the similarities and mutual benefits, it is an easy step to take.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Onno Westra)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Test Your Express.js and Mongoose Apps with Jest and SuperTest]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-test-in-express-and-mongoose-apps/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-test-in-express-and-mongoose-apps/"/>
+        <updated>2022-09-27T23:26:16.000Z</updated>
+        <summary type="html"><![CDATA[Testing is a vital part of software development. The sooner you start testing, the better.  In this article, I'll show you how to write tests for your NodeJs/ExpressJS and MongoDB/Mongoose applications with Jest and Supertest. Let's get started First let's set up a demo Express.js app. Let's say we]]></summary>
+        <author>
+            <name>Rakesh Potnuru</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Node.js Server-Side JavaScript – What is Node Used For?]]></title>
         <id>https://www.freecodecamp.org/news/node-js-server-side-javascript-what-is-node-used-for/</id>
@@ -95,36 +146,6 @@ Named Element IDs Can Be Referenced as JavaScript Globals originally published o
         <summary type="html"><![CDATA[Time to learn how to use the operating system of the average hacker 🐧. In this article, we will take a little tour of:  * The Linux operating system  * Package management  * The Linux file structure  * The Command Line Interface And you get to]]></summary>
         <author>
             <name>Daniel Iwugo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript For loop – How to Loop Through an Array in JS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-loop-through-an-array-with-for-loop-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-loop-through-an-array-with-for-loop-in-javascript/"/>
-        <updated>2022-09-26T23:14:42.000Z</updated>
-        <summary type="html"><![CDATA[A loop is an instruction in computer programming that allows an application to repeat a process until a specific condition is met. For example, say you want to run through a list of names and output each name on your screen. If you didn't use a loop, you'd end up]]></summary>
-        <author>
-            <name>Dennis Temoye Charity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iteration in Golang – How to Loop Through Data Structures in Go]]></title>
-        <id>https://www.freecodecamp.org/news/iteration-in-golang/</id>
-        <link href="https://www.freecodecamp.org/news/iteration-in-golang/"/>
-        <updated>2022-09-26T22:44:22.000Z</updated>
-        <summary type="html"><![CDATA[In programming, iteration (commonly known as looping) is a process where a step is repeated n number of times until a specific condition is met. Just like every other programming language, Golang has a way of iterating through different data structures and data types like structs, maps, arrays, strings, and]]></summary>
-        <author>
-            <name>Ubaydah Abdulwasiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Serverless Logic with Azure Functions]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-serverless-logic-with-azure-functions/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-serverless-logic-with-azure-functions/"/>
-        <updated>2022-09-26T22:35:00.000Z</updated>
-        <summary type="html"><![CDATA[What is Serverless Computing? You can think of serverless computing as a function as a service, or a microservice that is hosted on a cloud platform.  In this setup, your business logic runs as functions, and you do not have to manually create or scale infrastructure. The cloud platform]]></summary>
-        <author>
-            <name>Salim Oyinlola</name>
         </author>
     </entry>
     <entry>
@@ -408,20 +429,6 @@ How I Made a Pure CSS Puzzle Game originally published on CSS-Tricks, which is p
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s New With Forms in 2022?]]></title>
-        <id>https://css-tricks.com/?p=372979</id>
-        <link href="https://css-tricks.com/whats-new-with-forms-in-2022/"/>
-        <updated>2022-09-08T13:12:51.000Z</updated>
-        <summary type="html"><![CDATA[Browsers are constantly adding new HTML, JavaScript and CSS features. Here are some useful additions to working with forms that you might have missed…
-requestSubmit()
-Safari 16 will be the final browser to add support for requestSubmit.
-Before we …
-What’s New With Forms in 2022? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ollie Williams</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[UX Checklists For Interface Designers]]></title>
         <id>https://smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/</id>
         <link href="https://smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/"/>
@@ -499,26 +506,6 @@ What’s New With Forms in 2022? originally published on CSS-Tricks, which is pa
         <summary type="html"><![CDATA[Let’s welcome September with some fresh desktop wallpapers. Designed by artists and designers from across the globe, they come in versions with and without a calendar for the month. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Improve And Measure Your Progress Learning Web Design]]></title>
-        <id>https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/</id>
-        <link href="https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/"/>
-        <updated>2022-08-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ever felt overwhelmed by the number of things you need to learn? Today, we look at how [Uxcel](https://uxcel.com/) eases this transition and approaches actively learning new skills to take our careers to the next level.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Shane Hudson)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Makes A Great Toggle Button? (Case Study, Part 2)]]></title>
-        <id>https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/</id>
-        <link href="https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/"/>
-        <updated>2022-08-29T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The problem of how to design an effective toggle button that shows the selected option clearly is a long-term open question among UI/UX designers. In this second part, Eduard Kuric explains a complex list of visual cues used by toggle buttons to communicate which of their options is active.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Eduard Kuric)</name>
         </author>
     </entry>
 </feed>
