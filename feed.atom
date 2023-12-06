@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-05T00:04:35.490Z</id>
+    <id>urn:2023-12-06T00:04:31.477Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-05T00:04:35.490Z</updated>
+    <updated>2023-12-06T00:04:31.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Certified Cloud Practitioner Study Course – Pass the Exam With This Free 14-Hour Course]]></title>
+        <id>https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/</id>
+        <link href="https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/"/>
+        <updated>2023-12-05T19:51:55.000Z</updated>
+        <summary type="html"><![CDATA[Passing the AWS Certified Cloud Practitioner Exam is one of the first steps to a career in cloud development. And freeCodeCamp just published a free 14-hour course that will help you prepare for the exam.  This exam mostly deals with cloud computing concepts. Even if you are new to]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keeping Time in C++: How to use the std::chrono API]]></title>
+        <id>https://www.freecodecamp.org/news/cpp-std-chrono-api/</id>
+        <link href="https://www.freecodecamp.org/news/cpp-std-chrono-api/"/>
+        <updated>2023-12-04T23:38:45.000Z</updated>
+        <summary type="html"><![CDATA[Keeping track of time is a very important aspect of computer programs. Some common use cases are:  * Measure/profile the performance of certain parts of code.  * Do work at certain periods of time, from within a program.   * Detect whether threads are in a deadlock]]></summary>
+        <author>
+            <name>Jayant Chowdhary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use React Hooks – useEffect, useState, and useContext Code Examples]]></title>
         <id>https://www.freecodecamp.org/news/react-hooks-useeffect-usestate-and-usecontext/</id>
@@ -106,16 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[API Documentation Best Practices Course]]></title>
-        <id>https://www.freecodecamp.org/news/api-documentation-best-practices-course/</id>
-        <link href="https://www.freecodecamp.org/news/api-documentation-best-practices-course/"/>
-        <updated>2023-11-30T16:17:38.000Z</updated>
-        <summary type="html"><![CDATA[Since APIs are the backbone of software development, effective API documentation is critical.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to write good documentation for APIs. You will learn how to craft, automate, and publish API documentation that is not only]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cold Days, Shining Lights (December 2023 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2023/11/desktop-wallpaper-calendars-december-2023/</id>
         <link href="https://smashingmagazine.com/2023/11/desktop-wallpaper-calendars-december-2023/"/>
@@ -123,16 +133,6 @@
         <summary type="html"><![CDATA[Could there be a better way to welcome the new month than with a collection of desktop wallpapers? We’ve got some eye-catching designs to sweeten up the last few weeks of the year and, if you’re celebrating, to get you in the holiday mood.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Logic in JavaScript – Operators, Conditions, Truthy/Falsy, and More]]></title>
-        <id>https://www.freecodecamp.org/news/logic-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/logic-in-javascript/"/>
-        <updated>2023-11-29T21:50:16.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is a versatile programming language that empowers developers to create dynamic and interactive web pages.  One of the foundational elements of JavaScript programming is the application of logical operations to make decisions and control program flow.  In this guide, we'll delve into the basics of logical operations]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
         </author>
     </entry>
     <entry>
